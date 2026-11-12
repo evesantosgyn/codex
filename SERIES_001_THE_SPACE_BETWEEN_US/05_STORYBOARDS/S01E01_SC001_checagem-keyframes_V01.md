@@ -34,3 +34,11 @@ Os dois plates vieram com os nomes **trocados**. Renomeados no repositório:
 | M2 | ✅ | |
 
 **Placar:** 12 aprovados · 4 retoques via "Editar" (C1, C2, DEEP, TELE) · MINI aceito como está
+
+## Rodada 2 (2026-11-12): retoques
+| Keyframe | Versão | Veredito | Observação |
+|---|---|---|---|
+| C2 | V02 | ✅ Aprovado | Relógio removido ✔. O cabelo tem reflexos quentes da golden hour, mas a base é castanho-escura |
+| DEEP | V02 | ✅ Aprovado | Trench no braço ✔ e bolsa no ombro ✔ |
+| C1 | V02 | ⚠️ 1 retoque | Fundo agora com pôr do sol ✔, mas a imagem foi **refeita** e o relógio passou para o **pulso direito** (a mão que mexe nas árvores) → remover o relógio |
+| TELE | V02 | ⚠️ 2 retoques | Trench no braço ✔, mas (1) o relógio está no **pulso direito** (a mão que aperta o botão) e (2) o **cabelo está acobreado/ruivo**, o mesmo defeito do vídeo antigo (L1) |
