@@ -1,0 +1,16 @@
+KF-PLATE-M | S01E01_SC001_KF-PLATE-M_V01.png | V01 | Plate de Maya; cenário vazio, maquete, mesa e luz de fim de tarde.
+KF-PLATE-C | S01E01_SC001_KF-PLATE-C_V01.png | V01 | Plate de Claire; arquitetura, recepção e iluminação quente preservadas.
+KF-TOP | S01E01_SC001_KF-TOP_V01.png | V01 | Vista superior da maquete; mão e miniárvores; luz golden hour.
+KF-INS-TREE | S01E01_SC001_KF-INS-TREE_V01.png | V01 | Macro da mão ajustando árvore; anéis e relógio; profundidade de campo rasa.
+KF-FOLDER-TOP | S01E01_SC001_KF-FOLDER-TOP_V02.png | V02 | Câmera vertical a 90 graus; mão empurra pasta preta; maquete, mesa e luz preservadas.
+KF-2S | S01E01_SC001_KF-2S_V03.png | V03 | Plano conjunto; identidades e figurinos de Claire e Maya corrigidos; maquete e pasta preservadas.
+KF-M1 | S01E01_SC001_KF-M1_V01.png | V01 | Maya em plano médio; cabelo curto ondulado, sardas, blazer; Claire desfocada e golden hour.
+KF-C1 | S01E01_SC001_KF-C1_V01.png | V01 | Claire concentrada na maquete; franja, acessórios dourados, blazer preto e luz quente.
+KF-MINI | S01E01_SC001_KF-MINI_V01.png | V01 | Perspectiva baixa entre árvores da maquete; Claire concentrada; luz golden hour.
+KF-RACK | S01E01_SC001_KF-RACK_V01.png | V01 | Árvore nítida no primeiro plano e Maya desfocada ao fundo; atenção à escala na animação.
+KF-C2 | S01E01_SC001_KF-C2_V01.png | V01 | Claire examinando pasta aberta; rosto, figurino, relógio e maquete preservados.
+KF-C3 | S01E01_SC001_KF-C3_V01.png | V01 | Close de reação contida de Claire; franja e acessórios; leve aquecimento acobreado pela luz.
+KF-EYES | S01E01_SC001_KF-EYES_V01.png | V01 | Close extremo dos olhos castanhos e franja; expressão contida; luz âmbar intensa.
+KF-DEEP | S01E01_SC001_KF-DEEP_V01.png | V01 | Claire se afasta rumo aos elevadores; Maya sentada; bolsa no ombro exige continuidade.
+KF-TELE | S01E01_SC001_KF-TELE_V01.png | V01 | Claire junto ao elevador; bolsa e relógio; botão iluminado com seta para cima.
+KF-M2 | S01E01_SC001_KF-M2_V01.png | V01 | Maya observa saída de Claire; sorriso afetuoso; maquete e pasta presentes; golden hour.
