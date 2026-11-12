@@ -87,3 +87,10 @@ Como a voz nasce junto com o vídeo, a identidade vocal é garantida por **clipe
 ❓ **A documentar:** modelo-base (ex.: SDXL, Flux…), onde treina e roda (ComfyUI?), quais personagens já têm LoRA, peso usado, palavra-gatilho, dataset (veio dos Identity Packs?) e versões.
 
 Regra do estúdio: **uma LoRA por personagem, versionada** (`claire_bennett_lora_v01`…). Rostos travados (Claire, Olivia) só mudam de LoRA com aprovação.
+
+## Ferramentas avaliadas e não adotadas
+
+### Pollo.ai — "Pollo Cinema 1.0" (avaliada em 2026-11-12, sem teste pago)
+- **Vista nos prints do responsável:** 4K, planos de 4–30 s, referência de imagem e de áudio, controles de cena (gênero, época, formato de câmera, lente, abertura, tamanho do plano, ângulo, movimento, iluminação). Custo: 42 créditos para 5 s em 480p.
+- **Pesquisa (fontes secundárias, 🔎):** nenhuma avaliação específica do Cinema 1.0. Sobre a plataforma Pollo em geral, as avaliações citam deriva de rosto, cintilação e luz inconsistente, e lip-sync "good enough". O uso comercial é contraditório entre as fontes: o plano gratuito tem marca d'água e não é monetizável.
+- **Decisão:** **não adotada agora.** Continuamos com o MiniMax H3, já validado na SC001. Reavaliar só para casos específicos (planos > 15 s ou finalização em 4K), com um teste único comparado a um plano já feito no H3. Se for adotada, as configurações de cena **não podem ficar em "Auto"**: viram um padrão fixo da série.
