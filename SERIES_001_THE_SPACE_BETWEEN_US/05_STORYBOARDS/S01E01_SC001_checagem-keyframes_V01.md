@@ -42,3 +42,5 @@ Os dois plates vieram com os nomes **trocados**. Renomeados no repositório:
 | DEEP | V02 | ✅ Aprovado | Trench no braço ✔ e bolsa no ombro ✔ |
 | C1 | V02 | ⚠️ 1 retoque | Fundo agora com pôr do sol ✔, mas a imagem foi **refeita** e o relógio passou para o **pulso direito** (a mão que mexe nas árvores) → remover o relógio |
 | TELE | V02 | ⚠️ 2 retoques | Trench no braço ✔, mas (1) o relógio está no **pulso direito** (a mão que aperta o botão) e (2) o **cabelo está acobreado/ruivo**, o mesmo defeito do vídeo antigo (L1) |
+
+**Decisão (V25):** os quatro retoques foram aceitos como estão. **Todos os 16 keyframes da SC001 estão aprovados.** Nota para a montagem: escurecer o cabelo de Claire na SH31.
