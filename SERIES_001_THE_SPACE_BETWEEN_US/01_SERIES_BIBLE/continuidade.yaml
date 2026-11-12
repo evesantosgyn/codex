@@ -45,7 +45,10 @@ personagens:
       SC003: "L1 sem o blazer (em casa)"
       SC004: "roupa de casa/pijama, sem maquiagem completa"
       SC006-SC009: "L5 camisa de seda preta + pantalona creme"
-    voz: "PENDENTE: Voice Identity Pack. Registro: controlado, seco, preciso; sarcasmo sem levantar a voz."
+    voz:
+      referencia: "06_GENERATED_ASSETS/VOICES/claire_bennett_voice-ref_v01.wav (SC001, 5,0–6,4 s; 1,4 s; 'I'm aware.')"
+      status: APROVADO (2026-11-12). Curto; ampliar com mais 1–2 falas limpas quando houver
+      registro: "controlado, seco, preciso; sarcasmo sem levantar a voz"
 
   olivia_hayes:
     status_visual: "ROSTO TRAVADO (2026-11-12); figurinos e looks APROVADOS como referência"
@@ -102,7 +105,10 @@ personagens:
     figurinos_por_cena:
       SC001: "blazer escuro liso (marrom/grafite) + blusa preta (FINAL, vídeo aprovado; substitui o tweed L1 nesta cena)"
       SC006-SC009: "L2 Minimalista preta"
-    voz: "PENDENTE: Voice Identity Pack. Registro: humor rápido, ironia carinhosa, confidente."
+    voz:
+      referencia: "06_GENERATED_ASSETS/VOICES/maya_reed_voice-ref_v01.wav (SC001, 2,0–4,0 s; 2,0 s; 'You know that's a tree, right?')"
+      status: APROVADO (2026-11-12). Curto; ampliar com mais 1–2 falas limpas quando houver
+      registro: "humor rápido, ironia carinhosa, confidente"
 
   june_park:
     status_visual: PROPOSTO

@@ -14,7 +14,7 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 - Prancha atualizada do escritório com as áreas da Planta A sobre a Planta B (opcional; a ficha já descreve em texto).
 - Sala de conferência da SC006 (pode ser a sala de reuniões de vidro da planta oficial).
 - Equipe de redevelopment da SC006: 2 figurantes sem referência visual.
-- Voice Identity Packs: ferramenta definida (**áudio nativo do MiniMax H3**). Falta: clipes de referência de Claire e Maya (extrair do vídeo da SC001 quando aprovado) e definir as vozes de Olivia (SC003) e June (SC005).
+- Voice Identity Packs: ferramenta definida (**áudio nativo do MiniMax H3**). ✅ Clipes de referência de **Claire** e **Maya** extraídos da SC001 (2026-11-12); são curtos (1,4 s e 2 s), então convém ampliá-los. Falta definir as vozes de **Olivia** (SC003) e **June** (SC005).
 
 ## Resolvidas
 
