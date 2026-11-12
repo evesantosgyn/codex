@@ -25,6 +25,8 @@ Legenda de status:
 | N12 | Olivia **sabia** que o estúdio era o de Claire antes de bater na porta, e não contou (P14) | APROVADO (2026-11-12) | Avaliação V3.1, C2 |
 | N13 | Claire mora no mesmo apartamento há mais de sete anos; Olivia conhece o prédio e o porteiro (P15) | APROVADO (2026-11-12) | Avaliação V3.1, C6 |
 | N14 | June Park conhece o segredo de Olivia | APROVADO (2026-11-12) | SC009 |
+| N17 | **SC002: decupagem V01 APROVADA** (23 planos, câmera estática, sem música até a batida, câmera dentro da geladeira na SH07) | APROVADO (2026-11-12) | Decupagem SC002 V01 |
+| N18 | **SC003: produção será refeita do zero** (keyframes e vídeo) com as regras L1–L8. **O roteiro da SC003 continua TRAVADO.** Os 18 keyframes antigos deixam de ser cânone | APROVADO (2026-11-12), **autorização explícita do responsável** para alterar o material travado | Pedido do responsável |
 | N16 | **SC001 APROVADA e FINALIZADA** com o vídeo de teste (`06_GENERATED_ASSETS/VIDEO/S01E01_SC001_TESTE-PRE-V3_V00.mp4`), sem regeneração. Falas conferidas pelo responsável: iguais ao roteiro. As divergências D1–D9 da análise ficam aceitas nesta cena e viram regra para as próximas | **TRAVADO** (2026-11-12) | Vídeo de teste |
 | N15 | Cold open de 15 s com keyframes travados da SC003, sem falas novas | APROVADO (2026-11-12) | Avaliação V3.1, R1 |
 | N11 | SC004: Claire abre o contato antigo de Olivia (número que nunca apagou), hesita e bloqueia a tela. Gesto mudo, sem fala nova | APROVADO (2026-11-12) | Escaleta V2.1 |
@@ -51,6 +53,7 @@ Legenda de status:
 | V09 | Claire: a **franja é nova**; há sete anos, cabelo longo e ondulado **sem franja** (fotos antigas, flashbacks) | APROVADO (2026-11-12) | P06 |
 | V10 | June Park, Character Identity Pack | PROPOSTO (sem conflitos abertos) | Prancha |
 | V11 | Figurino por dia do piloto (ver `continuidade.yaml → figurinos_por_cena`); June usa L3 na sexta para não repetir o verde-oliva utilitário de Olivia | APROVADO (2026-11-12) | Avaliação V3.1 |
+| V16 | Claire chega em casa na SC002 com o **trench preto (L3)**, molhado nos ombros | APROVADO (2026-11-12) | Decupagem SC002 |
 | V13 | **Geografia "as built" do escritório** (do vídeo da SC001) prevalece sobre a Planta B: a mesa de Maya fica **de frente para a recepção com logomarca e para os elevadores**; Claire senta-se do lado oposto, de costas para a recepção | APROVADO (2026-11-12) | Vídeo SC001 |
 | V14 | Maya, look de quinta-feira: blazer **escuro liso** (marrom/grafite) com blusa preta, como no vídeo, em vez do tweed L1 | APROVADO (2026-11-12) | Vídeo SC001 |
 | V15 | Claire: **bolsa preta grande de couro** passa a ser objeto fixo | APROVADO (2026-11-12) | Vídeo SC001 |
@@ -64,6 +67,7 @@ Legenda de status:
 | P-02 | ComfyUI como ferramenta de produção | APROVADO; workflows e modelos **PENDENTES** (P11) |
 | P-06 | **Vídeo: MiniMax H3 (Hailuo 3)** · **consistência de personagem: LoRA** por personagem | APROVADO (2026-11-12) |
 | P-09 | Referências de voz v01: Claire = SC001 5,0–6,4 s ("I'm aware."); Maya = SC001 2,0–4,0 s ("You know that's a tree, right?"). Em `06_GENERATED_ASSETS/VOICES/` | APROVADO (2026-11-12) |
+| P-11 | **Falas fora de quadro (V.O.)**: gerar no H3 planos-fonte da personagem falando, com a referência de voz, e usar só o áudio, com EQ de celular (P16) | APROVADO (2026-11-12) |
 | P-10 | Referências de voz **v02** (substituem a v01): Claire 5,6 s = SC001 5,0–6,4 + 9,55–11,15 + 13,0–15,0 s; Maya 6,85 s = SC001 2,0–4,0 + 7,0–9,5 + 11,2–12,95 s. Trechos indicados pelo responsável, ajustados aos cortes de plano | APROVADO (2026-11-12) |
 | P-08 | **Lições L1–L8** do teste da SC001 viram regras de produção do estúdio (`00_ESTUDIO/03_manual-producao-ia.md` §12 e `templates/checklist-pre-geracao.md`) | APROVADO (2026-11-12) |
 | P-07 | **Vozes: áudio nativo do MiniMax H3**; identidade vocal por clipes de referência (Voice Identity Pack, ver manual de ferramentas) | APROVADO (2026-11-12) |
@@ -76,6 +80,7 @@ Legenda de status:
 | Data | Decisão | Registrado por |
 |---|---|---|
 | 2026-11-12 | Base de conhecimento criada a partir da Ficha Técnica e do Histórico de Desenvolvimento | Showrunner GL AI |
+| 2026-11-12 | SC002 decupagem aprovada; P16 resolvida; SC003 terá produção refeita (roteiro segue travado); P12 dispensa os keyframes antigos | Showrunner GL AI |
 | 2026-11-12 | Voice Identity Pack v02 de Claire e Maya (trechos ampliados) | Showrunner GL AI |
 | 2026-11-12 | Voice Identity Pack v01 de Claire e Maya extraído da SC001 | Showrunner GL AI |
 | 2026-11-12 | SC001 aprovada e travada com o vídeo de teste; geografia "as built" do escritório; lições L1–L8 viram regras do estúdio | Showrunner GL AI |

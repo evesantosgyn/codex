@@ -10,17 +10,12 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 - Frameworks e prompts de execução existentes: **aguardando envio**.
 
 ### P12 — Materiais e referências ainda não recebidos
-- **Os 18 keyframes travados da Cena 003.** Necessários para: confirmar o lado da pinta e o braço da tatuagem de Olivia; o casaco úmido de Olivia; conferir se a geografia da entrada bate com a numeração corrigida do apartamento (P05).
+- ~~Os 18 keyframes travados da Cena 003~~: **dispensados** (N18: a produção da SC003 será refeita). Agora o lado da pinta, o braço da tatuagem e o casaco da Olivia serão **definidos na decupagem nova da SC003**.
+- **Look de Claire em casa** (tira o blazer ao chegar ou mantém): decidir antes dos keyframes da SC002 a partir da SH03.
 - Prancha atualizada do escritório com as áreas da Planta A sobre a Planta B (opcional; a ficha já descreve em texto).
 - Sala de conferência da SC006 (pode ser a sala de reuniões de vidro da planta oficial).
 - Equipe de redevelopment da SC006: 2 figurantes sem referência visual.
 - Voice Identity Packs: ferramenta definida (**áudio nativo do MiniMax H3**). ✅ Clipes de referência de **Claire** e **Maya** extraídos da SC001 (2026-11-12); ampliados na v02 (Claire 5,6 s; Maya 6,85 s). Falta definir as vozes de **Olivia** (SC003) e **June** (SC005).
-
-### P16 — Como gerar no H3 a fala de uma personagem fora de quadro (V.O.)
-- Na SC002 e na SC004, Maya só fala pelo telefone (V.O.). O áudio do H3 nasce junto com o vídeo de quem está em quadro.
-- Impacto: médio. O áudio da SC002 (SH13–SH18) e da SC004 depende disso.
-- **Recomendação:** gerar no H3 **planos-fonte de voz** de Maya: close neutro de Maya falando cada fala, com a referência `maya_reed_voice-ref_v02.wav`, num cenário neutro, com cuidado de figurino. Usar **só o áudio**; o vídeo é descartado. Na mixagem, aplicar EQ de alto-falante de celular. Os planos de Claire ouvindo são gerados **sem fala**.
-- Alternativa: uma ferramenta de voz separada (TTS) só para V.O. Exige escolher a ferramenta e conferir licença e semelhança com a voz do H3.
 
 ## Resolvidas
 
@@ -37,6 +32,7 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 | P09 | Semelhança com pessoas reais | Verificado pelo responsável. **Rostos de Claire e Olivia TRAVADOS** | 2026-11-12 |
 | P10 | Aprovações formais | **Aprovados**: conexão profissional (N05), roteiro (N08, agora V3.2), Maya e June recorrentes (N09) | 2026-11-12 |
 | P13 | Cronologia | **"It's Thursday"** na SC002: SC001–SC003 na quinta, SC004–SC009 na sexta | 2026-11-12 |
+| P16 | Fala fora de quadro (V.O.) | Planos-fonte no H3 com referência de voz; só o áudio, com EQ de celular | 2026-11-12 |
 | P14 | Olivia sabia que o estúdio era o de Claire? | **Sim.** Sabia antes de bater na porta e não contou | 2026-11-12 |
 | P15 | Claire já morava no apartamento há sete anos? | **Sim.** Olivia conhece o prédio e o porteiro | 2026-11-12 |
 | — | Gesto da SC004 (escaleta × roteiro) | **Entra como gesto mudo**: Claire abre o contato antigo de Olivia, hesita e bloqueia a tela | 2026-11-12 |

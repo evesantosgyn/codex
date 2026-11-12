@@ -1,6 +1,6 @@
 # S01E01 · SC002 — A PERFECTLY ORDINARY NIGHT · Decupagem V01
 
-**Status:** PROPOSTA (aguardando aprovação) · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-12
+**Status:** ✅ **APROVADA** (2026-11-12): todos os itens, inclusive a câmera na geladeira (SH07), o trench preto e a P16 · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-12
 **Duração do roteiro:** 1:25 · **Soma dos planos (montagem):** 1:26 · **23 planos, 2 eixos**
 **Ferramenta:** MiniMax H3 (gerações de 5 s no mínimo, cortadas na montagem) · LoRA de Claire · voz `claire_bennett_voice-ref_v02.wav`
 
