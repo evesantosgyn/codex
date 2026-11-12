@@ -58,6 +58,7 @@ Legenda de status:
 | V11 | Figurino por dia do piloto (ver `continuidade.yaml → figurinos_por_cena`); June usa L3 na sexta para não repetir o verde-oliva utilitário de Olivia | APROVADO (2026-11-12) | Avaliação V3.1 |
 | V18 | **Geladeira farta** (KF-INS-FRIDGE e C04): legumes crus, frutas e potes arrumados, nada pronto para comer. "A refrigerator full of ambition" = ingredientes saudáveis que ela nunca cozinha | APROVADO (2026-11-12) | Checagem SC002, D1 |
 | V19 | **Relógio de Claire no pulso ESQUERDO** daqui em diante. A SC001 (travada) mostra o pulso direito; divergência registrada e aceita (P17) | APROVADO (2026-11-12) | Checagem SC002, D2 |
+| V24 | SC001 **KF-MINI V01 aceito como está** (câmera entre as árvores da maquete, sem ângulo de baixo para cima; efeito de escala mais sutil) | APROVADO (2026-11-12) | Decisão do responsável |
 | V23 | **KF-INS-PHONE V02 mantido** com o cesto de arame dourado; divergência aceita em relação à tigela de bronze dos planos com Claire (V21 continua valendo para os planos abertos da ilha) | APROVADO (2026-11-12) | Decisão do responsável |
 | V22 | **KF-C01 V04 mantido com as chaves já no prato** e a **SH02 mantida** na sequência (o responsável aceita a pequena repetição) | APROVADO (2026-11-12) | Decisão do responsável |
 | V21 | Fruteira da ilha da cozinha: **tigela sólida de bronze** com maçãs verdes (C06, C07, C09) | APROVADO (2026-11-12) | Checagem SC002, rodada 2 |

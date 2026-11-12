@@ -24,7 +24,7 @@ Os dois plates vieram com os nomes **trocados**. Renomeados no repositório:
 | 2S | ✅ | Relógio no pulso esquerdo |
 | M1 | ✅ | |
 | **C1** | ⚠️ **Retoque** | Fundo **escuro e noturno** atrás de Claire, sem pôr do sol: é exatamente o defeito do vídeo antigo (L2) |
-| MINI | ✅ com ressalva | A câmera está entre as árvores, mas **não olha de baixo para cima**, e o efeito de Claire "gigante" ficou fraco. Aceitável; refazer é opcional |
+| MINI | ✅ **Aceito pelo responsável** (V24) | A câmera está entre as árvores, mas **não olha de baixo para cima**, e o efeito de Claire "gigante" ficou fraco. Aceitável; refazer é opcional |
 | RACK | ✅ | |
 | **C2** | ⚠️ **Retoque** | **Relógio no pulso direito** (a mão que segura a pasta, à esquerda do quadro) |
 | C3 | ✅ | |
@@ -33,4 +33,4 @@ Os dois plates vieram com os nomes **trocados**. Renomeados no repositório:
 | **TELE** | ⚠️ **Retoque** | Também **sem o trench no braço**. Ela está apertando o botão, do lado de fora do elevador; aceitável: na animação, ela diz a fala e entra |
 | M2 | ✅ | |
 
-**Placar:** 12 aprovados · 4 retoques via "Editar" (C1, C2, DEEP, TELE) · 1 refação opcional (MINI)
+**Placar:** 12 aprovados · 4 retoques via "Editar" (C1, C2, DEEP, TELE) · MINI aceito como está
