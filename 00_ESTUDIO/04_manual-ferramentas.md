@@ -12,7 +12,7 @@ Versão 0.1 · 2026-11-12 · **Em construção** (ver P11 em cada série)
 | Geração de vídeo | **MiniMax H3 (Hailuo 3)** | APROVADO |
 | Consistência de personagem | **LoRA** (por personagem) | APROVADO; modelo-base, onde roda e quais personagens já têm LoRA ❓ |
 | Imagens / keyframes | ❓ (provavelmente o mesmo ambiente das LoRAs) | A confirmar |
-| Voz / diálogo | ❓ áudio nativo do H3 ou ferramenta separada | A confirmar |
+| Voz / diálogo | **Áudio nativo do MiniMax H3** (gerado junto com o vídeo) | APROVADO (2026-11-12) |
 | Montagem | ❓ (candidatas: DaVinci Resolve, Premiere Pro) | A confirmar |
 | Legendas | ❓ (candidata: Whisper) | A confirmar |
 | Orquestração | ComfyUI (Bíblia V2.1) | APROVADO; workflows ❓ |
@@ -40,11 +40,23 @@ O padrão de campos (`templates/prompt-plano.md`) continua sendo a ficha de trab
 3. **Texto do prompt:** converter os campos num parágrafo em inglês, nesta ordem: *tamanho do plano e composição → quem está em quadro e onde → ação (uma só) → atuação facial → movimento de câmera (ou "static camera") → luz e cor → fala exata entre aspas, com quem fala → ambiência*. Deixar de fora do texto o que a imagem de entrada já garante (rosto, roupa, cenário): repetir descrição física pode puxar a identidade para longe da LoRA.
 4. **Restrições negativas:** escrever como frases positivas no texto ("the camera stays static", "her hair remains dark brown") se a plataforma usada não tiver campo de prompt negativo ❓.
 5. **Duração:** valores inteiros. A decupagem pode pedir 2–3 s, mas **o H3 gera no mínimo 4–5 s**: gerar no mínimo e **cortar na montagem**. Vantagem: sobra material para ajustar o timing da comédia.
-6. **Diálogo:** se as vozes vierem do áudio nativo do H3 ❓, a fala exata vai no prompt; se vierem de ferramenta separada, gerar sem fala e fazer o lip-sync depois.
+6. **Diálogo (decisão de 2026-11-12: áudio nativo do H3):** a fala exata do roteiro vai no prompt, entre aspas e atribuída a quem fala ("Claire says: …"). Nos planos com duas personagens, **uma fala por geração** sempre que possível.
+7. **Voz consistente:** usar os slots de **referência de áudio** (até 3) com o **clipe canônico de voz** de cada personagem em quadro (ver "Voice Identity Pack" abaixo). Sem referência, o H3 pode inventar uma voz diferente a cada plano.
 
 ### Riscos observados no teste da SC001 ✅
 - **Deriva de cor de cabelo** em planos de corpo inteiro e caminhada (Claire ficou acobreada). Mitigação: referência frontal da personagem + quadro anterior como referência; descrever "dark brown hair" no texto **só** nesses planos.
 - **Luz diferente entre plano e contraplano** (fundo noturno × pôr do sol). Mitigação: plate de locação único por eixo e correção de cor.
+
+## Voice Identity Pack (método com H3)
+Como a voz nasce junto com o vídeo, a identidade vocal é garantida por **clipes de referência**, não por um "ID de voz":
+
+1. Para cada personagem, escolher **2 a 3 falas aprovadas** (limpas, sem música, sem a outra personagem falando por cima), com ~5–10 s no total. Para Claire e Maya, a fonte é o **vídeo da SC001 já produzido**, depois de aprovado.
+2. Exportar como WAV em `06_GENERATED_ASSETS/VOICES/<personagem>_voice-ref_v01.wav` e registrar no `continuidade.yaml` (campo `voz`).
+3. Descrever o timbre por escrito (registro, ritmo, sotaque, textura) na ficha da personagem, para o caso de a referência falhar.
+4. Toda geração com fala usa a referência de quem fala. Voz que derivar = tomada rejeitada (mesma regra do rosto).
+5. **Olivia e June** ainda não têm voz definida: a primeira cena com fala de cada uma (SC003 para Olivia, SC005 para June) vai **fixar** a voz. Gerar e aprovar a voz antes de produzir a cena inteira.
+
+❓ A confirmar com o uso real: se a plataforma onde o H3 roda aceita referências de áudio para clonar a voz do clipe (as fontes secundárias citam "3 audio references", mas não descrevem a fidelidade).
 
 ## LoRA (consistência de personagem)
 ❓ **A documentar:** modelo-base (ex.: SDXL, Flux…), onde treina e roda (ComfyUI?), quais personagens já têm LoRA, peso usado, palavra-gatilho, dataset (veio dos Identity Packs?) e versões.

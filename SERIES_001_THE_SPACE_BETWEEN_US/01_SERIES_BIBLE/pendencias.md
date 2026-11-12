@@ -6,7 +6,7 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 
 ### P11 — Pipeline técnico (PARCIAL)
 - ✅ Vídeo: **MiniMax H3 (Hailuo 3)**. ✅ Consistência: **LoRA** por personagem (decisão de 2026-11-12; ver `00_ESTUDIO/04_manual-ferramentas.md`).
-- Falta: modelo-base das LoRAs e onde rodam; quais personagens já têm LoRA; ferramenta de imagem/keyframe; origem das vozes (áudio nativo do H3 ou outra); montagem; legendas; workflows do ComfyUI; se o 3868×2160 do teste veio de upscale.
+- Falta: modelo-base das LoRAs e onde rodam; quais personagens já têm LoRA; ferramenta de imagem/keyframe; origem das vozes ✅ (áudio nativo do H3); montagem; legendas; workflows do ComfyUI; se o 3868×2160 do teste veio de upscale.
 - Frameworks e prompts de execução existentes: **aguardando envio**.
 
 ### P12 — Materiais e referências ainda não recebidos
@@ -14,7 +14,7 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 - Prancha atualizada do escritório com as áreas da Planta A sobre a Planta B (opcional; a ficha já descreve em texto).
 - Sala de conferência da SC006 (pode ser a sala de reuniões de vidro da planta oficial).
 - Equipe de redevelopment da SC006: 2 figurantes sem referência visual.
-- Voice Identity Packs das quatro personagens.
+- Voice Identity Packs: ferramenta definida (**áudio nativo do MiniMax H3**). Falta: clipes de referência de Claire e Maya (extrair do vídeo da SC001 quando aprovado) e definir as vozes de Olivia (SC003) e June (SC005).
 
 ## Resolvidas
 

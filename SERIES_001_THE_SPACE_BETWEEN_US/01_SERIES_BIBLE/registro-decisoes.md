@@ -59,6 +59,7 @@ Legenda de status:
 | P-01 | Estratégia image-to-video com referências controladas | APROVADO (manual 02) |
 | P-02 | ComfyUI como ferramenta de produção | APROVADO; workflows e modelos **PENDENTES** (P11) |
 | P-06 | **Vídeo: MiniMax H3 (Hailuo 3)** · **consistência de personagem: LoRA** por personagem | APROVADO (2026-11-12) |
+| P-07 | **Vozes: áudio nativo do MiniMax H3**; identidade vocal por clipes de referência (Voice Identity Pack, ver manual de ferramentas) | APROVADO (2026-11-12) |
 | P-03 | Prioridade: Location Identity Pack do escritório de Claire | RECOMENDADO |
 | P-04 | Começar por prova de conceito → piloto → temporada | RECOMENDADO (manual 03) |
 | P-05 | Numeração de planos **recomeça em cada cena** (SH01, SH02…). Os SH29–SH34 das pranchas da SC001 serão renumerados na decupagem completa | APROVADO (2026-11-12) |
@@ -68,6 +69,7 @@ Legenda de status:
 | Data | Decisão | Registrado por |
 |---|---|---|
 | 2026-11-12 | Base de conhecimento criada a partir da Ficha Técnica e do Histórico de Desenvolvimento | Showrunner GL AI |
+| 2026-11-12 | P12 (vozes): áudio nativo do MiniMax H3, com método de Voice Identity Pack por clipes de referência | Showrunner GL AI |
 | 2026-11-12 | P11 parcialmente resolvida: vídeo no MiniMax H3, consistência por LoRA; criado `00_ESTUDIO/04_manual-ferramentas.md` | Showrunner GL AI |
 | 2026-11-12 | Revisão de continuidade do V3.1 aprovada integralmente: roteiro promovido a V3.2; P14 e P15 resolvidas; fatos de cânone, figurino por dia e cold open registrados | Showrunner GL AI |
 | 2026-11-12 | Resolvidas P01–P10 e P13: June 34; Maya arquiteta sênior + gerente, olhos verdes, cabelo no queixo; Planta B + rótulos da A; planta do apto corrigida em texto; franja nova da Claire; SH por cena; café "The Quiet Hour"; rostos de Claire e Olivia travados; N05, N08 e N09 aprovados; cronologia quinta/sexta; gesto da SC004. Roteiro promovido a V3.1 | Showrunner GL AI |
