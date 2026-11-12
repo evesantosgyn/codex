@@ -32,6 +32,24 @@ Versão 0.1 · 2026-11-12 · **Em construção** (ver P11 em cada série)
 
 Fontes (secundárias): [Artlist](https://help.artlist.io/hc/en-us/articles/38170376973853-MiniMax-H3-Hailuo-3) · [Runway](https://runway.com/product/models/minimax-h3) · [Morphic](https://morphic.com/resources/models/minimax-h3) · [ofox.ai](https://ofox.ai/docs/develop/models/hailuo)
 
+### Interface usada pelo estúdio (verificada por prints do responsável, 2026-11-12) ✅
+- **Menu de tarefa:** Modo agente · **Gerador de vídeo** · Gerador de imagens · **Gerador de áudio**.
+- **Modelo:** MiniMax-H3.
+- **Modo de referência do vídeo:**
+  - **Omni Reference**: sobe arquivos de referência (campo "Ref Video" e "Ref") e chama cada um no prompt com `@` (ex.: "referencie @video e troque o sujeito por @image").
+  - **Start & end frame**: primeiro quadro (e, opcionalmente, último quadro).
+- **Controles:** resolução (padrão 480p), duração (padrão 4s), proporção, custo em créditos por geração.
+- ❓ A confirmar: os nomes exatos das referências depois do upload (`@image1`? `@image`?), se o campo "Ref" aceita **áudio**, se Start & end frame aceita referências extras, e as resoluções disponíveis acima de 480p.
+
+### Qual modo usar em cada plano
+| Tipo de plano | Modo | Por quê |
+|---|---|---|
+| Plano **com fala** de personagem | **Omni Reference**, com keyframe (@image) + referência de rosto (@image) + voz (@audio, se aceitar) | É o único modo que leva referência de voz e de identidade junto |
+| Plano **sem fala** que precisa casar exatamente com o anterior ou o seguinte (junção entre cenas, caminhada até um ponto) | **Start & end frame** | Composição de início e fim garantidas |
+| **Inserts** sem rosto (chaves, celular, geladeira) | **Start & end frame**, só com o primeiro quadro | Fidelidade ao keyframe aprovado |
+| **V.O.** (personagem fora de quadro) | Testar o **Gerador de áudio** com a referência de voz; se não clonar a voz, usar planos-fonte no Omni Reference (P16) | Pode simplificar a P16 |
+| Testes | 480p | Economiza créditos; o **final** sai na maior resolução disponível |
+
 ### Como adaptar o padrão de prompt do estúdio ao H3
 O padrão de campos (`templates/prompt-plano.md`) continua sendo a ficha de trabalho. Na hora de gerar:
 
