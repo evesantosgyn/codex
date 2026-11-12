@@ -46,8 +46,9 @@ personagens:
       SC004: "roupa de casa/pijama, sem maquiagem completa"
       SC006-SC009: "L5 camisa de seda preta + pantalona creme"
     voz:
-      referencia: "06_GENERATED_ASSETS/VOICES/claire_bennett_voice-ref_v01.wav (SC001, 5,0–6,4 s; 1,4 s; 'I'm aware.')"
-      status: APROVADO (2026-11-12). Curto; ampliar com mais 1–2 falas limpas quando houver
+      referencia: "06_GENERATED_ASSETS/VOICES/claire_bennett_voice-ref_v02.wav (5,6 s = SC001 5,0–6,4 + 9,55–11,15 + 13,0–15,0 s, com 0,3 s de silêncio entre trechos)"
+      historico: "v01 = só 5,0–6,4 s"
+      status: APROVADO (2026-11-12)
       registro: "controlado, seco, preciso; sarcasmo sem levantar a voz"
 
   olivia_hayes:
@@ -106,8 +107,9 @@ personagens:
       SC001: "blazer escuro liso (marrom/grafite) + blusa preta (FINAL, vídeo aprovado; substitui o tweed L1 nesta cena)"
       SC006-SC009: "L2 Minimalista preta"
     voz:
-      referencia: "06_GENERATED_ASSETS/VOICES/maya_reed_voice-ref_v01.wav (SC001, 2,0–4,0 s; 2,0 s; 'You know that's a tree, right?')"
-      status: APROVADO (2026-11-12). Curto; ampliar com mais 1–2 falas limpas quando houver
+      referencia: "06_GENERATED_ASSETS/VOICES/maya_reed_voice-ref_v02.wav (6,85 s = SC001 2,0–4,0 + 7,0–9,5 + 11,2–12,95 s, com 0,3 s de silêncio entre trechos)"
+      historico: "v01 = só 2,0–4,0 s"
+      status: APROVADO (2026-11-12)
       registro: "humor rápido, ironia carinhosa, confidente"
 
   june_park:
