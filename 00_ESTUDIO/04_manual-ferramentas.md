@@ -38,7 +38,7 @@ Fontes (secundárias): [Artlist](https://help.artlist.io/hc/en-us/articles/38170
 - ✅ **Teste de áudio (2026-11-12, buzzy.now, MiniMax-H3 padrão, fluxo do agente com imagem + áudio ligados):** arquivo `SERIES_001.../06_GENERATED_ASSETS/VIDEO/TESTE_audio-voz_buzzy-H3_V01.mp4`.
   - **Não é o resultado B:** o áudio gerado não reproduz o arquivo de referência (correlação de forma de onda 0,09).
   - **Fala nova com o ritmo da frase pedida:** dois trechos de voz (0,45–1,05 s e 1,83–3,47 s) = "Excellent." … "A refrigerator full of ambition."
-  - ❓ **Falta o ouvido do responsável:** se a voz soa como a da Claire → resultado **A**.
+  - ✅ **Confirmado pelo responsável: a voz é a da Claire → RESULTADO A.** O H3 usa o áudio enviado como **amostra de voz** e gera a fala nova pedida no prompt.
   - Imagem: rosto, franja, batom e cor do cabelo fiéis; câmera estática obedecida. **Problemas técnicos:** saída em **1120 × 480 (21:9)**, não 16:9 → sempre conferir a proporção; **24 fps** (a SC001 está em 30 fps → conformar na montagem); chuva não visível nas janelas.
 - **Menu de tarefa:** Modo agente · **Gerador de vídeo** · Gerador de imagens · **Gerador de áudio**.
 - **Modelo:** MiniMax-H3.
