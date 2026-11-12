@@ -1,7 +1,7 @@
 # Pacote ChatGPT — S01E01 · SC002
 
 > **Uso:** num chat novo do ChatGPT, cole primeiro `00_ESTUDIO/briefing-chatgpt-keyframes.md`. Depois cole **tudo abaixo da linha**, com as imagens R1–R4 anexadas.
-> ⚠️ **Antes de colar:** troque `{HOME_LOOK}` (seção 3) pela decisão sobre o blazer. Se ainda não houver decisão, gere só as etapas A e B.
+> Look de casa definido (2026-11-12): **Claire tira o blazer** ao chegar.
 
 ---
 
@@ -27,9 +27,7 @@
 - **Acessórios-assinatura (sempre):** argolas douradas pequenas; colar duplo dourado (um pingente pequeno vermelho-escuro e um pingente redondo); relógio de mostrador branco com **pulseira preta**; anéis finos dourados.
 - **Look desta cena:**
   - **Ao chegar (KF-C01):** trench coat **preto**, com os **ombros escurecidos pela chuva**, por cima de roupa preta de alfaiataria; **bolsa grande de couro preto** no ombro.
-  - **Depois de pendurar o casaco (KF-C02 em diante):** `{HOME_LOOK}`
-    - se ela **tira o blazer**: *a fitted black long-sleeve top, no blazer*
-    - se ela **mantém o blazer**: *a black tailored blazer over a black top*
+  - **Depois de pendurar o casaco (KF-C02 em diante):** **blusa preta justa de manga longa, sem blazer** (ela pendura o blazer junto com o casaco). Mesmos acessórios, mesma calça preta.
 - Maya **não aparece** nesta cena (é só a voz no telefone).
 
 ## 4. Cenário, luz e clima
@@ -63,15 +61,15 @@
 | ID | Prompt |
 |---|---|
 | **KF-C01** | The woman from the reference images, stepping through her front door into a dim elegant apartment entrance at night and closing the door behind her; she wears a black trench coat with rain-darkened shoulders over black tailored clothes, a large black leather bag on her shoulder; ends of her dark-brown wavy hair slightly damp. Wide shot from inside; the console table, round mirror and red branches beside her. Warm amber lamp light. Calm, tired, composed. 16:9, 35mm. |
-| **KF-C02** | The same woman at the apartment entrance at night, hanging her damp black trench coat on a black wall hook beside the door; she now wears `{HOME_LOOK}`. Medium shot, warm amber light. 16:9, 50mm. |
-| **KF-C03** | Wide shot from behind: the same woman, wearing `{HOME_LOOK}`, walking away from camera along the wall of a large elegant apartment toward a white marble kitchen island; floor-to-ceiling rain-streaked windows ahead with the blue Manhattan skyline. Her hair is dark brown, long and wavy. Small in the frame, alone. Warm amber pendants, cool blue window light. 16:9, 24mm. |
-| **KF-C04** | Medium shot from inside an open refrigerator looking out, framed by shelves with sparkling water bottles: the same woman, wearing `{HOME_LOOK}`, looks in; cold white fridge light on her face, the warm amber kitchen behind her. Neutral, evaluating expression. 16:9, 28mm. |
+| **KF-C02** | The same woman at the apartment entrance at night, hanging her damp black trench coat and her black blazer together on a black wall hook beside the door; she now wears a fitted black long-sleeve top, no blazer. Medium shot, warm amber light. 16:9, 50mm. |
+| **KF-C03** | Wide shot from behind: the same woman, wearing a fitted black long-sleeve top, no blazer, walking away from camera along the wall of a large elegant apartment toward a white marble kitchen island; floor-to-ceiling rain-streaked windows ahead with the blue Manhattan skyline. Her hair is dark brown, long and wavy. Small in the frame, alone. Warm amber pendants, cool blue window light. 16:9, 24mm. |
+| **KF-C04** | Medium shot from inside an open refrigerator looking out, framed by shelves with sparkling water bottles: the same woman, wearing a fitted black long-sleeve top, no blazer, looks in; cold white fridge light on her face, the warm amber kitchen behind her. Neutral, evaluating expression. 16:9, 28mm. |
 | **KF-C05** | Medium close-up of the same woman lit by cold white refrigerator light, warm kitchen behind her, studying the contents with a perfectly straight face and a dry flicker of self-irony. 16:9, 50mm. |
-| **KF-C06** | Medium shot of the same woman, wearing `{HOME_LOOK}`, standing at the white marble kitchen island at night, a phone on the counter in front of her; behind her floor-to-ceiling rain-streaked windows and the blue Manhattan skyline; three amber pendants above. Composed. 16:9, 35mm. |
+| **KF-C06** | Medium shot of the same woman, wearing a fitted black long-sleeve top, no blazer, standing at the white marble kitchen island at night, a phone on the counter in front of her; behind her floor-to-ceiling rain-streaked windows and the blue Manhattan skyline; three amber pendants above. Composed. 16:9, 35mm. |
 | **KF-C07** | Medium close-up of the same woman at the marble kitchen island at night, looking down at a phone on the counter, listening. Warm amber pendant light on her face, blue rain-blurred city bokeh behind. Dry, guarded expression. 16:9, 50mm. |
 | **KF-C08** | Close-up of the same woman, chin slightly raised, perfectly dignified and faintly absurd. Warm amber light, blue bokeh behind. 16:9, 85mm. |
 | **KF-C09** | Medium close-up of the same woman at the marble island holding a glass of water, frozen mid-motion, eyes turned toward the left side of the frame (toward the apartment entrance). Warm amber light. 16:9, 50mm. |
-| **KF-C10** | Wide shot from the kitchen looking down the length of the apartment toward the dark front door at the far end, the console lamp glowing beside it: the same woman, wearing `{HOME_LOOK}`, walks away from camera toward the door. Her hair is dark brown, long and wavy. Rain reflections on the dark wood floor. 16:9, 28mm. |
+| **KF-C10** | Wide shot from the kitchen looking down the length of the apartment toward the dark front door at the far end, the console lamp glowing beside it: the same woman, wearing a fitted black long-sleeve top, no blazer, walks away from camera toward the door. Her hair is dark brown, long and wavy. Rain reflections on the dark wood floor. 16:9, 28mm. |
 
 ### Etapa D — Junção com a SC003
 **Não gerar neste chat.** O último quadro desta cena (porta ao fundo) será desenhado junto com o primeiro quadro da SC003, no pacote da SC003.
@@ -79,6 +77,6 @@
 ## 6. Critérios de aprovação desta cena
 - Cabelo **castanho-escuro** em todas as imagens (atenção redobrada em KF-C01, KF-C03 e KF-C10); franja presente.
 - Rosto igual a R2; batom vinho; argolas, colar duplo e relógio de pulseira preta sempre visíveis quando o enquadramento mostrar.
-- Trench molhado só em KF-C01; `{HOME_LOOK}` de KF-C02 em diante, sem variar.
+- Trench molhado só em KF-C01; blusa preta de manga longa, **sem blazer**, de KF-C02 em diante, sem variar.
 - Mesmo apartamento e a mesma noite de chuva em tudo; luz fria só dentro da geladeira.
 - Telas de celular brancas e sem texto; nenhuma outra pessoa; nenhum logo.

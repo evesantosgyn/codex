@@ -53,6 +53,7 @@ Legenda de status:
 | V09 | Claire: a **franja é nova**; há sete anos, cabelo longo e ondulado **sem franja** (fotos antigas, flashbacks) | APROVADO (2026-11-12) | P06 |
 | V10 | June Park, Character Identity Pack | PROPOSTO (sem conflitos abertos) | Prancha |
 | V11 | Figurino por dia do piloto (ver `continuidade.yaml → figurinos_por_cena`); June usa L3 na sexta para não repetir o verde-oliva utilitário de Olivia | APROVADO (2026-11-12) | Avaliação V3.1 |
+| V17 | Claire **em casa** (SC002 depois de pendurar o casaco e SC003): **sem blazer**, de blusa preta justa de manga longa, mesma calça e mesmos acessórios. Pendura blazer e trench juntos ao chegar | APROVADO (2026-11-12) | Decisão do responsável |
 | V16 | Claire chega em casa na SC002 com o **trench preto (L3)**, molhado nos ombros | APROVADO (2026-11-12) | Decupagem SC002 |
 | V13 | **Geografia "as built" do escritório** (do vídeo da SC001) prevalece sobre a Planta B: a mesa de Maya fica **de frente para a recepção com logomarca e para os elevadores**; Claire senta-se do lado oposto, de costas para a recepção | APROVADO (2026-11-12) | Vídeo SC001 |
 | V14 | Maya, look de quinta-feira: blazer **escuro liso** (marrom/grafite) com blusa preta, como no vídeo, em vez do tweed L1 | APROVADO (2026-11-12) | Vídeo SC001 |
@@ -81,6 +82,7 @@ Legenda de status:
 | Data | Decisão | Registrado por |
 |---|---|---|
 | 2026-11-12 | Base de conhecimento criada a partir da Ficha Técnica e do Histórico de Desenvolvimento | Showrunner GL AI |
+| 2026-11-12 | Look de Claire em casa: sem blazer (V17) | Showrunner GL AI |
 | 2026-11-12 | Keyframes passam a ser feitos no ChatGPT (um chat por cena); criados o briefing fixo, o template de pacote e o pacote da SC002 | Showrunner GL AI |
 | 2026-11-12 | SC002 decupagem aprovada; P16 resolvida; SC003 terá produção refeita (roteiro segue travado); P12 dispensa os keyframes antigos | Showrunner GL AI |
 | 2026-11-12 | Voice Identity Pack v02 de Claire e Maya (trechos ampliados) | Showrunner GL AI |
