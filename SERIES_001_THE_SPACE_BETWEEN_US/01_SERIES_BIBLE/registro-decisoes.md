@@ -59,6 +59,7 @@ Legenda de status:
 | V11 | Figurino por dia do piloto (ver `continuidade.yaml → figurinos_por_cena`); June usa L3 na sexta para não repetir o verde-oliva utilitário de Olivia | APROVADO (2026-11-12) | Avaliação V3.1 |
 | V18 | **Geladeira farta** (KF-INS-FRIDGE e C04): legumes crus, frutas e potes arrumados, nada pronto para comer. "A refrigerator full of ambition" = ingredientes saudáveis que ela nunca cozinha | APROVADO (2026-11-12) | Checagem SC002, D1 |
 | V19 | **Relógio de Claire no pulso ESQUERDO** daqui em diante. A SC001 (travada) mostra o pulso direito; divergência registrada e aceita (P17) | APROVADO (2026-11-12) | Checagem SC002, D2 |
+| V29 | **KF-O1 V01 da SC003 aprovado:** é a primeira imagem canônica de Olivia na série e passa a ser a **referência de identidade dela em vídeo** (`olivia_ref-SC003_KF-O1.png`) | APROVADO (2026-11-12) | Checagem SC003 |
 | V26 | **Olivia na SC003 (e no cold open):** casaco longo de lã verde-oliva escuro, ombros molhados; suéter de tricô marrom; cabelo loiro-escuro solto, ondulado, pontas úmidas; maquiagem mínima; sem bolsa de câmera | APROVADO (2026-11-12) | Decupagem SC003 |
 | V27 | **Marcas fixas de Olivia:** pinta logo abaixo do lábio inferior, do **lado esquerdo dela**; tatuagem de câmera em traço fino no **antebraço interno esquerdo** | APROVADO (2026-11-12) | Prancha + decisão |
 | V28 | **Voz de Olivia:** americana, médio-grave, levemente rouca, calorosa, sem pressa; referência a criar no Gerador de áudio do buzzy (`olivia_hayes_voice-ref_v01.wav`) | APROVADO (2026-11-12) | Decupagem SC003 |
