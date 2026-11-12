@@ -50,12 +50,21 @@ Claire tinha **28** anos e Olivia **26**.
 
 Sete anos depois, o empreendimento original entra numa nova fase: parte da estrutura vira um **espaço cultural e comunitário**. Olivia é convidada a produzir um documentário sobre a história do lugar (moradores, comerciantes, mudanças urbanas). Aceita porque considera importante concluir o trabalho que começou, e porque sabe que Claire continua em Manhattan.
 
+**Olivia sabia que o estúdio era o de Claire** (decisão P14, 2026-11-12). Ao assumir o documentário, descobriu que o Claire Bennett Architecture Studio assina a nova fase do empreendimento. Foi à porta de Claire na noite anterior à primeira reunião para não reencontrá-la pela primeira vez numa sala de trabalho. **Não contou isso na porta**: é uma segunda omissão, menor, que ecoa a falha central (decidir sozinha o que Claire deve saber). Claire descobre ao ver o slide (SC006) e entende que o reencontro **não foi casual**. É material para o EP02 ("Did you know?").
+
 Olivia **não volta com um plano de reconquista**. Volta para trabalhar e, ao perceber que talvez possa reencontrar Claire, decide finalmente procurá-la. Na porta do apartamento (SC003) ela não busca um favor profissional: quer enfrentar a conversa da qual fugiu por sete anos.
 
 > CLAIRE: "And you thought you could just show up?"
 > OLIVIA: "No. I thought you'd close the door."
 
 A fala ganha uma camada nova: Olivia sabe que Claire tem motivos para não querer vê-la.
+
+## O apartamento (decisão P15, 2026-11-12)
+Claire **já morava no mesmo apartamento há sete anos**. Olivia conhece o prédio, e o porteiro antigo ainda a reconhece, por isso ela sobe e bate direto na porta (SC003). O espaço guarda a história das duas: a parede de fotos do ateliê, o número de Olivia que Claire nunca apagou (SC004). Isso alimenta o EP03, "The Things We Kept".
+
+## Quem sabe o segredo
+- **June Park conhece o segredo** de Olivia (SC009: "Is that the one?" / "Does Claire know?"), como colega de documentário desde a partida.
+- Claire não sabe. Maya não sabe.
 
 ## Regra de revelação
 

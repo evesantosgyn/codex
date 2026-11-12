@@ -1,19 +1,45 @@
 # THE SPACE BETWEEN US
 ## Episode 01 — THE RETURN
-**Season 1 | Pilot | Screenplay V3.1**
+**Season 1 | Pilot | Screenplay V3.2**
 
 **Genre:** Sapphic Romantic Comedy / Drama
 **Language:** English
-**Estimated runtime:** 14 minutes, 30 seconds
+**Estimated runtime:** 14 minutes, 47 seconds
 
 > **Status:** APROVADO (2026-11-12). **SCENE 003 is LOCKED**: falas, ações e encerramento não podem mudar.
 > Base: Screenplay V3.0, transcrito de `00_ESTUDIO/fontes/historico-desenvolvimento-serie.pdf`.
+>
+> **Changelog V3.1 → V3.2 (revisão de continuidade aprovada em 2026-11-12; ver `S01E01_THE-RETURN_V3.1_avaliacao_2026-11-12.md`):**
+> - COLD OPEN (R1): 15 s pré-título montados com keyframes travados da SC003, sem falas novas.
+> - SC002 (C3): "Wednesday." → "Monday."
+> - SC004 (C4): ação do café corrigida; (C7) insert da sacola do delivery intacta.
+> - SC006 (C5): "here this afternoon" → "should be here any minute".
+> - SC007 (C1): abertura reescrita. Maya já sabe quem é Olivia desde a SC004, então a cena confirma em vez de revelar.
 >
 > **Changelog V3.0 → V3.1 (decisões de 2026-11-12):**
 > - SC001: Maya passa a ser "senior architect who manages the firm's projects" (P02).
 > - SC002: "It's Friday" → "It's Thursday" (P13). SC001–SC003 acontecem na quinta; SC004–SC009 na sexta.
 > - SC004: entra um gesto mudo, sem fala nova: Claire abre o contato de Olivia e desiste (escaleta V2.1).
 > - SC005: June Park, 35 → 34 (P01).
+
+---
+
+### COLD OPEN
+**INT. CLAIRE'S BUILDING — HALLWAY — NIGHT**
+
+*Estimated duration: 0:15 · pré-título · montado SOMENTE com keyframes travados da SC003, sem falas e sem ações novas*
+
+Rain streaks a window at the end of the hallway.
+
+A damp coat. A hand rising toward a dark wooden door.
+
+Olivia, standing still, gathering the courage to knock.
+
+**CUT TO BLACK.**
+
+**TITLE: THE SPACE BETWEEN US**
+
+> Regra: o cold open antecipa imagens da SC003 sem mostrar a porta se abrindo nem o rosto de Claire. A SC003 permanece integral e inalterada.
 
 ---
 
@@ -202,7 +228,7 @@ Recently.
 Claire.
 
 **CLAIRE**
-Wednesday.
+Monday.
 
 **MAYA (V.O.)**
 It's Thursday.
@@ -396,7 +422,7 @@ That's a very invasive question.
 **MAYA (V.O.)**
 So, none.
 
-Claire pours coffee into a cup.
+Claire sets a cup near the spout without looking and starts the machine.
 
 **MAYA (V.O.)**
 Are you okay?
@@ -440,9 +466,11 @@ I was busy being shocked.
 **MAYA (V.O.)**
 Fair.
 
-Claire takes a sip of coffee and grimaces.
+Claire lifts the cup. Barely a sip in it. She grimaces.
 
 She has forgotten to put the cup under the machine correctly. Most of the coffee is on the counter.
+
+Beside the spill: last night's delivery bag. Still sealed. Untouched.
 
 **MAYA (V.O.)**
 You're going to be late.
@@ -462,8 +490,6 @@ I hate you.
 Love you too.
 
 **CUT TO:**
-
-> Nota de continuidade: Claire "pours coffee into a cup" e depois descobre que a xícara estava mal posicionada. A ação precisa ser encenada de modo que as duas coisas sejam compatíveis (ex.: ela serve sem olhar, distraída).
 
 ---
 
@@ -635,7 +661,7 @@ Wonderful.
 Her tone suggests otherwise.
 
 **MAYA**
-The production team is here this afternoon.
+The production team should be here any minute.
 
 Maya changes the slide.
 
@@ -706,7 +732,7 @@ Claire stands by the window, arms crossed, staring out at Manhattan.
 Maya approaches.
 
 **MAYA**
-You know her.
+Olivia Hayes.
 
 **CLAIRE**
 I know a lot of people.
@@ -723,12 +749,12 @@ Claire.
 Claire turns.
 
 **CLAIRE**
-She's my ex.
+Yes. That Olivia.
 
 Maya waits.
 
 **CLAIRE**
-The ex.
+The one from last night.
 
 **MAYA**
 Oh.
@@ -1065,7 +1091,7 @@ Olivia closes the folder.
 ---
 
 *THE SPACE BETWEEN US — EPISODE 01: THE RETURN*
-*Screenplay V3.1 — Approved*
+*Screenplay V3.2 — Approved*
 
 ---
 
@@ -1073,16 +1099,17 @@ Olivia closes the folder.
 
 | Cena | Título | Local / período | Duração prevista |
 |---|---|---|---|
+| COLD OPEN | (keyframes SC003) | Hall do prédio, noite | 0:15 |
 | SC001 | Everything Under Control | Escritório, fim de tarde | 1:35 |
 | SC002 | A Perfectly Ordinary Night | Apartamento, noite | 1:25 |
 | SC003 🔒 | The Return | Apartamento, noite | 2:30 |
-| SC004 | The Morning After | Apartamento, manhã | 1:15 |
+| SC004 | The Morning After | Apartamento, manhã | 1:17 |
 | SC005 | The Woman Who Came Back | Café, manhã | 1:35 |
 | SC006 | Professional Boundaries | Escritório, dia | 1:45 |
 | SC007 | Strictly Professional | Escritório, dia | 1:25 |
 | SC008 | The First Rule | Escritório, mais tarde | 1:45 |
 | SC009 | This Changes Nothing | Escritório, noite | 1:15 |
-| **Total** | | | **14:30** |
+| **Total** | | | **14:47** |
 
 As durações são metas de direção, não tempos comprovados. Precisam ser testadas com vozes, pausas, expressões e transições antes de fechar a montagem.
 

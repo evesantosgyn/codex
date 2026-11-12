@@ -32,7 +32,7 @@ SERIES_001_THE_SPACE_BETWEEN_US/
     continuidade.yaml             ← traços fixos, looks e cronologia
   02_CHARACTERS/                  ← ficha + prancha de cada personagem
   03_LOCATIONS/                   ← ficha + pranchas de cada locação
-  04_SCRIPTS/                     ← roteiro V3.1 (aprovado) + escaleta V2.1
+  04_SCRIPTS/                     ← roteiro V3.2 (aprovado) + escaleta V2.1
   05_STORYBOARDS/ … 11_PERFORMANCE_REPORTS/
 ```
 

@@ -1,6 +1,8 @@
 # Avaliação — S01E01 THE RETURN · Screenplay V3.1
 
 Data: 2026-11-12 · Avaliador: Showrunner GL AI · Ênfase: **continuidade**
+
+> ✅ **APROVADA INTEGRALMENTE em 2026-11-12** ("aprovo tudo como recomendado"). Resultado: **Screenplay V3.2**.
 Fontes cruzadas: roteiro V3.1, escaleta V2.1, `biblia-serie.md`, `canone-segredo-olivia.md` (V2.2), `continuidade.yaml`, `registro-decisoes.md`, fichas e pranchas.
 
 ## Notas

@@ -1,6 +1,6 @@
 # S01E01 — THE RETURN · Escaleta V2.1 (APROVADA)
 
-Duração-alvo 14:30 · 9 cenas · Use junto com o roteiro V3.1. Aqui estão a **função dramática** e a **intenção** de cada cena, que guiam a decupagem.
+Duração-alvo 14:30 · 9 cenas · Use junto com o roteiro V3.2. Aqui estão a **função dramática** e a **intenção** de cada cena, que guiam a decupagem.
 
 ## ATO 1 — A vida perfeitamente organizada de Claire
 

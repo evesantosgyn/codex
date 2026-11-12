@@ -36,6 +36,11 @@ personagens:
       L3: trench coat preto, gola alta preta, óculos escuros (rua/inverno)
       L4: top e legging pretos, tênis (treino/casa)
       L5: camisa de seda preta, calça pantalona creme, cinto (dia a dia sofisticado)
+    figurinos_por_cena:
+      SC001: "L1 terno preto de alfaiataria"
+      SC002-SC003: "L1 sem o blazer (em casa; camisa/blusa do terno)"
+      SC004: "roupa de casa/pijama, sem maquiagem completa"
+      SC006-SC009: "L5 camisa de seda preta + pantalona creme"
     voz: "PENDENTE: Voice Identity Pack. Registro: controlado, seco, preciso; sarcasmo sem levantar a voz."
 
   olivia_hayes:
@@ -67,7 +72,9 @@ personagens:
       L4: suéter de tricô marrom ombro caído, jeans, coturno (casa/frio)
       L5: camisa creme, short jeans, tênis branco, óculos na camisa (verão)
     figurinos_por_cena:
+      COLD_OPEN: "casaco úmido da chuva (mesmo da SC003)"
       SC003: "casaco úmido da chuva (definir pelos keyframes travados da SC003, ver P12)"
+      SC005-SC009: "L1 trabalho: camisa utilitária verde-oliva aberta, top preto, cargo escura, coturno, câmera"
     voz: "PENDENTE: Voice Identity Pack. Registro: caloroso, observador, frases curtas, provocação afetuosa."
 
   maya_reed:
@@ -88,6 +95,9 @@ personagens:
       L3: Sofisticada e leve (camisa e calça creme), projetos e visitas
       L4: Casual polida (suéter verde-oliva, calça preta), rotina do escritório
       L5: Moderna e expressiva (terno bordô, gola alta preta), eventos e pós-trabalho
+    figurinos_por_cena:
+      SC001: "L1 Alfaiataria clássica"
+      SC006-SC009: "L2 Minimalista preta"
     voz: "PENDENTE: Voice Identity Pack. Registro: humor rápido, ironia carinhosa, confidente."
 
   june_park:
@@ -111,6 +121,8 @@ personagens:
       L3: suéter de tricô verde-oliva, calça preta, crachá, mocassim
       L4: camisa/overshirt creme, camiseta branca, cargo preta, câmera de vídeo na mão
       L5: suéter bordô, calça preta, sobretudo caramelo no braço, óculos na cabeça
+    figurinos_por_cena:
+      SC005-SC009: "L3 suéter de tricô verde-oliva + calça preta + crachá (NÃO usar L1: Olivia está de verde-oliva utilitário)"
     objetos: [laptop (SC005), pasta de arquivo com registros de aquisição (SC009)]
     voz: "PENDENTE: Voice Identity Pack. Registro: seco, pragmático, perguntas inconvenientes."
 
@@ -141,6 +153,7 @@ locacoes:
 
 cronologia_piloto:
   # APROVADO (P13): dia 1 = quinta-feira; dia 2 = sexta-feira
+  - {cena: COLD_OPEN, dia: 1, dia_semana: quinta, periodo: noite, local: hall do prédio de Claire, clima: chuva, nota: "keyframes travados da SC003, sem falas"}
   - {cena: SC001, dia: 1, dia_semana: quinta, periodo: fim de tarde, local: escritorio_claire, nota: "apresentação 'tomorrow' (sexta); lavanderia de 'Saturday'"}
   - {cena: SC002, dia: 1, dia_semana: quinta, periodo: noite, local: apartamento_claire, clima: chuva, nota: "Maya: 'It's Thursday'"}
   - {cena: SC003, dia: 1, dia_semana: quinta, periodo: noite, local: apartamento_claire, clima: chuva}
@@ -150,6 +163,12 @@ cronologia_piloto:
   - {cena: SC007, dia: 2, dia_semana: sexta, periodo: dia, local: escritorio_claire}
   - {cena: SC008, dia: 2, dia_semana: sexta, periodo: mais tarde, local: escritorio_claire}
   - {cena: SC009, dia: 2, dia_semana: sexta, periodo: noite, local: escritorio_claire}
+
+fatos_de_canone:
+  - "Olivia sabia que o estúdio era o de Claire antes de bater na porta (P14); não contou."
+  - "Claire mora no mesmo apartamento há sete anos ou mais; Olivia conhece o prédio e o porteiro (P15)."
+  - "June conhece o segredo de Olivia."
+  - "Maya conhece Olivia de nome como 'a ex' de Claire, mas não o sobrenome até a SC006."
 
 eventos_revelados_ate_ep01:
   - Claire ainda guarda o número antigo de Olivia (SC004).
@@ -161,5 +180,6 @@ eventos_revelados_ate_ep01:
 
 pontas_abertas:
   - O documento antigo da SC009 e a "familiar company name".
+  - Claire ainda não perguntou se Olivia sabia que o projeto era dela (P14), material para o EP02.
   - Olivia não explicou por que partiu nem se desculpou (SC005).
   - Regras de convivência de Claire (SC007): sem conversas pessoais no horário de trabalho, sem surpresas.

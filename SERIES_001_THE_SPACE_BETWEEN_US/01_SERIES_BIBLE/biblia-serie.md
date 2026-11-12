@@ -39,6 +39,8 @@ O público deve sentir duas coisas: **rir** porque Claire e Olivia são impossí
 
 **Romântico:** Claire ainda ama Olivia, mas não confia nela. Olivia quer reconstruir a relação, mas precisa demonstrar que deixou de fugir quando as coisas ficam difíceis.
 
+**Ponto de partida (P14):** Olivia sabe, ao voltar, que o estúdio de Claire assina o projeto; Claire não sabe que a documentarista é Olivia até o slide da SC006. *(Substitui a frase da V2.1 "nenhuma das duas sabe, inicialmente…".)*
+
 **Externo:** um projeto arquitetônico e um documentário obrigam as duas a conviver. A investigação do passado tem consequências reais, mas não domina a narrativa.
 
 ## A engrenagem da comédia romântica

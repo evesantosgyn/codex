@@ -19,9 +19,13 @@ Legenda de status:
 | N05 | Conexão profissional no empreendimento (requalificação + documentário) | APROVADO (2026-11-12) | V2.1 |
 | N06 | Escaleta do piloto, 9 cenas | APROVADO | V2.1 |
 | N07 | Segredo de Olivia (explicação dos sete anos) | APROVADO como cânone oficial | V2.2 |
-| N08 | Roteiro completo do piloto | APROVADO (2026-11-12) como **Screenplay V3.1** (= V3.0 + correções P01, P02, P13 e o gesto da SC004) | V3.1 |
+| N08 | Roteiro completo do piloto | APROVADO (2026-11-12) como **Screenplay V3.2** (= V3.1 + revisão de continuidade C1, C3, C4, C5, C7 + cold open R1). Duração planejada 14:47 | V3.2 |
 | N09 | Maya Reed e June Park como personagens recorrentes | APROVADO (2026-11-12) | V3.0 |
 | N10 | Cronologia do piloto: SC001–SC003 numa **quinta-feira**; SC004–SC009 numa **sexta-feira** | APROVADO (2026-11-12) | P13 |
+| N12 | Olivia **sabia** que o estúdio era o de Claire antes de bater na porta, e não contou (P14) | APROVADO (2026-11-12) | Avaliação V3.1, C2 |
+| N13 | Claire mora no mesmo apartamento há mais de sete anos; Olivia conhece o prédio e o porteiro (P15) | APROVADO (2026-11-12) | Avaliação V3.1, C6 |
+| N14 | June Park conhece o segredo de Olivia | APROVADO (2026-11-12) | SC009 |
+| N15 | Cold open de 15 s com keyframes travados da SC003, sem falas novas | APROVADO (2026-11-12) | Avaliação V3.1, R1 |
 | N11 | SC004: Claire abre o contato antigo de Olivia (número que nunca apagou), hesita e bloqueia a tela. Gesto mudo, sem fala nova | APROVADO (2026-11-12) | Escaleta V2.1 |
 
 ### Regras específicas da Cena 003 (TRAVADO)
@@ -45,6 +49,8 @@ Legenda de status:
 | V08 | June Park: **34 anos** | APROVADO (2026-11-12) | P01 |
 | V09 | Claire: a **franja é nova**; há sete anos, cabelo longo e ondulado **sem franja** (fotos antigas, flashbacks) | APROVADO (2026-11-12) | P06 |
 | V10 | June Park, Character Identity Pack | PROPOSTO (sem conflitos abertos) | Prancha |
+| V11 | Figurino por dia do piloto (ver `continuidade.yaml → figurinos_por_cena`); June usa L3 na sexta para não repetir o verde-oliva utilitário de Olivia | APROVADO (2026-11-12) | Avaliação V3.1 |
+| V12 | Escritório de Claire com parede de vidro voltada para o open space (SC009) | APROVADO (2026-11-12) | Avaliação V3.1, V7 |
 
 ## Produção
 
@@ -61,4 +67,5 @@ Legenda de status:
 | Data | Decisão | Registrado por |
 |---|---|---|
 | 2026-11-12 | Base de conhecimento criada a partir da Ficha Técnica e do Histórico de Desenvolvimento | Showrunner GL AI |
+| 2026-11-12 | Revisão de continuidade do V3.1 aprovada integralmente: roteiro promovido a V3.2; P14 e P15 resolvidas; fatos de cânone, figurino por dia e cold open registrados | Showrunner GL AI |
 | 2026-11-12 | Resolvidas P01–P10 e P13: June 34; Maya arquiteta sênior + gerente, olhos verdes, cabelo no queixo; Planta B + rótulos da A; planta do apto corrigida em texto; franja nova da Claire; SH por cena; café "The Quiet Hour"; rostos de Claire e Olivia travados; N05, N08 e N09 aprovados; cronologia quinta/sexta; gesto da SC004. Roteiro promovido a V3.1 | Showrunner GL AI |

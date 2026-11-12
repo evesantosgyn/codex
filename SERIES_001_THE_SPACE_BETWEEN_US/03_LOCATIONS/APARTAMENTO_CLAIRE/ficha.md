@@ -12,6 +12,9 @@
 | Atmosfera | Elegante, acolhedora, íntima |
 | Cenas principais (série) | Reencontro, conversas, momentos de intimidade, conflitos e reconciliações |
 
+## História do espaço (P15)
+Claire mora aqui **há mais de sete anos**: é o apartamento que Olivia conheceu. O prédio tem portaria, e o porteiro antigo ainda reconhece Olivia, por isso ela chega direto à porta (SC003, cold open). A direção de arte deve sugerir camadas de tempo: objetos novos e impecáveis convivendo com poucos objetos antigos guardados.
+
 ## Conceito de direção
 O apartamento é uma extensão de Claire: visualmente impecável, mas com pequenos elementos que revelam sua vida emocional. **Ideia narrativa registrada:** uma fotografia antiga guardada num lugar discreto pode se tornar elemento da trama (provavelmente ligada ao EP03, "The Things We Kept").
 
@@ -56,6 +59,7 @@ Orientação: **norte = topo da planta** (parede de janelas do piso ao teto, vis
 - Cabideiro ou gancho para o casaco (SC002).
 - Geladeira: água com gás, legumes organizados, queijo caro, pote de massa (SC002).
 - Cafeteira de cápsula ou espresso (SC004: desligada da tomada, café derramado no balcão).
+- **Sacola do delivery** (SC004): fechada e intacta no balcão da cozinha, ao lado do café derramado.
 - Celular de Claire (notificações de entrega, ligações de Maya). **SC004:** contato antigo "OLIVIA" na agenda; Claire deixa o celular virado para baixo no balcão.
 
 ## Pendências

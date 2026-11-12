@@ -14,7 +14,7 @@ Base: a Planta B, com o elevador **"E" no centro-norte** e o trajeto da SC001 Me
 | Área de circulação | Corredor central, entre as estações e as salas | B |
 | Elevador | "E", centro-norte | B |
 | **Sala de reuniões de vidro** (SC006/SC007) | Sala envidraçada com mesa longa e cadeiras pretas, **centro-sul** | Render "Sala de reuniões" da A |
-| **Escritório de Claire** (SC009) | Sala individual ao **norte, à esquerda do elevador**, com mesa e cadeira | Render "Escritório de Claire" da A |
+| **Escritório de Claire** (SC009) | Sala individual ao **norte, à esquerda do elevador**, com mesa e cadeira. **Parede de vidro voltada para o open space** (linha de olhar de Olivia na SC009) | Render "Escritório de Claire" da A |
 | Sala de projetos | Sala a **nordeste**, com mesa longa de madeira | B |
 | **Lounge / convivência** | Sala com mesa redonda a **sudeste** | Render "Lounge" da A |
 | Recepção com logomarca | Junto ao elevador, no hall de entrada | Render principal da A e da B |
