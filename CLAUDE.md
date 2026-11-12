@@ -179,6 +179,18 @@ Todas as séries do estúdio seguem **este arquivo**, os manuais de `00_ESTUDIO/
 - Cada série tem o próprio cânone. **Nunca misture continuidade entre séries**, a não ser em derivados (spin-offs) aprovados.
 - Lições aprendidas numa série que valham para todas viram regra aqui ou nos manuais, sempre com aprovação do responsável.
 
+## Versionamento: salvar a cada decisão aprovada
+
+Autorização permanente do responsável pelo estúdio (2026-11-12): **ao fim de cada decisão aprovada, salve no GitHub** (`evesantosgyn/codex`, branch `main`).
+
+1. Registre a decisão em `registro-decisoes.md` (e mova a pendência para "Resolvidas", se for o caso).
+2. Atualize todos os arquivos afetados (roteiro, fichas, `continuidade.yaml`…).
+3. `git add -A && git commit` com uma mensagem em português que diga **o que foi decidido** (ex.: "SERIES_001: aprova Planta B do escritório (P04)").
+4. `git push origin main` e confirme que o envio chegou ao GitHub.
+5. Diga ao responsável, em uma linha, que a decisão foi salva.
+
+Não salve trabalho que ainda está só **proposto** como se fosse decisão. Rascunhos em andamento podem ser salvos quando o responsável pedir, com a mensagem deixando claro que são rascunhos. Se o envio falhar, avise na hora e não dê o registro como salvo.
+
 ## Séries ativas
 
 | Código | Título | Status | Pasta |
