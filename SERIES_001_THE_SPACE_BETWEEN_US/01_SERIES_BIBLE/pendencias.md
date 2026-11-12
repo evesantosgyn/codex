@@ -1,6 +1,6 @@
 # Pendências e contradições abertas
 
-O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do responsável e, depois, de registro em `registro-decisoes.md`. Quando um item for resolvido, mova-o para a seção "Resolvidas" com a decisão e a data. Novas pendências usam o próximo número livre (**P17**).
+O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do responsável e, depois, de registro em `registro-decisoes.md`. Quando um item for resolvido, mova-o para a seção "Resolvidas" com a decisão e a data. Novas pendências usam o próximo número livre (**P18**).
 
 ## Abertas
 
@@ -15,6 +15,10 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 - Sala de conferência da SC006 (pode ser a sala de reuniões de vidro da planta oficial).
 - Equipe de redevelopment da SC006: 2 figurantes sem referência visual.
 - Voice Identity Packs: ferramenta definida (**áudio nativo do MiniMax H3**). ✅ Clipes de referência de **Claire** e **Maya** extraídos da SC001 (2026-11-12); ampliados na v02 (Claire 5,6 s; Maya 6,85 s). Falta definir as vozes de **Olivia** (SC003) e **June** (SC005).
+
+### P17 — Pulso do relógio de Claire
+- SC001 (vídeo aprovado): relógio no **pulso direito**. SC002 (16 keyframes aprovados no ChatGPT): **pulso esquerdo**.
+- Recomendação: aceitar o pulso **esquerdo** daqui em diante e registrar a divergência da SC001 (detalhe pouco visível; refazer custaria quase todos os keyframes).
 
 ## Resolvidas
 

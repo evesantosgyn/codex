@@ -1,0 +1,16 @@
+KF-PLATE-S | S01E01_SC002_KF-PLATE-S_V01.png | V01 | Entrada aprovada; porta escura, espelho redondo, aparador e galhos vermelhos. Resolucao original: 1672x941.
+KF-PLATE-N | S01E01_SC002_KF-PLATE-N_V01.png | V01 | Cozinha aprovada; ilha de marmore, pendentes ambar e skyline chuvoso. Resolucao original: 1672x941.
+KF-INS-KEYS | S01E01_SC002_KF-INS-KEYS_V01.png | V01 | Chaves em prato de ceramica; iluminacao quente e composicao aprovadas. Resolucao original: 1672x941.
+KF-INS-PHONE | S01E01_SC002_KF-INS-PHONE_V01.png | V01 | Celular com tela branca; vela adicional aprovada. Resolucao original: 1671x941.
+KF-INS-FRIDGE | S01E01_SC002_KF-INS-FRIDGE_V01.png | V01 | Geladeira organizada e bem abastecida; divergencia do briefing aceita. Resolucao original: 1672x941.
+KF-INS-PASTA | S01E01_SC002_KF-INS-PASTA_V01.png | V01 | Pote de massa com rotulo legivel Massa Val: 26/01; aprovado. Resolucao original: 1672x941.
+KF-C01 | S01E01_SC002_KF-C01_V02.png | V02 | Entrada de Claire com trench e bolsa; composicao corrigida com espelho e galhos vermelhos. Resolucao original: 1671x941.
+KF-C02 | S01E01_SC002_KF-C02_V01.png | V01 | Claire pendura trench; blusa preta ajustada; blazer separado nao visivel. Resolucao original: 1670x941.
+KF-C03 | S01E01_SC002_KF-C03_V01.png | V01 | Claire de costas em direcao a cozinha; continuidade de roupa e luz. Resolucao original: 1671x941.
+KF-C04 | S01E01_SC002_KF-C04_V01.png | V01 | Visao de dentro da geladeira; luz fria no rosto de Claire. Resolucao original: 1672x941.
+KF-C05 | S01E01_SC002_KF-C05_V01.png | V01 | Reacao sutil e ironica diante da geladeira; identidade aprovada. Resolucao original: 1671x941.
+KF-C06 | S01E01_SC002_KF-C06_V01.png | V01 | Segunda alternativa aprovada; Claire junto a ilha e telefone. Resolucao original: 1670x941.
+KF-C07 | S01E01_SC002_KF-C07_V01.png | V01 | Claire apoia o rosto na mao, ouvindo Maya; sem Maya em quadro. Resolucao original: 1671x941.
+KF-C08 | S01E01_SC002_KF-C08_V01.png | V01 | Close de reacao com sorriso ironico contido. Resolucao original: 1670x941.
+KF-C09 | S01E01_SC002_KF-C09_V01.png | V01 | Claire com copo de agua reage a batida na porta. Resolucao original: 1670x941.
+KF-C10 | S01E01_SC002_KF-C10_V01.png | V01 | Plano aberto rumo a porta; flores brancas no aparador divergem dos galhos vermelhos canonicos; imagem aprovada. Resolucao original: 1670x942.
