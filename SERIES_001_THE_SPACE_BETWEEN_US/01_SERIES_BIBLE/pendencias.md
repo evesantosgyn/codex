@@ -4,11 +4,10 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 
 ## Abertas
 
-### P11 — Pipeline técnico
-- Modelos e workflows do ComfyUI instalados: **não informados**.
-- Ferramentas definitivas de vídeo, voz, música e montagem: só há a lista de candidatas (Runway, Kling, Veo, ElevenLabs, Suno, DaVinci/Premiere, Whisper).
+### P11 — Pipeline técnico (PARCIAL)
+- ✅ Vídeo: **MiniMax H3 (Hailuo 3)**. ✅ Consistência: **LoRA** por personagem (decisão de 2026-11-12; ver `00_ESTUDIO/04_manual-ferramentas.md`).
+- Falta: modelo-base das LoRAs e onde rodam; quais personagens já têm LoRA; ferramenta de imagem/keyframe; origem das vozes (áudio nativo do H3 ou outra); montagem; legendas; workflows do ComfyUI; se o 3868×2160 do teste veio de upscale.
 - Frameworks e prompts de execução existentes: **aguardando envio**.
-- Bloqueia: `00_ESTUDIO/04_manual-ferramentas.md` e a adaptação dos prompts à sintaxe de cada ferramenta.
 
 ### P12 — Materiais e referências ainda não recebidos
 - **Os 18 keyframes travados da Cena 003.** Necessários para: confirmar o lado da pinta e o braço da tatuagem de Olivia; o casaco úmido de Olivia; conferir se a geografia da entrada bate com a numeração corrigida do apartamento (P05).
