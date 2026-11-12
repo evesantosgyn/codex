@@ -1,6 +1,6 @@
 # S01E01 · SC003 — THE RETURN · Decupagem V01 (refação)
 
-**Status:** PROPOSTA · **Roteiro:** 🔒 **TRAVADO** (Screenplay V3.2: nenhuma fala ou ação nova; Olivia não entra; Claire não convida; CUT TO BLACK) · **Data:** 2026-11-12
+**Status:** ✅ APROVADA (2026-11-12) · **Roteiro:** 🔒 **TRAVADO** (Screenplay V3.2: nenhuma fala ou ação nova; Olivia não entra; Claire não convida; CUT TO BLACK) · **Data:** 2026-11-12
 **Produção refeita:** autorização N18. **Duração-alvo:** 2:30 · **Soma dos planos:** ≈ 2:22; os silêncios se estendem na montagem.
 **Inclui:** o cold open (N15) e o KF-C10 refeito (a junção com a SC002).
 

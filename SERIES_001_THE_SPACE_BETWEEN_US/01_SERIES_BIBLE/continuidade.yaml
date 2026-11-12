@@ -64,8 +64,8 @@ personagens:
       biotipo: magro / atlético
       pele: clara, natural, sardas leves
       marcas:
-        - "pinta pequena perto da boca (abaixo do lábio inferior; CONFIRMAR o lado exato nos 18 keyframes da SC003)"
-        - "tatuagem pequena de câmera fotográfica (traço fino) no antebraço interno (CONFIRMAR o braço)"
+        - "pinta pequena logo abaixo do lábio inferior, do LADO ESQUERDO dela (V27)"
+        - "tatuagem pequena de câmera fotográfica (traço fino) no antebraço interno ESQUERDO (V27)"
     assinatura:
       acessorios:
         - argolas douradas pequenas
@@ -80,10 +80,12 @@ personagens:
       L4: suéter de tricô marrom ombro caído, jeans, coturno (casa/frio)
       L5: camisa creme, short jeans, tênis branco, óculos na camisa (verão)
     figurinos_por_cena:
-      COLD_OPEN: "casaco úmido da chuva (mesmo da SC003)"
-      SC003: "casaco úmido da chuva (definir pelos keyframes travados da SC003, ver P12)"
+      COLD_OPEN: "mesmo look da SC003"
+      SC003: "casaco longo de lã verde-oliva escuro, ombros molhados; suéter de tricô marrom; cabelo solto, pontas úmidas; maquiagem mínima; sem bolsa (V26)"
       SC005-SC009: "L1 trabalho: camisa utilitária verde-oliva aberta, top preto, cargo escura, coturno, câmera"
-    voz: "PENDENTE: Voice Identity Pack. Registro: caloroso, observador, frases curtas, provocação afetuosa."
+    voz:
+      referencia: "06_GENERATED_ASSETS/VOICES/olivia_hayes_voice-ref_v01.wav (A CRIAR no Gerador de áudio do buzzy)"
+      registro: "americana, médio-grave, levemente rouca, calorosa, sem pressa; frases curtas, pausas antes do que é honesto (V28)"
 
   maya_reed:
     status_visual: APROVADO (prancha; P03 resolvida)

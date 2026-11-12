@@ -10,7 +10,7 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 - Frameworks e prompts de execução existentes: **aguardando envio**.
 
 ### P12 — Materiais e referências ainda não recebidos
-- ~~Os 18 keyframes travados da Cena 003~~: **dispensados** (N18: a produção da SC003 será refeita). Agora o lado da pinta, o braço da tatuagem e o casaco da Olivia serão **definidos na decupagem nova da SC003**.
+- ~~Os 18 keyframes travados da Cena 003~~: **dispensados** (N18: a produção da SC003 será refeita). Pinta, tatuagem e casaco da Olivia **definidos** (V26, V27).
 - Prancha atualizada do escritório com as áreas da Planta A sobre a Planta B (opcional; a ficha já descreve em texto).
 - Sala de conferência da SC006 (pode ser a sala de reuniões de vidro da planta oficial).
 - Equipe de redevelopment da SC006: 2 figurantes sem referência visual.
