@@ -1,0 +1,45 @@
+# Registro de continuidade — {{TÍTULO}}
+# Fonte legível por máquina dos traços FIXOS (não mudam sem decisão registrada)
+# e das variáveis por cena. Valores "PENDENTE:" remetem a pendencias.md.
+# Exemplo completo: SERIES_001_THE_SPACE_BETWEEN_US/01_SERIES_BIBLE/continuidade.yaml
+# Última atualização: {{DATA}}
+
+serie: SERIES_{{NNN}}
+titulo: "{{TÍTULO}}"
+temporada_atual: 1
+
+personagens:
+  nome_sobrenome:
+    status_visual: PROPOSTO   # PROPOSTO → APROVADO → "ROSTO TRAVADO" (após verificar semelhança com pessoa real)
+    referencia: 02_CHARACTERS/NOME_SOBRENOME/identity-pack.webp
+    idade: 0
+    profissao: ""
+    fixos:
+      cabelo: ""
+      olhos: ""
+      altura: ""
+      biotipo: ""
+      pele: ""
+      marcas: []              # pintas, tatuagens, cicatrizes, SEMPRE com o lado do corpo
+    assinatura:
+      maquiagem: ""
+      acessorios: []
+    paleta: []
+    looks:
+      L1: ""
+    figurinos_por_cena: {}
+    voz: "PENDENTE: Voice Identity Pack. Registro: ..."
+
+locacoes:
+  nome_locacao:
+    status: PROPOSTO
+    referencia: 03_LOCATIONS/NOME_LOCACAO/prancha.webp
+    ficha: 03_LOCATIONS/NOME_LOCACAO/ficha.md
+    cenas: []
+    pendencias: []
+
+cronologia:
+  # - {episodio: 1, cena: SC001, dia: 1, dia_semana: , periodo: , local: , clima: , nota: }
+
+eventos_revelados: []
+pontas_abertas: []

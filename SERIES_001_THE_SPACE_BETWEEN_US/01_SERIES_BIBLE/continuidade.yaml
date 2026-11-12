@@ -1,0 +1,165 @@
+# Registro de continuidade — The Space Between Us
+# Fonte legível por máquina dos traços FIXOS (não mudam sem decisão registrada)
+# e das variáveis por cena. Valores "PENDENTE:" remetem a pendencias.md.
+# Última atualização: 2026-11-12 (pendências P01–P10, P13 resolvidas)
+
+serie: SERIES_001
+titulo: The Space Between Us
+temporada_atual: 1
+
+personagens:
+  claire_bennett:
+    status_visual: "ROSTO TRAVADO (2026-11-12); figurinos e looks APROVADOS como referência"
+    referencia: 02_CHARACTERS/CLAIRE_BENNETT/claire-bennett_identity-pack.webp
+    idade: 35
+    idade_ha_sete_anos: 28
+    profissao: Arquiteta, titular do Claire Bennett Architecture Studio
+    fixos:
+      cabelo: "castanho-escuro, longo, ondulado, com franja cortina"
+      cabelo_ha_sete_anos: "castanho-escuro, longo, ondulado, SEM franja (fotos antigas, flashbacks). A franja é o que Olivia nota na SC003 ('You cut your hair')"
+      olhos: castanhos
+      altura: 1.65 m
+      biotipo: magro / atlético
+      pele: clara, natural
+      marcas: "sobrancelhas fortes e escuras; olhos expressivos; lábios cheios"
+    assinatura:
+      maquiagem: batom vinho/bordô, delineado discreto
+      acessorios:
+        - argolas douradas pequenas
+        - colar duplo dourado (pingente escuro + pingente circular)
+        - relógio de mostrador branco com pulseira preta
+        - anéis finos dourados
+    paleta: [preto, marrom-escuro, taupe, areia, bordô]
+    looks:
+      L1: terno preto de alfaiataria, cinto preto, scarpin (escritório)
+      L2: vestido longo de cetim bordô com fenda (evento/noite)
+      L3: trench coat preto, gola alta preta, óculos escuros (rua/inverno)
+      L4: top e legging pretos, tênis (treino/casa)
+      L5: camisa de seda preta, calça pantalona creme, cinto (dia a dia sofisticado)
+    voz: "PENDENTE: Voice Identity Pack. Registro: controlado, seco, preciso; sarcasmo sem levantar a voz."
+
+  olivia_hayes:
+    status_visual: "ROSTO TRAVADO (2026-11-12); figurinos e looks APROVADOS como referência"
+    referencia: 02_CHARACTERS/OLIVIA_HAYES/olivia-hayes_identity-pack.webp
+    idade: 33
+    idade_ha_sete_anos: 26
+    profissao: Fotógrafa documental
+    fixos:
+      cabelo: loiro-escuro / loiro, ondulado, comprimento abaixo dos ombros (frequentemente preso em coque bagunçado)
+      olhos: verde-avelã
+      altura: 1.70 m
+      biotipo: magro / atlético
+      pele: clara, natural, sardas leves
+      marcas:
+        - "pinta pequena perto da boca (abaixo do lábio inferior; CONFIRMAR o lado exato nos 18 keyframes da SC003)"
+        - "tatuagem pequena de câmera fotográfica (traço fino) no antebraço interno (CONFIRMAR o braço)"
+    assinatura:
+      acessorios:
+        - argolas douradas pequenas
+        - colares dourados finos em camadas (um com medalha)
+        - anéis finos, incluindo um em dedo indicador
+        - câmera fotográfica / bolsa de câmera
+    paleta: [caramelo, verde-oliva, azul-acinzentado, marrom, creme]
+    looks:
+      L1: camisa utilitária verde-oliva aberta, top preto, calça cargo escura, coturno, câmera a tiracolo (trabalho)
+      L2: regata branca, jeans largo, bolsa de couro caramelo, tênis branco (casual)
+      L3: vestido longo preto de alça com fenda, jaqueta de couro preta nos ombros, botas (noite)
+      L4: suéter de tricô marrom ombro caído, jeans, coturno (casa/frio)
+      L5: camisa creme, short jeans, tênis branco, óculos na camisa (verão)
+    figurinos_por_cena:
+      SC003: "casaco úmido da chuva (definir pelos keyframes travados da SC003, ver P12)"
+    voz: "PENDENTE: Voice Identity Pack. Registro: caloroso, observador, frases curtas, provocação afetuosa."
+
+  maya_reed:
+    status_visual: APROVADO (prancha; P03 resolvida)
+    referencia: 02_CHARACTERS/MAYA_REED/maya-reed_biblia-visual.webp
+    idade: 34
+    profissao: Arquiteta sênior que gerencia os projetos do estúdio; melhor amiga de Claire no escritório
+    fixos:
+      cabelo: castanho-escuro com reflexos acobreados, cacheado/ondulado, na altura do queixo
+      olhos: verdes
+      pele: clara, com sardas
+    assinatura:
+      acessorios: [argolas douradas, colar dourado triplo fino, relógio de mostrador branco com pulseira de couro, anel dourado liso]
+    paleta: [preto, grafite, off-white, verde-oliva, bordô]
+    looks:
+      L1: Alfaiataria clássica (blazer e calça marrom/tweed, blusa preta, cinto de fivela dourada), para reuniões e escritório
+      L2: Minimalista e elegante (camisa e calça pretas), dia a dia
+      L3: Sofisticada e leve (camisa e calça creme), projetos e visitas
+      L4: Casual polida (suéter verde-oliva, calça preta), rotina do escritório
+      L5: Moderna e expressiva (terno bordô, gola alta preta), eventos e pós-trabalho
+    voz: "PENDENTE: Voice Identity Pack. Registro: humor rápido, ironia carinhosa, confidente."
+
+  june_park:
+    status_visual: PROPOSTO
+    referencia: 02_CHARACTERS/JUNE_PARK/june-park_identity-pack.webp
+    idade: 34
+    profissao: Produtora documental, colega de Olivia
+    fixos:
+      cabelo: castanho-escuro a preto, na altura da clavícula, liso com camadas suaves
+      olhos: castanho-escuros
+      altura: 1.68 m
+      biotipo: magro / atlético
+      pele: clara-média, sardas sutis
+      marcas: "olhos expressivos, mandíbula marcada"
+    assinatura:
+      acessorios: [argolas douradas, relógio de pulseira de couro preta, crachá de produção, mochila/bolsa utilitária]
+    paleta: [preto, verde-oliva, creme, caramelo, bordô]
+    looks:
+      L1: jaqueta utilitária verde-oliva, camiseta preta, cargo verde, pochete, coturno
+      L2: blazer marrom, camiseta preta, jeans preto, óculos escuros na gola, tênis
+      L3: suéter de tricô verde-oliva, calça preta, crachá, mocassim
+      L4: camisa/overshirt creme, camiseta branca, cargo preta, câmera de vídeo na mão
+      L5: suéter bordô, calça preta, sobretudo caramelo no braço, óculos na cabeça
+    objetos: [laptop (SC005), pasta de arquivo com registros de aquisição (SC009)]
+    voz: "PENDENTE: Voice Identity Pack. Registro: seco, pragmático, perguntas inconvenientes."
+
+locacoes:
+  apartamento_claire:
+    status: APROVADO
+    referencia: 03_LOCATIONS/APARTAMENTO_CLAIRE/apartamento_prancha.webp
+    ficha: 03_LOCATIONS/APARTAMENTO_CLAIRE/ficha.md
+    cenas_piloto: [SC002, SC003, SC004]
+    planta: "numeração corrigida em texto na ficha (P05)"
+    pendencias: ["P12: conferir a entrada com os keyframes da SC003"]
+  escritorio_claire:
+    status: PROPOSTO
+    referencia:
+      - "03_LOCATIONS/ESCRITORIO_CLAIRE/escritorio_prancha-SC001_PLANTA-B.webp  # PLANTA OFICIAL"
+      - "03_LOCATIONS/ESCRITORIO_CLAIRE/escritorio_prancha-ambiente_PLANTA-A.webp  # referência de ambientes, NÃO de geografia"
+    ficha: 03_LOCATIONS/ESCRITORIO_CLAIRE/ficha.md
+    cenas_piloto: [SC001, SC006, SC007, SC008, SC009]
+    planta_oficial: B (+ sala de Claire, sala de reuniões de vidro, lounge e janelas a oeste, descritos na ficha)
+    pendencias: []
+  cafe_manhattan:
+    nome: The Quiet Hour
+    status: APROVADO
+    referencia: 03_LOCATIONS/CAFE_MANHATTAN/cafe_prancha-SC005.webp
+    ficha: 03_LOCATIONS/CAFE_MANHATTAN/ficha.md
+    cenas_piloto: [SC005]
+    pendencias: []
+
+cronologia_piloto:
+  # APROVADO (P13): dia 1 = quinta-feira; dia 2 = sexta-feira
+  - {cena: SC001, dia: 1, dia_semana: quinta, periodo: fim de tarde, local: escritorio_claire, nota: "apresentação 'tomorrow' (sexta); lavanderia de 'Saturday'"}
+  - {cena: SC002, dia: 1, dia_semana: quinta, periodo: noite, local: apartamento_claire, clima: chuva, nota: "Maya: 'It's Thursday'"}
+  - {cena: SC003, dia: 1, dia_semana: quinta, periodo: noite, local: apartamento_claire, clima: chuva}
+  - {cena: SC004, dia: 2, dia_semana: sexta, periodo: manhã, local: apartamento_claire, nota: "Claire 7 min atrasada; abre o contato antigo de Olivia e desiste"}
+  - {cena: SC005, dia: 2, dia_semana: sexta, periodo: manhã, local: cafe_manhattan, nota: "acesso ao canteiro 'Monday', entrevistas 'Tuesday', reunião com arquitetura 'today'"}
+  - {cena: SC006, dia: 2, dia_semana: sexta, periodo: dia, local: escritorio_claire}
+  - {cena: SC007, dia: 2, dia_semana: sexta, periodo: dia, local: escritorio_claire}
+  - {cena: SC008, dia: 2, dia_semana: sexta, periodo: mais tarde, local: escritorio_claire}
+  - {cena: SC009, dia: 2, dia_semana: sexta, periodo: noite, local: escritorio_claire}
+
+eventos_revelados_ate_ep01:
+  - Claire ainda guarda o número antigo de Olivia (SC004).
+  - Olivia voltou a Manhattan para um documentário sobre a restauração do empreendimento.
+  - Claire descobre que Olivia é a documentarista do projeto (SC006).
+  - Maya sabe que Olivia é "the ex" (SC007).
+  - June encontra os registros originais de aquisição; Olivia reconhece um documento de sete anos antes (SC009).
+  - Claire ainda NÃO sabe da ligação do documento com o passado ("Not yet").
+
+pontas_abertas:
+  - O documento antigo da SC009 e a "familiar company name".
+  - Olivia não explicou por que partiu nem se desculpou (SC005).
+  - Regras de convivência de Claire (SC007): sem conversas pessoais no horário de trabalho, sem surpresas.
