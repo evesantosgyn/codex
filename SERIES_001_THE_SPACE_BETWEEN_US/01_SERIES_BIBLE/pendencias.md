@@ -1,8 +1,20 @@
 # Pendências e contradições abertas
 
-O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do responsável e, depois, de registro em `registro-decisoes.md`. Quando um item for resolvido, mova-o para a seção "Resolvidas" com a decisão e a data. Novas pendências usam o próximo número livre (**P14**).
+O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do responsável e, depois, de registro em `registro-decisoes.md`. Quando um item for resolvido, mova-o para a seção "Resolvidas" com a decisão e a data. Novas pendências usam o próximo número livre (**P16**).
 
 ## Abertas
+
+### P14 — Olivia sabia que o estúdio de arquitetura era o de Claire?
+- Pranchas aprovadas: o escritório se chama **Claire Bennett Architecture Studio**; SC005: June marca reunião com "the architectural team".
+- Bíblia V2.1: "Nenhuma das duas sabe, inicialmente…"; SC007: "She stops when she sees Claire."
+- Cânone V2.2 e logline do EP01 ("Claire descobre que o reencontro não foi casual") sugerem que Olivia sabia.
+- Impacto: alto (lógica do piloto e material do EP02).
+- Recomendação: **sim, sabia**. Detalhes em `04_SCRIPTS/S01E01_THE-RETURN_V3.1_avaliacao_2026-11-12.md` (C2).
+
+### P15 — Claire já morava neste apartamento há sete anos?
+- O roteiro não explica como Olivia sabe o endereço nem como chega à porta de um prédio alto em Manhattan.
+- Impacto: médio (direção de arte, EP03 "The Things We Kept", parede de fotos).
+- Recomendação: **sim**. Olivia conhece o prédio e o porteiro ainda a reconhece. Detalhes na avaliação (C6).
 
 ### P11 — Pipeline técnico
 - Modelos e workflows do ComfyUI instalados: **não informados**.
