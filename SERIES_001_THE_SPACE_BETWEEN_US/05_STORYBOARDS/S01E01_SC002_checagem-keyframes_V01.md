@@ -39,3 +39,18 @@
 - **D2 · Pulso do relógio (P17):** na **SC001 aprovada**, o relógio está no **pulso direito** de Claire; em **todos os keyframes da SC002**, no **esquerdo**. Opções:
   - (a) **aceitar o pulso esquerdo daqui em diante** e registrar que a SC001 diverge. Recomendado: é um detalhe pouco visível, e refazer custaria quase todos os keyframes;
   - (b) refazer os keyframes com o relógio no pulso direito.
+
+---
+
+## Rodada 2 (2026-11-12): correções recebidas do ChatGPT
+
+| Keyframe | Versão | Veredito | Observação |
+|---|---|---|---|
+| KF-C01 | V04 | ✅ Aprovado com 1 retoque | Corredor interno, sem chuva ✔. **Retoque:** tirar as chaves do prato (ela ainda vai colocá-las na SH02), via "Editar" |
+| KF-C02 | V02 | ✅ Aprovado | Porta fechada; relógio no pulso esquerdo |
+| KF-INS-PASTA | V02 → **V03** | ✅ **Aprovado (V03)** | A V02 tinha a etiqueta em branco ✔, mas o relógio no **pulso direito** (a câmera está atrás dela). **V03 = V02 espelhada na horizontal** (feita aqui): o relógio vai para o pulso esquerdo (V19). A pulseira é marrom-escura em vez de preta; aceitável num insert |
+| KF-INS-PHONE | V02 | ⚠️ 1 retoque | Sem vela ✔; maçãs à direita ✔. **Fruteira diferente:** cesto de arame dourado, quando em C06, C07 e C09 é uma **tigela sólida de bronze**. Retoque via "Editar" |
+| SH05 | V01 | ❌ **Refazer** | Claire **de trench e com a bolsa no ombro**, mas na SH05 ela já pendurou o casaco (SH03) e deixou a bolsa no aparador. Além disso, o prato das chaves virou uma tigela dourada e o vaso ficou transparente. **Voltar ao plano original:** insert só de **mão + celular** (KF-INS-PHONE-HAND), com a manga da blusa preta |
+| KF-C10 | V01 | ⏳ Refazer no pacote da SC003 | Sem mudança |
+
+**Canônico de cenário fixado nesta rodada:** a fruteira da ilha é uma **tigela sólida de bronze** (C06, C07, C09). A tigela branca do PLATE-N fica como divergência menor, porque o plate não entra como plano na montagem.
