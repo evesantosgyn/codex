@@ -1,6 +1,6 @@
 # S01E01 · SC001 — Decupagem V03 (enquadramentos dinâmicos)
 
-**Status:** PROPOSTA · **Base:** decupagem V02 (refação APROVADA: cena inteira, trench no braço, árvore menor) · **Data:** 2026-11-12
+**Status:** ✅ APROVADA (2026-11-12) · **Base:** decupagem V02 (refação APROVADA: cena inteira, trench no braço, árvore menor) · **Data:** 2026-11-12
 Tudo o que não está listado aqui segue a **V02** (falas, looks, luz, eixo, objetos e regras L1–L8).
 **Duração:** ≈ 1:34 · **28 gerações**
 
