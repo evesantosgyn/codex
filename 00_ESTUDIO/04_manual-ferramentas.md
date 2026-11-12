@@ -11,7 +11,7 @@ Versão 0.1 · 2026-11-12 · **Em construção** (ver P11 em cada série)
 |---|---|---|
 | Geração de vídeo | **MiniMax H3 (Hailuo 3)** | APROVADO |
 | Consistência de personagem | **LoRA** (por personagem) | APROVADO; modelo-base, onde roda e quais personagens já têm LoRA ❓ |
-| Imagens / keyframes | ❓ (provavelmente o mesmo ambiente das LoRAs) | A confirmar |
+| Imagens / keyframes | **ChatGPT (geração de imagem)**, com imagens de referência anexadas; **um chat novo por cena**, aberto com `00_ESTUDIO/briefing-chatgpt-keyframes.md` + o pacote da cena (`05_STORYBOARDS/..._pacote-chatgpt.md`) | APROVADO (2026-11-12) |
 | Voz / diálogo | **Áudio nativo do MiniMax H3** (gerado junto com o vídeo) | APROVADO (2026-11-12) |
 | Montagem | ❓ (candidatas: DaVinci Resolve, Premiere Pro) | A confirmar |
 | Legendas | ❓ (candidata: Whisper) | A confirmar |

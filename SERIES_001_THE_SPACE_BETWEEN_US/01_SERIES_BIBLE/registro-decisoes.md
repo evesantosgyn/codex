@@ -67,6 +67,7 @@ Legenda de status:
 | P-02 | ComfyUI como ferramenta de produção | APROVADO; workflows e modelos **PENDENTES** (P11) |
 | P-06 | **Vídeo: MiniMax H3 (Hailuo 3)** · **consistência de personagem: LoRA** por personagem | APROVADO (2026-11-12) |
 | P-09 | Referências de voz v01: Claire = SC001 5,0–6,4 s ("I'm aware."); Maya = SC001 2,0–4,0 s ("You know that's a tree, right?"). Em `06_GENERATED_ASSETS/VOICES/` | APROVADO (2026-11-12) |
+| P-12 | **Keyframes no ChatGPT**, um chat novo por cena, com o briefing fixo do estúdio + o pacote da cena e as imagens de referência anexadas. Os plates gerados no Canva ficam descartados | APROVADO (2026-11-12) |
 | P-11 | **Falas fora de quadro (V.O.)**: gerar no H3 planos-fonte da personagem falando, com a referência de voz, e usar só o áudio, com EQ de celular (P16) | APROVADO (2026-11-12) |
 | P-10 | Referências de voz **v02** (substituem a v01): Claire 5,6 s = SC001 5,0–6,4 + 9,55–11,15 + 13,0–15,0 s; Maya 6,85 s = SC001 2,0–4,0 + 7,0–9,5 + 11,2–12,95 s. Trechos indicados pelo responsável, ajustados aos cortes de plano | APROVADO (2026-11-12) |
 | P-08 | **Lições L1–L8** do teste da SC001 viram regras de produção do estúdio (`00_ESTUDIO/03_manual-producao-ia.md` §12 e `templates/checklist-pre-geracao.md`) | APROVADO (2026-11-12) |
@@ -80,6 +81,7 @@ Legenda de status:
 | Data | Decisão | Registrado por |
 |---|---|---|
 | 2026-11-12 | Base de conhecimento criada a partir da Ficha Técnica e do Histórico de Desenvolvimento | Showrunner GL AI |
+| 2026-11-12 | Keyframes passam a ser feitos no ChatGPT (um chat por cena); criados o briefing fixo, o template de pacote e o pacote da SC002 | Showrunner GL AI |
 | 2026-11-12 | SC002 decupagem aprovada; P16 resolvida; SC003 terá produção refeita (roteiro segue travado); P12 dispensa os keyframes antigos | Showrunner GL AI |
 | 2026-11-12 | Voice Identity Pack v02 de Claire e Maya (trechos ampliados) | Showrunner GL AI |
 | 2026-11-12 | Voice Identity Pack v01 de Claire e Maya extraído da SC001 | Showrunner GL AI |

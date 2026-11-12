@@ -1,6 +1,8 @@
 # S01E01 · SC002 — Pacote de keyframes V01
 
-**Status:** PROPOSTA · **Base:** decupagem SC002 V01 (APROVADA) · **Data:** 2026-11-12
+**Status:** ❌ **SUBSTITUÍDO** pelo pacote para o ChatGPT (`S01E01_SC002_pacote-chatgpt.md`), decisão P-12 de 2026-11-12. Os plates do Canva foram descartados. Mantido como histórico.
+
+**Status anterior:** PROPOSTA · **Base:** decupagem SC002 V01 (APROVADA) · **Data:** 2026-11-12
 **Quem gera:** o responsável, no gerador de imagem com as **LoRAs** (modelo-base a documentar, P11). **Quem confere:** Showrunner, com a skill `checagem-continuidade`, antes de cada imagem virar primeiro quadro no H3.
 
 ## Como usar este pacote

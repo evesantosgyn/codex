@@ -30,3 +30,4 @@ description: Modo 4 (Produção com IA). Transforma uma cena de roteiro aprovada
 - Termine listando: (a) o que precisa de aprovação, (b) pendências que bloqueiam planos, (c) próximo passo sugerido.
 - Use o padrão de IDs `S01E01_SC001_SH01_V01`. A numeração recomeça em cada cena (SH01, SH02…; decisão P07).
 - Não avance para geração sem aprovação.
+- **Depois da aprovação da decupagem:** gere o pacote de keyframes para o ChatGPT no formato de `templates/pacote-cena-chatgpt.md`, salvo como `05_STORYBOARDS/S01E0X_SC0XX_pacote-chatgpt.md`. Ele precisa ser **autossuficiente** (o ChatGPT não lê o repositório): contexto, referências a anexar, traços fixos, cenário, luz, prompts em ordem e critérios de aprovação.
