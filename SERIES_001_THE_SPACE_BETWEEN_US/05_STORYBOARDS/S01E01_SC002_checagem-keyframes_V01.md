@@ -54,3 +54,10 @@
 | KF-C10 | V01 | ⏳ Refazer no pacote da SC003 | Sem mudança |
 
 **Canônico de cenário fixado nesta rodada:** a fruteira da ilha é uma **tigela sólida de bronze** (C06, C07, C09). A tigela branca do PLATE-N fica como divergência menor, porque o plate não entra como plano na montagem.
+
+## Rodada 3 (2026-11-12)
+| Keyframe | Versão | Veredito | Observação |
+|---|---|---|---|
+| KF-INS-PHONE-HAND (SH05) | V01 | ✅ Aprovado | Manga da blusa preta, **sem casaco** ✔; relógio de mostrador branco com pulseira preta ✔; anéis finos ✔; tela branca sem texto ✔; ao fundo, aparador, prato com as chaves, vaso escuro com galhos vermelhos e abajur ✔. Observação: os dedos cruzam a borda da tela (pegada um pouco incomum); aceitável num insert de 3 s |
+
+**SC002: todos os keyframes aprovados**, exceto o KF-C10 (SH23), que será refeito no pacote da SC003.
