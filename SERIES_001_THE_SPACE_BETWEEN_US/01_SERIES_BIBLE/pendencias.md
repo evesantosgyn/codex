@@ -16,10 +16,6 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 - Equipe de redevelopment da SC006: 2 figurantes sem referência visual.
 - Voice Identity Packs: ferramenta definida (**áudio nativo do MiniMax H3**). ✅ Clipes de referência de **Claire** e **Maya** extraídos da SC001 (2026-11-12); ampliados na v02 (Claire 5,6 s; Maya 6,85 s). Falta definir as vozes de **Olivia** (SC003) e **June** (SC005).
 
-### P17 — Pulso do relógio de Claire
-- SC001 (vídeo aprovado): relógio no **pulso direito**. SC002 (16 keyframes aprovados no ChatGPT): **pulso esquerdo**.
-- Recomendação: aceitar o pulso **esquerdo** daqui em diante e registrar a divergência da SC001 (detalhe pouco visível; refazer custaria quase todos os keyframes).
-
 ## Resolvidas
 
 | # | Tema | Decisão | Data |
@@ -35,6 +31,7 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 | P09 | Semelhança com pessoas reais | Verificado pelo responsável. **Rostos de Claire e Olivia TRAVADOS** | 2026-11-12 |
 | P10 | Aprovações formais | **Aprovados**: conexão profissional (N05), roteiro (N08, agora V3.2), Maya e June recorrentes (N09) | 2026-11-12 |
 | P13 | Cronologia | **"It's Thursday"** na SC002: SC001–SC003 na quinta, SC004–SC009 na sexta | 2026-11-12 |
+| P17 | Pulso do relógio de Claire | **Esquerdo** daqui em diante; a SC001 (direito) fica como divergência aceita | 2026-11-12 |
 | P16 | Fala fora de quadro (V.O.) | Planos-fonte no H3 com referência de voz; só o áudio, com EQ de celular | 2026-11-12 |
 | P14 | Olivia sabia que o estúdio era o de Claire? | **Sim.** Sabia antes de bater na porta e não contou | 2026-11-12 |
 | P15 | Claire já morava no apartamento há sete anos? | **Sim.** Olivia conhece o prédio e o porteiro | 2026-11-12 |

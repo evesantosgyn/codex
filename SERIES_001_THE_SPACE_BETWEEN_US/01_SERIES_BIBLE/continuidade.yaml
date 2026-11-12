@@ -27,7 +27,7 @@ personagens:
       acessorios:
         - argolas douradas pequenas
         - colar duplo dourado (pingente escuro + pingente circular)
-        - relógio de mostrador branco com pulseira preta
+        - "relógio de mostrador branco com pulseira preta, no PULSO ESQUERDO (decisão V19; a SC001 mostra o direito, divergência aceita)"
         - anéis finos dourados
     objetos_fixos:
       - "bolsa preta grande de couro, de ombro (vídeo SC001)"

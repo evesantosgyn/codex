@@ -17,7 +17,7 @@
 | KF-PLATE-N | ✅ Aprovado | Na mesa de jantar ao fundo: lírios brancos e velas. Passam a fazer parte do cenário |
 | KF-INS-KEYS | ✅ Aprovado | |
 | KF-INS-PHONE | ❌ **Refazer** | (1) **Vela grande sobre a ilha**, que não aparece em C06, C07 e C09; (2) **maçãs à esquerda do celular**, quando em C06, C07 e C09 elas estão à direita. Os inserts vão ser intercalados com esses planos, e a diferença salta à vista |
-| KF-INS-FRIDGE | ⚠️ **Decisão** | Geladeira farta e colorida; o roteiro pede "almost nothing resembling dinner". Ver a decisão D1 |
+| KF-INS-FRIDGE | ✅ Aprovado (D1) | Geladeira farta e colorida; o roteiro pede "almost nothing resembling dinner". Ver a decisão D1 |
 | KF-INS-PASTA | ❌ **Refazer** | **Texto legível em português** na etiqueta ("Massa / Val: 26/01"). Quebra a regra de nada de texto, está em português numa série em inglês e fixa uma data sem decisão |
 | KF-C01 | ⚠️ **Refazer recomendado** | Pela porta aberta aparece **chuva e skyline logo atrás de Claire**, como se a porta desse para a rua. A porta dá para o **corredor interno do prédio** (onde Olivia vai estar na SC003), com a janela de chuva **só no fim do corredor** (cold open) |
 | KF-C02 | ⚠️ **Refazer recomendado** | O mesmo problema: chuva aparecendo atrás de Claire junto à porta. Na SH03 a porta **já está fechada** (ela fechou na SH01) |
@@ -33,6 +33,8 @@
 **Placar:** 10 aprovados · 1 decisão · 5 a refazer (INS-PHONE, INS-PASTA, C01, C02 e C10, este último junto com a SC003). Falta ainda o **KF-INS-PHONE-HAND** (SH05), que entrou no pacote depois do ZIP.
 
 ## Decisões para o responsável
+
+> ✅ **Decididas em 2026-11-12:** D1 aceita (geladeira farta) e D2 opção (a), relógio no pulso esquerdo daqui em diante.
 - **D1 · Geladeira farta (INS-FRIDGE):** aceitar? Recomendo **aceitar**: legumes crus, frutas e potes arrumados, e **nada pronto para comer**. "A refrigerator full of ambition" passa a significar ingredientes saudáveis que ela nunca cozinha, o que é até mais engraçado. O C04 já mostra a geladeira assim, então ela fica coerente.
 - **D2 · Pulso do relógio (P17):** na **SC001 aprovada**, o relógio está no **pulso direito** de Claire; em **todos os keyframes da SC002**, no **esquerdo**. Opções:
   - (a) **aceitar o pulso esquerdo daqui em diante** e registrar que a SC001 diverge. Recomendado: é um detalhe pouco visível, e refazer custaria quase todos os keyframes;

@@ -53,6 +53,9 @@ Legenda de status:
 | V09 | Claire: a **franja é nova**; há sete anos, cabelo longo e ondulado **sem franja** (fotos antigas, flashbacks) | APROVADO (2026-11-12) | P06 |
 | V10 | June Park, Character Identity Pack | PROPOSTO (sem conflitos abertos) | Prancha |
 | V11 | Figurino por dia do piloto (ver `continuidade.yaml → figurinos_por_cena`); June usa L3 na sexta para não repetir o verde-oliva utilitário de Olivia | APROVADO (2026-11-12) | Avaliação V3.1 |
+| V18 | **Geladeira farta** (KF-INS-FRIDGE e C04): legumes crus, frutas e potes arrumados, nada pronto para comer. "A refrigerator full of ambition" = ingredientes saudáveis que ela nunca cozinha | APROVADO (2026-11-12) | Checagem SC002, D1 |
+| V19 | **Relógio de Claire no pulso ESQUERDO** daqui em diante. A SC001 (travada) mostra o pulso direito; divergência registrada e aceita (P17) | APROVADO (2026-11-12) | Checagem SC002, D2 |
+| V20 | Mesa de jantar da cozinha com **lírios brancos e velas** (do PLATE-N) passa a ser parte do cenário | APROVADO (2026-11-12) | Checagem SC002 |
 | V17 | Claire **em casa** (SC002 depois de pendurar o casaco e SC003): **sem blazer**, de blusa preta justa de manga longa, mesma calça e mesmos acessórios. Pendura blazer e trench juntos ao chegar | APROVADO (2026-11-12) | Decisão do responsável |
 | V16 | Claire chega em casa na SC002 com o **trench preto (L3)**, molhado nos ombros | APROVADO (2026-11-12) | Decupagem SC002 |
 | V13 | **Geografia "as built" do escritório** (do vídeo da SC001) prevalece sobre a Planta B: a mesa de Maya fica **de frente para a recepção com logomarca e para os elevadores**; Claire senta-se do lado oposto, de costas para a recepção | APROVADO (2026-11-12) | Vídeo SC001 |
@@ -83,6 +86,7 @@ Legenda de status:
 | Data | Decisão | Registrado por |
 |---|---|---|
 | 2026-11-12 | Base de conhecimento criada a partir da Ficha Técnica e do Histórico de Desenvolvimento | Showrunner GL AI |
+| 2026-11-12 | Checagem dos keyframes da SC002: 10 aprovados; geladeira farta aceita; relógio no pulso esquerdo (P17 resolvida); 5 a refazer | Showrunner GL AI |
 | 2026-11-12 | Teste de áudio: resultado A (voz da Claire confirmada); método de fala aprovado | Showrunner GL AI |
 | 2026-11-12 | Look de Claire em casa: sem blazer (V17) | Showrunner GL AI |
 | 2026-11-12 | Keyframes passam a ser feitos no ChatGPT (um chat por cena); criados o briefing fixo, o template de pacote e o pacote da SC002 | Showrunner GL AI |
