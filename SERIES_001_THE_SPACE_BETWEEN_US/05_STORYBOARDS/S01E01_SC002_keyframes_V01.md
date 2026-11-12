@@ -23,6 +23,14 @@
 **KF-PLATE-N · Cozinha (eixo N), noite com chuva**
 > Cinematic still, wide shot of an elegant open kitchen in a high-rise Manhattan apartment at night. A white marble kitchen island in the foreground, dark cabinetry, a brushed gold faucet, a bowl of green apples; three amber glass pendant lights glowing above the island. Behind the island, floor-to-ceiling windows streaked with heavy rain, the Manhattan skyline glowing deep blue and gold through the wet glass. Warm amber interior light against cool blue city light. Empty, quiet, luxurious. 16:9, 28mm lens, natural film grain.
 
+**Gerados em 2026-11-12 (Canva, sem referência de imagem), aguardando aprovação:**
+| ID | Canva media id | Link |
+|---|---|---|
+| KF-PLATE-N | `MAHauuhMMaM` | https://www.canva.com/M/MAHauuhMMaM |
+| KF-PLATE-S | `MAHaujwduBg` | https://www.canva.com/M/MAHaujwduBg |
+
+> Depois de aprovados, baixar em resolução cheia e salvar em `06_GENERATED_ASSETS/IMAGES/S01E01_SC002_KF-PLATE-N_V01.png` e `..._KF-PLATE-S_V01.png`.
+
 **Critério de aprovação (L2):** os dois plates parecem **a mesma noite, no mesmo apartamento**: mesmas madeiras e bronzes, a mesma temperatura âmbar, e chuva visível ou sugerida nos dois.
 
 ## Etapa B — Inserts (sem rosto)
