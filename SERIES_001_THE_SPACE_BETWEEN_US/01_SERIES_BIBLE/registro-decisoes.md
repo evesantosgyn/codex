@@ -56,7 +56,7 @@ Legenda de status:
 | V18 | **Geladeira farta** (KF-INS-FRIDGE e C04): legumes crus, frutas e potes arrumados, nada pronto para comer. "A refrigerator full of ambition" = ingredientes saudáveis que ela nunca cozinha | APROVADO (2026-11-12) | Checagem SC002, D1 |
 | V19 | **Relógio de Claire no pulso ESQUERDO** daqui em diante. A SC001 (travada) mostra o pulso direito; divergência registrada e aceita (P17) | APROVADO (2026-11-12) | Checagem SC002, D2 |
 | V23 | **KF-INS-PHONE V02 mantido** com o cesto de arame dourado; divergência aceita em relação à tigela de bronze dos planos com Claire (V21 continua valendo para os planos abertos da ilha) | APROVADO (2026-11-12) | Decisão do responsável |
-| V22 | **KF-C01 V04 mantido com as chaves já no prato**; a **SH02** (mão largando as chaves) sai da montagem; a ação acontece fora de quadro. SC002 fica com ~1:23 | APROVADO (2026-11-12) | Decisão do responsável |
+| V22 | **KF-C01 V04 mantido com as chaves já no prato** e a **SH02 mantida** na sequência (o responsável aceita a pequena repetição) | APROVADO (2026-11-12) | Decisão do responsável |
 | V21 | Fruteira da ilha da cozinha: **tigela sólida de bronze** com maçãs verdes (C06, C07, C09) | APROVADO (2026-11-12) | Checagem SC002, rodada 2 |
 | V20 | Mesa de jantar da cozinha com **lírios brancos e velas** (do PLATE-N) passa a ser parte do cenário | APROVADO (2026-11-12) | Checagem SC002 |
 | V17 | Claire **em casa** (SC002 depois de pendurar o casaco e SC003): **sem blazer**, de blusa preta justa de manga longa, mesma calça e mesmos acessórios. Pendura blazer e trench juntos ao chegar | APROVADO (2026-11-12) | Decisão do responsável |

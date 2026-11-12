@@ -34,12 +34,8 @@
 ### SH01 · SF · keyframe `KF-C01` · 5 s
 > Static camera. The woman finishes stepping in through the front door and closes it behind her, the large black leather bag on her shoulder, her black trench coat damp at the shoulders. Calm, tired, composed. Warm amber lamp light. Sound: muffled rain, the door closing, footsteps. Her hair stays dark brown, long and wavy.
 
-### ~~SH02~~ · **REMOVIDO** (decisão V22): o C01 V04 aprovado já mostra as chaves no prato; largar as chaves passa a acontecer fora de quadro
-<details><summary>prompt antigo</summary>
-
-
-> Static camera, extreme close-up. A woman's hand with thin gold rings and a black-strap watch enters the frame and drops one last key into the small ceramic dish, then withdraws. Warm lamp light. Sound: keys on ceramic.
-</details>
+### SH02 · SF · keyframe `KF-INS-KEYS` · 4 s
+> Static camera, extreme close-up. A woman's hand with thin gold rings and a black-strap watch enters the frame and drops her keys into the small ceramic dish, then withdraws. Warm lamp light. Sound: keys on ceramic.
 
 ### SH03 · SF · keyframe `KF-C02` · 5 s
 > Static camera. She finishes hanging her damp black trench coat and black blazer on the wall hook beside the door, smoothing the coat once with her hand. She wears a fitted black long-sleeve top. Warm amber light. Sound: fabric, distant rain.

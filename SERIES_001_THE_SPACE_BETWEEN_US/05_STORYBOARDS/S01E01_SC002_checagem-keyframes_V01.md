@@ -46,7 +46,7 @@
 
 | Keyframe | Versão | Veredito | Observação |
 |---|---|---|---|
-| KF-C01 | V04 | ✅ **Aprovado como está** | Corredor interno, sem chuva ✔. Chaves no prato mantidas por decisão do responsável → **SH02 removida** da montagem (V22) |
+| KF-C01 | V04 | ✅ **Aprovado como está** | Corredor interno, sem chuva ✔. Chaves no prato mantidas por decisão do responsável; SH02 continua na sequência (V22) |
 | KF-C02 | V02 | ✅ Aprovado | Porta fechada; relógio no pulso esquerdo |
 | KF-INS-PASTA | V02 → **V03** | ✅ **Aprovado (V03)** | A V02 tinha a etiqueta em branco ✔, mas o relógio no **pulso direito** (a câmera está atrás dela). **V03 = V02 espelhada na horizontal** (feita aqui): o relógio vai para o pulso esquerdo (V19). A pulseira é marrom-escura em vez de preta; aceitável num insert |
 | KF-INS-PHONE | V02 | ✅ **Aprovado como está** (decisão V23) | Sem vela ✔; maçãs à direita ✔. **Fruteira diferente:** cesto de arame dourado, quando em C06, C07 e C09 é uma **tigela sólida de bronze**. Retoque via "Editar" |
