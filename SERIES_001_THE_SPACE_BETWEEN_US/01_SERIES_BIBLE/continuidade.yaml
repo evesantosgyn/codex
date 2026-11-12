@@ -29,6 +29,9 @@ personagens:
         - colar duplo dourado (pingente escuro + pingente circular)
         - relógio de mostrador branco com pulseira preta
         - anéis finos dourados
+    objetos_fixos:
+      - "bolsa preta grande de couro, de ombro (vídeo SC001)"
+      - "celular"
     paleta: [preto, marrom-escuro, taupe, areia, bordô]
     looks:
       L1: terno preto de alfaiataria, cinto preto, scarpin (escritório)
@@ -37,8 +40,9 @@ personagens:
       L4: top e legging pretos, tênis (treino/casa)
       L5: camisa de seda preta, calça pantalona creme, cinto (dia a dia sofisticado)
     figurinos_por_cena:
-      SC001: "L1 terno preto de alfaiataria"
-      SC002-SC003: "L1 sem o blazer (em casa; camisa/blusa do terno)"
+      SC001: "L1 blazer/terno preto, blusa preta (FINAL, vídeo aprovado). Sai SEM casaco, com bolsa preta grande e celular"
+      SC002: "ENTRA de casaco (vestido fora de quadro entre o elevador e a rua: chovia) + bolsa preta; pendura o casaco e deixa a bolsa ao entrar. Por baixo: o mesmo L1"
+      SC003: "L1 sem o blazer (em casa)"
       SC004: "roupa de casa/pijama, sem maquiagem completa"
       SC006-SC009: "L5 camisa de seda preta + pantalona creme"
     voz: "PENDENTE: Voice Identity Pack. Registro: controlado, seco, preciso; sarcasmo sem levantar a voz."
@@ -96,7 +100,7 @@ personagens:
       L4: Casual polida (suéter verde-oliva, calça preta), rotina do escritório
       L5: Moderna e expressiva (terno bordô, gola alta preta), eventos e pós-trabalho
     figurinos_por_cena:
-      SC001: "L1 Alfaiataria clássica"
+      SC001: "blazer escuro liso (marrom/grafite) + blusa preta (FINAL, vídeo aprovado; substitui o tweed L1 nesta cena)"
       SC006-SC009: "L2 Minimalista preta"
     voz: "PENDENTE: Voice Identity Pack. Registro: humor rápido, ironia carinhosa, confidente."
 
@@ -163,6 +167,9 @@ cronologia_piloto:
   - {cena: SC007, dia: 2, dia_semana: sexta, periodo: dia, local: escritorio_claire}
   - {cena: SC008, dia: 2, dia_semana: sexta, periodo: mais tarde, local: escritorio_claire}
   - {cena: SC009, dia: 2, dia_semana: sexta, periodo: noite, local: escritorio_claire}
+
+material_aprovado:
+  SC001: "06_GENERATED_ASSETS/VIDEO/S01E01_SC001_TESTE-PRE-V3_V00.mp4 (TRAVADO). Referência obrigatória de rosto, voz, figurino e geografia para as cenas seguintes"
 
 fatos_de_canone:
   - "Olivia sabia que o estúdio era o de Claire antes de bater na porta (P14); não contou."

@@ -25,4 +25,8 @@ Nenhuma cena está pronta só porque o arquivo foi gerado. Marque cada item apen
 - ☐ Cena 003 sem nenhuma fala ou ação alterada em relação ao roteiro travado
 - ☐ Geografia do escritório segue a Planta B oficial
 - ☐ Chuva presente e consistente em SC002–SC003; manhã seca/luminosa em SC004–SC005
+- ☐ Cor de cabelo estável nos planos abertos e de caminhada (L1)
+- ☐ Plano e contraplano do mesmo instante com a mesma luz (L2)
+- ☐ Figurino e objetos coerentes na saída e na entrada entre cenas (L3)
+- ☐ Master em 3840 × 2160 e áudio normalizado (L7)
 - ☐ Nenhum rosto canônico reproduz pessoa real identificável (Claire e Olivia já verificadas)

@@ -3,13 +3,22 @@
 **Status:** Design V01 APROVADO · **Planta B é a oficial** (decisão P04, 2026-11-12)
 **Pranchas:** `escritorio_prancha-SC001_PLANTA-B.webp` (**geografia oficial**) · `escritorio_prancha-ambiente_PLANTA-A.webp` (referência de aparência dos ambientes; **sua geografia não vale**)
 
-## Planta oficial (B + áreas da A)
+## Geografia "as built" (PREVALECE, decisão V13 de 2026-11-12)
+O vídeo aprovado da SC001 é a referência principal do espaço (regra L6: material aprovado prevalece sobre a planta):
+- A **mesa de Maya** (com a maquete) fica **de frente para a recepção**: parede escura com a logomarca "CLAIRE BENNETT ARCHITECTURE STUDIO", estante iluminada, plantas, e os **elevadores** logo ao lado.
+- Atrás da recepção e à direita, **janelas do piso ao teto com o skyline** (pôr do sol rosa e laranja na SC001).
+- **Eixo da SC001:** Maya **sentada à direita** do quadro, de frente para a câmera, com a recepção atrás; **Claire sentada à esquerda**, de costas para a recepção. No contraplano de Claire, o fundo são divisórias de vidro escuras com bokeh quente.
+- **Trajeto de saída:** da mesa de Maya, passando pela recepção, até o elevador, **atrás de Maya**. Maya se vira por cima do ombro para ver Claire sair.
+
+> Na SC001, o contraplano de Claire saiu com fundo mais escuro e noturno que o de Maya (D6). A cena foi aceita assim. Nas cenas seguintes, aplicar a regra L2 (mesmo céu nos dois eixos).
+
+## Planta oficial (B + áreas da A) — referência secundária
 
 Base: a Planta B, com o elevador **"E" no centro-norte** e o trajeto da SC001 Mesa de Maya → circulação → elevador. Como a Planta B não rotula todas as áreas, fica registrado:
 
 | Área | Posição na Planta B | Origem do visual |
 |---|---|---|
-| Mesa de Maya (com maquete) | Marcador 1, centro-oeste, ilha de estações | B |
+| Mesa de Maya (com maquete) | **Ver geografia "as built" acima** (de frente para a recepção e os elevadores) | Vídeo SC001 |
 | Estações da equipe (open space) | Metade oeste, em ilhas | A e B |
 | Área de circulação | Corredor central, entre as estações e as salas | B |
 | Elevador | "E", centro-norte | B |
@@ -52,7 +61,7 @@ Maquete (projetos) · pasta de projetos assinada com logo dourado · caneca bege
 - Natural: fim de tarde, luz dourada pelas janelas, céu rosa e laranja.
 - Continuidade de tom e intensidade entre as cenas. **Atenção:** SC006/SC007 são "DAY" e SC009 é "EVENING", então cada uma precisa de uma variação de luz definida.
 
-## Bloqueio SC001 (das pranchas; numeração antiga, a renumerar)
+## Bloqueio SC001 das pranchas (SUPERADO pelo vídeo aprovado; mantido como histórico)
 | Plano | Ação | Câmera |
 |---|---|---|
 | SH29–SH31 | Conversa na mesa de Maya (maquete) | Mesa / diálogo |

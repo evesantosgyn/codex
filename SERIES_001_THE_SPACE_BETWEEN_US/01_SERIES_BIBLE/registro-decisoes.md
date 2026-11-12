@@ -25,6 +25,7 @@ Legenda de status:
 | N12 | Olivia **sabia** que o estúdio era o de Claire antes de bater na porta, e não contou (P14) | APROVADO (2026-11-12) | Avaliação V3.1, C2 |
 | N13 | Claire mora no mesmo apartamento há mais de sete anos; Olivia conhece o prédio e o porteiro (P15) | APROVADO (2026-11-12) | Avaliação V3.1, C6 |
 | N14 | June Park conhece o segredo de Olivia | APROVADO (2026-11-12) | SC009 |
+| N16 | **SC001 APROVADA e FINALIZADA** com o vídeo de teste (`06_GENERATED_ASSETS/VIDEO/S01E01_SC001_TESTE-PRE-V3_V00.mp4`), sem regeneração. Falas conferidas pelo responsável: iguais ao roteiro. As divergências D1–D9 da análise ficam aceitas nesta cena e viram regra para as próximas | **TRAVADO** (2026-11-12) | Vídeo de teste |
 | N15 | Cold open de 15 s com keyframes travados da SC003, sem falas novas | APROVADO (2026-11-12) | Avaliação V3.1, R1 |
 | N11 | SC004: Claire abre o contato antigo de Olivia (número que nunca apagou), hesita e bloqueia a tela. Gesto mudo, sem fala nova | APROVADO (2026-11-12) | Escaleta V2.1 |
 
@@ -50,6 +51,9 @@ Legenda de status:
 | V09 | Claire: a **franja é nova**; há sete anos, cabelo longo e ondulado **sem franja** (fotos antigas, flashbacks) | APROVADO (2026-11-12) | P06 |
 | V10 | June Park, Character Identity Pack | PROPOSTO (sem conflitos abertos) | Prancha |
 | V11 | Figurino por dia do piloto (ver `continuidade.yaml → figurinos_por_cena`); June usa L3 na sexta para não repetir o verde-oliva utilitário de Olivia | APROVADO (2026-11-12) | Avaliação V3.1 |
+| V13 | **Geografia "as built" do escritório** (do vídeo da SC001) prevalece sobre a Planta B: a mesa de Maya fica **de frente para a recepção com logomarca e para os elevadores**; Claire senta-se do lado oposto, de costas para a recepção | APROVADO (2026-11-12) | Vídeo SC001 |
+| V14 | Maya, look de quinta-feira: blazer **escuro liso** (marrom/grafite) com blusa preta, como no vídeo, em vez do tweed L1 | APROVADO (2026-11-12) | Vídeo SC001 |
+| V15 | Claire: **bolsa preta grande de couro** passa a ser objeto fixo | APROVADO (2026-11-12) | Vídeo SC001 |
 | V12 | Escritório de Claire com parede de vidro voltada para o open space (SC009) | APROVADO (2026-11-12) | Avaliação V3.1, V7 |
 
 ## Produção
@@ -59,6 +63,7 @@ Legenda de status:
 | P-01 | Estratégia image-to-video com referências controladas | APROVADO (manual 02) |
 | P-02 | ComfyUI como ferramenta de produção | APROVADO; workflows e modelos **PENDENTES** (P11) |
 | P-06 | **Vídeo: MiniMax H3 (Hailuo 3)** · **consistência de personagem: LoRA** por personagem | APROVADO (2026-11-12) |
+| P-08 | **Lições L1–L8** do teste da SC001 viram regras de produção do estúdio (`00_ESTUDIO/03_manual-producao-ia.md` §12 e `templates/checklist-pre-geracao.md`) | APROVADO (2026-11-12) |
 | P-07 | **Vozes: áudio nativo do MiniMax H3**; identidade vocal por clipes de referência (Voice Identity Pack, ver manual de ferramentas) | APROVADO (2026-11-12) |
 | P-03 | Prioridade: Location Identity Pack do escritório de Claire | RECOMENDADO |
 | P-04 | Começar por prova de conceito → piloto → temporada | RECOMENDADO (manual 03) |
@@ -69,6 +74,7 @@ Legenda de status:
 | Data | Decisão | Registrado por |
 |---|---|---|
 | 2026-11-12 | Base de conhecimento criada a partir da Ficha Técnica e do Histórico de Desenvolvimento | Showrunner GL AI |
+| 2026-11-12 | SC001 aprovada e travada com o vídeo de teste; geografia "as built" do escritório; lições L1–L8 viram regras do estúdio | Showrunner GL AI |
 | 2026-11-12 | P12 (vozes): áudio nativo do MiniMax H3, com método de Voice Identity Pack por clipes de referência | Showrunner GL AI |
 | 2026-11-12 | P11 parcialmente resolvida: vídeo no MiniMax H3, consistência por LoRA; criado `00_ESTUDIO/04_manual-ferramentas.md` | Showrunner GL AI |
 | 2026-11-12 | Revisão de continuidade do V3.1 aprovada integralmente: roteiro promovido a V3.2; P14 e P15 resolvidas; fatos de cânone, figurino por dia e cold open registrados | Showrunner GL AI |

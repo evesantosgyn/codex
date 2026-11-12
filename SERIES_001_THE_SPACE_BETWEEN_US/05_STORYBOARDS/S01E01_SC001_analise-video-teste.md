@@ -1,6 +1,8 @@
 # S01E01 · SC001 — Análise do vídeo de teste (produzido antes da V3.1)
 
 **Arquivo:** `06_GENERATED_ASSETS/VIDEO/S01E01_SC001_TESTE-PRE-V3_V00.mp4` · **Recebido:** 2026-11-12 · **Analisado por:** Showrunner GL AI
+> ✅ **Decisão (2026-11-12):** falas conferidas pelo responsável (iguais ao roteiro). **SC001 aprovada e travada com este vídeo, sem regeneração.** As divergências D1–D9 ficam aceitas nesta cena; D5, D6 e D8 viram as regras L1, L2 e L3 para as cenas seguintes.
+
 **Método:** 4 folhas de contato (1 quadro a cada 2 s), quadros ampliados e detecção de cortes. **O áudio não foi ouvido** (sem ferramenta de transcrição neste ambiente): falas e lip-sync não foram verificados.
 
 ## Dados técnicos

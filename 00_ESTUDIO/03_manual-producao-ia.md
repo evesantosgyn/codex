@@ -125,3 +125,18 @@ Identificadores únicos: `S01E02_SC014_SH03_V02` = segunda versão da terceira t
 Pacote completo: (1) roteiro aprovado em inglês · (2) escaleta e mapa de ritmo · (3) lista de cenas e tomadas · (4) referências de personagens, cenários e figurinos · (5) prompts por geração · (6) orientações de voz, interpretação e som · (7) plano de montagem e transições · (8) checklist de continuidade e qualidade · (9) materiais de lançamento e distribuição.
 
 **Limite operacional:** o agente planeja, cria materiais e orienta a produção. Geração, edição e publicação efetivas dependem das ferramentas e integrações disponíveis. Não confundir plano de produção com episódio finalizado.
+
+## 12. Lições aprendidas — regras de produção
+
+Aprovadas pelo responsável em 2026-11-12, a partir do teste da SC001 de *The Space Between Us*. Valem para **todas as cenas seguintes e todas as séries**. O checklist operacional está em `templates/checklist-pre-geracao.md`.
+
+| # | O que aconteceu | Regra a partir de agora |
+|---|---|---|
+| L1 | O cabelo da protagonista **mudou de cor** nos planos de caminhada e corpo inteiro | Planos abertos e de caminhada levam referência de rosto **e** de cabelo, mais o quadro do plano anterior; a cor do cabelo é conferida plano a plano antes da aprovação |
+| L2 | Plano e contraplano do **mesmo instante** saíram com luz diferente (noite × pôr do sol) | Um plate de locação por eixo, com o mesmo céu; plano e contraplano conferidos lado a lado antes da geração em série |
+| L3 | A personagem saiu de uma cena **sem o casaco** que precisa ter ao entrar na seguinte | Checar o que cada personagem veste e carrega na **saída** de uma cena e na **entrada** da próxima |
+| L4 | O diálogo diz "quatro milímetros" e o objeto em quadro tem ~2 cm | A escala visual dos objetos precisa bater com o que o diálogo afirma; se não bater, aceitar conscientemente (a piada sobrevive?) |
+| L5 | A geração inventou um objeto bom (bolsa) que não estava na continuidade | Objeto novo em take aprovado entra no `continuidade.yaml` na hora e passa a ser obrigatório nas cenas seguintes |
+| L6 | O material aprovado ficou com geografia e eixo diferentes da planta e da decupagem | **Material aprovado prevalece** sobre planta, prancha e decupagem. As fichas são atualizadas para o "as built" |
+| L7 | Saída 3868 × 2160 e áudio a −32 dB de média | Master final em **3840 × 2160**; normalizar o áudio na mixagem (meta de loudness a definir com a plataforma) |
+| L8 | Dedos manipulando objeto pequeno funcionaram bem no H3 | Não complicar a encenação por medo de anatomia: testar primeiro e só então recorrer a inserts ou ferramentas |

@@ -1,6 +1,8 @@
 # S01E01 · SC001 — EVERYTHING UNDER CONTROL · Decupagem V01
 
-**Status:** PROPOSTA (aguardando aprovação) · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-12
+**Status:** ❌ **SUPERADA** (2026-11-12). A SC001 foi aprovada com o vídeo de teste (N16). Esta decupagem fica só como referência de método; geografia e eixo valem pelo vídeo.
+
+**Status anterior:** PROPOSTA · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-12
 **Duração do roteiro:** 1:35 · **Soma dos planos:** 1:36 (32 planos, 7 setups de câmera)
 
 ## Resumo da cena
