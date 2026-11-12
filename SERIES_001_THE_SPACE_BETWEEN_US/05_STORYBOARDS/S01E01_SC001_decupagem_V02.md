@@ -1,6 +1,6 @@
 # S01E01 · SC001 — EVERYTHING UNDER CONTROL · Decupagem V02 (refação)
 
-**Status:** PROPOSTA (aguardando aprovação) · **Roteiro:** Screenplay V3.2 (APROVADO; falas iguais às do vídeo V00) · **Data:** 2026-11-12
+**Status:** ✅ APROVADA (2026-11-12). Enquadramentos dinâmicos propostos na V03 · **Roteiro:** Screenplay V3.2 (APROVADO; falas iguais às do vídeo V00) · **Data:** 2026-11-12
 **Base:** o vídeo aprovado `06_GENERATED_ASSETS/VIDEO/S01E01_SC001_TESTE-PRE-V3_V00.mp4` (bloqueio, geografia, ritmo e atuação), corrigido pelas regras L1–L8.
 **Duração:** roteiro 1:35 · V00 1:37 · **V02 ≈ 1:36** · **30 planos** · ferramenta: buzzy.now / MiniMax-H3
 
