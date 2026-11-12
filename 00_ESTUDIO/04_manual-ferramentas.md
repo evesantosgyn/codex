@@ -39,7 +39,14 @@ Fontes (secundárias): [Artlist](https://help.artlist.io/hc/en-us/articles/38170
   - **Omni Reference**: sobe arquivos de referência (campo "Ref Video" e "Ref") e chama cada um no prompt com `@` (ex.: "referencie @video e troque o sujeito por @image").
   - **Start & end frame**: primeiro quadro (e, opcionalmente, último quadro).
 - **Controles:** resolução (padrão 480p), duração (padrão 4s), proporção, custo em créditos por geração.
-- ❓ A confirmar: os nomes exatos das referências depois do upload (`@image1`? `@image`?), se o campo "Ref" aceita **áudio**, se Start & end frame aceita referências extras, e as resoluções disponíveis acima de 480p.
+- ✅ O campo de referência **aceita áudio** (aparece como "Song / MP3"). ❓ Falta testar **como o H3 usa esse áudio**: (A) amostra de voz para falas novas, (B) faixa que a personagem dubla tal como está, ou (C) música de fundo. Teste descrito em "Teste de áudio" abaixo.
+- ❓ A confirmar: os nomes exatos das referências depois do upload (`@image1`? `@image`?), se Start & end frame aceita referências extras, e as resoluções disponíveis acima de 480p.
+
+### Teste de áudio (pendente)
+Omni Reference · 480p · 4 s · 16:9. Subir `claire_ref-SC001_t04s.jpg` e `claire_bennett_voice-ref_v02.wav`. Prompt pedindo uma **fala nova** ("Excellent. A refrigerator full of ambition.") na voz do áudio.
+- **Resultado A**, ela diz a fala nova na voz da Claire → método: referência de voz no prompt (o mais simples).
+- **Resultado B**, ela dubla o conteúdo do arquivo ("I'm aware…") → método: **gerar antes o áudio de cada fala** (Gerador de áudio, com a voz da personagem) e subir esse áudio como a faixa que ela dubla.
+- **Resultado C**, o áudio vira música de fundo, sem sincronia → o campo não serve para voz; a fala vem do áudio nativo descrito no prompt + correção de voz na pós.
 
 ### Qual modo usar em cada plano
 | Tipo de plano | Modo | Por quê |
