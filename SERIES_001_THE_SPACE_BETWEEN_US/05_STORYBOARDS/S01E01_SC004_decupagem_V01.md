@@ -1,6 +1,6 @@
 # S01E01 · SC004 — THE MORNING AFTER · Decupagem V01
 
-**Status:** PROPOSTA · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-13
+**Status:** ✅ APROVADA (2026-11-13) · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-13
 **Duração:** roteiro 1:17 · **soma ≈ 1:21** · **23 planos** · ferramenta: buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
