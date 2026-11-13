@@ -31,9 +31,15 @@
 
 ## Planos
 
-### SH01 · SF · início `KF-TOP` → fim `KF-2S` · 6 s
-> High angle over the white architectural model. A woman's fingers place the smallest model tree near the entrance, then withdraw. The camera slowly rises and pulls back, revealing two women seated facing each other across the desk at golden hour, the sunset skyline behind them. Sound: quiet office ambience.
-*Plano B: se a subida falhar, gerar só o KF-TOP estático (4 s) e cortar para o SH03.*
+### SH01 → dividido em **SH01A + SH01B** (correção de 2026-11-13)
+**Por quê:** o teste V01 com o início `KF-TOP` e o fim `KF-2S` falhou. As duas imagens mostram a maquete de **lados diferentes**, então o H3 não consegue fazer um movimento contínuo entre elas: no meio ele "derrete" a cena (braços soltos, a maquete gira) e as duas mulheres surgem de repente. Ver a regra **L9** no manual de produção.
+**Aproveitamento do teste V01 (sem gastar crédito):** na montagem, use **0,0–1,9 s** (a mão ajustando a árvore) e **3,6–5,9 s** (o plano a duas já assentado), com um **corte seco** entre os dois trechos. Se ficar bom, não é preciso gerar de novo.
+
+#### SH01A · SF · só início `KF-TOP` · 4 s
+> Static high angle over the white architectural model. A woman's fingers place the smallest model tree near the entrance, make one tiny adjustment, and withdraw out of frame. Nothing else moves. Warm golden-hour light. Sound: quiet office ambience, a faint tick.
+
+#### SH01B · SF · só início `KF-2S` · 4 s
+> Static side two-shot. Claire, on the left, looks down at the model in concentration; Maya, on the right, chin on her hand, watches her, amused. Only small, natural movements: breathing, a blink, Maya's slight smile. The camera does not move. Sound: quiet office ambience.
 
 ### SH02 · SF · `KF-INS-TREE` · 4 s
 > Static macro. Her fingers make a minute adjustment to the tiny model tree, then hold still. Shallow depth of field, warm light. Sound: a faint tick.
