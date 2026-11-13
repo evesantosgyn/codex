@@ -93,6 +93,7 @@ Legenda de status:
 | P-12 | **Keyframes no ChatGPT**, um chat novo por cena, com o briefing fixo do estúdio + o pacote da cena e as imagens de referência anexadas. Os plates gerados no Canva ficam descartados | APROVADO (2026-11-12) |
 | P-11 | **Falas fora de quadro (V.O.)**: gerar no H3 planos-fonte da personagem falando, com a referência de voz, e usar só o áudio, com EQ de celular (P16) | APROVADO (2026-11-12) |
 | P-10 | Referências de voz **v02** (substituem a v01): Claire 5,6 s = SC001 5,0–6,4 + 9,55–11,15 + 13,0–15,0 s; Maya 6,85 s = SC001 2,0–4,0 + 7,0–9,5 + 11,2–12,95 s. Trechos indicados pelo responsável, ajustados aos cortes de plano | APROVADO (2026-11-12) |
+| P-14 | **Regra L9** aprovada: no Start & end frame, início e fim precisam ser compatíveis (mesmo lado e eixo); senão, dividir com corte. SC001 SH01 dividida em SH01A + SH01B; o teste V01 pode ser aproveitado em dois trechos (0,0–1,9 s e 3,6–5,9 s) | APROVADO (2026-11-13) |
 | P-08 | **Lições L1–L8** do teste da SC001 viram regras de produção do estúdio (`00_ESTUDIO/03_manual-producao-ia.md` §12 e `templates/checklist-pre-geracao.md`) | APROVADO (2026-11-12) |
 | P-07 | **Vozes: áudio nativo do MiniMax H3**; identidade vocal por clipes de referência (Voice Identity Pack, ver manual de ferramentas) | APROVADO (2026-11-12) |
 | P-03 | Prioridade: Location Identity Pack do escritório de Claire | RECOMENDADO |

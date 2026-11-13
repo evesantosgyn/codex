@@ -31,6 +31,9 @@ Cena: ______ · Decupagem: ______ · Data: ______
 - ☐ Clipe de referência de voz de cada personagem que fala (Voice Identity Pack) carregado na geração.
 - ☐ Personagem sem voz definida: gerar e aprovar a voz **antes** da cena inteira.
 
-## 7. Técnico
+## 7. Start & end frame (L9)
+- ☐ Imagem inicial e final **compatíveis**: mesmo lado, mesmo eixo, objetos nas mesmas posições (só muda a distância). Se não forem, dividir em dois planos com corte.
+
+## 8. Técnico
 - ☐ Duração pedida ≥ mínimo da ferramenta (no H3, 4–5 s); o corte fino fica para a montagem.
 - ☐ Resolução e proporção de saída anotadas (o master final é **3840 × 2160**, 16:9).
