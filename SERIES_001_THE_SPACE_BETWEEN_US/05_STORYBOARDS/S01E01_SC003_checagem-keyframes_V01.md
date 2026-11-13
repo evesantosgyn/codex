@@ -25,4 +25,4 @@
 | C1 (V02), C2, C3, C4 | ✅ | Cabelo castanho-escuro, batom vinho, sem blazer; relógio no pulso esquerdo |
 | 2S-FRAME | ✅ | **O batente divide o quadro**: Olivia fora, na luz fria; Claire dentro, no âmbar |
 | INS-DOOR-HAND | ✅ | |
-| **C10 (V02)** | ⚠️ **Decisão** | A entrada bate com o PLATE-S ✔ e o cabelo de Claire está castanho-escuro ✔, mas **a cozinha diverge da SC002**: pendentes de **cúpula de latão** (na SC002 são **globos de vidro âmbar**), **maçãs vermelhas** (na SC002 são verdes), hortênsias brancas na ilha |
+| **C10 (V02 → V03)** | ✅ **V03 aprovada** (pendentes de vidro âmbar e maçãs verdes corrigidos; hortênsias aceitas) | A entrada bate com o PLATE-S ✔ e o cabelo de Claire está castanho-escuro ✔, mas **a cozinha diverge da SC002**: pendentes de **cúpula de latão** (na SC002 são **globos de vidro âmbar**), **maçãs vermelhas** (na SC002 são verdes), hortênsias brancas na ilha |

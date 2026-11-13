@@ -103,10 +103,10 @@ Depois, SF · 4 s:
 ### SH22 · SF · keyframe `KF-INS-PHONE` · 4 s
 > Static camera. The phone on the marble counter lights up again; the bright white screen stays plain. Sound: notification chime.
 
-### SH23 · SF · keyframe inicial `KF-C10` · **keyframe final = primeiro quadro da SC003 (pendente)** · 5 s
+### SH23 · SF · início `S01E01_SC003_KF-C10_V03` → fim `S01E01_SC003_KF-C-DOOR_V01` · 5 s
 > Static camera, wide shot from the kitchen looking toward the front door at the far end. She sets down her glass and walks away from camera toward the door, smaller with each step. Her hair stays dark brown, long and wavy. Sound: footsteps, rain.
 
-**Só gerar depois do pacote da SC003**, com o último quadro definido.
+Junção pronta (2026-11-13): use o C10 V03 e o C-DOOR da SC003.
 
 ---
 

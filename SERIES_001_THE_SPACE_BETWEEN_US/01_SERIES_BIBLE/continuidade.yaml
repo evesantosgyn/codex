@@ -84,7 +84,7 @@ personagens:
       SC003: "casaco longo de lã verde-oliva escuro, ombros molhados; suéter de tricô marrom; cabelo solto, pontas úmidas; maquiagem mínima; sem bolsa (V26)"
       SC005-SC009: "L1 trabalho: camisa utilitária verde-oliva aberta, top preto, cargo escura, coturno, câmera"
     voz:
-      referencia: "06_GENERATED_ASSETS/VOICES/olivia_hayes_voice-ref_v01.wav (A CRIAR no Gerador de áudio do buzzy)"
+      referencia: "a definir na edição (V31): gerar sem referência e aplicar a voz escolhida por conversão speech-to-speech"
       registro: "americana, médio-grave, levemente rouca, calorosa, sem pressa; frases curtas, pausas antes do que é honesto (V28)"
 
   maya_reed:
