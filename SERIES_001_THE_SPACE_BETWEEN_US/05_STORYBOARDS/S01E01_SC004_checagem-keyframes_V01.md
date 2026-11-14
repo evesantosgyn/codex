@@ -38,3 +38,4 @@ Comparação de pixels com a rodada 1: **C4_V04 e C6_V04 são idênticas** às v
 | INS-BUTTON, INS-PLUG | ⚠️ Cafeteira diferente | Mostram uma máquina **preta com porta-filtro**; C1 V05, INS-CUP e INS-SPILL mostram a máquina **inox com reservatório**. Uma das duas tem que valer |
 
 **Recomendação:** a **máquina inox do C1 V05** fica como a oficial (aparece em 3 aprovados); refazer BUTTON e PLUG com ela. Para C2, C3, C4 e C6, **gerar do zero** usando o C1 V05 e o PLATE-MORNING como referência de cenário, em vez de "corrigir" as imagens antigas (o ChatGPT não mudou o fundo nas tentativas de correção).
+| C2 | V06 | ✅ Aprovado (2026-11-14) | Cozinha certa (armários escuros, mármore, pendentes de vidro, janelas com gotas, tigela de bronze, cafeteira inox, sacola kraft). Luz mais fria e nublada que o C1 V05: igualar na correção de cor |
