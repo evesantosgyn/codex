@@ -23,3 +23,18 @@
 | C2, C3, C4, C6 | ❌ Refazer | Outra cozinha (ver acima). Pose, figurino e rosto ótimos: usar como referência de pose |
 
 **Placar:** 5 aprovados · 3 retoques · 6 a refazer (C1–C4, C6, INS-SPILL).
+
+## Rodada 2 (2026-11-14): "finais revisados"
+Comparação de pixels com a rodada 1: **C4_V04 e C6_V04 são idênticas** às versões anteriores (diferença 0); **C3_V06 é praticamente igual** (diferença mínima); **C2_V05 mudou, mas continua na outra cozinha**. Só foram renomeadas.
+
+| Keyframe | Veredito | Observação |
+|---|---|---|
+| **C1 V05** | ✅ | **Cozinha certa** (armários escuros, mármore, janela com gotas), cabelo solto, sem batom ✔ |
+| INS-CONTACT V03 | ✅ | Sem a xícara ✔ |
+| INS-PHONE-RING V03 | ✅ | Sem a caneca e sem as linhas de vibração ✔ |
+| INS-CUP V02 | ✅ | Xícara um pouco fora do bico ✔ |
+| INS-SPILL V03 | ✅ | Xícara quase vazia, poça no balcão, sacola fechada ✔ |
+| C2, C3, C4, C6 | ❌ Continuam na outra cozinha | Jiboia pendente, janelas de grade de aço com tijolo, hortênsias |
+| INS-BUTTON, INS-PLUG | ⚠️ Cafeteira diferente | Mostram uma máquina **preta com porta-filtro**; C1 V05, INS-CUP e INS-SPILL mostram a máquina **inox com reservatório**. Uma das duas tem que valer |
+
+**Recomendação:** a **máquina inox do C1 V05** fica como a oficial (aparece em 3 aprovados); refazer BUTTON e PLUG com ela. Para C2, C3, C4 e C6, **gerar do zero** usando o C1 V05 e o PLATE-MORNING como referência de cenário, em vez de "corrigir" as imagens antigas (o ChatGPT não mudou o fundo nas tentativas de correção).
