@@ -1,7 +1,7 @@
 # S01E01 · SC006 — PROFESSIONAL BOUNDARIES · Decupagem V01
 
 **Status:** PROPOSTA · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-16
-**Duração:** roteiro 1:45 · **soma ≈ 1:33** (as pausas de reação se estendem na montagem) · **28 planos** · buzzy.now / MiniMax-H3
+**Duração:** roteiro 1:45 · **soma ≈ 1:33** (as pausas de reação se estendem na montagem) · **27 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
 - **Intenção:** Claire, no auge do controle profissional, descobre **pelo slide** que a documentarista é Olivia. O choque vira comédia: ela tenta voltar à apresentação e só piora ("the eastern façade… Then the documentary is our primary concern"). **Virada:** Olivia vai continuar na vida dela.
@@ -57,7 +57,7 @@
 | SH26 | 4 s | KF-M2 | Maya olha do slide para Claire: entendeu | MAYA: "Something tells me this is going to be interesting." |
 | SH27 | 4 s | KF-C1 | Claire não responde; os olhos fixos na planta | → CUT TO |
 
-**Total ≈ 93 s.** (Os SH numerados vão de 01 a 27; o SH12 é o avanço.)
+**Total ≈ 93 s.** (O SH12 é o avanço lento.)
 
 ## Keyframes (10)
 KF-PLATE-ROOM (a sala vazia, de dia) · KF-WS · KF-C1 (Claire de pé na tela, plano médio) · KF-C2 (close de Claire) · KF-OTS-SCREEN (por cima do ombro de Claire para a tela) · KF-INS-SCREEN (a tela de frente) · KF-INS-REMOTE · KF-M1 (Maya sentada, plano médio) · KF-M2 (close de Maya) · KF-TEAM (os dois figurantes)
@@ -73,7 +73,7 @@ Claire e Maya com as referências v02 (método A). Os figurantes não falam.
 | Avanço no close | Curto (~10% do quadro); se deformar, plano parado |
 
 ## Para aprovação
-1. A decupagem (28 planos, ~1:33) com **um único avanço lento** quando Claire vê o nome.
+1. A decupagem (27 planos, ~1:33) com **um único avanço lento** quando Claire vê o nome.
 2. **Claire de L5** (seda preta + pantalona creme, batom de volta) e **Maya de L2** (preto).
 3. **Os dois figurantes** da equipe.
 4. **Dia nublado** pelas janelas.
