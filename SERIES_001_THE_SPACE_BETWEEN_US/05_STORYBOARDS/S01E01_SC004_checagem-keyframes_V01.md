@@ -43,3 +43,6 @@ Comparação de pixels com a rodada 1: **C4_V04 e C6_V04 são idênticas** às v
 | C4 | V05 | ✅ Aprovado (2026-11-14) | Cozinha certa; braços cruzados; celular no mármore em viva-voz; mesma luz nublada. A tela mostra uma interface de chamada pequena e ilegível; coerente com a ligação, o editor pode compor a tela na pós |
 | C6 | V05 | ✅ Aprovado (2026-11-16) | Cozinha certa; xícara branca na boca com careta; mesma luz nublada; sem batom, sem relógio |
 | INS-BUTTON | V02 | ✅ Aprovado (2026-11-16) | Cafeteira inox (a oficial) ✔; manga do pijama ✔; backsplash de mármore e sacola kraft ao fundo ✔ |
+| INS-PLUG | V02 | ✅ Aprovado (2026-11-16) | Cafeteira inox ✔; plugue fora da tomada ✔. Detalhe menor: o plugue tem três pinos redondos, que não encaixariam na tomada americana; aceitável num insert de 3 s |
+
+**SC004: os 14 keyframes estão aprovados.** Versões finais: PLATE-MORNING V01 · INS-BUTTON V02 · INS-PLUG V02 · C1 V05 · C2 V06 · C3 V07 · INS-CONTACT V03 · INS-PHONE-RING V03 · C4 V05 · C5 V02 · INS-CUP V02 · C6 V05 · INS-SPILL V03 · INS-CLOCK V01. **Luz oficial da cena:** manhã fria e nublada com gotas no vidro (C2–C6); o C1 V05 (mais dourado) é esfriado na correção de cor. **Cafeteira oficial:** a inox com reservatório.
