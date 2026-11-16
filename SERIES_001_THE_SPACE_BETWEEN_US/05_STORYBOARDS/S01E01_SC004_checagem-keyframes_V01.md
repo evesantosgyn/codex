@@ -42,3 +42,4 @@ Comparação de pixels com a rodada 1: **C4_V04 e C6_V04 são idênticas** às v
 | C3 | V07 | ✅ Aprovado (2026-11-14) | Cozinha certa; celular na mão; pijama, cabelo solto com franja, sem batom, sem relógio. Mesma luz fria e nublada do C2 V06 |
 | C4 | V05 | ✅ Aprovado (2026-11-14) | Cozinha certa; braços cruzados; celular no mármore em viva-voz; mesma luz nublada. A tela mostra uma interface de chamada pequena e ilegível; coerente com a ligação, o editor pode compor a tela na pós |
 | C6 | V05 | ✅ Aprovado (2026-11-16) | Cozinha certa; xícara branca na boca com careta; mesma luz nublada; sem batom, sem relógio |
+| INS-BUTTON | V02 | ✅ Aprovado (2026-11-16) | Cafeteira inox (a oficial) ✔; manga do pijama ✔; backsplash de mármore e sacola kraft ao fundo ✔ |
