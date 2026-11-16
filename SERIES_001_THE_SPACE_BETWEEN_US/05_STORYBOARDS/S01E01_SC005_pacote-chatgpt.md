@@ -22,7 +22,7 @@ Pasta do repositório `evesantosgyn/codex`: `SERIES_001_THE_SPACE_BETWEEN_US/`
 | **R4** | `03_LOCATIONS/CAFE_MANHATTAN/cafe_prancha-SC005.webp` | O café: mesa de mármore na janela, cadeiras de madeira curvada, balcão, vitrine, máquina de espresso, plantas, paleta |
 
 ⚠️ Em R1 Olivia está de **casaco molhado e cabelo solto**: use R1 **só para o rosto**. O look desta cena está na seção 3.
-⚠️ Na fachada de R4 aparece um nome no toldo: **não copie o nome**. A fachada desta cena é **sem texto**.
+⚠️ Na fachada de R4 aparece outro nome no toldo: **não copie esse nome**. O nome do café é **THE QUIET HOUR**, escrito no toldo (ver KF-EXT).
 
 ## 3. Personagens (traços FIXOS + look da cena)
 **OLIVIA HAYES**, 33 anos.
@@ -46,7 +46,7 @@ Pasta do repositório `evesantosgyn/codex`: `SERIES_001_THE_SPACE_BETWEEN_US/`
 - **Planos de Olivia:** por cima do ombro de June; atrás de Olivia, a **janela com a rua molhada**.
 - **Planos de June:** por cima do ombro de Olivia; atrás de June, o **interior do café** (balcão, vitrine, luz quente).
 - **Luz:** **manhã nublada depois da chuva**: pela janela, rua molhada com poças e pessoas de casaco; dentro, luz suave e quente. A mesma luz em todas as imagens.
-- **Sem texto legível:** fachada sem letreiro; tela do laptop clara; cardápio de lousa ilegível ou fora de quadro.
+- **Texto:** o **único texto permitido** é o letreiro **THE QUIET HOUR** na fachada (KF-EXT). Todo o resto sem texto legível: tela do laptop clara, crachá ilegível, cardápio de lousa ilegível ou fora de quadro.
 
 ## 5. Keyframes (gerar nesta ordem)
 
@@ -62,7 +62,7 @@ Pasta do repositório `evesantosgyn/codex`: `SERIES_001_THE_SPACE_BETWEEN_US/`
 | ID | Refs | Prompt |
 |---|---|---|
 | **KF-PLATE-TABLE** | R4 | The café corner from R4 on an overcast morning, no people: a round marble table by a large window with a wet street and puddles outside; two curved wooden chairs; a brown leather bench with a knit throw; warm café interior. 16:9, 35mm. |
-| **KF-EXT** | R4 | Exterior of a small independent Manhattan café on an overcast morning after rain: dark storefront with large windows glowing warm, a dark awning **with no text or lettering at all**, potted plants, a bench, wet sidewalk with puddles reflecting the light, a few passersby in coats. 16:9, 35mm. |
+| **KF-EXT** | R4 | Exterior of a small independent Manhattan café on an overcast morning after rain: dark storefront with large windows glowing warm, a dark awning with the café's name written on it in elegant white serif capital letters, spelled exactly **"THE QUIET HOUR"** (no other words, no other text anywhere), potted plants, a bench, wet sidewalk with puddles reflecting the light, a few passersby in coats. 16:9, 35mm. |
 | **KF-COUNTER** | R4 | The café's wooden and brass espresso bar: a barista's hands working the chrome espresso machine, steam rising, cups on top, pastry case beside it, warm light; no readable text. 16:9, 50mm. |
 | **KF-2S** | R1–R4 | Side two-shot at the window table: Olivia on the left by the window (messy bun, olive-green shirt) gazing out at the wet street; June on the right (burgundy sweater, laptop open) reading her schedule. Lattes on the table, the green camera bag on the bench. Overcast window light, warm café interior. 16:9, 35mm. |
 
@@ -74,9 +74,15 @@ Pasta do repositório `evesantosgyn/codex`: `SERIES_001_THE_SPACE_BETWEEN_US/`
 | **KF-INS-LAPTOP** | R3, R4 | Close-up of June's hands half-closing a silver laptop on the marble table (screen not readable); latte beside it; burgundy sweater cuffs. 16:9, 85mm. |
 | **KF-INS-STIR** | R1, R4 | Close-up of Olivia's hand with thin gold rings stirring a latte with a small spoon on the marble table; olive-green shirt cuff; soft window light. 16:9, 85mm. |
 
-## 6. Critérios de aprovação
+## 6. Autochecagem OBRIGATÓRIA em TODAS as imagens
+Depois de **cada** imagem, antes de eu aprovar, responda nesta forma (como manda o briefing), sem pular nenhuma:
+`[ID] · rosto ✔/✖ · cabelo ✔/✖ · pinta (Olivia) ✔/✖ · figurino ✔/✖ · cenário ✔/✖ · luz ✔/✖ · texto ✔/✖ · observação: …`
+- **Texto:** só o KF-EXT pode ter texto, e tem que ser **exatamente "THE QUIET HOUR"**, sem letras trocadas ou faltando. Se sair errado, diga e refaça.
+- Se qualquer item for ✖, diga qual e proponha a correção **antes** de seguir para o próximo ID.
+
+## 7. Critérios de aprovação
 - **Olivia:** rosto igual a R1; **pinta do lado esquerdo dela**; **coque bagunçado**; camisa verde-oliva; bolsa de câmera.
 - **June:** rosto igual a R3; cabelo liso na clavícula; **suéter bordô**; crachá; laptop.
 - Posições: Olivia à esquerda, junto à janela; June à direita.
 - Manhã nublada, rua molhada pela janela; luz quente dentro.
-- Nenhum texto legível: fachada sem nome, laptop sem texto, crachá ilegível.
+- Letreiro **"THE QUIET HOUR"** escrito corretamente na fachada; nenhum outro texto legível (laptop, crachá, cardápio).
