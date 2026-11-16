@@ -16,3 +16,6 @@
 | **J2** | ❌ **Refazer** | **Eixo invertido:** atrás de June aparece a **janela com chuva**, que fica atrás de Olivia. Atrás de June tem que ser o **interior do café**, como no J1. E ela olha para o laptop; o plano pede June **olhando para Olivia**, séria |
 
 **Placar:** 9 aprovados · 1 a refazer (J2).
+| **J2** | V02 | ✅ Aprovado (2026-11-16) | Interior do café atrás de June ✔ (balcão, vitrine); olhando para a esquerda, para Olivia, séria ✔; suéter bordô e crachá ✔. Cabelo com um leve tom avermelhado em relação ao J1: igualar na cor |
+
+**SC005: os 10 keyframes estão aprovados.** Versões finais: EXT V01 · COUNTER V01 · PLATE-TABLE V01 · 2S V02 · J1 V01 · J2 V02 · O1 V01 · O2 V01 · INS-LAPTOP V01 · INS-STIR V01.
