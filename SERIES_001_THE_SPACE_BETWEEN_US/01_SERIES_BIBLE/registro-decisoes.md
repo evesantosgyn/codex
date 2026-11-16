@@ -26,6 +26,7 @@ Legenda de status:
 | N13 | Claire mora no mesmo apartamento há mais de sete anos; Olivia conhece o prédio e o porteiro (P15) | APROVADO (2026-11-12) | Avaliação V3.1, C6 |
 | N14 | June Park conhece o segredo de Olivia | APROVADO (2026-11-12) | SC009 |
 | N19 | **SC001: refação da produção AUTORIZADA** pelo responsável (2026-11-12), com o método novo e as regras L1–L8. O vídeo V00 deixa de ser o final e passa a ser **referência** de bloqueio, geografia, ritmo e atuação. Falas e roteiro inalterados; as referências de voz extraídas dele continuam valendo | APROVADO (2026-11-12) | Autorização explícita |
+| N28 | **SC009 decupagem V01 APROVADA** (35 planos, ~1:18 na montagem; duas metades: comédia Claire × Maya e gancho Olivia × June; o vidro do escritório separa as histórias; único avanço sobre Olivia no SH33; CUT TO BLACK na pasta fechando) | APROVADO (2026-11-16) | Decupagem SC009 V01 |
 | N27 | **SC008 decupagem V01 APROVADA** (40 planos, ~1:46; travessia de Olivia para o lado da janela como virada visual; closes a partir de "I learned from the best"; único avanço no plano a duas, SH33; o sorriso de Claire escapa no fim) | APROVADO (2026-11-16) | Decupagem SC008 V01 |
 | N26 | **SC007 decupagem V01 APROVADA** (36 planos, ~1:28 na montagem; escalada de plano médio para close em "There will be boundaries"; perfil a duas parado no SH35; sem avanço de câmera) | APROVADO (2026-11-16) | Decupagem SC007 V01 |
 | N25 | **SC006 decupagem V01 APROVADA** (27 planos, ~1:33; um único avanço lento quando Claire vê o nome; Maya entende no fim, só com o olhar) | APROVADO (2026-11-16) | Decupagem SC006 V01 |
@@ -68,6 +69,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V50 | **SC009:** luz de **hora azul virando noite** (o escritório de Claire é a ilha quente; open space na penumbra); looks do dia (Claire L5, Maya L2, Olivia L1, June L5 **com o sobretudo caramelo**, de saída); cafés em copos kraft; **o nome da empresa no documento fica ILEGÍVEL** (revelação para episódios futuros); o riso de Claire visto pelo vidro, só abafado | APROVADO (2026-11-16) | Decupagem SC009 V01 |
 | V49 | **SC008: 12 keyframes aprovados** (WS V01, O1 V01, O-LOW V01, O2 V01, O3 V01, INS-CAM V01, C1 V02 sem blazer, C2 V01, C3 V01 contido, **C3-SMILE V01** só para o SH40, INS-MODEL V01, 2S V02 com o skyline). Aceitos pelo responsável: **duas pintas no O2**; **a maquete da tarde** (base de madeira, telhados verdes) diferente da do WS. **Tatuagem de câmera** fica com a referência visual no INS-CAM | APROVADO (2026-11-16) | Checagem SC008 |
 | V48 | **Marcas de produtos podem aparecer** nas imagens (ex.: a maçã no laptop de Claire no KF-WS da SC008), por escolha do responsável. Risco registrado: logotipos reais podem pesar na monetização e na distribuição; revisar no QC final de cada plataforma. **KF-WS V01 da SC008 aprovado** (luz de fim de tarde pelo oeste) | APROVADO (2026-11-16) | Checagem SC008 |
 | V47 | **SC008:** locação = a sala de reuniões de vidro; **as janelas da sala são o lado oeste**. Luz: **fim de tarde, o nublado abre, sol baixo e quente pelo oeste**. Claire L5; Olivia L1 com coque, câmera nas mãos, bolsa numa cadeira, mangas dobradas; **primeira aparição da tatuagem de câmera** (antebraço interno esquerdo) no insert da câmera. Maya não aparece | APROVADO (2026-11-16) | Decupagem SC008 V01 |
@@ -125,6 +127,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-16 | SC009: decupagem aprovada (N28); luz, looks e documento ilegível (V50) | Showrunner GL AI |
 | 2026-11-16 | SC008: 12 keyframes aprovados (V49) | Showrunner GL AI |
 | 2026-11-16 | Marcas de produtos liberadas nas imagens; KF-WS da SC008 aprovado (V48) | Showrunner GL AI |
 | 2026-11-16 | SC008: decupagem aprovada (N27); locação, luz de fim de tarde pelo oeste e tatuagem (V47) | Showrunner GL AI |

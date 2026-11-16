@@ -1,6 +1,6 @@
 # S01E01 · SC009 — THIS CHANGES NOTHING · Decupagem V01
 
-**Status:** PROPOSTA (2026-11-16) · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-16
+**Status:** ✅ APROVADA (2026-11-16), com todas as propostas · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-16
 **Duração:** roteiro 1:15 · **soma ≈ 1:26** (as réplicas rápidas apertam na montagem para ~1:18) · **35 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
