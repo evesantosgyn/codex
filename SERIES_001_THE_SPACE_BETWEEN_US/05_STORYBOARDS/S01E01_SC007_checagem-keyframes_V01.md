@@ -1,5 +1,7 @@
 # Checagem de keyframes — S01E01 · SC007 "Strictly Professional" · V01
 
+**Status:** ✅ FECHADA (2026-11-16, V46). Recebidos: C1 V02 (sem a pessoa em primeiro plano), O1 V02 (com a pinta), 2S V03 (lados corrigidos). O2 V01 e DOOR V03 ficam como estão: o responsável achou a pinta suficiente.
+
 **Data:** 2026-11-16 · **Base:** decupagem V01 (APROVADA), pacote ChatGPT SC007, V45, `continuidade.yaml`
 **Recebido:** `S01E01_SC007_KEYFRAMES_APROVADOS.zip` (9 imagens, 16:9)
 

@@ -67,6 +67,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V46 | **SC007: keyframes aprovados** (WS V02, C1 V02 sem a pessoa em primeiro plano, C2 V01, C3 V01, M1 V03, DOOR V03, O1 V02 com a pinta, O2 V01, 2S V03 com os lados corrigidos). Na DOOR e no O2 a pinta fica como está (pouco visível, aceita pelo responsável) | APROVADO (2026-11-16) | Checagem SC007 V01 |
 | V45 | **SC007:** Claire L5 e Maya L2 (como na SC006); Olivia L1 com coque bagunçado e bolsa de câmera (V35); dia nublado; **tela desligada (preta)**; os figurantes saem no SH01; Maya sai pela porta de vidro ao fundo do plano de Olivia | APROVADO (2026-11-16) | Decupagem SC007 V01 |
 | V44 | **SC006: keyframes aprovados** (PLATE-ROOM, C1, C2 V02, OTS-SCREEN V02, OTS-SCREEN-OLD V01, INS-REMOTE, INS-SCREEN V02 (recorte do OTS), M1 V03, M2, TEAM, WS V05). **Figurantes substituídos:** homem ~30 de óculos e suéter escuro; mulher ~30 de blazer bege, cabelo cacheado preso (substitui a descrição da V42). **SH03 sai** (o clique vira som no fim do SH02): a cena fica com 26 planos, ~1:29. O título "The Space Between Us" na capa do projeto fica como está | APROVADO (2026-11-16) | Checagem SC006 V01 |
 | V43 | **SC006: slides gerados na própria imagem** (escolha da produção; substitui o "slides compostos na pós" da V42). Grafia conferida. Subtítulo da capa em inglês ("ADAPTIVE REUSE PROPOSAL"). No C1, câmera parada, a tela é trocada na pós com o slide de cada momento (capa, Olivia, planta) | APROVADO (2026-11-16) | Checagem SC006 V01 |
@@ -120,6 +121,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-16 | SC007: keyframes aprovados (V46) | Showrunner GL AI |
 | 2026-11-16 | SC007: decupagem aprovada (N26) e looks, tela e figurantes (V45) | Showrunner GL AI |
 | 2026-11-16 | SC006: keyframes aprovados; slides gerados na imagem (V43); figurantes novos, SH03 sai (V44) | Showrunner GL AI |
 | 2026-11-12 | Base de conhecimento criada a partir da Ficha Técnica e do Histórico de Desenvolvimento | Showrunner GL AI |
