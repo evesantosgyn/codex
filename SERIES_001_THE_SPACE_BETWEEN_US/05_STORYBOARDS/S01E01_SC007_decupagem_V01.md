@@ -1,6 +1,6 @@
 # S01E01 · SC007 — STRICTLY PROFESSIONAL · Decupagem V01
 
-**Status:** PROPOSTA (2026-11-16) · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-16
+**Status:** ✅ APROVADA (2026-11-16), com todas as propostas · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-16
 **Duração:** roteiro 1:25 · **soma ≈ 1:35** (a montagem aperta as réplicas curtas para ~1:28) · **36 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
