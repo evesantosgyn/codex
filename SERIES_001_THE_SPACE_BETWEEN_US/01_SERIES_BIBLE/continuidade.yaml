@@ -176,7 +176,7 @@ cronologia_piloto:
   - {cena: SC005, dia: 2, dia_semana: sexta, periodo: manhã, local: cafe_manhattan, nota: "acesso ao canteiro 'Monday', entrevistas 'Tuesday', reunião com arquitetura 'today'"}
   - {cena: SC006, dia: 2, dia_semana: sexta, periodo: dia, local: escritorio_claire}
   - {cena: SC007, dia: 2, dia_semana: sexta, periodo: dia, local: escritorio_claire}
-  - {cena: SC008, dia: 2, dia_semana: sexta, periodo: mais tarde, local: escritorio_claire}
+  - {cena: SC008, dia: 2, dia_semana: sexta, periodo: "fim de tarde, sol baixo pelo oeste (V47)", local: "escritorio_claire, sala de reuniões de vidro"}
   - {cena: SC009, dia: 2, dia_semana: sexta, periodo: noite, local: escritorio_claire}
 
 material_aprovado:
