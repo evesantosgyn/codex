@@ -69,6 +69,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V52 | **SC009: 14 keyframes aprovados** (WS V01, C1 V02 com o relógio no pulso esquerdo, C2 V02 sem blazer, M1 V01 com dois cafés, **M1-B V01 com um café** para depois da entrega, INS-COFFEE V02 recortado sem o pulso, POV V02 através do vidro, O-PACK V01, J1 V01, INS-FOLDER V01, INS-DOCS V01, O1 V01, **O1-B V01** olhando para June, O2 V01). Aceitos: o O-PACK mais quente (o editor esfria na cor) e o relógio pequeno no pulso direito do POV, a distância | APROVADO (2026-11-16) | Checagem SC009 |
 | V51 | **SC009, INS-DOCS:** a pasta mostra fotos antigas do prédio, uma foto de moradores e uma foto de **duas mulheres rindo**, que são **moradoras anônimas** fotografadas por Olivia na investigação (**não são Claire e Olivia**). O timbre fica ilegível. Na montagem, essa foto pode ficar levemente desfocada para não induzir leitura errada | APROVADO (2026-11-16) | Checagem SC009 |
 | V50 | **SC009:** luz de **hora azul virando noite** (o escritório de Claire é a ilha quente; open space na penumbra); looks do dia (Claire L5, Maya L2, Olivia L1, June L5 **com o sobretudo caramelo**, de saída); cafés em copos kraft; **o nome da empresa no documento fica ILEGÍVEL** (revelação para episódios futuros); o riso de Claire visto pelo vidro, só abafado | APROVADO (2026-11-16) | Decupagem SC009 V01 |
 | V49 | **SC008: 12 keyframes aprovados** (WS V01, O1 V01, O-LOW V01, O2 V01, O3 V01, INS-CAM V01, C1 V02 sem blazer, C2 V01, C3 V01 contido, **C3-SMILE V01** só para o SH40, INS-MODEL V01, 2S V02 com o skyline). Aceitos pelo responsável: **duas pintas no O2**; **a maquete da tarde** (base de madeira, telhados verdes) diferente da do WS. **Tatuagem de câmera** fica com a referência visual no INS-CAM | APROVADO (2026-11-16) | Checagem SC008 |
@@ -128,6 +129,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-16 | SC009: 14 keyframes aprovados (V52); piloto com todas as cenas prontas para geração | Showrunner GL AI |
 | 2026-11-16 | SC009: a foto das duas mulheres na pasta são moradoras anônimas (V51) | Showrunner GL AI |
 | 2026-11-16 | SC009: decupagem aprovada (N28); luz, looks e documento ilegível (V50) | Showrunner GL AI |
 | 2026-11-16 | SC008: 12 keyframes aprovados (V49) | Showrunner GL AI |
