@@ -195,4 +195,4 @@ Não salve trabalho que ainda está só **proposto** como se fosse decisão. Ras
 
 | Código | Título | Status | Pasta |
 |---|---|---|---|
-| SERIES_001 | The Space Between Us | Piloto: roteiro V3.2 aprovado; SC001 a SC008 com keyframes aprovados e pacotes do H3 prontos; próxima: SC009 | `SERIES_001_THE_SPACE_BETWEEN_US/` |
+| SERIES_001 | The Space Between Us | Piloto: roteiro V3.2 aprovado; SC001 a SC009 com keyframes aprovados e pacotes do H3 prontos (pré-produção do piloto completa); próxima: geração no H3 e montagem | `SERIES_001_THE_SPACE_BETWEEN_US/` |
