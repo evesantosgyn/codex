@@ -68,6 +68,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V49 | **SC008: 12 keyframes aprovados** (WS V01, O1 V01, O-LOW V01, O2 V01, O3 V01, INS-CAM V01, C1 V02 sem blazer, C2 V01, C3 V01 contido, **C3-SMILE V01** só para o SH40, INS-MODEL V01, 2S V02 com o skyline). Aceitos pelo responsável: **duas pintas no O2**; **a maquete da tarde** (base de madeira, telhados verdes) diferente da do WS. **Tatuagem de câmera** fica com a referência visual no INS-CAM | APROVADO (2026-11-16) | Checagem SC008 |
 | V48 | **Marcas de produtos podem aparecer** nas imagens (ex.: a maçã no laptop de Claire no KF-WS da SC008), por escolha do responsável. Risco registrado: logotipos reais podem pesar na monetização e na distribuição; revisar no QC final de cada plataforma. **KF-WS V01 da SC008 aprovado** (luz de fim de tarde pelo oeste) | APROVADO (2026-11-16) | Checagem SC008 |
 | V47 | **SC008:** locação = a sala de reuniões de vidro; **as janelas da sala são o lado oeste**. Luz: **fim de tarde, o nublado abre, sol baixo e quente pelo oeste**. Claire L5; Olivia L1 com coque, câmera nas mãos, bolsa numa cadeira, mangas dobradas; **primeira aparição da tatuagem de câmera** (antebraço interno esquerdo) no insert da câmera. Maya não aparece | APROVADO (2026-11-16) | Decupagem SC008 V01 |
 | V46 | **SC007: keyframes aprovados** (WS V02, C1 V02 sem a pessoa em primeiro plano, C2 V01, C3 V01, M1 V03, DOOR V03, O1 V02 com a pinta, O2 V01, 2S V03 com os lados corrigidos). Na DOOR e no O2 a pinta fica como está (pouco visível, aceita pelo responsável) | APROVADO (2026-11-16) | Checagem SC007 V01 |
@@ -124,6 +125,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-16 | SC008: 12 keyframes aprovados (V49) | Showrunner GL AI |
 | 2026-11-16 | Marcas de produtos liberadas nas imagens; KF-WS da SC008 aprovado (V48) | Showrunner GL AI |
 | 2026-11-16 | SC008: decupagem aprovada (N27); locação, luz de fim de tarde pelo oeste e tatuagem (V47) | Showrunner GL AI |
 | 2026-11-16 | SC007: keyframes aprovados (V46) | Showrunner GL AI |
