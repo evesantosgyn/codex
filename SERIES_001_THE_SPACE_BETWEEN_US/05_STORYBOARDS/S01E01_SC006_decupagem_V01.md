@@ -1,6 +1,6 @@
 # S01E01 · SC006 — PROFESSIONAL BOUNDARIES · Decupagem V01
 
-**Status:** ✅ APROVADA (2026-11-16), com todas as propostas · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-16
+**Status:** ✅ APROVADA (2026-11-16), com todas as propostas · **Atualizada pela V43/V44:** slides na imagem; SH03 removido; figurantes novos · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-16
 **Duração:** roteiro 1:45 · **soma ≈ 1:33** (as pausas de reação se estendem na montagem) · **27 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
@@ -31,15 +31,15 @@
 |---|---|---|---|---|
 | SH01 | 5 s | KF-WS | Geral da sala de vidro: Claire na tela, a maquete no centro, Maya e a equipe à mesa | — |
 | SH02 | 6 s | KF-C1 | Claire apresenta, segura, controlada | CLAIRE: "The goal isn't simply to preserve the building. It's to make the restoration useful to the neighborhood without erasing what was there before." |
-| SH03 | 2 s | KF-INS-REMOTE | O polegar aperta o controle remoto | clique |
-| SH04 | 5 s | KF-OTS-SCREEN | Por cima do ombro de Claire: na tela, a foto antiga do prédio (pós) | CLAIRE: "The original structure has been part of this community for almost a century. Its history matters." |
+| ~~SH03~~ | — | — | **Removido (V44):** o clique entra como som no fim do SH02 (o INS-REMOTE mostra o slide de Olivia ao fundo) | clique (som) |
+| SH04 | 5 s | KF-OTS-SCREEN-OLD | Por cima do ombro de Claire: na tela, a foto antiga do prédio | CLAIRE: "The original structure has been part of this community for almost a century. Its history matters." |
 | SH05 | 2 s | KF-M1 | Maya assente | — |
 | SH06 | 3 s | KF-M1 | | MAYA: "Which is why communications commissioned an independent documentary." |
 | SH07 | 2 s | KF-C2 | Claire **enrijece, quase imperceptível** | — |
 | SH08 | 5 s | KF-M1 | | MAYA: "They'll be recording the restoration, interviewing residents, and documenting the design process." |
 | SH09 | 2 s | KF-C2 | Tom que diz o contrário | CLAIRE: "Wonderful." |
 | SH10 | 3 s | KF-M1 | Maya clica no laptop | MAYA: "The production team should be here any minute." |
-| SH11 | 3 s | KF-INS-SCREEN | A tela: **"DOCUMENTARY PRODUCTION — OLIVIA HAYES / JUNE PARK"** (pós) | — |
+| SH11 | 3 s | KF-INS-SCREEN V02 | A tela: **"DOCUMENTARY PRODUCTION — OLIVIA HAYES / JUNE PARK"** | — |
 | SH12 | 6 s | KF-C2 | **Avanço lento**: Claire para de respirar por uma fração de segundo | silêncio |
 | SH13 | 2 s | KF-M1 | | MAYA: "Claire?" |
 | SH14 | 2 s | KF-C2 | | CLAIRE: "Yes." |
@@ -57,7 +57,7 @@
 | SH26 | 4 s | KF-M2 | Maya olha do slide para Claire: entendeu | MAYA: "Something tells me this is going to be interesting." |
 | SH27 | 4 s | KF-C1 | Claire não responde; os olhos fixos na planta | → CUT TO |
 
-**Total ≈ 93 s.** (O SH12 é o avanço lento.)
+**Total ≈ 89 s** (26 planos, após a V44). (O SH12 é o avanço lento.)
 
 ## Keyframes (10)
 KF-PLATE-ROOM (a sala vazia, de dia) · KF-WS · KF-C1 (Claire de pé na tela, plano médio) · KF-C2 (close de Claire) · KF-OTS-SCREEN (por cima do ombro de Claire para a tela) · KF-INS-SCREEN (a tela de frente) · KF-INS-REMOTE · KF-M1 (Maya sentada, plano médio) · KF-M2 (close de Maya) · KF-TEAM (os dois figurantes)

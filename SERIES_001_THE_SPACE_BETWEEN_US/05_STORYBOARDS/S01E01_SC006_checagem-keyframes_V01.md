@@ -1,5 +1,7 @@
 # Checagem de keyframes — S01E01 · SC006 "Professional Boundaries" · V01
 
+**Status:** ✅ FECHADA (2026-11-16): todos os pontos aprovados (V43, V44). Correções recebidas: C2 V02, OTS-SCREEN-OLD V01, WS V05. Figurantes e título da capa ficam como estão. Pendente, sem bloquear: `SLIDE-PLAN` (a planta para a tela do C1 no SH25–SH27).
+
 **Data:** 2026-11-16 · **Base:** decupagem V01 (APROVADA), pacote ChatGPT SC006, V42, `continuidade.yaml`
 **Recebido:** `S01E01_SC006_KEYFRAMES_APROVADOS.zip` (10 imagens, 1670×941, 16:9)
 **Nota da produção:** os slides já vêm **escritos nas telas por escolha da produção**. Isso substitui o "slides compostos na pós" da V42 (proposta **V43**, abaixo).
@@ -32,13 +34,13 @@
 6. **TEAM:** saíram um **homem de uns 30 com suéter escuro e óculos** e uma **mulher de uns 30 de blazer bege, cabelo preso**, não o homem de 50 de terno cinza e a mulher de 40 de cardigã e óculos da V42. Os dois são **os mesmos no TEAM e no WS** (coerentes entre si) e não falam.
    → **Recomendo aceitar** e atualizar a descrição dos figurantes.
 7. **WS V03:** (a) **Claire está à ESQUERDA da tela** (no C1 e no OTS ela está à direita): o corte do SH01 para o SH02 inverte a geografia. (b) **Relógio no pulso direito.** (c) Slide com **"PROPOSTA DE REQUALIFICAÇÃO URBANA" em português**, numa empresa de Manhattan.
-   → **Gerar o WS V04**: Claire **à direita da tela** com o controle, relógio no pulso esquerdo, Maya na ponta da mesa mais próxima da câmera, o slide de capa em inglês.
+   → **Gerar o WS V05**: Claire **à direita da tela** com o controle, relógio no pulso esquerdo, Maya na ponta da mesa mais próxima da câmera, o slide de capa em inglês.
 8. **Capa "THE SPACE BETWEEN US":** o projeto de Claire leva o título da série. Pode ser uma piscadela intencional; se não for, use um nome de projeto. **Decisão sua.** Em qualquer caso, o subtítulo em inglês: **"ADAPTIVE REUSE PROPOSAL"**.
 
 ## Para aprovação
 1. **V43:** os slides são gerados **na imagem** (escolha da produção); no C1 (câmera parada), o slide é trocado na pós.
 2. INS-SCREEN V02 (recorte) no lugar do V01.
-3. Correções no ChatGPT: **C2** (olhar), **OTS-SCREEN-OLD**, **WS V04**, **SLIDE-OLD** e **SLIDE-PLAN**.
+3. Correções no ChatGPT: **C2** (olhar), **OTS-SCREEN-OLD**, **WS V05**, **SLIDE-OLD** e **SLIDE-PLAN**.
 4. SH03 sai (clique como som); a decupagem fica com 26 planos, ~1:31.
 5. Figurantes novos aceitos.
 6. Subtítulo da capa em inglês; título do projeto: manter "The Space Between Us" ou trocar.
