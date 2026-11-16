@@ -1,6 +1,6 @@
 # S01E01 · SC005 — THE WOMAN WHO CAME BACK · Decupagem V01
 
-**Status:** PROPOSTA · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-16
+**Status:** ✅ APROVADA (2026-11-16), com todas as propostas · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-16
 **Duração:** roteiro 1:35 · **soma ≈ 1:39** (a montagem aperta as réplicas rápidas) · **39 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual

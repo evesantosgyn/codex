@@ -82,7 +82,7 @@ personagens:
     figurinos_por_cena:
       COLD_OPEN: "mesmo look da SC003"
       SC003: "casaco longo de lã verde-oliva escuro, ombros molhados; suéter de tricô marrom; cabelo solto, pontas úmidas; maquiagem mínima; sem bolsa (V26)"
-      SC005-SC009: "L1 trabalho: camisa utilitária verde-oliva aberta, top preto, cargo escura, coturno, câmera"
+      SC005-SC009: "L1 trabalho: camisa utilitária verde-oliva aberta, top preto, cargo escura, coturno; cabelo em coque bagunçado; bolsa de câmera de lona verde com couro (V35)"
     voz:
       referencia: "a definir na edição (V31): gerar sem referência e aplicar a voz escolhida por conversão speech-to-speech"
       registro: "americana, médio-grave, levemente rouca, calorosa, sem pressa; frases curtas, pausas antes do que é honesto (V28)"
@@ -136,7 +136,8 @@ personagens:
       L4: camisa/overshirt creme, camiseta branca, cargo preta, câmera de vídeo na mão
       L5: suéter bordô, calça preta, sobretudo caramelo no braço, óculos na cabeça
     figurinos_por_cena:
-      SC005-SC009: "L3 suéter de tricô verde-oliva + calça preta + crachá (NÃO usar L1: Olivia está de verde-oliva utilitário)"
+      SC005-SC009: "L5 suéter bordô + calça preta + sobretudo caramelo + crachá de produção (V36; NÃO usar verde-oliva: é a cor de Olivia)"
+    voz: "escolhida na edição por conversão de voz (V38); registro: seca, rápida, americana, médio-grave, deadpan"
     objetos: [laptop (SC005), pasta de arquivo com registros de aquisição (SC009)]
     voz: "PENDENTE: Voice Identity Pack. Registro: seco, pragmático, perguntas inconvenientes."
 
