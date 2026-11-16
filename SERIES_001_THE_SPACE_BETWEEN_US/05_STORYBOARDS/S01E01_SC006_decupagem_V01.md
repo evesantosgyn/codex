@@ -1,6 +1,6 @@
 # S01E01 · SC006 — PROFESSIONAL BOUNDARIES · Decupagem V01
 
-**Status:** PROPOSTA · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-16
+**Status:** ✅ APROVADA (2026-11-16), com todas as propostas · **Roteiro:** Screenplay V3.2 (APROVADO) · **Data:** 2026-11-16
 **Duração:** roteiro 1:45 · **soma ≈ 1:33** (as pausas de reação se estendem na montagem) · **27 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual

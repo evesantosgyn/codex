@@ -26,6 +26,7 @@ Legenda de status:
 | N13 | Claire mora no mesmo apartamento há mais de sete anos; Olivia conhece o prédio e o porteiro (P15) | APROVADO (2026-11-12) | Avaliação V3.1, C6 |
 | N14 | June Park conhece o segredo de Olivia | APROVADO (2026-11-12) | SC009 |
 | N19 | **SC001: refação da produção AUTORIZADA** pelo responsável (2026-11-12), com o método novo e as regras L1–L8. O vídeo V00 deixa de ser o final e passa a ser **referência** de bloqueio, geografia, ritmo e atuação. Falas e roteiro inalterados; as referências de voz extraídas dele continuam valendo | APROVADO (2026-11-12) | Autorização explícita |
+| N25 | **SC006 decupagem V01 APROVADA** (27 planos, ~1:33; um único avanço lento quando Claire vê o nome; Maya entende no fim, só com o olhar) | APROVADO (2026-11-16) | Decupagem SC006 V01 |
 | N24 | **SC005 decupagem V01 APROVADA** (39 planos, ~1:39; comédia de dupla em plano e contraplano; um único avanço lento em "I know that too.") | APROVADO (2026-11-16) | Decupagem SC005 V01 |
 | N23 | **SC004 decupagem V01 APROVADA** (23 planos, ~1:21; rima visual com a SC002; um único avanço lento no contato OLIVIA; sem música) | APROVADO (2026-11-13) | Decupagem SC004 V01 |
 | N22 | **SC003 decupagem V01 APROVADA** (30 planos + cold open + junção; batente da porta como motivo visual; três avanços lentos; roteiro intacto) | APROVADO (2026-11-12) | Decupagem SC003 V01 |
@@ -65,6 +66,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V42 | **SC006:** Claire de L5 (camisa de seda preta + pantalona creme, batom vinho, colar duplo, relógio no pulso esquerdo); Maya de L2 (camisa e calça pretas); dois figurantes da equipe de requalificação (homem ~50 de terno cinza; mulher ~40 de cardigã e óculos), sem falas; dia nublado pelas janelas; slides compostos na pós | APROVADO (2026-11-16) | Decupagem SC006 |
 | V41 | **SC005: 10 keyframes aprovados** (J2 refeito na V02 com o interior do café ao fundo) | APROVADO (2026-11-16) | Checagem SC005 |
 | V40 | **KF-J1 V01 da SC005 aprovado:** primeira imagem canônica de June; passa a ser a **referência de identidade dela em vídeo** (`june_ref-SC005_KF-J1.png`) | APROVADO (2026-11-16) | Checagem SC005 |
 | V39 | **Letreiro do café gerado na própria imagem:** o KF-EXT traz "THE QUIET HOUR" escrito no toldo (substitui a parte da V37 que mandava compor o letreiro na pós). Autochecagem obrigatória em todas as imagens da SC005, com conferência da grafia do letreiro | APROVADO (2026-11-16) | Decisão do responsável |

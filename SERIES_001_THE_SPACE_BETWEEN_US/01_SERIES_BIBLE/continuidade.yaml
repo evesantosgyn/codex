@@ -107,7 +107,7 @@ personagens:
       L5: Moderna e expressiva (terno bordô, gola alta preta), eventos e pós-trabalho
     figurinos_por_cena:
       SC001: "blazer escuro liso (marrom/grafite) + blusa preta (FINAL, vídeo aprovado; substitui o tweed L1 nesta cena)"
-      SC006-SC009: "L2 Minimalista preta"
+      SC006-SC009: "L2 Minimalista preta: camisa e calça pretas (V42)"
     voz:
       referencia: "06_GENERATED_ASSETS/VOICES/maya_reed_voice-ref_v02.wav (6,85 s = SC001 2,0–4,0 + 7,0–9,5 + 11,2–12,95 s, com 0,3 s de silêncio entre trechos)"
       historico: "v01 = só 2,0–4,0 s"
