@@ -72,6 +72,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V54 | **EP02, looks de terça APROVADOS:** Claire **L6 nova** (gola alta preta, calça taupe, botas, sem blazer); Olivia L4 (suéter marrom, jeans, coturno, coque, bolsa, tatuagem); Maya L3 (creme); June L4 (overshirt creme). **Maya e June de creme sem combinar** (gag da SC003/SC005). Nos keyframes: cabelo de Claire castanho-escuro (a prancha puxou para o acobreado) e **uma** pinta de Olivia (a prancha tem duas) | APROVADO (2026-11-17) | Pacote de desenvolvimento visual EP02 |
 | V53 | **EP02, desenvolvimento visual:** prancha P1 da **fábrica em restauração** APROVADA (o mesmo prédio da foto de 1928; loja de velas em frente; poltrona de couro caramelo no set de entrevista) e prancha P2 de **Abel Ortiz** APROVADA (porto-riquenho de Nova York, 74 anos, **1,72 m**, cardigã verde-escuro, óculos no bolso, cicatriz no polegar) | APROVADO (2026-11-17) | Pacote de desenvolvimento visual EP02 |
 | V52 | **SC009: 14 keyframes aprovados** (WS V01, C1 V02 com o relógio no pulso esquerdo, C2 V02 sem blazer, M1 V01 com dois cafés, **M1-B V01 com um café** para depois da entrega, INS-COFFEE V02 recortado sem o pulso, POV V02 através do vidro, O-PACK V01, J1 V01, INS-FOLDER V01, INS-DOCS V01, O1 V01, **O1-B V01** olhando para June, O2 V01). Aceitos: o O-PACK mais quente (o editor esfria na cor) e o relógio pequeno no pulso direito do POV, a distância | APROVADO (2026-11-16) | Checagem SC009 |
 | V51 | **SC009, INS-DOCS:** a pasta mostra fotos antigas do prédio, uma foto de moradores e uma foto de **duas mulheres rindo**, que são **moradoras anônimas** fotografadas por Olivia na investigação (**não são Claire e Olivia**). O timbre fica ilegível. Na montagem, essa foto pode ficar levemente desfocada para não induzir leitura errada | APROVADO (2026-11-16) | Checagem SC009 |
@@ -133,6 +134,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-17 | EP02: looks de terça das quatro personagens aprovados (V54) | Showrunner GL AI |
 | 2026-11-17 | EP02: pranchas da fábrica e de Abel Ortiz aprovadas (V53) | Showrunner GL AI |
 | 2026-11-17 | EP02: roteiro V1.1 aprovado; cabelo mais longo de Olivia há sete anos (N31) | Showrunner GL AI |
 | 2026-11-17 | EP02: escaleta V1 aprovada, com Abel Ortiz e as locações novas (N30) | Showrunner GL AI |

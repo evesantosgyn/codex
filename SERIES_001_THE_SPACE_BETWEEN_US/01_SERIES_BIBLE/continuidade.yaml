@@ -39,12 +39,14 @@ personagens:
       L3: trench coat preto, gola alta preta, óculos escuros (rua/inverno)
       L4: top e legging pretos, tênis (treino/casa)
       L5: camisa de seda preta, calça pantalona creme, cinto (dia a dia sofisticado)
+      L6: gola alta preta fina, calça de alfaiataria taupe de pregas, cinto preto de fivela dourada, botas pretas de cano curto (obra; V54)
     figurinos_por_cena:
       SC001: "L1 blazer/terno preto, blusa preta (FINAL, vídeo aprovado). Sai SEM casaco, com bolsa preta grande e celular"
       SC002: "ENTRA de trench preto L3 molhado nos ombros (vestido fora de quadro entre o elevador e a rua) + bolsa preta; deixa a bolsa no aparador e pendura o trench no gancho junto à porta. Ao chegar, pendura o blazer junto com o trench e fica de blusa preta justa de manga longa, sem blazer, com a mesma calça preta e os mesmos acessórios"
       SC003: "mesmo look de casa da SC002: blusa preta de manga longa, sem blazer"
       SC004: "pijama de seda preta (camisa de botões e calça); cabelo solto, um pouco desarrumado, com a franja; SEM batom; olheiras leves; sem relógio e sem colar; só as argolas (V32)"
       SC006-SC009: "L5 camisa de seda preta + pantalona creme"
+      EP02: "L6 gola alta preta + calça taupe + botas pretas, SEM blazer (tira no cold open); colar com pingente vermelho por cima da gola; relógio no pulso ESQUERDO; batom vinho; capacete branco na obra. Ref: 06_GENERATED_ASSETS/IMAGES/S01E02_LOOK_CLAIRE_V01.png (cabelo castanho-escuro, nunca acobreado) (V54)"
     voz:
       referencia: "06_GENERATED_ASSETS/VOICES/claire_bennett_voice-ref_v02.wav (5,6 s = SC001 5,0–6,4 + 9,55–11,15 + 13,0–15,0 s, com 0,3 s de silêncio entre trechos)"
       historico: "v01 = só 5,0–6,4 s"
@@ -84,6 +86,7 @@ personagens:
       COLD_OPEN: "mesmo look da SC003"
       SC003: "casaco longo de lã verde-oliva escuro, ombros molhados; suéter de tricô marrom; cabelo solto, pontas úmidas; maquiagem mínima; sem bolsa (V26)"
       SC005-SC009: "L1 trabalho: camisa utilitária verde-oliva aberta, top preto, cargo escura, coturno; cabelo em coque bagunçado; bolsa de câmera de lona verde com couro (V35)"
+      EP02: "L4 suéter de tricô marrom de ombro caído, jeans largo, cinto de couro, coturno; coque bagunçado; bolsa de câmera de lona verde; tatuagem visível no antebraço esquerdo; UMA pinta (abaixo do lábio). Ref: 06_GENERATED_ASSETS/IMAGES/S01E02_LOOK_OLIVIA_V01.png (V54)"
     voz:
       referencia: "a definir na edição (V31): gerar sem referência e aplicar a voz escolhida por conversão speech-to-speech"
       registro: "americana, médio-grave, levemente rouca, calorosa, sem pressa; frases curtas, pausas antes do que é honesto (V28)"
@@ -109,6 +112,7 @@ personagens:
     figurinos_por_cena:
       SC001: "blazer escuro liso (marrom/grafite) + blusa preta (FINAL, vídeo aprovado; substitui o tweed L1 nesta cena)"
       SC006-SC009: "L2 Minimalista preta: camisa e calça pretas (V42)"
+      EP02: "L3 camisa e calça creme, cinto caramelo, botas marrons de cano curto; relógio branco de couro. Ref: 06_GENERATED_ASSETS/IMAGES/S01E02_LOOK_MAYA_V01.png (V54)"
     voz:
       referencia: "06_GENERATED_ASSETS/VOICES/maya_reed_voice-ref_v02.wav (6,85 s = SC001 2,0–4,0 + 7,0–9,5 + 11,2–12,95 s, com 0,3 s de silêncio entre trechos)"
       historico: "v01 = só 2,0–4,0 s"
@@ -138,6 +142,7 @@ personagens:
       L5: suéter bordô, calça preta, sobretudo caramelo no braço, óculos na cabeça
     figurinos_por_cena:
       SC005-SC009: "L5 suéter bordô + calça preta + sobretudo caramelo + crachá de produção (V36; NÃO usar verde-oliva: é a cor de Olivia)"
+      EP02: "L4 overshirt creme (tom areia), camiseta branca, cargo preta, tênis, crachá, prancheta. Ref: 06_GENERATED_ASSETS/IMAGES/S01E02_LOOK_JUNE_V01.png. Creme como Maya, sem combinar (V54)"
     voz: "escolhida na edição por conversão de voz (V38); registro: seca, rápida, americana, médio-grave, deadpan"
     objetos: [laptop (SC005), pasta de arquivo com registros de aquisição (SC009)]
 
