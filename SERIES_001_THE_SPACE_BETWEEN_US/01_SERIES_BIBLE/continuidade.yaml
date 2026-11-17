@@ -142,7 +142,7 @@ personagens:
     objetos: [laptop (SC005), pasta de arquivo com registros de aquisição (SC009)]
 
   abel_ortiz:
-    status_visual: "PROPOSTO (personagem aprovado na escaleta do EP02, N30; prancha P2 a gerar)"
+    status_visual: "APROVADO (V53, 2026-11-17)"
     referencia: 02_CHARACTERS/ABEL_ORTIZ/abel-ortiz_identity-pack.png
     ficha: 02_CHARACTERS/ABEL_ORTIZ/ficha.md
     idade: 74
@@ -151,11 +151,13 @@ personagens:
       cabelo: grisalho, penteado com cuidado
       rosto: "bigode grisalho curto, olhos castanhos com rugas de riso, nariz marcado"
       biotipo: porte médio, levemente curvado
+      altura: 1.72 m
+      origem: porto-riquenho, nova-iorquino
       marcas: "mãos grandes e gastas; pequena cicatriz num polegar"
     assinatura:
       acessorios: [óculos de leitura no bolso da camisa]
     figurinos_por_cena:
-      EP02_SC006: "cardigã de lã verde-ESCURO (não oliva) sobre camisa azul-clara passada, calça cinza, sapatos marrons antigos (PROPOSTO)"
+      EP02_SC006: "cardigã de lã verde-ESCURO (não oliva) sobre camisa azul-clara passada, calça cinza, sapatos marrons antigos (APROVADO, V53)"
     voz: "sem referência; descrita no prompt; conversão na edição (como Olivia e June)"
     sabe: "Reconhece Olivia de sete anos atrás ('the girl with the camera'; 'the letters'). NÃO sabe da história de Claire e Olivia"
 
@@ -185,7 +187,7 @@ locacoes:
     pendencias: []
 
   fabrica_restauracao:
-    status: "PROPOSTO (locação aprovada na escaleta do EP02, N30; prancha P1 a gerar)"
+    status: "APROVADO (V53, 2026-11-17)"
     referencia: 03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_prancha.png
     referencia_epoca: 06_GENERATED_ASSETS/IMAGES/S01E01_SC006_KF-OTS-SCREEN-OLD_V01.png
     ficha: 03_LOCATIONS/FABRICA_RESTAURACAO/ficha.md

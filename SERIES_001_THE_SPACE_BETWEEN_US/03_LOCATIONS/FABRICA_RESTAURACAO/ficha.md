@@ -1,7 +1,7 @@
 # A fábrica em restauração — Cenário recorrente (o prédio do projeto)
 
-**Status:** locação APROVADA na escaleta do EP02 (N30) · visual PROPOSTO (prancha P1 do pacote de desenvolvimento visual)
-**Prancha:** `fabrica_prancha.png` (a gerar) · **Cenas:** EP02 SC001–SC007
+**Status:** locação APROVADA na escaleta do EP02 (N30) · **visual APROVADO (V53)**
+**Prancha:** `fabrica_prancha.png` · **Cenas:** EP02 SC001–SC007
 **Referência de época:** `06_GENERATED_ASSETS/IMAGES/S01E01_SC006_KF-OTS-SCREEN-OLD_V01.png` (a mesma fábrica em 1928, no slide da SC006)
 
 ## Ficha
@@ -26,7 +26,7 @@ O prédio é a metáfora da série sem precisar dizê-la: estruturas que parecem
 | Fachada e rua | SC001 | Exterior de manhã, andaimes, a loja de velas em frente |
 | Salão principal | SC001 | Tijolo aparente, colunas de ferro fundido, piso de madeira gasto, equipamento da equipe |
 | **Quadro de luz** | SC001 | Painel enferrujado meio escondido atrás de uma coluna. Olivia sabe onde fica |
-| **Set de entrevista** | SC002–SC004, SC006 | Junto às janelas altas: cadeira, luz principal suave, câmera no tripé, caixote de madeira como mesinha |
+| **Set de entrevista** | SC002–SC004, SC006 | Junto às janelas altas: **poltrona de couro caramelo**, luz principal suave, câmera no tripé, caixote de madeira como mesinha |
 | Mesa de café | SC005 | Mesa dobrável com garrafas térmicas, perto de uma coluna, com vista para a janela alta |
 | **Escada de ferro** | SC007 | Escada de ferro com janela empoeirada; **luz dourada do fim da tarde** |
 

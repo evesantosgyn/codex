@@ -1,12 +1,12 @@
 # Abel Ortiz — Participação (com potencial de recorrente)
 
-**Status:** personagem APROVADO na escaleta do EP02 (N30) · identidade dramática PROPOSTA · visual PROPOSTO (prancha P2 do pacote de desenvolvimento visual)
-**Prancha:** `abel-ortiz_identity-pack.png` (a gerar) · **Traços fixos:** `01_SERIES_BIBLE/continuidade.yaml → abel_ortiz`
+**Status:** personagem APROVADO na escaleta do EP02 (N30) · identidade dramática PROPOSTA · **visual APROVADO (V53)**
+**Prancha:** `abel-ortiz_identity-pack.png` · **Traços fixos:** `01_SERIES_BIBLE/continuidade.yaml → abel_ortiz`
 
 ## Identidade dramática (Bíblia Criativa §4)
 | Dimensão | Abel |
 |---|---|
-| Identidade | **74 anos.** Porto-riquenho de Nova York (proposta), nascido e criado no bairro. Teve uma **loja de ferragens na frente da fábrica por 41 anos**. Cortou "every key in this neighborhood". Hoje a loja é uma loja de velas. |
+| Identidade | **74 anos.** Porto-riquenho de Nova York (V53), 1,72 m, nascido e criado no bairro. Teve uma **loja de ferragens na frente da fábrica por 41 anos**. Cortou "every key in this neighborhood". Hoje a loja é uma loja de velas. |
 | Personalidade | Memória afiada, orgulho teimoso, humor seco de quem já viu tudo. Gentil com quem respeita o bairro; implacável com quem finge que não aconteceu nada. |
 | Desejo externo | Que a história do bairro seja contada **como foi**, e não como folheto de empreendimento. |
 | Necessidade interna | Ser ouvido: alguém registrar que ele e os vizinhos resistiram. |
@@ -36,7 +36,7 @@ Frases curtas, concretas, de ofício; nova-iorquino antigo. Fala de chaves, fech
 ## Direção de interpretação
 Olhar que mede as pessoas por cima dos óculos de leitura. Não se apressa. Quando reconhece Olivia, **inclina o corpo para enxergar além da câmera**. Desiste de insistir "do jeito que velhos desistem de coisas que pretendem lembrar depois".
 
-## Visual (proposta, a confirmar na prancha)
+## Visual (APROVADO, V53)
 - Cabelo grisalho penteado com cuidado; **bigode grisalho curto**; olhos castanhos com rugas de riso; nariz marcado.
 - Porte médio, levemente curvado, digno.
 - **Cardigã de lã verde-escuro sobre camisa azul-clara passada**, calça cinza, sapatos marrons antigos e engraxados; **óculos de leitura no bolso da camisa**.
