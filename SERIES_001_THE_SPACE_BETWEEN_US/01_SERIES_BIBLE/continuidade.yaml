@@ -141,6 +141,24 @@ personagens:
     voz: "escolhida na edição por conversão de voz (V38); registro: seca, rápida, americana, médio-grave, deadpan"
     objetos: [laptop (SC005), pasta de arquivo com registros de aquisição (SC009)]
 
+  abel_ortiz:
+    status_visual: "PROPOSTO (personagem aprovado na escaleta do EP02, N30; prancha P2 a gerar)"
+    referencia: 02_CHARACTERS/ABEL_ORTIZ/abel-ortiz_identity-pack.png
+    ficha: 02_CHARACTERS/ABEL_ORTIZ/ficha.md
+    idade: 74
+    profissao: "Antigo dono da loja de ferragens em frente à fábrica (41 anos); hoje a loja é uma loja de velas"
+    fixos:
+      cabelo: grisalho, penteado com cuidado
+      rosto: "bigode grisalho curto, olhos castanhos com rugas de riso, nariz marcado"
+      biotipo: porte médio, levemente curvado
+      marcas: "mãos grandes e gastas; pequena cicatriz num polegar"
+    assinatura:
+      acessorios: [óculos de leitura no bolso da camisa]
+    figurinos_por_cena:
+      EP02_SC006: "cardigã de lã verde-ESCURO (não oliva) sobre camisa azul-clara passada, calça cinza, sapatos marrons antigos (PROPOSTO)"
+    voz: "sem referência; descrita no prompt; conversão na edição (como Olivia e June)"
+    sabe: "Reconhece Olivia de sete anos atrás ('the girl with the camera'; 'the letters'). NÃO sabe da história de Claire e Olivia"
+
 locacoes:
   apartamento_claire:
     status: APROVADO
@@ -164,6 +182,22 @@ locacoes:
     referencia: 03_LOCATIONS/CAFE_MANHATTAN/cafe_prancha-SC005.webp
     ficha: 03_LOCATIONS/CAFE_MANHATTAN/ficha.md
     cenas_piloto: [SC005]
+    pendencias: []
+
+  fabrica_restauracao:
+    status: "PROPOSTO (locação aprovada na escaleta do EP02, N30; prancha P1 a gerar)"
+    referencia: 03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_prancha.png
+    referencia_epoca: 06_GENERATED_ASSETS/IMAGES/S01E01_SC006_KF-OTS-SCREEN-OLD_V01.png
+    ficha: 03_LOCATIONS/FABRICA_RESTAURACAO/ficha.md
+    construida: 1928
+    fixos: [janelas altas em arco, caixa d'água de madeira no telhado, marquise de carga de ferro, loja de velas em frente (antiga loja de ferragens de Abel)]
+    cenas: [EP02_SC001, EP02_SC002, EP02_SC003, EP02_SC004, EP02_SC005, EP02_SC006, EP02_SC007]
+    pendencias: ["geografia interna a definir na decupagem do EP02"]
+  van_producao:
+    status: "PROPOSTO (locação aprovada na escaleta do EP02, N30; prancha P5 a gerar)"
+    referencia: 03_LOCATIONS/VAN_PRODUCAO/van_prancha.png
+    ficha: 03_LOCATIONS/VAN_PRODUCAO/ficha.md
+    cenas: [EP02_SC008]
     pendencias: []
 
 cronologia_piloto:
