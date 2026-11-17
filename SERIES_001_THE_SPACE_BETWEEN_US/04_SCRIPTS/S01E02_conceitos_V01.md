@@ -1,6 +1,6 @@
 # S01E02 — "Familiar Strangers" · Alternativas de conceito V01
 
-**Status:** PROPOSTA (2026-11-17) · **Modo 2 — Sala de Roteiristas** · formato 12–15 min, ~9 cenas
+**Status:** ✅ Conceito **B** escolhido (2026-11-17, N29) · **Modo 2 — Sala de Roteiristas** · formato 12–15 min, ~9 cenas
 
 ## O que o EP02 precisa cumprir (bíblia + pontas do piloto)
 - **Bíblia:** obrigadas a conviver, percebem que **ainda conhecem os hábitos uma da outra**. O humor domina; **pequenas contradições** mostram que Olivia esconde parte da história. Não revela a ligação com a família Bennett (isso é do EP04).

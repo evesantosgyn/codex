@@ -26,6 +26,7 @@ Legenda de status:
 | N13 | Claire mora no mesmo apartamento há mais de sete anos; Olivia conhece o prédio e o porteiro (P15) | APROVADO (2026-11-12) | Avaliação V3.1, C6 |
 | N14 | June Park conhece o segredo de Olivia | APROVADO (2026-11-12) | SC009 |
 | N19 | **SC001: refação da produção AUTORIZADA** pelo responsável (2026-11-12), com o método novo e as regras L1–L8. O vídeo V00 deixa de ser o final e passa a ser **referência** de bloqueio, geografia, ritmo e atuação. Falas e roteiro inalterados; as referências de voz extraídas dele continuam valendo | APROVADO (2026-11-12) | Autorização explícita |
+| N29 | **EP02 "Familiar Strangers": conceito B, "On the Record"** — a primeira entrevista do documentário (Olivia filma Claire); "Did you know?" quando a luz vermelha apaga; um morador antigo reconhece Olivia; gancho no material bruto. Usa a obra (prédio antigo) como locação | APROVADO (2026-11-17) | `04_SCRIPTS/S01E02_conceitos_V01.md` |
 | N28 | **SC009 decupagem V01 APROVADA** (35 planos, ~1:18 na montagem; duas metades: comédia Claire × Maya e gancho Olivia × June; o vidro do escritório separa as histórias; único avanço sobre Olivia no SH33; CUT TO BLACK na pasta fechando) | APROVADO (2026-11-16) | Decupagem SC009 V01 |
 | N27 | **SC008 decupagem V01 APROVADA** (40 planos, ~1:46; travessia de Olivia para o lado da janela como virada visual; closes a partir de "I learned from the best"; único avanço no plano a duas, SH33; o sorriso de Claire escapa no fim) | APROVADO (2026-11-16) | Decupagem SC008 V01 |
 | N26 | **SC007 decupagem V01 APROVADA** (36 planos, ~1:28 na montagem; escalada de plano médio para close em "There will be boundaries"; perfil a duas parado no SH35; sem avanço de câmera) | APROVADO (2026-11-16) | Decupagem SC007 V01 |
@@ -129,6 +130,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-17 | EP02: conceito B "On the Record" aprovado (N29) | Showrunner GL AI |
 | 2026-11-16 | SC009: 14 keyframes aprovados (V52); piloto com todas as cenas prontas para geração | Showrunner GL AI |
 | 2026-11-16 | SC009: a foto das duas mulheres na pasta são moradoras anônimas (V51) | Showrunner GL AI |
 | 2026-11-16 | SC009: decupagem aprovada (N28); luz, looks e documento ilegível (V50) | Showrunner GL AI |
