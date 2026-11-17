@@ -26,7 +26,7 @@
 | **Os jump cuts do blazer** | Três planos curtos no mesmo enquadramento: tira, põe, tira e joga |
 | **Blazer** | Preto (o do L1); por baixo, a gola alta do look de terça (V54). **Depende de P18** |
 | **Luz** | Cold open: **manhã cinza**, cedo. SC001: **manhã clara de outono** (como a prancha da fábrica) |
-| **Texto em tela** | O cronômetro do celular e a folha de perguntas: **números e linhas compostos na pós** (V43); o ChatGPT gera a tela e a folha lisas |
+| **Texto em tela** | O cronômetro do celular e a folha de perguntas **gerados na própria imagem** (decisão N32, como a V43): o cronômetro mostra os segundos; a folha tem as perguntas numeradas de 1 a 7 e a **linha 7 em branco**. Se o gerador errar, corrige-se com "Editar" |
 | **Capacetes** | Claire e Maya de capacete branco; Olivia recebe o dela e põe; June e a equipe sem capacete até o protocolo |
 
 ## Lista de planos — COLD OPEN
@@ -40,7 +40,7 @@
 | CO-SH06 | 2 s | KF-CO-MS | **Jump cut:** veste de novo | — |
 | CO-SH07 | 3 s | KF-CO-MS-B | **Jump cut:** tira e joga na cama, com hostilidade | — |
 | CO-SH08 | 5 s | KF-CO-C1-B | Sem blazer, precisa | CLAIRE: "Restoration is about deciding what deserves to stay." |
-| CO-SH09 | 2 s | KF-CO-INS-PHONE | O cronômetro marca 4 segundos (número na pós) | bip |
+| CO-SH09 | 2 s | KF-CO-INS-PHONE-4S | O cronômetro marca **00:04** (gerado na imagem) | bip |
 | CO-SH10 | 5 s | KF-CO-C1-B | Um aceno satisfeito; ela encontra os próprios olhos e a satisfação vacila | → **CUT TO BLACK** |
 | — | 3 s | cartela | **THE SPACE BETWEEN US** | — |
 
@@ -62,7 +62,7 @@
 | SH11 | 2 s | KF-O2 | Ergue os olhos | OLIVIA: "That's very reasonable." |
 | SH12 | 2 s | KF-C1 | | CLAIRE: "I'm a very reasonable person." |
 | SH13 | 2 s | KF-MJ | Maya, de lado, para June | MAYA: "She is not." |
-| SH14 | 2 s | KF-INS-SHEET | A folha de perguntas: a linha 7 em branco (números na pós) | — |
+| SH14 | 2 s | KF-INS-SHEET | A folha de perguntas: 1 a 6 preenchidas, **a linha 7 em branco** (gerada na imagem) | — |
 | SH15 | 2 s | KF-C1 | | CLAIRE: "Question seven is blank." |
 | SH16 | 2 s | KF-O2 | | OLIVIA: "That one's spontaneous." |
 | SH17 | 2 s | KF-C1 | | CLAIRE: "Spontaneity wasn't in the protocol." |
@@ -76,7 +76,7 @@
 
 **Total ≈ 68 s.**
 
-## Keyframes (18)
+## Keyframes (19)
 | ID | O quê |
 |---|---|
 | KF-CO-PLATE | O quarto de Claire vazio, manhã cinza: cama de cabeceira estofada, pintura abstrata azul e dourada, **espelho de corpo inteiro** (base dos planos do cold open) |
@@ -85,7 +85,8 @@
 | KF-CO-C1-B | O mesmo quadro, **sem blazer** (gola alta preta), olhar firme |
 | KF-CO-MS | Plano médio de lado: Claire de blazer, a cama atrás |
 | KF-CO-MS-B | O mesmo quadro: o blazer voando para a cama |
-| KF-CO-INS-PHONE | O polegar no cronômetro do celular (tela clara, sem números) |
+| KF-CO-INS-PHONE | O polegar no cronômetro do celular, rodando (números na tela) |
+| KF-CO-INS-PHONE-4S | O mesmo insert, o cronômetro parado em **00:04** |
 | KF-EXT | A fachada da fábrica de manhã (da prancha V53) |
 | KF-INT-WS | O salão, a equipe montando, June com a prancheta |
 | KF-ENTRY | Claire e Maya entrando de capacete branco |
@@ -93,7 +94,7 @@
 | KF-O1 | Olivia sem capacete, bolsa no ombro, plano médio, olhar para a **esquerda** |
 | KF-O2 | O mesmo quadro, Olivia **de capacete**, uma folha na mão |
 | KF-MJ | Maya e June lado a lado, as duas de creme |
-| KF-INS-SHEET | A folha de perguntas nas mãos de Claire (linhas lisas) |
+| KF-INS-SHEET | A folha de perguntas nas mãos de Claire: título, perguntas 1–6 e a 7 em branco |
 | KF-PANEL | Olivia abrindo o quadro de luz atrás da coluna |
 | KF-INS-BREAKER | A mão de Olivia (tatuagem) no disjuntor |
 | KF-J1 | June falando com a equipe, prancheta na mão |
@@ -106,7 +107,7 @@ Claire e Maya com as referências v02 (método A). Olivia e June sem referência
 |---|---|
 | Reflexo no espelho falando | A câmera é o espelho; o reflexo só aparece no geral, sem fala |
 | Tirar e vestir o blazer | Três planos curtos, uma ação cada (jump cuts) |
-| Cronômetro e folha com números | Tela e folha lisas; números na pós |
+| Cronômetro e folha com números | Gerados na imagem e conferidos na checagem; se errar, "Editar" |
 | Pôr o capacete (mãos e cabeça) | Início e fim compatíveis (O1 → O2, mesmo quadro, regra L9) |
 | Muita gente no salão | Equipe desfocada ao fundo; no máximo duas pessoas nítidas por plano |
 | Disjuntor (mão, objeto pequeno) | Insert curto; o refletor voltando é efeito de luz na pós, se o H3 falhar |
@@ -114,5 +115,5 @@ Claire e Maya com as referências v02 (método A). Olivia e June sem referência
 ## Para aprovação
 1. A decupagem (cold open em ~0:38 e SC001 em ~1:08), com **a câmera como espelho** e os **jump cuts do blazer**.
 2. **P18:** trocar "blouse" por "turtleneck" no roteiro (só texto).
-3. O **cronômetro e a folha** com números compostos na pós.
+3. ~~Números na pós~~ → **gerados na imagem** (correção do responsável).
 4. O eixo: Claire olha para a direita; Olivia para a esquerda.
