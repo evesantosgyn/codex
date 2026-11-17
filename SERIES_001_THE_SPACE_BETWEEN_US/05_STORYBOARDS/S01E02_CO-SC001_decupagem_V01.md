@@ -54,7 +54,7 @@
 | SH03 | 3 s | KF-ENTRY | Claire e Maya entram de capacete branco | MAYA: "You look like you're about to inspect a mine." |
 | SH04 | 3 s | KF-C1 | | CLAIRE: "I look like someone who read the safety report." |
 | SH05 | 3 s | KF-O1 | Olivia atravessa o salão até elas, bolsa no ombro, sem capacete | — |
-| SH06 | 2 s | KF-C1 | Claire estende um capacete sem dizer nada | — |
+| SH06 | 2 s | KF-ENTRY | Claire estende o capacete extra que trazia na mão, sem dizer nada (o ENTRY já mostra o segundo capacete) | — |
 | SH07 | 3 s | KF-O1 → KF-O2 | Olivia pega e põe o capacete; não discute | — |
 | SH08 | 2 s | KF-O2 | | OLIVIA: "Good morning." |
 | SH09 | 3 s | KF-C1 | Entrega a folha | CLAIRE: "I prepared a protocol." |
