@@ -1,6 +1,6 @@
 # S01E02 · COLD OPEN + SC001 — REHEARSAL / THE BUILDING · Decupagem V01
 
-**Status:** ✅ APROVADA (2026-11-17, N32) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-17
+**Status:** ✅ APROVADA (2026-11-17, N32) · keyframes aprovados (V57) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-17
 **Duração:** cold open 0:45 no roteiro → **~0:40** (com a cartela de título) · SC001 1:30 no roteiro → **~1:08** de planos (as pausas e o geral de abertura esticam na montagem) · **10 + 24 planos** · buzzy.now / MiniMax-H3
 **P18 resolvida:** o roteiro V1.2 diz "turtleneck".
 
@@ -69,14 +69,14 @@
 | SH18 | 3 s | KF-O2 | | OLIVIA: "Neither was the hard hat. I'm wearing it." |
 | SH19 | 2 s | KF-C1 | Claire abre a boca e fecha | — |
 | SH20 | 3 s | KF-INT-WS | Ao fundo, um refletor pisca e apaga; alguém da equipe olha em volta, perdido | estalo |
-| SH21 | 3 s | KF-PANEL | Olivia vai direto ao quadro enferrujado atrás da coluna e o abre | rangido |
-| SH22 | 2 s | KF-INS-BREAKER | A mão liga o disjuntor | clac; o refletor volta |
-| SH23 | 3 s | KF-J1 | June, para a equipe | JUNE: "We spent all of yesterday looking for that." |
+| SH21 | 4 s | KF-PANEL | Olivia vai direto ao quadro enferrujado atrás da coluna, abre e liga o disjuntor; o refletor volta | rangido; clac |
+| ~~SH22~~ | — | — | **Removido (V57):** o PANEL já mostra a mão no disjuntor e a tatuagem | — |
+| SH23 | 3 s | KF-J1 | June, para a equipe (olha para a **direita**, onde está o set) | JUNE: "We spent all of yesterday looking for that." |
 | SH24 | 4 s | KF-C1 | Claire a vê voltar ao set; olha o quadro; olha Olivia; não diz nada | → CUT TO |
 
-**Total ≈ 68 s.**
+**Total ≈ 67 s** (após a V57).
 
-## Keyframes (19)
+## Keyframes (18, após a V57)
 | ID | O quê |
 |---|---|
 | KF-CO-PLATE | O quarto de Claire vazio, manhã cinza: cama de cabeceira estofada, pintura abstrata azul e dourada, **espelho de corpo inteiro** (base dos planos do cold open) |
@@ -96,7 +96,6 @@
 | KF-MJ | Maya e June lado a lado, as duas de creme |
 | KF-INS-SHEET | A folha de perguntas nas mãos de Claire: título, perguntas 1–6 e a 7 em branco |
 | KF-PANEL | Olivia abrindo o quadro de luz atrás da coluna |
-| KF-INS-BREAKER | A mão de Olivia (tatuagem) no disjuntor |
 | KF-J1 | June falando com a equipe, prancheta na mão |
 
 ## Vozes
