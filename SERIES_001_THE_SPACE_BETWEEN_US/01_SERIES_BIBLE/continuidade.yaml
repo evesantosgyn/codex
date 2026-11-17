@@ -201,7 +201,7 @@ locacoes:
     cenas: [EP02_SC001, EP02_SC002, EP02_SC003, EP02_SC004, EP02_SC005, EP02_SC006, EP02_SC007]
     pendencias: ["geografia interna a definir na decupagem do EP02"]
   van_producao:
-    status: "PROPOSTO (locação aprovada na escaleta do EP02, N30; prancha P5 a gerar)"
+    status: "APROVADO (V56, 2026-11-17)"
     referencia: 03_LOCATIONS/VAN_PRODUCAO/van_prancha.png
     ficha: 03_LOCATIONS/VAN_PRODUCAO/ficha.md
     cenas: [EP02_SC008]
