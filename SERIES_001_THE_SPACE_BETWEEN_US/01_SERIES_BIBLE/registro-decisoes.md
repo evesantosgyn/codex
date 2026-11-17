@@ -26,6 +26,7 @@ Legenda de status:
 | N13 | Claire mora no mesmo apartamento há mais de sete anos; Olivia conhece o prédio e o porteiro (P15) | APROVADO (2026-11-12) | Avaliação V3.1, C6 |
 | N14 | June Park conhece o segredo de Olivia | APROVADO (2026-11-12) | SC009 |
 | N19 | **SC001: refação da produção AUTORIZADA** pelo responsável (2026-11-12), com o método novo e as regras L1–L8. O vídeo V00 deixa de ser o final e passa a ser **referência** de bloqueio, geografia, ritmo e atuação. Falas e roteiro inalterados; as referências de voz extraídas dele continuam valendo | APROVADO (2026-11-12) | Autorização explícita |
+| N31 | **EP02 roteiro V1.1 APROVADO** (ajustes 1–3 da avaliação de 2026-11-17: a frase ensaiada volta na entrevista; June confirma que a equipe procurou o quadro de luz na segunda; cortado um duplo sentido no SC003). Fato novo: **há sete anos, Olivia tinha o cabelo mais longo** (fala de Abel). A linha opcional da "second session" não entrou | APROVADO (2026-11-17) | `04_SCRIPTS/S01E02_FAMILIAR-STRANGERS_V1.1.md` |
 | N30 | **EP02 escaleta V1 APROVADA** (cold open + 9 cenas, ~14:15; terça-feira; "not yet" espelhado; "You don't get to decide that for me. Not again."; **Abel Ortiz**, 74, antigo dono da loja de ferragens, reconhece Olivia e cita "the letters"; locações novas: a fábrica de tijolos em restauração e a van de produção; gancho do plano bruto × foto antiga na parede do ateliê) | APROVADO (2026-11-17) | `04_SCRIPTS/S01E02_escaleta_V1.md` |
 | N29 | **EP02 "Familiar Strangers": conceito B, "On the Record"** — a primeira entrevista do documentário (Olivia filma Claire); "Did you know?" quando a luz vermelha apaga; um morador antigo reconhece Olivia; gancho no material bruto. Usa a obra (prédio antigo) como locação | APROVADO (2026-11-17) | `04_SCRIPTS/S01E02_conceitos_V01.md` |
 | N28 | **SC009 decupagem V01 APROVADA** (35 planos, ~1:18 na montagem; duas metades: comédia Claire × Maya e gancho Olivia × June; o vidro do escritório separa as histórias; único avanço sobre Olivia no SH33; CUT TO BLACK na pasta fechando) | APROVADO (2026-11-16) | Decupagem SC009 V01 |
@@ -131,6 +132,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-17 | EP02: roteiro V1.1 aprovado; cabelo mais longo de Olivia há sete anos (N31) | Showrunner GL AI |
 | 2026-11-17 | EP02: escaleta V1 aprovada, com Abel Ortiz e as locações novas (N30) | Showrunner GL AI |
 | 2026-11-17 | EP02: conceito B "On the Record" aprovado (N29) | Showrunner GL AI |
 | 2026-11-16 | SC009: 14 keyframes aprovados (V52); piloto com todas as cenas prontas para geração | Showrunner GL AI |
