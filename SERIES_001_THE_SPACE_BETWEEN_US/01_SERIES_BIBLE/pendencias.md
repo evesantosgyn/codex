@@ -16,16 +16,11 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 - Equipe de redevelopment da SC006: 2 figurantes sem referência visual.
 - Voice Identity Packs: ferramenta definida (**áudio nativo do MiniMax H3**). ✅ Clipes de referência de **Claire** e **Maya** extraídos da SC001 (2026-11-12); ampliados na v02 (Claire 5,6 s; Maya 6,85 s). Falta definir as vozes de **Olivia** (SC003) e **June** (SC005).
 
-### P18 — "Blouse" no roteiro do EP02 × gola alta do look de terça (V54)
-- **Roteiro V1.1 (N31):** cold open "She looks at her blouse"; SC002 "tucks the cable inside her blouse".
-- **Look aprovado (V54):** Claire de **gola alta preta** de malha, sem blusa de botões.
-- **Proposta:** correção só de texto no roteiro: "blouse" → "turtleneck"; no SC002, Olivia prende o microfone na borda da gola alta e passa o fio por baixo da malha. A ação e as falas não mudam.
-- **Afeta:** EP02 cold open (SH05–SH07) e SC002 (o microfone).
-
 ## Resolvidas
 
 | # | Tema | Decisão | Data |
 |---|---|---|---|
+| P18 | "Blouse" no roteiro do EP02 × gola alta (V54) | A peça de cima de Claire vira **"turtleneck"** no cold open, na SC002 e na SC004; roteiro promovido a **V1.2** | 2026-11-17 |
 | P01 | Idade de June Park | **34 anos**; roteiro corrigido (V3.1) | 2026-11-12 |
 | P02 | Profissão de Maya | **Arquiteta sênior que gerencia os projetos do estúdio**; SC001 corrigida (V3.1) | 2026-11-12 |
 | P03 | Aparência de Maya | **Prancha**: olhos verdes, cabelo ondulado na altura do queixo | 2026-11-12 |

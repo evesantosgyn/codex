@@ -26,6 +26,7 @@ Legenda de status:
 | N13 | Claire mora no mesmo apartamento há mais de sete anos; Olivia conhece o prédio e o porteiro (P15) | APROVADO (2026-11-12) | Avaliação V3.1, C6 |
 | N14 | June Park conhece o segredo de Olivia | APROVADO (2026-11-12) | SC009 |
 | N19 | **SC001: refação da produção AUTORIZADA** pelo responsável (2026-11-12), com o método novo e as regras L1–L8. O vídeo V00 deixa de ser o final e passa a ser **referência** de bloqueio, geografia, ritmo e atuação. Falas e roteiro inalterados; as referências de voz extraídas dele continuam valendo | APROVADO (2026-11-12) | Autorização explícita |
+| N32 | **EP02: decupagem do cold open e da SC001 APROVADA** (a câmera como espelho; jump cuts do blazer; cronômetro e folha de perguntas com números compostos na pós; Claire olha para a direita, Olivia para a esquerda). **P18 resolvida:** roteiro V1.2 ("turtleneck" no cold open, SC002 e SC004) | APROVADO (2026-11-17) | `05_STORYBOARDS/S01E02_CO-SC001_decupagem_V01.md` |
 | N31 | **EP02 roteiro V1.1 APROVADO** (ajustes 1–3 da avaliação de 2026-11-17: a frase ensaiada volta na entrevista; June confirma que a equipe procurou o quadro de luz na segunda; cortado um duplo sentido no SC003). Fato novo: **há sete anos, Olivia tinha o cabelo mais longo** (fala de Abel). A linha opcional da "second session" não entrou | APROVADO (2026-11-17) | `04_SCRIPTS/S01E02_FAMILIAR-STRANGERS_V1.1.md` |
 | N30 | **EP02 escaleta V1 APROVADA** (cold open + 9 cenas, ~14:15; terça-feira; "not yet" espelhado; "You don't get to decide that for me. Not again."; **Abel Ortiz**, 74, antigo dono da loja de ferragens, reconhece Olivia e cita "the letters"; locações novas: a fábrica de tijolos em restauração e a van de produção; gancho do plano bruto × foto antiga na parede do ateliê) | APROVADO (2026-11-17) | `04_SCRIPTS/S01E02_escaleta_V1.md` |
 | N29 | **EP02 "Familiar Strangers": conceito B, "On the Record"** — a primeira entrevista do documentário (Olivia filma Claire); "Did you know?" quando a luz vermelha apaga; um morador antigo reconhece Olivia; gancho no material bruto. Usa a obra (prédio antigo) como locação | APROVADO (2026-11-17) | `04_SCRIPTS/S01E02_conceitos_V01.md` |
@@ -136,6 +137,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-17 | EP02: decupagem do cold open e da SC001 aprovada; P18 resolvida, roteiro V1.2 (N32) | Showrunner GL AI |
 | 2026-11-17 | EP02: van aprovada; desenvolvimento visual completo (V56) | Showrunner GL AI |
 | 2026-11-17 | EP02: foto antiga de Claire sem franja aprovada (V55) | Showrunner GL AI |
 | 2026-11-17 | EP02: looks de terça das quatro personagens aprovados (V54) | Showrunner GL AI |

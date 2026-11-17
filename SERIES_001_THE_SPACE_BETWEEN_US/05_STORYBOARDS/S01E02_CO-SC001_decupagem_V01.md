@@ -1,8 +1,8 @@
 # S01E02 · COLD OPEN + SC001 — REHEARSAL / THE BUILDING · Decupagem V01
 
-**Status:** PROPOSTA (2026-11-17) · **Roteiro:** EP02 Screenplay V1.1 (APROVADO, N31) · **Data:** 2026-11-17
+**Status:** ✅ APROVADA (2026-11-17, N32) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-17
 **Duração:** cold open 0:45 no roteiro → **~0:40** (com a cartela de título) · SC001 1:30 no roteiro → **~1:08** de planos (as pausas e o geral de abertura esticam na montagem) · **10 + 24 planos** · buzzy.now / MiniMax-H3
-**Pendência que afeta:** **P18** (a palavra "blouse" × a gola alta do look de terça): planos CO-SH05 a CO-SH07.
+**P18 resolvida:** o roteiro V1.2 diz "turtleneck".
 
 ## Intenção e estratégia visual
 - **Cold open:** comédia de controle. Claire ensaia a resposta da entrevista como um depoimento, cronometrando no celular. **A câmera é o espelho:** Claire fala direto para a lente, como se encarasse o próprio reflexo. Isso cria cumplicidade com o público e é fácil de gerar (sem reflexo com lip-sync).
