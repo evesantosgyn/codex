@@ -1,6 +1,6 @@
 # S01E02 — FAMILIAR STRANGERS · Escaleta V1
 
-**Status:** PROPOSTA (2026-11-17) · **Conceito:** B, "On the Record" (N29) · **Duração-alvo:** ~14:15 · cold open + 9 cenas
+**Status:** ✅ APROVADA (2026-11-17, N30) · **Conceito:** B, "On the Record" (N29) · **Duração-alvo:** ~14:15 · cold open + 9 cenas
 **Tempo da história:** **terça-feira**, quatro dias depois do piloto (o primeiro dia de entrevistas, como June anunciou na SC005).
 
 ## Pergunta do episódio
