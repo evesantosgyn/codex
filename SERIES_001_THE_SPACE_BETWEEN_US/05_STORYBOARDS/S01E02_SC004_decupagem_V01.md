@@ -1,7 +1,7 @@
 # S01E02 · SC004 — DID YOU KNOW? · Decupagem V01
 
 **Status:** ✅ APROVADA (2026-11-18, N34) · keyframes aprovados (V60) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-18
-**Duração:** roteiro 1:45 · **soma ≈ 1:22 de planos** (os silêncios "That is the answer" e "A beat" esticam na montagem) · **24 planos** · buzzy.now / MiniMax-H3
+**Duração:** roteiro 1:45 · **soma ≈ 1:14 de planos** (corrigido; o V01 dizia 1:22 por erro de soma) (os silêncios "That is the answer" e "A beat" esticam na montagem) · **24 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
 - **A cena que paga o piloto:** Claire faz a pergunta que ficou pendente desde a porta (P14). Olivia responde a verdade, **só essa verdade**, e Claire acerta a ferida central da série sem saber do resto: **"You don't get to decide that for me. Not again."**
@@ -56,9 +56,9 @@
 | SH21 | 2 s | KF-O6 | Olivia recebe | — |
 | SH22 | 2 s | KF-C7 | Uma pausa | CLAIRE: "Not again." |
 | SH23 | 6 s | KF-WS-EXIT | Claire atravessa o salão, entre as colunas, até a luz das janelas; Olivia de costas em primeiro plano | passos |
-| SH24 | 4 s | KF-O6 | Olivia fica, o cabo ainda enrolado nos dedos | → CUT TO |
+| SH24 | 4 s | KF-O5 (o O6 tem o cabelo de Claire em primeiro plano; aqui Claire já saiu) | Olivia fica, o cabo ainda enrolado nos dedos | → CUT TO |
 
-**Total ≈ 82 s.**
+**Total ≈ 74 s.**
 
 ## Keyframes (12 novos + MJ2 reaproveitado)
 | ID | O quê |
@@ -88,7 +88,7 @@ Claire com a referência v02 (método A). Olivia e June sem referência; vozes d
 | Caminhada longa ao fundo | Plano geral parado; Claire pequena no quadro; se deformar, corta mais cedo |
 
 ## Para aprovação
-1. A decupagem (24 planos, ~1:22 de planos; os silêncios esticam na montagem).
+1. A decupagem (24 planos, ~1:14 de planos; os silêncios esticam na montagem).
 2. **O LED apagando** com a luz vermelha.
 3. **O poder pela altura**: sentada × de pé, e o mesmo nível na virada.
 4. **O cabo nos dedos** como objeto da cena, e **nenhum avanço de câmera**.
