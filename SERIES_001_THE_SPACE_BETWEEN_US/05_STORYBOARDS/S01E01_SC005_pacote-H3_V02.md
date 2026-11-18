@@ -1,6 +1,6 @@
 # Pacote de geração no H3 — S01E01 · SC005 "The Woman Who Came Back" · V02 (REFAÇÃO)
 
-**Status:** PROPOSTA (aguarda aprovação) · **Data:** 2026-11-18
+**Status:** ✅ APROVADO (2026-11-18, V62) · **Data:** 2026-11-18
 **Substitui:** `S01E01_SC005_pacote-H3.md` (V01) só nos blocos de interpretação, nas direções por fala e na montagem. **Roteiro, falas, planos e keyframes da V01 continuam**, mais um keyframe novo, o KF-O1-B.
 **Motivo:** a versão gerada (`sc005.mp4`, 1:23) ficou sem emoção. Olivia está alerta e neutra, e as piadas de June saem chapadas. Análise abaixo.
 
