@@ -15,7 +15,7 @@
 7. **Texto do monitor** (STBY, timecode) já está na imagem; não alterar.
 
 ## ⚠️ Dois ajustes de continuidade (faça antes de gerar)
-1. **O copo d'água:** depois do SH08 o copo está no caixote, mas o **KF-C1 tem o caixote vazio**. Para SH09, SH12 e SH15, use um **KF-C1-B**, que é o mesmo C1 com o copo no caixote. Gere com Editar no ChatGPT: *"Same image; add the same glass of water standing on the wooden crate beside the armchair."*
+1. **O copo d'água:** depois do SH08 o copo está no caixote, mas o **KF-C1 tem o caixote vazio**. Para SH09, SH12 e SH15, use um **KF-C1-B**, que é o mesmo C1 com o copo no caixote. Feito por composição (o ChatGPT gerou outra imagem em vez de editar): `S01E02_SC002_KF-C1-B_V01.png`.
 2. **O microfone:** depois do SH18 o microfone está na gola. O **SH21 ("Something.")** usa o **KF-C3** (com microfone), e não o C1.
 
 ## Arquivos
@@ -27,7 +27,7 @@
 | `@ID_JUNE` | `02_CHARACTERS/JUNE_PARK/june_ref-SC005_KF-J1.png` |
 | `@VOZ_CLAIRE` | `06_GENERATED_ASSETS/VOICES/claire_bennett_voice-ref_v02.wav` |
 | `@VOZ_MAYA` | `06_GENERATED_ASSETS/VOICES/maya_reed_voice-ref_v02.wav` |
-| `@KF-…` SC002 | `06_GENERATED_ASSETS/IMAGES/S01E02_SC002_KF-…`: SET-WS V02 · C1 V01 · **C1-B (a gerar)** · C2 V01 · O1 V02 · O2 V01 · O3 V01 · INS-WATER V02 · INS-MON-A V02 · INS-MON-B V02 · 2S-MIC V02 · INS-MIC V01 · 2S-CLOSE V01 |
+| `@KF-…` SC002 | `06_GENERATED_ASSETS/IMAGES/S01E02_SC002_KF-…`: SET-WS V02 · C1 V01 · **C1-B V01** (composição: o copo do INS-WATER sobre o caixote do C1) · C2 V01 · O1 V02 · O2 V01 · O3 V01 · INS-WATER V02 · INS-MON-A V02 · INS-MON-B V02 · 2S-MIC V02 · INS-MIC V01 · 2S-CLOSE V01 |
 | `@KF-…` SC003 | `06_GENERATED_ASSETS/IMAGES/S01E02_SC003_KF-…`: C3 V01 · C4 V01 · INS-REC V01 · MJ2 V02 |
 
 **Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE: precise, controlled, guarded. Static camera.*
