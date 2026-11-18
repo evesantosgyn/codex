@@ -1,6 +1,6 @@
 # S01E02 · SC002 + SC003 — LIGHTS / ON THE RECORD · Decupagem V01
 
-**Status:** ✅ APROVADA (2026-11-17, N33) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-17
+**Status:** ✅ APROVADA (2026-11-17, N33) · keyframes aprovados (V58) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-17
 **Duração:** SC002 1:30 no roteiro → **~0:51 de planos**; SC003 2:15 no roteiro → **~1:10 de planos**. As pausas, os silêncios e os olhares esticam na montagem; o roteiro estima com folga · **22 + 19 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual

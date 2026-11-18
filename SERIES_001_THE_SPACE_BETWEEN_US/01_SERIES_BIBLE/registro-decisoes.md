@@ -74,6 +74,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V58 | **EP02: keyframes da SC002 (12) e da SC003 (4) APROVADOS.** SC002: SET-WS V02, C1 V01, C2 V01, O1 V02 (painel de LED, tatuagem, sem relógio), O2 V01, O3 V01 (de fone), INS-WATER V02 (no caixote), INS-MON-A V02 (coluna na cabeça, STBY), INS-MON-B V02 (coluna fora), 2S-MIC V02, INS-MIC V01, 2S-CLOSE V01. SC003: C3 V01 (plano de entrevista, microfone na gola), C4 V01, INS-REC V01, MJ2 V02. Aceitos pelo responsável: reflexo de sol no cabelo de Claire (C2, C4); pinta de Olivia no queixo nos planos a duas (2S-MIC, INS-MIC, 2S-CLOSE); microfone um pouco abaixo da gola no INS-MIC. **Olivia não usa relógio** (continuidade) | APROVADO (2026-11-18) | Checagem EP02 SC002/SC003 |
 | V57 | **EP02: keyframes do cold open (8) e da SC001 (10) APROVADOS.** Cold open: PLATE V01, C1 V02, C1-B V01, WS V01, MS V02, MS-B V01, INS-PHONE V02 (interface em inglês, relógio), INS-PHONE-4S V01 (00:04, o instante antes do "Stop"). SC001: EXT V02, INT-WS V02, ENTRY V01, C1 V01, O1 V01, O2 V01 (folha com 1–6 e a 7 em branco), MJ V02, INS-SHEET V02, PANEL V01, J1 V01. **KF-INS-BREAKER retirado:** SH21 e SH22 viram um plano só (PANEL). **June olha para a direita** no J1 (fala com a equipe no set) | APROVADO (2026-11-17) | Checagem EP02 CO/SC001 |
 | V56 | **EP02: prancha P5 da van de produção APROVADA** (volante à esquerda: June dirige, Olivia no banco do passageiro; laptop com programa de edição na bancada). **Desenvolvimento visual do EP02 completo** (V53–V56) | APROVADO (2026-11-17) | Pacote de desenvolvimento visual EP02 |
 | V55 | **EP02, objeto de cena da SC009 APROVADO:** a foto antiga de Claire aos 28 anos, **sem franja** (testa à mostra), rindo com a cabeça inclinada, textura de foto gasta, numa moldura na parede do ateliê (`06_GENERATED_ASSETS/IMAGES/S01E02_PROP_FOTO-CLAIRE-ANTIGA_V02.png`). O plano de cobertura de Olivia na SC009 repete o ângulo | APROVADO (2026-11-17) | Pacote de desenvolvimento visual EP02 |
@@ -139,6 +140,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-18 | EP02: keyframes da SC002 e da SC003 aprovados (V58) | Showrunner GL AI |
 | 2026-11-17 | EP02: decupagem da SC002 e da SC003 aprovada (N33) | Showrunner GL AI |
 | 2026-11-17 | EP02: keyframes do cold open e da SC001 aprovados (V57) | Showrunner GL AI |
 | 2026-11-17 | EP02: decupagem do cold open e da SC001 aprovada; P18 resolvida, roteiro V1.2 (N32) | Showrunner GL AI |
