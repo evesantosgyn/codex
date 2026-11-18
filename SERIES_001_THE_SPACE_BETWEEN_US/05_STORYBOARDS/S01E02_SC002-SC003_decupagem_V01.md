@@ -39,19 +39,20 @@
 | SH06 | 2 s | KF-C1 | | CLAIRE: "I don't have a good side." |
 | SH07 | 2 s | KF-O1 | | OLIVIA: "I said preferred." |
 | SH08 | 2 s | KF-INS-WATER | A mão de Olivia (tatuagem) deixa o copo no caixote | — |
-| SH09 | 3 s | KF-C1 | Claire olha o copo. Não tinha pedido. Bebe assim mesmo | — |
+| SH09 | 3 s | KF-C1-B | Claire olha o copo. Não tinha pedido. Bebe assim mesmo | — |
 | SH10 | 3 s | KF-O2 | Olivia atrás da câmera confere o quadro | — |
 | SH11 | 2 s | KF-INS-MON-A | No monitor: a coluna cortando a cabeça de Claire | — |
-| SH12 | 2 s | KF-C1 | | CLAIRE: "The column is cutting through my head." |
+| SH12 | 2 s | KF-C1-B | | CLAIRE: "The column is cutting through my head." |
 | SH13 | 2 s | KF-O2 | | OLIVIA: "I was just about to fix that." |
 | SH14 | 2 s | KF-INS-MON-B | O tripé anda alguns centímetros; a coluna sai do quadro | — |
-| SH15 | 2 s | KF-C1 | | CLAIRE: "Of course you were." |
+| SH15 | 2 s | KF-C1-B | | CLAIRE: "Of course you were." |
 | SH16 | 3 s | KF-2S-MIC | Olivia, com o microfone de lapela, **para a um braço de distância** | OLIVIA: "May I?" |
-| SH17 | 2 s | KF-C2 | Uma pausa | CLAIRE: "Yes." |
+| SH17 | 2 s | KF-C1-B | **(proposto na montagem do pacote do H3)** O mesmo C1 com o copo d'água no caixote, para SH09, SH12 e SH15 |
+| KF-C2 | Uma pausa | CLAIRE: "Yes." |
 | SH18 | 3 s | KF-INS-MIC | Os dedos de Olivia prendem o microfone na borda da gola alta | — |
 | SH19 | 3 s | KF-2S-CLOSE | **Um segundo perto demais.** Nenhuma das duas se move | silêncio |
 | SH20 | 2 s | KF-O3 | Olivia já atrás da câmera, de fone | OLIVIA: "Say something." |
-| SH21 | 2 s | KF-C1 | (seca) | CLAIRE: "Something." |
+| SH21 | 2 s | KF-C3 | (seca; já com o microfone) | CLAIRE: "Something." |
 | SH22 | 2 s | KF-O3 | Confere o fone | OLIVIA: "Perfect." |
 
 **Total ≈ 51 s.**
