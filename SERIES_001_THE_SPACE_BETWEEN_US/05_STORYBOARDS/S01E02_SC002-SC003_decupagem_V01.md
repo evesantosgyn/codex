@@ -1,6 +1,6 @@
 # S01E02 · SC002 + SC003 — LIGHTS / ON THE RECORD · Decupagem V01
 
-**Status:** ✅ APROVADA (2026-11-17, N33) · keyframes aprovados (V58) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-17
+**Status:** ✅ APROVADA (2026-11-17, N33) · keyframes aprovados (V58, V59) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-17
 **Duração:** SC002 1:30 no roteiro → **~0:51 de planos**; SC003 2:15 no roteiro → **~1:10 de planos**. As pausas, os silêncios e os olhares esticam na montagem; o roteiro estima com folga · **22 + 19 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
@@ -47,8 +47,7 @@
 | SH14 | 2 s | KF-INS-MON-B | O tripé anda alguns centímetros; a coluna sai do quadro | — |
 | SH15 | 2 s | KF-C1-B | | CLAIRE: "Of course you were." |
 | SH16 | 3 s | KF-2S-MIC | Olivia, com o microfone de lapela, **para a um braço de distância** | OLIVIA: "May I?" |
-| SH17 | 2 s | KF-C1-B | **(proposto na montagem do pacote do H3)** O mesmo C1 com o copo d'água no caixote, para SH09, SH12 e SH15 |
-| KF-C2 | Uma pausa | CLAIRE: "Yes." |
+| SH17 | 2 s | KF-C2 | Uma pausa | CLAIRE: "Yes." |
 | SH18 | 3 s | KF-INS-MIC | Os dedos de Olivia prendem o microfone na borda da gola alta | — |
 | SH19 | 3 s | KF-2S-CLOSE | **Um segundo perto demais.** Nenhuma das duas se move | silêncio |
 | SH20 | 2 s | KF-O3 | Olivia já atrás da câmera, de fone | OLIVIA: "Say something." |
@@ -82,11 +81,12 @@
 
 **Total ≈ 70 s.**
 
-## Keyframes (16)
+## Keyframes (17, após a V59)
 | ID | O quê |
 |---|---|
 | KF-SET-WS | Geral do set junto às janelas: a poltrona de couro caramelo, o caixote, a câmera no tripé; Claire sentando; Olivia carregando o refletor |
 | KF-C1 | Claire sentada na poltrona, plano médio, **sem capacete**, olhar para a **direita** |
+| KF-C1-B | O mesmo C1 **com o copo d'água no caixote** (composição, V59), para SH09, SH12 e SH15 |
 | KF-C2 | Close de Claire, sentada, olhando **para cima e para a direita** (Olivia de pé perto dela) |
 | KF-C3 | **Plano de entrevista:** Claire na poltrona, plano médio-próximo, olhar logo ao lado da lente, para a **direita**; a janela e a luz principal suave; o microfone de lapela na gola alta |
 | KF-C4 | Close de entrevista, mesmo eixo, para o avanço e o final |
