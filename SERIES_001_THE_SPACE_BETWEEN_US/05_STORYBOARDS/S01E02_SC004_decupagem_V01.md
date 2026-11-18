@@ -1,6 +1,6 @@
 # S01E02 · SC004 — DID YOU KNOW? · Decupagem V01
 
-**Status:** PROPOSTA (2026-11-18) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-18
+**Status:** ✅ APROVADA (2026-11-18, N34) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-18
 **Duração:** roteiro 1:45 · **soma ≈ 1:22 de planos** (os silêncios "That is the answer" e "A beat" esticam na montagem) · **24 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
