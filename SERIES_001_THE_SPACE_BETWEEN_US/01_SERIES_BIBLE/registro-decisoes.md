@@ -26,6 +26,7 @@ Legenda de status:
 | N13 | Claire mora no mesmo apartamento há mais de sete anos; Olivia conhece o prédio e o porteiro (P15) | APROVADO (2026-11-12) | Avaliação V3.1, C6 |
 | N14 | June Park conhece o segredo de Olivia | APROVADO (2026-11-12) | SC009 |
 | N19 | **SC001: refação da produção AUTORIZADA** pelo responsável (2026-11-12), com o método novo e as regras L1–L8. O vídeo V00 deixa de ser o final e passa a ser **referência** de bloqueio, geografia, ritmo e atuação. Falas e roteiro inalterados; as referências de voz extraídas dele continuam valendo | APROVADO (2026-11-12) | Autorização explícita |
+| N35 | **EP02: decupagem da SC005 APROVADA** (29 planos, ~1:17; plano e contraplano seco de Maya e June; June pega o copo que Maya acabou de pousar na mesa; caixa de doces de padaria na mesa; plano por cima do ombro de June; plano geral parado de Claire e Olivia nas duas pontas da mesma janela alta, com Olivia ainda segurando o cabo; callback de Maya e June lado a lado com os copos na mesma altura; sem avanço de câmera) | APROVADO (2026-11-18) | `05_STORYBOARDS/S01E02_SC005_decupagem_V01.md` |
 | N34 | **EP02: decupagem da SC004 APROVADA** (24 planos; o painel de LED apaga com a luz vermelha; poder pela altura, sentada × de pé, mesmo nível a partir do SH19; o cabo do microfone nos dedos de Olivia como objeto da cena; sem avanço de câmera; plano final com Olivia de costas em primeiro plano e Claire saindo para a luz) | APROVADO (2026-11-18) | `05_STORYBOARDS/S01E02_SC004_decupagem_V01.md` |
 | N33 | **EP02: decupagem da SC002 e da SC003 APROVADA** (22 + 19 planos; Olivia só como voz na SC003, com planos-fonte para o áudio; um único avanço lento no SH09 da SC003, num plano de Claire, como exceção à P-15; inserts do monitor gerados; capacetes fora no set) | APROVADO (2026-11-17) | `05_STORYBOARDS/S01E02_SC002-SC003_decupagem_V01.md` |
 | N32 | **EP02: decupagem do cold open e da SC001 APROVADA** (a câmera como espelho; jump cuts do blazer; cronômetro e folha de perguntas **gerados na própria imagem** (correção do responsável: o ponto 3, "números na pós", NÃO foi aprovado; segue a lógica da V43); Claire olha para a direita, Olivia para a esquerda). **P18 resolvida:** roteiro V1.2 ("turtleneck" no cold open, SC002 e SC004) | APROVADO (2026-11-17) | `05_STORYBOARDS/S01E02_CO-SC001_decupagem_V01.md` |
@@ -143,6 +144,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-18 | EP02: decupagem da SC005 aprovada (N35) | Showrunner GL AI |
 | 2026-11-18 | EP02: keyframes da SC004 aprovados; nível dos olhos com salto (V60) | Showrunner GL AI |
 | 2026-11-18 | EP02: decupagem da SC004 aprovada (N34) | Showrunner GL AI |
 | 2026-11-18 | EP02: KF-C1-B aprovado; SH21 com o C3 (V59) | Showrunner GL AI |

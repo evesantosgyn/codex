@@ -1,6 +1,6 @@
 # S01E02 · SC005 — THE HANDLERS · Decupagem V01
 
-**Status:** PROPOSTA (aguarda aprovação) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-18
+**Status:** ✅ APROVADA (2026-11-18, N35) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-18
 **Duração:** roteiro 1:15 · **soma ≈ 1:17 de planos** · **29 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
