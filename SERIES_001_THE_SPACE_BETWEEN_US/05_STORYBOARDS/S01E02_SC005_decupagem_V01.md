@@ -1,6 +1,6 @@
 # S01E02 · SC005 — THE HANDLERS · Decupagem V01
 
-**Status:** ✅ APROVADA (2026-11-18, N35) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-18
+**Status:** ✅ APROVADA (2026-11-18, N35) · keyframes aprovados (V61) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-18
 **Duração:** roteiro 1:15 · **soma ≈ 1:17 de planos** · **29 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
@@ -47,7 +47,7 @@
 |---|---|---|---|---|
 | SH01 | 4 s | KF-TABLE-WS | Geral da mesa: Maya enche um copo na garrafa térmica e o pousa na mesa | — |
 | SH02 | 2 s | KF-INS-CUP | A mão de June (relógio de couro preto, manga creme) pega esse copo da mesa | — |
-| SH03 | 3 s | KF-2S-DRINK | Plano a duas: Maya olha para June, pega outro copo e enche de novo | — |
+| SH03 | 3 s | KF-2S-DRINK | Plano a duas: Maya, já com o segundo copo (enchido entre o SH02 e o SH03), dá um olhar para June (V61) | — |
 | SH04 | 2 s | KF-M1 | | MAYA: "Is she always like this?" |
 | SH05 | 2 s | KF-J2 | | JUNE: "Which one?" |
 | SH06 | 2 s | KF-M1 | | MAYA: "Yours." |
@@ -61,7 +61,7 @@
 | SH14 | 2 s | KF-M1 | | MAYA: "Separate floors, if possible." |
 | SH15 | 2 s | KF-J2 | | JUNE: "Agreed." |
 | SH16 | 2 s | KF-INS-SHAKE | Aperto de mão sobre a mesa; os copos na outra mão | — |
-| SH17 | 3 s | KF-OTS-J | Por cima do ombro de June: o olhar de Maya passa por ela e para em algo ao fundo | — |
+| SH17 | 3 s | KF-OTS-J → KF-OTS-J-B | Por cima do ombro de June: o olhar de Maya passa por ela e para em algo ao fundo (quadro inicial e final) | — |
 | SH18 | 2 s | KF-J2 | June se vira para a direita, por cima do ombro | — |
 | SH19 | 5 s | KF-WS-WINDOW | Do outro lado do salão, Claire e Olivia nas duas pontas da mesma janela alta, sem se olhar | (sala) |
 | SH20 | 3 s | KF-2S-LOOK | Lado a lado, as duas olhando para a janela | MAYA: "That lasted eleven seconds." |
@@ -77,7 +77,7 @@
 
 **Total ≈ 77 s.**
 
-## Keyframes (9 novos)
+## Keyframes (10 aprovados: os 9 previstos + o OTS-J-B)
 | ID | O quê |
 |---|---|
 | **KF-TABLE-WS** | Geral da mesa de café junto à coluna, a janela alta ao fundo; Maya à esquerda, enchendo um copo de papel na garrafa térmica; a caixa de doces aberta |
@@ -87,6 +87,7 @@
 | **KF-J2** | Plano médio fechado de June na mesa, olhando para a **esquerda**, o copo na mão, crachá |
 | **KF-INS-SHAKE** | Close: aperto de mão firme sobre a mesa (o anel dourado e o relógio branco de Maya; o relógio preto de June) |
 | **KF-OTS-J** | Por cima do ombro de June (nuca, cabelo escuro, overshirt creme, desfocada); Maya ao fundo, nítida, olhando **além** de June |
+| **KF-OTS-J-B** | O mesmo quadro do OTS-J, com o olhar de Maya já além de June, sobrancelhas erguidas: quadro final do SH17 |
 | **KF-WS-WINDOW** | Geral do salão, do ponto de vista de Maya: colunas em primeiro plano; ao fundo, **uma** janela alta em arco, com Claire na ponta esquerda e Olivia na direita, cada uma olhando para fora |
 | **KF-2S-LOOK** | Plano a duas, frontal: Maya (esquerda) e June (direita) lado a lado, olhando para fora do quadro à direita, copos na mesma altura, a mesma cara |
 
