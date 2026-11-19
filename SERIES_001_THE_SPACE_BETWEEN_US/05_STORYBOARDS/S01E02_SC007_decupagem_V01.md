@@ -1,6 +1,6 @@
 # S01E02 · SC007 — SIX O'CLOCK · Decupagem V01
 
-**Status:** PROPOSTA (aguarda aprovação) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-19
+**Status:** ✅ APROVADA (2026-11-19, N37) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-19
 **Duração:** roteiro 1:30 · **soma ≈ 1:08 de planos**; os silêncios ("They stand there", os dois minutos do relógio) esticam na montagem · **23 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
