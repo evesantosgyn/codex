@@ -1,6 +1,6 @@
 # S01E02 · SC006 — THE MAN WHO REMEMBERED · Decupagem V01
 
-**Status:** PROPOSTA (aguarda aprovação) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-19
+**Status:** ✅ APROVADA (2026-11-19, N36) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-19
 **Duração:** roteiro 1:30 · **soma ≈ 1:16 de planos**; as pausas ("A very small silence", "Abel studies her") esticam na montagem · **22 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
