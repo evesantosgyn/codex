@@ -26,6 +26,7 @@ Legenda de status:
 | N13 | Claire mora no mesmo apartamento há mais de sete anos; Olivia conhece o prédio e o porteiro (P15) | APROVADO (2026-11-12) | Avaliação V3.1, C6 |
 | N14 | June Park conhece o segredo de Olivia | APROVADO (2026-11-12) | SC009 |
 | N19 | **SC001: refação da produção AUTORIZADA** pelo responsável (2026-11-12), com o método novo e as regras L1–L8. O vídeo V00 deixa de ser o final e passa a ser **referência** de bloqueio, geografia, ritmo e atuação. Falas e roteiro inalterados; as referências de voz extraídas dele continuam valendo | APROVADO (2026-11-12) | Autorização explícita |
+| N38 | **EP02: decupagem da SC008 APROVADA** (11 planos, ~37 s de planos; June já no banco do motorista, fechando uma maleta de câmera no colo; a confissão de Olivia ("About that.") de costas para June, virada para a janela; sem comédia: June seca e gentil; final com a chave na ignição e a luz do painel no rosto de Olivia) | APROVADO (2026-11-19) | `05_STORYBOARDS/S01E02_SC008_decupagem_V01.md` |
 | N37 | **EP02: decupagem da SC007 APROVADA** (23 planos, ~1:08 de planos; três inserts do relógio de Claire, 5:58 → ponteiro de segundos → 6:00, com os ponteiros gerados na imagem; Claire alguns degraus acima e Olivia no patamar (poder pela altura, invertido em relação à SC004); sem avanço de câmera; a luz dourada andando no tijolo no plano a duas; saída com Olivia em primeiro plano e Claire passando por ela) | APROVADO (2026-11-19) | `05_STORYBOARDS/S01E02_SC007_decupagem_V01.md` |
 | N36 | **EP02: decupagem da SC006 APROVADA** (22 planos, ~1:16 de planos; os três olhares: Abel além da lente, Claire para Olivia, Olivia não olha para Claire; Olivia O.S. nas falas, com o rosto só no silêncio (SH18) e na pergunta "evenly" em quadro (SH19); Claire na cadeira ao lado do monitor; Abel e Claire parados; avanço lento em Claire no último plano (exceção à P-15); insert das mãos de Abel; LED aceso à tarde; voz de Abel por conversão) | APROVADO (2026-11-19) | `05_STORYBOARDS/S01E02_SC006_decupagem_V01.md` |
 | N35 | **EP02: decupagem da SC005 APROVADA** (29 planos, ~1:17; plano e contraplano seco de Maya e June; June pega o copo que Maya acabou de pousar na mesa; caixa de doces de padaria na mesa; plano por cima do ombro de June; plano geral parado de Claire e Olivia nas duas pontas da mesma janela alta, com Olivia ainda segurando o cabo; callback de Maya e June lado a lado com os copos na mesma altura; sem avanço de câmera) | APROVADO (2026-11-18) | `05_STORYBOARDS/S01E02_SC005_decupagem_V01.md` |
@@ -152,6 +153,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-19 | EP02: decupagem da SC008 aprovada (N38) | Showrunner GL AI |
 | 2026-11-19 | EP02: keyframes da SC007 aprovados (V66) | Showrunner GL AI |
 | 2026-11-19 | EP02: decupagem da SC007 aprovada (N37) | Showrunner GL AI |
 | 2026-11-19 | EP02: keyframes da SC006 aprovados (V65) | Showrunner GL AI |
