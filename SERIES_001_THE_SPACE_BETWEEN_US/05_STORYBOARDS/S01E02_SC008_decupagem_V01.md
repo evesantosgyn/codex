@@ -1,6 +1,6 @@
 # S01E02 · SC008 — HALF THE TRUTH · Decupagem V01
 
-**Status:** ✅ APROVADA (2026-11-19, N38) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-19
+**Status:** ✅ APROVADA (2026-11-19, N38) · keyframes aprovados (V67) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-19
 **Duração:** roteiro 0:45 · **soma ≈ 0:37 de planos**; as pausas ("June waits") esticam na montagem · **11 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
