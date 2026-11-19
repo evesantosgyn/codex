@@ -28,10 +28,15 @@
 
 **Uma ressalva sobre a tristeza "em todas as falas":** concordo, com uma nuance. Na primeira metade (SH05–SH27), a tristeza fica **por baixo**: Olivia faz piada e sorri, mas o sorriso não chega aos olhos. É humor como defesa. Na segunda metade (SH28–SH39), a tristeza vem à tona. Assim, o riso do SH27 continua funcionando, e a virada para "Did you tell her why you left?" ganha peso.
 
-## 2. Keyframe novo: KF-O1-B (ChatGPT, Editar a partir do KF-O1)
-> Same image, same framing, same clothes and light. Change only Olivia's expression and gaze: her eyes are lowered toward her coffee cup, slightly unfocused, lost in thought; her eyelids a little heavy, a faint tiredness and sadness around the eyes; her mouth relaxed, not smiling. Shoulders a bit softer, less upright. Keep her face, the ONE beauty mark below her lower lip on her left side, the messy bun, the window and the rainy street behind her exactly the same.
+## 2. Keyframes novos (V63): 5 edições dos originais
+Prompts em `S01E01_SC005_pacote-chatgpt_V02-refacao.md`. Arquivos em `06_GENERATED_ASSETS/IMAGES/S01E01_SC005_KF-…`:
+- **O1-B V01:** Olivia de olhar baixo, cansada, pensativa.
+- **O1-SMILE V01:** meio-sorriso com os olhos tristes.
+- **O2-B V01:** queixo na mão, olhar na mesa, olhos marejados sem lágrima.
+- **J1-B V01:** cara séria com um brilho irônico, para as piadas.
+- **J2-B V02:** preocupação gentil e firme.
 
-O **O1-B** substitui o O1 como quadro inicial de **todas as falas de Olivia** de SH07 a SH25. Ela começa olhando para baixo e ergue os olhos para June só quando fala. O O1 original fica para o SH11 (o sorriso) e o SH39 (o final).
+**O1 não é mais usado.** O O2, o J1 e o J2 originais seguem nos planos da tabela abaixo.
 
 ## 3. Blocos novos
 
@@ -51,36 +56,36 @@ O **O1-B** substitui o O1 como quadro inicial de **todas as falas de Olivia** de
 | SH05 | O1-B | — | Olivia, eyes on the rainy window, gives a vague nod that comes a beat too late. |
 | SH06 | J1 | JUNE "Olivia?" | She looks up over the laptop: "Olivia?", rising, patient, already knowing. |
 | SH07 | O1-B | OLIVIA "I'm listening." | Pulled back from her thoughts a beat late, eyes lifting slowly from the cup; soft: "I'm listening." |
-| SH08 | J1 | JUNE "Then what did I just say?" | Sweetly, like a teacher who already knows the answer: "Then what did I just say?" |
+| SH08 | J1-B | JUNE "Then what did I just say?" | Sweetly, like a teacher who already knows the answer: "Then what did I just say?" |
 | SH09 | O1-B | OLIVIA "Something about architecture." | A tired, half-hearted guess, eyes drifting away: "Something… about architecture." |
-| SH10 | J1 | JUNE "Remarkable. You heard an entire noun." | "Remarkable." A beat. Then, with ironic stress, stretching the word: "You heard an ENTIRE noun." |
-| SH11 | O1 | — | Olivia smiles faintly despite herself; the smile does not reach her eyes. |
+| SH10 | J1-B | JUNE "Remarkable. You heard an entire noun." | "Remarkable." A beat. Then, with ironic stress, stretching the word: "You heard an ENTIRE noun." |
+| SH11 | O1-SMILE | — | Olivia smiles faintly despite herself; the smile does not reach her eyes. |
 | SH13 | J1 | JUNE "You went to see her." | She drops the joke; not a question, quiet and certain: "You went to see her." |
 | SH14 | O1-B | OLIVIA "Who?" | She looks up slowly; a weak attempt at innocence that convinces no one: "Who?" |
 | SH15 | J1 | JUNE "The woman you've been pretending not to think about since we landed." | Patient, precise, enjoying each clause a little: "The woman you've been pretending not to think about… since we landed." |
 | SH16 | O1-B | OLIVIA "That's a very long description." | A faint, sad half-smile, eyes back on her cup: "That's a very long description." |
-| SH17 | J1 | JUNE "Is it inaccurate?" | Eyebrow up, light: "Is it… inaccurate?" |
+| SH17 | J1-B | JUNE "Is it inaccurate?" | Eyebrow up, light: "Is it… inaccurate?" |
 | SH19 | O1-B | OLIVIA "I went to her apartment." | A breath first; quietly, eyes on the cup, slowly: "I went to her apartment." |
 | SH20 | J1 | JUNE "And?" | Leaning in a little, gentle: "And?" |
 | SH21 | O1-B | OLIVIA "She opened the door." | The memory replaying behind her eyes; slow: "She opened the door." |
-| SH22 | J1 | JUNE "Promising." | Mock-encouraging, a small upward lilt: "Promising." |
-| SH23 | O1-B | OLIVIA "She looked like she wanted to murder me." | Self-deprecating, a small sad laugh caught in the voice: "She looked like she wanted to murder me." |
-| SH24 | J1 | JUNE "Less promising." | The same tune as "Promising", but lower and falling: "Less promising." |
+| SH22 | J1-B | JUNE "Promising." | Mock-encouraging, a small upward lilt: "Promising." |
+| SH23 | O1-SMILE | OLIVIA "She looked like she wanted to murder me." | Self-deprecating, a small sad laugh caught in the voice: "She looked like she wanted to murder me." |
+| SH24 | J1-B | JUNE "Less promising." | The same tune as "Promising", but lower and falling: "Less promising." |
 | SH25 | O1-B | OLIVIA "She didn't close it immediately." | Almost to herself, eyes on the window; a fragile, stubborn hope: "She didn't close it… immediately." |
-| SH26 | J1 | JUNE "A romantic triumph." | Mock-ceremonial, slower, eyebrows up, every word weighed: "A romantic… triumph." |
+| SH26 | J1-B | JUNE "A romantic triumph." | Mock-ceremonial, slower, eyebrows up, every word weighed: "A romantic… triumph." |
 | SH27 | 2S | — | Olivia laughs despite herself, covering her mouth, and the laugh fades into something sadder; June allows a tiny smile. |
-| SH28 | J2 | JUNE "Did you tell her why you left?" | No joke now; soft and careful: "Did you tell her why you left?" |
-| SH29 | O1 | OLIVIA "No." | A pause; eyes drop; barely audible: "No." |
-| SH30 | J2 | JUNE "Did you apologize?" | Gentle, already guessing the answer: "Did you apologize?" |
+| SH28 | J2-B | JUNE "Did you tell her why you left?" | No joke now; soft and careful: "Did you tell her why you left?" |
+| SH29 | O2-B | OLIVIA "No." | A pause; eyes drop; barely audible: "No." |
+| SH30 | J2-B | JUNE "Did you apologize?" | Gentle, already guessing the answer: "Did you apologize?" |
 | SH31 | O2 | OLIVIA "I didn't get that far." | A long pause looking out the window; then, very quietly: "I didn't get that far." |
-| SH32 | J2 | JUNE "You can't spend seven years…" | Honest, kind, unhurried; not lecturing: "You can't spend seven years rehearsing a conversation… and then expect the other person to follow your script." |
-| SH33 | O2 | OLIVIA "I know." | A slow exhale; she looks down: "I know." |
+| SH32 | J2-B | JUNE "You can't spend seven years…" | Honest, kind, unhurried; not lecturing: "You can't spend seven years rehearsing a conversation… and then expect the other person to follow your script." |
+| SH33 | O2-B | OLIVIA "I know." | A slow exhale; she looks down: "I know." |
 | SH34 | J2 | JUNE "And the project?" | Lightly, as if changing the subject, but watching her: "And the project?" |
 | SH35 | O2 | OLIVIA "What about it?" | Guarded, a touch too quick (the one defensive line): "What about it?" |
 | SH36 | J2 | JUNE "You know there are old records we still need to review." | Carefully, choosing each word: "You know there are old records… we still need to review." |
 | SH37 | O2 | OLIVIA "I know that too." | Slow push-in. Heavy, slow, the past surfacing in her eyes: "I know that too." |
-| SH38 | J1 | JUNE "One disaster at a time, then." | Opening the laptop again, with a small affectionate sigh, light: "One disaster at a time, then." |
-| SH39 | O1 | — | Olivia gives a small, tired smile and looks out at the wet street; the sadness stays. |
+| SH38 | J1-B | JUNE "One disaster at a time, then." | Opening the laptop again, with a small affectionate sigh, light: "One disaster at a time, then." |
+| SH39 | O1-SMILE | — | Olivia gives a small, tired smile and looks out at the wet street; the sadness stays. |
 
 Os planos sem fala que não aparecem aqui (SH01–SH03, SH12 e SH18) seguem como na V01.
 
@@ -94,7 +99,7 @@ Os planos sem fala que não aparecem aqui (SH01–SH03, SH12 e SH18) seguem como
 
 ## 6. Para aprovação
 1. O diagnóstico, e a tristeza "por baixo" na primeira metade, "à tona" na segunda.
-2. O **KF-O1-B** como quadro inicial das falas de Olivia.
+2. O **KF-O1-B** como quadro inicial das falas de Olivia (ampliado na V63 para 5 keyframes novos).
 3. Os **blocos novos** de Olivia e June e a direção por fala.
 4. A correção do fundo de June (o interior do café).
 5. As pausas de volta na montagem (~1:35–1:40).
