@@ -79,6 +79,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V68 | **EP02: chuva na noite de terça APROVADA** (vista na SC008, nos keyframes O11 e O12). Continuidade: a SC009 (apartamento de Claire, à noite) também tem chuva na janela do escritório. Não muda nenhuma fala | APROVADO (2026-11-19) | Decisão do responsável |
 | V67 | **EP02: keyframes da SC008 APROVADOS (5):** VAN-WS V01, J3 V02 (eixo corrigido: June olha para a DIREITA, janela do motorista atrás dela, relógio no pulso esquerdo), O11 V01, O12 V02 (refeito com o mesmo fundo do O11: janela à esquerda, prateleiras à direita), INS-KEY V01. Aceitos: chuva no vidro (não estava no roteiro; reforça o clima) e o cinto de segurança de Olivia | APROVADO (2026-11-19) | Checagem EP02 SC008 |
 | V66 | **EP02: keyframes da SC007 APROVADOS (12):** STAIR-WS V01, C11 V02 (sem anel e sem a segunda corrente), C12 V01, C13 V01, O8 V01, O9 V01, O10 V02 (lábios fechados, esperando), INS-WATCH-558 V02 (com ponteiro de segundos; manga preta fina), INS-WATCH-559 V01, INS-WATCH-600 V01, 2S-STAIR V02 (refeito: lados, figurinos e escada corretos), WS-PASS V01. **Mudanças:** o relógio tem **números no mostrador** (aceitos, para a hora ser lida em 2 s); no WS-PASS, **Claire passa em primeiro plano** e Olivia fica ao fundo (composição invertida; vemos o rosto de Olivia quando Claire passa) | APROVADO (2026-11-19) | Checagem EP02 SC007 |
 | V65 | **EP02: keyframes da SC006 APROVADOS (10):** A1 V01 (rosto de referência de Abel em cena), SET-PM V02 (sem o relógio de Olivia), A2 V02 (o polegar para trás, para a janela), A3 V02 (o reconhecimento), INS-HANDS V02 (com a cicatriz no polegar), WINDOW-SHOP V02 (sem letreiro nem data), C8 V02 (cadeira dobrável ao lado do monitor, calça taupe), C9 V01, C10 V02 (olhar corrigido para a DIREITA, para Olivia; quadro mais fechado aceito), O7 V02 (rosto de Olivia refeito). Aceitos: o capacete no chão no SET-PM; o brilho quente nas mechas de Claire pela luz da tarde | APROVADO (2026-11-19) | Checagem EP02 SC006 |
@@ -154,6 +155,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-19 | EP02: chuva na noite de terça (V68) | Showrunner GL AI |
 | 2026-11-19 | EP02: keyframes da SC008 aprovados (V67) | Showrunner GL AI |
 | 2026-11-19 | EP02: decupagem da SC008 aprovada (N38) | Showrunner GL AI |
 | 2026-11-19 | EP02: keyframes da SC007 aprovados (V66) | Showrunner GL AI |
