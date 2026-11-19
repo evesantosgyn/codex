@@ -1,6 +1,6 @@
 # S01E02 · SC007 — SIX O'CLOCK · Decupagem V01
 
-**Status:** ✅ APROVADA (2026-11-19, N37) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-19
+**Status:** ✅ APROVADA (2026-11-19, N37) · keyframes aprovados (V66) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-19
 **Duração:** roteiro 1:30 · **soma ≈ 1:08 de planos**; os silêncios ("They stand there", os dois minutos do relógio) esticam na montagem · **23 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
@@ -62,7 +62,7 @@
 | SH19 | 3 s | KF-C12 → KF-C13 | Claire ergue os olhos para Olivia e abre a boca | — |
 | SH20 | 2 s | KF-O10 | Olivia espera, pronta para o que vier | — |
 | SH21 | 2 s | KF-C13 | Ela desiste | CLAIRE: "Goodnight, Olivia." |
-| SH22 | 4 s | KF-WS-PASS | Claire desce, passa por Olivia no patamar e some no lance de baixo | (passos) |
+| SH22 | 4 s | KF-WS-PASS | Claire passa por Olivia e desce em primeiro plano, em direção à câmera; Olivia fica ao fundo, no patamar, olhando-a ir (V66) | (passos) |
 | SH23 | 5 s | KF-O10 | Olivia fica no patamar, o tripé na mão, enquanto os passos somem | → CUT TO |
 
 **Total ≈ 68 s.**
@@ -81,7 +81,7 @@
 | **KF-INS-WATCH-559** | O mesmo close: **5:59**, ponteiro de segundos no 50 |
 | **KF-INS-WATCH-600** | O mesmo close: **6:00 em ponto**, ponteiro de segundos no 12 |
 | **KF-2S-STAIR** | Plano a duas de perfil: Claire alguns degraus acima (esquerda) e Olivia no patamar (direita), a luz dourada rasante no tijolo |
-| **KF-WS-PASS** | Do patamar: Olivia em primeiro plano, de três-quartos, desfocada; Claire descendo e passando por ela, no lance de baixo |
+| **KF-WS-PASS** | Claire em primeiro plano, descendo em direção à câmera, olhos baixos; Olivia ao fundo, no patamar, com o tripé, olhando-a ir (composição invertida e aprovada, V66) |
 
 O C12 e o C13 são edições do C11, e o O9 e o O10 são edições do O8. Os três relógios são edições do primeiro.
 
