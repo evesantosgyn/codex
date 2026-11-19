@@ -1,6 +1,6 @@
 # Pacote de geração no H3 — S01E02 · SC005 "The Handlers"
 
-**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-18 · **Blocos de voz revistos:** 2026-11-19 (proposta, aplicando a lição da V62)
+**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-18 · **Blocos de voz revistos:** 2026-11-19 (V64, aplicando a lição da V62)
 **Base:**
 - decupagem V01 (APROVADA, N35) + 10 keyframes aprovados (V61);
 - roteiro V1.2;

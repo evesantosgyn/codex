@@ -1,6 +1,6 @@
 # Pacote de geração no H3 — S01E02 · SC004 "Did You Know?"
 
-**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-18 · **Blocos de voz revistos:** 2026-11-19 (proposta, aplicando a lição da V62)
+**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-18 · **Blocos de voz revistos:** 2026-11-19 (V64, aplicando a lição da V62)
 **Base:** decupagem V01 (APROVADA, N34) + 12 keyframes aprovados (V60) + MJ2 · roteiro V1.2 · animatic `07_EDITING/S01E02_SC004_animatic_V01.mp4` (1:14) · storyboard `05_STORYBOARDS/S01E02_SC004_storyboard_V01.jpg`
 
 ## Regras desta cena

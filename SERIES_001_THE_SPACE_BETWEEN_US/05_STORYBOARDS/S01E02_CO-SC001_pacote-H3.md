@@ -1,6 +1,6 @@
 # Pacote de geração no H3 — S01E02 · COLD OPEN + SC001 "Rehearsal / The Building"
 
-**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-17 · **Blocos de voz revistos:** 2026-11-19 (proposta, aplicando a lição da V62)
+**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-17 · **Blocos de voz revistos:** 2026-11-19 (V64, aplicando a lição da V62)
 **Base:** decupagem V01 (APROVADA, N32) + 18 keyframes aprovados (V57) · roteiro V1.2 · animatic `07_EDITING/S01E02_CO-SC001_animatic_V01.mp4` (1:45) · storyboard `05_STORYBOARDS/S01E02_CO-SC001_storyboard_V01.jpg`
 
 ## Regras destas cenas
