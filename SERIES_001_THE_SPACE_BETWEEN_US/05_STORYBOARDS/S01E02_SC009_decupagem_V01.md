@@ -1,6 +1,6 @@
 # S01E02 · SC009 — RAW FOOTAGE · Decupagem V01
 
-**Status:** PROPOSTA (aguarda aprovação) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-19
+**Status:** ✅ APROVADA (2026-11-19, N39) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-19
 **Duração:** roteiro 1:30 · **soma ≈ 1:07 de planos**; os silêncios (o riso congelado, o dedo no mouse) esticam na montagem · **21 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
