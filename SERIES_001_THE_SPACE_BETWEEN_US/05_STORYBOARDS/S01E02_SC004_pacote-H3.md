@@ -1,6 +1,6 @@
 # Pacote de geração no H3 — S01E02 · SC004 "Did You Know?"
 
-**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-18
+**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-18 · **Blocos de voz revistos:** 2026-11-19 (proposta, aplicando a lição da V62)
 **Base:** decupagem V01 (APROVADA, N34) + 12 keyframes aprovados (V60) + MJ2 · roteiro V1.2 · animatic `07_EDITING/S01E02_SC004_animatic_V01.mp4` (1:14) · storyboard `05_STORYBOARDS/S01E02_SC004_storyboard_V01.jpg`
 
 ## Regras desta cena
@@ -22,9 +22,9 @@
 | `@KF-MJ2` | `06_GENERATED_ASSETS/IMAGES/S01E02_SC003_KF-MJ2_V02.png` |
 | June O.S. | `06_GENERATED_ASSETS/IMAGES/S01E02_SC001_KF-J1_V01.png` (só o áudio) |
 
-**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE: level, controlled, every word measured; it costs her something. Static camera.*
+**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE: level, controlled, every word measured; underneath, she is hurt, and holding it in costs her something. Her voice drops and slows on the key lines; never shouting, never tearful. Static camera.*
 
-**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun today). Olivia speaks in a warm, medium-low, slightly husky American voice, very quiet, honest, not defending herself. Subtle handheld camera breathing.*
+**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun today). Olivia speaks in a warm, medium-low, slightly husky American voice, very quiet, honest, not defending herself; underneath, guilt and sadness: she knew, and she is ashamed of it. Her eyes drop to the cable; she speaks slowly, with a breath before each line, and her endings trail off. No tears. Subtle handheld camera breathing.*
 
 **Frase final de todo prompt:** *Natural morning light from the tall arched windows of the old brick factory only; the LED panel is switched off. Claire: dark-brown wavy hair with curtain bangs, strong eyebrows, wine-red lipstick, black turtleneck with dark-red pendant, taupe trousers. Olivia: messy dark-blond bun, brown knit sweater, light blue jeans, no wristwatch, ONE beauty mark below her lower lip on her left side, the black microphone cable wound around her fingers. Quiet, no music.*
 

@@ -1,6 +1,6 @@
 # Pacote de geração no H3 — S01E02 · SC002 + SC003 "Lights / On the Record"
 
-**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-18
+**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-18 · **Blocos de voz revistos:** 2026-11-19 (proposta, aplicando a lição da V62)
 **Base:** decupagem V01 (APROVADA, N33) + 16 keyframes aprovados (V58) · roteiro V1.2 · animatic `07_EDITING/S01E02_SC002-SC003_animatic_V01.mp4` (2:01) · storyboard `05_STORYBOARDS/S01E02_SC002-SC003_storyboard_V01.jpg`
 
 ## Regras destas cenas
@@ -30,13 +30,13 @@
 | `@KF-…` SC002 | `06_GENERATED_ASSETS/IMAGES/S01E02_SC002_KF-…`: SET-WS V02 · C1 V01 · **C1-B V01** (composição: o copo do INS-WATER sobre o caixote do C1) · C2 V01 · O1 V02 · O2 V01 · O3 V01 · INS-WATER V02 · INS-MON-A V02 · INS-MON-B V02 · 2S-MIC V02 · INS-MIC V01 · 2S-CLOSE V01 |
 | `@KF-…` SC003 | `06_GENERATED_ASSETS/IMAGES/S01E02_SC003_KF-…`: C3 V01 · C4 V01 · INS-REC V01 · MJ2 V02 |
 
-**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE: precise, controlled, guarded. Static camera.*
+**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE: precise, controlled, guarded; underneath, Olivia's closeness unsettles her, and dryness is her armor. In the interview her answers start rehearsed and fluent, and the control cracks slightly when the questions turn personal: a hesitation, a softer voice. Static camera.*
 
-**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun today). Olivia speaks in a warm, medium-low, slightly husky American voice, calm, quiet, gently amused. Subtle handheld camera breathing.*
+**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun today). Olivia speaks in a warm, medium-low, slightly husky American voice, calm, quiet, gently amused on the surface; underneath, careful and tender: every small gesture is a way of taking care of Claire without saying so. Soft, unhurried, with small pauses; her questions in the interview are close and deliberate, with a held breath before the personal ones. Subtle handheld camera breathing.*
 
-**Bloco de Maya (OR):** *Use @KF-… as the opening frame. Keep @ID_MAYA's face. Maya speaks in the voice of @VOZ_MAYA: a dry whisper. Subtle handheld.*
+**Bloco de Maya (OR):** *Use @KF-… as the opening frame. Keep @ID_MAYA's face. Maya speaks in the voice of @VOZ_MAYA: a dry whisper with comic timing, a tiny pause before the punchline and an ironic stress on the key word; amusement in her voice. Subtle handheld.*
 
-**Bloco de June (OR):** *Use @KF-… as the opening frame. Keep @ID_JUNE's identity. June speaks in a dry, quick, medium-low American voice, a deadpan whisper. Subtle handheld.*
+**Bloco de June (OR):** *Use @KF-… as the opening frame. Keep @ID_JUNE's identity. June whispers in a dry, medium-low American voice with sharp comic timing. Her FACE is deadpan, but her VOICE is not flat: a tiny pause before the punchline and a light, ironic stress on the key word. Subtle handheld.*
 
 **Frase final de todo prompt:** *Clear autumn morning light through the tall arched windows of the old brick factory, soft LED key light on Claire. Claire: dark-brown wavy hair with curtain bangs, wine-red lipstick, black turtleneck with dark-red pendant, taupe trousers, watch on her LEFT wrist, seated in the caramel leather armchair with a black metal frame. Olivia: messy dark-blond bun, brown knit sweater, jeans, no wristwatch, camera tattoo on her inner left forearm, one beauty mark below her lower lip on her left side. Maya and June in cream. Keep all on-screen text as it is. No music.*
 
@@ -54,7 +54,7 @@
 | SH09 | SF | **C1-B** | — | Static. Claire looks at the glass; she hadn't asked. She picks it up and drinks anyway. |
 | SH10 | SF | O2 | — | Subtle handheld. Olivia checks the frame on the camera. |
 | SH11 | SF | INS-MON-A | — | Static. On the monitor, the column grows out of Claire's head. |
-| SH12 | OR | **C1-B** + Claire | CLAIRE "The column is cutting through my head." | (bloco Claire) Dry: "The column is cutting through my head." |
+| SH12 | OR | **C1-B** + Claire | CLAIRE "The column is cutting through my head." | (bloco Claire) Dry, with a hint of irritation: "The column is cutting through my head." |
 | SH13 | OR | O2 + Olivia | OLIVIA "I was just about to fix that." | (bloco Olivia) "I was just about to fix that." |
 | SH14 | SF | INS-MON-A → INS-MON-B | — | Static. The image on the monitor slides a few inches; the column leaves the frame. (Start frame A, end frame B.) |
 | SH15 | OR | **C1-B** + Claire | CLAIRE "Of course you were." | (bloco Claire) "Of course you were." |
@@ -63,7 +63,7 @@
 | SH18 | SF | INS-MIC | — | Olivia clips the microphone to the edge of the turtleneck and runs the cable under the knit; Claire watches her. |
 | SH19 | SF | 2S-CLOSE | — | Static. Their faces very close for one second; neither moves. Room tone only. |
 | SH20 | OR | O3 + Olivia | OLIVIA "Say something." | (bloco Olivia) Back behind the camera, headphones on: "Say something." |
-| SH21 | OR | **C3** + Claire | CLAIRE "Something." | (bloco Claire) Flat: "Something." |
+| SH21 | OR | **C3** + Claire | CLAIRE "Something." | (bloco Claire) Deliberately flat, a tiny defiant pause before it: "Something." |
 | SH22 | OR | O3 + Olivia | OLIVIA "Perfect." | (bloco Olivia) Checking the headphones: "Perfect." |
 
 ## Planos — SC003

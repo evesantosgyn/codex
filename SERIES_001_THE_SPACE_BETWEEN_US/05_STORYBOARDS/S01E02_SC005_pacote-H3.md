@@ -1,6 +1,6 @@
 # Pacote de geração no H3 — S01E02 · SC005 "The Handlers"
 
-**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-18
+**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-18 · **Blocos de voz revistos:** 2026-11-19 (proposta, aplicando a lição da V62)
 **Base:**
 - decupagem V01 (APROVADA, N35) + 10 keyframes aprovados (V61);
 - roteiro V1.2;
@@ -18,7 +18,7 @@
    - **June sem referência:** voz descrita no prompt e convertida na edição (V38).
 4. **Uma personagem falando por geração**, inclusive no 2S-LOOK.
 5. **Eixo:** Maya olha para a **direita**, e June para a **esquerda**. No SH19 e no 2S-LOOK, as duas olham para a direita, na direção da janela.
-6. **Comédia seca:** June **nunca sorri**, e Maya tem no máximo meio-sorriso.
+6. **Comédia seca:** June **nunca sorri**, e Maya tem no máximo meio-sorriso. **O tom seco fica na cara, não na voz** (V62): as piadas têm timing, pausa antes da punchline e ênfase irônica.
 
 ## Arquivos
 | Etiqueta | Arquivo |
@@ -28,9 +28,9 @@
 | `@VOZ_MAYA` | `06_GENERATED_ASSETS/VOICES/maya_reed_voice-ref_v02.wav` |
 | `@KF-…` | `06_GENERATED_ASSETS/IMAGES/S01E02_SC005_KF-…`: TABLE-WS V02 · M1 V01 · J2 V02 · 2S-DRINK V01 · INS-CUP V01 · INS-SHAKE V02 · OTS-J V01 · OTS-J-B V02 · WS-WINDOW V02 · 2S-LOOK V02 |
 
-**Bloco de Maya (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_MAYA's face. Maya speaks in the voice of @VOZ_MAYA: quick, dry, affectionately ironic, a colleague sizing up a colleague. Subtle handheld camera breathing.*
+**Bloco de Maya (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_MAYA's face. Maya speaks in the voice of @VOZ_MAYA: quick, dry, affectionately ironic, a colleague sizing up a colleague; a smile in her voice and a tiny pause before the punchline. Subtle handheld camera breathing.*
 
-**Bloco de June (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_JUNE's face. June speaks in a dry, quick, medium-low American voice, completely deadpan; she never smiles. Subtle handheld camera breathing.*
+**Bloco de June (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_JUNE's face. June speaks in a dry, medium-low American voice with sharp comic timing. Her FACE is deadpan, but her VOICE is not flat: like a seasoned comedian underplaying a joke, she takes a tiny pause before the punchline and puts a light, ironic stress on the key word; on the punchline her eyebrows lift a millimeter and the corner of her mouth almost moves. She never smiles. Subtle handheld camera breathing.*
 
 **Frase final de todo prompt:** *Natural autumn morning light from the tall arched windows of the old brick factory, dust in the light shafts. Maya: green eyes, freckles, chin-length coppery-brown curls, cream shirt and trousers, triple thin gold necklace, white-dial watch with leather strap, plain gold ring. June: straight dark hair at collarbone length, sand-cream overshirt over a white T-shirt, production badge on a black lanyard, black watch on her LEFT wrist. Paper coffee cups with lids. Quiet, no music.*
 
@@ -43,7 +43,7 @@
 | SH04 | OR | M1 + Maya | MAYA "Is she always like this?" | (bloco Maya) "Is she always like this?" |
 | SH05 | OR | J2 + June | JUNE "Which one?" | (bloco June) "Which one?" |
 | SH06 | OR | M1 + Maya | MAYA "Yours." | (bloco Maya) "Yours." |
-| SH07 | OR | J2 + June | JUNE "Only since Thursday." | (bloco June) Flat, as a fact: "Only since Thursday." |
+| SH07 | OR | J2 + June | JUNE "Only since Thursday." | (bloco June) As a simple fact, with a tiny ironic pause before the last word: "Only since… Thursday." |
 | SH08 | OR | M1 + Maya | MAYA "Mine's been like this since I met her." | (bloco Maya) "Mine's been like this since I met her." |
 | SH09 | OR | J2 + June | JUNE "That's a long time to be like this." | (bloco June) She considers it for one second; then: "That's a long time to be like this." |
 | SH10 | OR | M1 + Maya | MAYA "You have no idea." | (bloco Maya) "You have no idea." |

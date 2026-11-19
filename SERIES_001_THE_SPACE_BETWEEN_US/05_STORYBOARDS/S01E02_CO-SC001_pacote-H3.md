@@ -1,6 +1,6 @@
 # Pacote de geração no H3 — S01E02 · COLD OPEN + SC001 "Rehearsal / The Building"
 
-**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-17
+**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-17 · **Blocos de voz revistos:** 2026-11-19 (proposta, aplicando a lição da V62)
 **Base:** decupagem V01 (APROVADA, N32) + 18 keyframes aprovados (V57) · roteiro V1.2 · animatic `07_EDITING/S01E02_CO-SC001_animatic_V01.mp4` (1:45) · storyboard `05_STORYBOARDS/S01E02_CO-SC001_storyboard_V01.jpg`
 
 ## Regras destas cenas
@@ -28,13 +28,13 @@
 
 ⚠️ As referências de identidade têm outras roupas e outras luzes: servem **só para o rosto**.
 
-**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE: precise, controlled, a little too rehearsed. Static camera.*
+**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE: precise and controlled on the surface, a little too rehearsed; underneath she is tense, determined not to show that seeing Olivia again unsettles her. Crisp, with dry sarcasm as armor, and a micro-pause before she answers Olivia. Static camera.*
 
-**Bloco de Maya (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_MAYA's face. Maya speaks in the voice of @VOZ_MAYA: warm, dry, amused. Subtle handheld camera breathing.*
+**Bloco de Maya (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_MAYA's face. Maya speaks in the voice of @VOZ_MAYA: warm, dry, amused; she enjoys watching her friend squirm, with a smile in her voice and a teasing lift on the punchline. Subtle handheld camera breathing.*
 
-**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun today). Olivia speaks in a warm, medium-low, slightly husky American voice, calm, unhurried, quietly amused. Subtle handheld camera breathing.*
+**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun today). Olivia speaks in a warm, medium-low, slightly husky American voice, calm and unhurried; on the surface easy and quietly amused, but underneath a tenderness and a trace of nerves: she is facing Claire on the job for the first time. Small pauses before her lines; her eyes stay on Claire a beat too long. The playfulness is real, never cocky. Subtle handheld camera breathing.*
 
-**Bloco de June (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_JUNE's identity. June speaks in a dry, quick, medium-low American voice, deadpan. Subtle handheld camera breathing.*
+**Bloco de June (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_JUNE's identity. June speaks in a dry, medium-low American voice with sharp comic timing. Her FACE is deadpan, but her VOICE is not flat: like a seasoned comedian underplaying a joke, she takes a tiny pause before the punchline and puts a light, ironic stress on the key word; on the punchline her eyebrows lift a millimeter and the corner of her mouth almost moves. Subtle handheld camera breathing.*
 
 **Frase final de todo prompt:**
 - **Cold open:** *Early grey morning light in the bedroom. Claire: dark-brown long wavy hair with curtain bangs (never copper), wine-red lipstick, fine black turtleneck with a dark-red pendant on top, taupe trousers, white-dial watch on her LEFT wrist. No music.*
@@ -46,7 +46,7 @@
 | CO-SH01 | SF | CO-WS | — | Static wide shot. Claire stands before the full-length mirror in her blazer, phone raised, her reflection rehearsing silently. Sound: quiet apartment, distant city. |
 | CO-SH02 | OR | CO-C1 + Claire | CLAIRE "Restoration is about respecting what came before, while—" | (bloco Claire) Looking straight into the lens as if into a mirror, timing herself: "Restoration is about respecting what came before, while—" She stops mid-sentence, dissatisfied. |
 | CO-SH03 | SF | CO-INS-PHONE | — | Close-up. Her thumb taps Stop, then Reset. Sound: two soft beeps. |
-| CO-SH04 | OR | CO-C1 + Claire | CLAIRE "Restoration is about—" … "No." | (bloco Claire) Into the lens: "Restoration is about—" She stops. A beat. Flatly: "No." |
+| CO-SH04 | OR | CO-C1 + Claire | CLAIRE "Restoration is about—" … "No." | (bloco Claire) Into the lens: "Restoration is about—" She stops. A beat. Annoyed with herself, crisp: "No." |
 | CO-SH05 | SF | CO-MS | — | Static. She pulls the blazer off her shoulders. |
 | CO-SH06 | SF | CO-MS | — | Static. She shrugs the blazer back on, decisively. (Jump cut.) |
 | CO-SH07 | SF | CO-MS-B | — | Static. She yanks it off again and flings it onto the bed with real hostility. Sound: fabric thump. |
@@ -67,7 +67,7 @@
 | SH07 | SF | O1 → O2 | — | Subtle handheld. Olivia takes the hard hat and puts it on without arguing. (Start frame O1, end frame O2.) |
 | SH08 | OR | O2 + Olivia | OLIVIA "Good morning." | (bloco Olivia) "Good morning." |
 | SH09 | OR | C1 + Claire | CLAIRE "I prepared a protocol." | (bloco Claire) She holds out the typed page: "I prepared a protocol." |
-| SH10 | OR | O2 + Olivia | OLIVIA "Questions submitted in advance. Hard hats in all active areas. The interviewee reserves the right to review her own footage." | (bloco Olivia) Reading aloud, deadpan: "Questions submitted in advance. Hard hats in all active areas. The interviewee reserves the right to review her own footage." |
+| SH10 | OR | O2 + Olivia | OLIVIA "Questions submitted in advance. Hard hats in all active areas. The interviewee reserves the right to review her own footage." | (bloco Olivia) Reading aloud with a straight face, a hint of amusement in her voice, savoring each item: "Questions submitted in advance. Hard hats in all active areas. The interviewee reserves the right to review her own footage." |
 | SH11 | OR | O2 + Olivia | OLIVIA "That's very reasonable." | (bloco Olivia) She looks up: "That's very reasonable." |
 | SH12 | OR | C1 + Claire | CLAIRE "I'm a very reasonable person." | (bloco Claire) "I'm a very reasonable person." |
 | SH13 | OR | MJ + Maya | MAYA "She is not." | (bloco Maya) Whispering to June behind her hand: "She is not." June doesn't react. |
