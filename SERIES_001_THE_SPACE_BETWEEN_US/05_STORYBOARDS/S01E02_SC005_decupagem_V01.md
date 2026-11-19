@@ -93,7 +93,7 @@
 
 ## Vozes
 - **Maya:** com a referência v02 (método A).
-- **June:** gerada sem referência, com a voz descrita no prompt (seca, rápida, médio-grave, deadpan), e convertida na edição (V38).
+- **June:** gerada sem referência, com a voz descrita no prompt (seca, médio-grave, com timing de comédia: cara séria, voz não chapada; V64), e convertida na edição (V38).
 - **Uma personagem falando por geração.** Nos planos a duas (SH20 e SH21), gere uma fala de cada vez.
 
 ## Direção de interpretação
@@ -102,7 +102,7 @@
   - "Is she always like this?" é uma pergunta de colega para colega;
   - "You know something." sai devagar, e é a única fala dela sem pressa.
 - **June:**
-  - deadpan absoluto; nunca sorri;
+  - cara séria e nunca sorri, mas a voz tem timing: pausa antes da piada e ênfase irônica (V64);
   - "Only since Thursday." é informação, não piada;
   - "Twelve." sai sem tirar os olhos da janela;
   - "It's a schedule." encerra a conversa.
