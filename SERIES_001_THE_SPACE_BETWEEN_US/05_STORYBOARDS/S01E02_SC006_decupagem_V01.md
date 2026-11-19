@@ -1,7 +1,7 @@
 # S01E02 · SC006 — THE MAN WHO REMEMBERED · Decupagem V01
 
-**Status:** ✅ APROVADA (2026-11-19, N36) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-19
-**Duração:** roteiro 1:30 · **soma ≈ 1:16 de planos**; as pausas ("A very small silence", "Abel studies her") esticam na montagem · **22 planos** · buzzy.now / MiniMax-H3
+**Status:** ✅ APROVADA (2026-11-19, N36) · keyframes aprovados (V65) · **Roteiro:** EP02 Screenplay V1.2 (APROVADO) · **Data:** 2026-11-19
+**Duração:** roteiro 1:30 · **soma ≈ 1:15 de planos**; as pausas ("A very small silence", "Abel studies her") esticam na montagem · **22 planos** · buzzy.now / MiniMax-H3
 
 ## Intenção e estratégia visual
 - **A contradição vem de fora.** Uma testemunha reconhece Olivia, e Claire vê. Olivia não se denuncia: só desvia, com calma demais.
@@ -73,7 +73,7 @@
 | SH21 | 4 s | KF-A1 | Orgulho teimoso | ABEL: "I kept the store open three more years. Out of spite." |
 | SH22 | 5 s | KF-C10 | **Avanço lento.** Claire não escreve nada; observa Olivia | → CUT TO |
 
-**Total ≈ 76 s.**
+**Total ≈ 75 s.**
 
 ## Keyframes (10 novos)
 | ID | O quê |
@@ -113,7 +113,7 @@ O C8, o C9 e o C10 são o mesmo quadro de Claire com três olhares; os dois últ
 | Rosto de Abel (personagem novo em vídeo) | Aprovar o **KF-A1** antes dos outros |
 
 ## Para aprovação
-1. A decupagem: 22 planos, cerca de 1:16 de planos; as pausas esticam na montagem.
+1. A decupagem: 22 planos, cerca de 1:15 de planos; as pausas esticam na montagem.
 2. **Olivia O.S.**, com o rosto só no silêncio e na pergunta "evenly" em quadro (SH19).
 3. **A geografia:** Claire ao lado do monitor, perto de Olivia.
 4. **O avanço lento em Claire** no último plano.
