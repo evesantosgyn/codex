@@ -6,7 +6,7 @@
 **Language:** English
 **Estimated runtime:** 13 minutes, 15 seconds of scenes; ~14:30 with the silences (studio rule §13)
 
-> **Status:** 🟡 PROPOSTO (2026-11-22), aguardando revisão e aprovação. Base: escaleta V1 aprovada (N41), conceito B "Contact Sheet" (N40).
+> **Status:** ✅ APROVADO (2026-11-22, N42). Base: escaleta V1 aprovada (N41), conceito B "Contact Sheet" (N40).
 >
 > **Regra de interpretação (§13, V70/V71), vale para toda fala entre Claire e Olivia:** ~2 palavras por segundo; pausa típica de 1,5–2 s entre as falas. As marcações *(a beat)* e *(a long beat)* no roteiro são silêncios de verdade, não sugestões. Só Maya e June são rápidas, e só quando o assunto é leve.
 
