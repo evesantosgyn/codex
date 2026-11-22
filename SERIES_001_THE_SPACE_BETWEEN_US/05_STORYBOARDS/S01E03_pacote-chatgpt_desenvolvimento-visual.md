@@ -99,3 +99,4 @@ Pasta do repositório `evesantosgyn/codex`: `SERIES_001_THE_SPACE_BETWEEN_US/`
   - o novo ambiente na ficha da fábrica;
   - os looks de sexta e os objetos no `continuidade.yaml`.
 - **Nota de continuidade:** o roteiro chama o lugar da foto antiga de "a kitchen table". A foto aprovada (R5) mostra um interior quente, sem mesa visível. **Vale a imagem aprovada**; na decupagem, a descrição segue R5.
+- **Regra para todos os keyframes do EP03 (V75):** a frase de figurino de Claire termina sempre com **"NO rings, bare fingers"**. A prancha do look aprovada pode mostrar um anel pequeno na vista 1; ele não vale.

@@ -41,6 +41,7 @@ personagens:
       L4: top e legging pretos, tênis (treino/casa)
       L5: camisa de seda preta, calça pantalona creme, cinto (dia a dia sofisticado)
       L6: gola alta preta fina, calça de alfaiataria taupe de pregas, cinto preto de fivela dourada, botas pretas de cano curto (obra; V54)
+      L7: blusa de seda vermelho-escura de gola alta mole, calça de alfaiataria preta, cinto preto, botas pretas de salto bloco, casaco longo de lã cinza-chumbo com bolso interno (obra/sexta; V75)
     figurinos_por_cena:
       SC001: "L1 blazer/terno preto, blusa preta (FINAL, vídeo aprovado). Sai SEM casaco, com bolsa preta grande e celular"
       SC002: "ENTRA de trench preto L3 molhado nos ombros (vestido fora de quadro entre o elevador e a rua) + bolsa preta; deixa a bolsa no aparador e pendura o trench no gancho junto à porta. Ao chegar, pendura o blazer junto com o trench e fica de blusa preta justa de manga longa, sem blazer, com a mesma calça preta e os mesmos acessórios"
@@ -48,6 +49,7 @@ personagens:
       SC004: "pijama de seda preta (camisa de botões e calça); cabelo solto, um pouco desarrumado, com a franja; SEM batom; olheiras leves; sem relógio e sem colar; só as argolas (V32)"
       SC006-SC009: "L5 camisa de seda preta + pantalona creme"
       EP02: "L6 gola alta preta + calça taupe + botas pretas, SEM blazer (tira no cold open); colar com pingente vermelho por cima da gola; relógio no pulso ESQUERDO; batom vinho; capacete branco na obra. Ref: 06_GENERATED_ASSETS/IMAGES/S01E02_LOOK_CLAIRE_V01.png (cabelo castanho-escuro, nunca acobreado) (V54)"
+      EP03: "L7 blusa de seda vermelho-escura + calça preta + botas pretas + casaco longo cinza-chumbo com bolso interno (a tira de negativo vai nele na SC007); cabelo solto com franja; UM pingente vermelho-escuro; relógio no pulso ESQUERDO; batom vinho; SEM anéis (a prancha pode mostrar um anel na vista 1: ignorar). Na SC006 o casaco está na cadeira. Ref: 06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_CLAIRE_V01.png (V75)"
     voz:
       referencia: "06_GENERATED_ASSETS/VOICES/claire_bennett_voice-ref_v02.wav (5,6 s = SC001 5,0–6,4 + 9,55–11,15 + 13,0–15,0 s, com 0,3 s de silêncio entre trechos)"
       historico: "v01 = só 5,0–6,4 s"
