@@ -107,6 +107,7 @@ Não confunda quantidade de cenas com desenvolvimento narrativo. Não confunda i
 - Personagens não falam todas da mesma maneira: vocabulário, ritmo e registro diferentes.
 - Separar três tarefas nos diálogos: escrita dramática → direção de interpretação (intenção, pausas, respiração) → realização audiovisual (voz, lip-sync, montagem).
 - Som: quatro camadas independentes (diálogo, ambiência, efeitos, música). A trilha não preenche todos os silêncios.
+- **Emoção (manual de produção §13):** todo prompt segue a sinopse e diz onde a personagem está na história; a relação central nunca é neutra; seco é na cara, não na voz; cenas emocionais devagar (~2 palavras/s) com pausas de 1,5–2 s; planos de reação; escala de choro em três níveis; toques que seguem o arco.
 
 ## Consistência do elenco virtual
 

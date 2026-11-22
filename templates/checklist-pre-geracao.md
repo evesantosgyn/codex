@@ -37,3 +37,11 @@ Cena: ______ · Decupagem: ______ · Data: ______
 ## 8. Técnico
 - ☐ Duração pedida ≥ mínimo da ferramenta (no H3, 4–5 s); o corte fino fica para a montagem.
 - ☐ Resolução e proporção de saída anotadas (o master final é **3840 × 2160**, 16:9).
+
+## 9. Emoção (manual §13)
+- ☐ Cada bloco de voz diz **onde a personagem está na história** nesta cena (sentimento, ferida, o que esconde) — não só o timbre (E1, E2).
+- ☐ Nenhum "deadpan" no prompt de voz; o seco fica na cara (E3). O alívio cômico não está "amused" o tempo todo (E4).
+- ☐ Nas cenas emocionais, o bloco pede fala lenta (~2 palavras por segundo) e a montagem tem as pausas escritas (1,5–2 s) (E5).
+- ☐ Planos de reação sem fala previstos para as falas-chave (E6).
+- ☐ Nível de choro marcado cena a cena (E7) e toques coerentes com o arco (E8).
+- ☐ Os keyframes das falas emocionais já carregam a emoção (E9).

@@ -141,3 +141,25 @@ Aprovadas pelo responsável em 2026-11-12, a partir do teste da SC001 de *The Sp
 | L7 | Saída 3868 × 2160 e áudio a −32 dB de média | Master final em **3840 × 2160**; normalizar o áudio na mixagem (meta de loudness a definir com a plataforma) |
 | L9 *(aprovada em 2026-11-13)* | No Start & end frame, o início (vista de cima da maquete) e o fim (plano a duas de lado) mostravam o objeto de **lados diferentes**; o H3 "derreteu" a transição | **Início e fim precisam ser compatíveis**: mesmo lado, mesmo eixo, mesmos objetos nas mesmas posições, só mais perto ou mais longe. Se não forem, **dividir em dois planos com corte** |
 | L8 | Dedos manipulando objeto pequeno funcionaram bem no H3 | Não complicar a encenação por medo de anatomia: testar primeiro e só então recorrer a inserts ou ferramentas |
+
+## 13. Emoção e interpretação — regras de prompt e montagem
+
+Aprovadas pela responsável em 2026-11-22, a partir da análise do EP01 montado de *The Space Between Us* (as falas correram, a protagonista ficou sem emoção, a amiga cômica ria o tempo todo) e da comparação com um episódio de referência de outro estúdio. Valem para **todas as séries**. Na SERIES_001, correspondem às decisões V62, V70 e V71.
+
+**O que o EP01 mostrou:** pausa média de 0,7 s antes de cada resposta e até 155 palavras por minuto nas cenas sérias. Na referência, 67–82 palavras por minuto e pausas de 1,6–1,9 s. Os planos duravam o mesmo nas duas; **a diferença era o silêncio**.
+
+| # | Regra |
+|---|---|
+| E1 | **O prompt segue a sinopse.** Todo bloco de voz e toda direção de fala dizem **onde a personagem está na história** naquela cena: o que ela sente pela outra, a ferida, o que esconde, o que deseja. Um bloco que descreve só timbre ("warm, calm, quiet") gera interpretação neutra |
+| E2 | **A relação central nunca é neutra.** Quando a série é uma história de amor (ou de ódio, de luto), toda fala entre as protagonistas carrega esse subtexto. O bloco descreve **comportamentos concretos**: o olhar que dura um segundo a mais e foge quando dói, a respiração antes de falar, o sorriso que quebra no meio, a voz que baixa e falha nas falas pessoais, o controle que é armadura |
+| E3 | **Seco é na cara, não na voz.** "Deadpan" no prompt de voz gera fala chapada. Personagem de humor seco: rosto sério, voz com timing (pausa antes da piada, ênfase irônica) |
+| E4 | **O alívio cômico reage ao que está em jogo.** Amiga ou amigo engraçado não ri o tempo todo: o humor é carinho, e quando o assunto toca a ferida da protagonista, a personagem fica séria e protetora. Nunca "amused" ou "delighted" como estado fixo |
+| E5 | **Ritmo das cenas emocionais.** No bloco: *"speaks slowly, about two words per second, with small pauses inside the sentence"*. Alvo: **70–85 palavras por minuto**. Na montagem: **pausa típica de 1,5–2 s** entre as falas de uma cena emocional, nunca menos de 1 s. Réplicas rápidas só nas cenas de comédia |
+| E6 | **Planos de reação.** Para cada fala-chave, gerar também o rosto de **quem escuta**, com o mesmo keyframe e sem fala (Start & end frame). Na montagem, a fala da outra entra por cima. Como cada geração tem uma só personagem falando, sem esses planos ninguém "escuta" em cena |
+| E7 | **Escala de choro**, marcada cena a cena na decupagem: (1) **olhos brilhando, sem lágrima**, padrão do subtexto; (2) **uma lágrima contida**, só nos picos; (3) **choro aberto**, reservado para o pico do arco (revelação, perda, reconciliação). Nunca "no tears" como regra geral |
+| E8 | **O toque segue o arco.** Planejar os toques na temporada: pequenos e acidentais enquanto a relação está ferida (dedos que se tocam, um roçar, uma mão que se move e para); o primeiro toque de verdade (abraço, mão no rosto) é um pico, planejado como tal |
+| E9 | **Keyframe neutro gera vídeo neutro.** Nas falas emocionais, a imagem inicial já precisa carregar a emoção. Quando o keyframe aprovado for neutro, fazer uma edição dele (só a expressão muda) em vez de esperar que o prompt resolva |
+| E10 | **No roteiro, um momento por episódio em que o subtexto quebra:** alguém diz em voz alta o que sente. É o pico que o espectador leva para o próximo episódio |
+| E11 | **Conferir a montagem com números.** Depois do corte, medir as pausas e as palavras por minuto das cenas emocionais (transcrição com tempo por palavra) e comparar com o alvo da E5 antes de aprovar |
+
+Na decupagem, cada cena com as protagonistas traz uma seção **"Emoção"** (o estado da relação naquela cena, o nível de choro e as pausas). No pacote de geração, o parágrafo de subtexto entra em todo plano das duas, logo antes da frase final.

@@ -12,7 +12,7 @@ description: Modo 4 (Produção com IA). Transforma uma cena de roteiro aprovada
 4. Leia `continuidade.yaml`: traços fixos, looks e cronologia.
 5. Leia a ficha da locação e **abra as pranchas `.webp`** da locação e das personagens presentes.
 6. **Confira o material já aprovado** (vídeos em `06_GENERATED_ASSETS/VIDEO/` e análises em `05_STORYBOARDS/`) da última cena com as mesmas personagens e locação. **Material aprovado prevalece** sobre planta e prancha (regra L6).
-7. Aplique `templates/checklist-pre-geracao.md` e as lições de `00_ESTUDIO/03_manual-producao-ia.md` §12: transição de figurino e objetos (L3), luz entre eixos (L2), deriva de cabelo em planos abertos (L1).
+7. Aplique `templates/checklist-pre-geracao.md` e as lições de `00_ESTUDIO/03_manual-producao-ia.md` §12: transição de figurino e objetos (L3), luz entre eixos (L2), deriva de cabelo em planos abertos (L1). Aplique também o §13 (emoção e interpretação): blocos de voz que seguem a sinopse, ritmo e pausas, planos de reação, escala de choro e toques (E1–E11).
 8. Se a cena for TRAVADA (ex.: SC003), as falas e ações são intocáveis. A decupagem só divide o que já existe.
 
 ## Processo
