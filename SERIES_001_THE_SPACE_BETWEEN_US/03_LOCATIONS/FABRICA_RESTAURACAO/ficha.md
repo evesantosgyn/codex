@@ -30,6 +30,11 @@ O prédio é a metáfora da série sem precisar dizê-la: estruturas que parecem
 | Mesa de café | SC005 | Mesa dobrável com garrafas térmicas, perto de uma coluna, com vista para a janela alta |
 | **Escada de ferro** | SC007 | Escada de ferro com janela empoeirada; **luz dourada do fim da tarde** |
 
+## Ambiente novo no EP03
+| Ambiente | Cena | Descrição |
+|---|---|---|
+| **Escritório do capataz** | EP03 SC003, SC004, SC006, SC007 | Sala pequena junto ao salão, com **divisória de vidro de caixilho de aço preto**; tijolo, dois arquivos de aço verde-acinzentados, mesa de madeira com a **mesa de luz**, lupa, lápis-cera vermelho, latas de filme, scanner pequeno e laptop. A produção usa como base. **Tarde:** luz fria do salão, arandela acesa. **Noite (SC006–SC007):** arandela apagada; **a mesa de luz é a luz principal**, de baixo para cima, âmbar no tijolo; o salão azul-escuro, com uma lâmpada de trabalho ao longe. Prancha: `fabrica_ref-escritorio-capataz.png` (V73) |
+
 ## Paleta e materiais
 Tijolo vermelho e terracota, ferro fundido pintado de preto, madeira gasta, poeira dourada no ar; o equipamento preto da equipe; capacetes brancos.
 
