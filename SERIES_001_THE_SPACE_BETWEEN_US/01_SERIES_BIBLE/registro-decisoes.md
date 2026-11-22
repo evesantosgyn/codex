@@ -157,10 +157,17 @@ Legenda de status:
 | P-04 | Começar por prova de conceito → piloto → temporada | RECOMENDADO (manual 03) |
 | P-05 | Numeração de planos **recomeça em cada cena** (SH01, SH02…). Os SH29–SH34 das pranchas da SC001 serão renumerados na decupagem completa | APROVADO (2026-11-12) |
 
+## Distribuição
+
+| # | Decisão | Status | Versão/Origem |
+|---|---|---|---|
+| D-01 | **EP01: descrição do YouTube APROVADA.** Título: *The Space Between Us \| Episode 1: The Return \| Sapphic Romance Series*; texto sem spoiler ("Seven years ago, Olivia Hayes disappeared without an explanation..."), linha "About this production" sobre o uso de IA, legendas PT/ES, hashtags. Na publicação: marcar "Altered or synthetic content: Yes". **A preencher:** dia e horário de lançamento, links e, se houver, os capítulos com os tempos do corte final | APROVADO (2026-11-22) | `10_MARKETING/S01E01_youtube-descricao_V01.md` |
+
 ## Histórico
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-22 | EP01: descrição do YouTube aprovada (D-01) | Showrunner GL AI |
 | 2026-11-22 | EP03: conceito B "Contact Sheet" aprovado (N40) | Showrunner GL AI |
 | 2026-11-22 | Regras de emoção no manual do estúdio, §13 (V72) | Showrunner GL AI |
 | 2026-11-22 | Técnicas da referência de emoção no EP02 (V71) | Showrunner GL AI |

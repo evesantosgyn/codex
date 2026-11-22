@@ -1,12 +1,12 @@
 # S01E01 "The Return" — Descrição para o YouTube · V01
 
-**Status:** 🟡 PROPOSTA (2026-11-22) · **Modo 6 — Distribuição** · Episódio montado: 11:27
+**Status:** ✅ APROVADA (2026-11-22, D-01) · **Modo 6 — Distribuição** · Episódio montado: 11:27
 **Idioma:** inglês, a língua original e a do público internacional, com uma linha em português e uma em espanhol para as legendas (bíblia: legendas PT e ES).
 
 ---
 
 ## Título (escolha um; até ~70 caracteres)
-1. **The Space Between Us | Episode 1: The Return | Sapphic Romance Series** ⭐
+1. **The Space Between Us | Episode 1: The Return | Sapphic Romance Series** ⭐ (aprovado)
 2. She Left Without a Word. Seven Years Later, She Knocked. | The Space Between Us Ep 1
 3. The Space Between Us — Ep 1 "The Return" | GL Second-Chance Romance
 
