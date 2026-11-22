@@ -67,3 +67,17 @@ The Space Between Us is an original series by Estúdio GL AI. Story, characters 
 4. **Classificação:** "Not made for kids". Defina a faixa etária conforme o corte final.
 5. **Sem spoiler:** a descrição não revela o segredo de Olivia, o documentário nem o "Did you know?".
 6. **Preencher:** o dia e o horário de lançamento e, se houver, o link da playlist da série e das redes do estúdio.
+
+---
+
+## Tags do YouTube (🟡 PROPOSTA, 2026-11-22)
+Campo "Tags" do YouTube Studio (limite de 500 caracteres; esta lista usa ~456). Copie a linha inteira:
+
+```
+The Space Between Us,The Space Between Us series,sapphic series,sapphic romance,GL series,GL drama,wlw series,wlw romance,lesbian series,lesbian romance,lesbian web series,lesbian drama,lgbtq series,second chance romance,exes to lovers,slow burn romance,romantic comedy series,web series,short series,AI film,AI short film,Claire and Olivia,The Return episode 1,série lésbica,romance sáfico,serie lésbica
+```
+
+**Regras:**
+- **Nunca usar** nomes de outras séries, atrizes ou canais como tag. O YouTube trata isso como metadado enganoso e pode remover o vídeo.
+- As tags pesam pouco na descoberta. O que mais atrai público é o **título**, a **thumbnail** e a **retenção nos primeiros 30 s**; as tags ajudam sobretudo em buscas com o nome da série e erros de digitação.
+- Nos próximos episódios, troque só a tag do episódio (ex.: "Familiar Strangers episode 2").
