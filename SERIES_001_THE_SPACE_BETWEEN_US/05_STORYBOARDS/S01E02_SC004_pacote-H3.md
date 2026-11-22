@@ -22,9 +22,9 @@
 | `@KF-MJ2` | `06_GENERATED_ASSETS/IMAGES/S01E02_SC003_KF-MJ2_V02.png` |
 | June O.S. | `06_GENERATED_ASSETS/IMAGES/S01E02_SC001_KF-J1_V01.png` (só o áudio) |
 
-**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE. Story: she has just learned that Olivia knew it was her project when she knocked on her door, a second omission seven years after the first. She still loves her, and that is exactly why it hurts this much. Level and controlled, every word measured; her voice drops, slows and catches on the key lines; on "Not again." her eyes fill and she does not let the tear fall. Never shouting. Static camera.*
+**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE. Story: she has just learned that Olivia knew it was her project when she knocked on her door, a second omission seven years after the first. She still loves her, and that is exactly why it hurts this much. Level and controlled, every word measured; her voice drops, slows and catches on the key lines; on "Not again." her eyes fill and she does not let the tear fall. Never shouting. She speaks slowly, about two words per second, with small pauses inside the sentence; never rushed. Static camera.*
 
-**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun today). Olivia speaks in a warm, medium-low, slightly husky American voice. Story: she knew, she is ashamed, and she is losing the woman she loves for the second time, in front of her. Very quiet, honest, not defending herself; slow, a breath before each line, endings that trail off; her eyes drop to the cable and come back to Claire with a love she cannot say. Eyes glistening. Subtle handheld camera breathing.*
+**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun today). Olivia speaks in a warm, medium-low, slightly husky American voice. Story: she knew, she is ashamed, and she is losing the woman she loves for the second time, in front of her. Very quiet, honest, not defending herself; slow, a breath before each line, endings that trail off; her eyes drop to the cable and come back to Claire with a love she cannot say. Eyes glistening. She speaks slowly, about two words per second, with small pauses inside the sentence; never rushed. Subtle handheld camera breathing.*
 
 **Subtexto obrigatório (V70), vale para todo plano de Claire e Olivia:** *Seven years ago Olivia left Claire without explaining. They never stopped loving each other, and the hurt never closed. Under every exchange between them there is a love that did not end and a wound that did not heal: no line between them is neutral. Olivia looks at Claire a beat too long and looks away when it hurts; her smiles break halfway; she breathes before she speaks to her. Claire's control is the armor of someone who still feels: her eyes betray her, holding Olivia's gaze and then fleeing; her voice drops and catches on anything personal. Tears scale: (1) eyes glistening, no tear — the default for subtext; (2) one contained tear she tries to hide — only where marked; (3) open crying — not in this episode.*
 
@@ -38,7 +38,7 @@
 | SH03 | SF | MJ2 | — | Subtle handheld. June glances at Maya; Maya glances back; they unfold their arms and walk off together. |
 | SH04 | SF | C5 | — | Static. Claire unclips the lavalier microphone from her turtleneck herself. |
 | SH05 | SF | O4 | — | Subtle handheld. Olivia stands beside the armchair and does not move to help. |
-| SH06 | SF | INS-HANDOFF | — | Close-up. Claire holds out the microphone; Olivia takes it. |
+| SH06 | SF | INS-HANDOFF | — | Close-up. Claire holds out the microphone; Olivia takes it; their fingers touch for a second longer than needed, and neither pulls away at once. |
 | SH07 | OR | C6 + Claire | CLAIRE "Did you know?" | (bloco Claire) Looking up at Olivia, her voice low, already afraid of the answer: "Did you know?" |
 | SH08 | SF | INS-CABLE | — | Close-up. Olivia's fingers slowly wind the cable. |
 | SH09 | OR | C6 + Claire | CLAIRE "When you knocked on my door. Did you know it was my project?" | (bloco Claire) "When you knocked on my door. Did you know it was my project?" |
@@ -66,6 +66,14 @@ Antes de toda fala pessoal entre Claire e Olivia, **1–2 s de silêncio**. Não
 - **SH17–SH18:** depois do "For whom?", 3–4 s de silêncio.
 - **SH20–SH22:** 1,5 s antes do "Not again."
 - **SH24:** segure a lágrima de Olivia até o corte (4–5 s).
+
+### Planos de reação e ritmo (V71)
+- **Ritmo:** entre Claire e Olivia, **70–85 palavras por minuto** e **pausa típica de 1,5–2 s** entre as falas; nunca menos de 1 s. Só a comédia de Maya e June fica rápida.
+- **Planos de reação:** gere também o rosto de quem escuta, com o mesmo keyframe e **sem fala** (SF). Na montagem, a fala da outra entra por cima do plano de reação.
+  - **R1 (durante o "Yes." de Olivia):** KF-C6, SF. *Static. The answer lands on Claire; her eyes glisten; one very small breath; she does not look away.*
+  - **R2 (durante "I didn't want the first time I saw you..."):** KF-C6, SF. *Static. Claire listens; something softens and then hardens again in her eyes.*
+  - **R3 (durante "You don't get to decide that for me."):** KF-O6, SF. *Subtle handheld. Olivia receives it; her lips part; her eyes fill.*
+- **Toque (V71):** ver o plano marcado na tabela; o toque é breve, e as duas sentem.
 
 ### Montagem geral
 - **SH18:** segure o silêncio (3–4 s). Essa é a resposta.

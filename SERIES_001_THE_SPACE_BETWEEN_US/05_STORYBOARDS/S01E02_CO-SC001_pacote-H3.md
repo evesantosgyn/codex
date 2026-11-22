@@ -28,11 +28,11 @@
 
 ⚠️ As referências de identidade têm outras roupas e outras luzes: servem **só para o rosto**.
 
-**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE. Story: four days ago the woman she loved and lost seven years ago knocked on her door; today she has to face her on camera. She still loves her, has never forgiven her, and is terrified it will show. On the surface: precise, controlled, a little too rehearsed, dry sarcasm as armor. Underneath: every look at Olivia lasts a beat too long before she looks away; her voice tightens on anything personal. Never warm on purpose, never truly cold. Static camera.*
+**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE. Story: four days ago the woman she loved and lost seven years ago knocked on her door; today she has to face her on camera. She still loves her, has never forgiven her, and is terrified it will show. On the surface: precise, controlled, a little too rehearsed, dry sarcasm as armor. Underneath: every look at Olivia lasts a beat too long before she looks away; her voice tightens on anything personal. Never warm on purpose, never truly cold. She speaks slowly, about two words per second, with small pauses inside the sentence; never rushed. Static camera.*
 
 **Bloco de Maya (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_MAYA's face. Maya speaks in the voice of @VOZ_MAYA. She is Claire's best friend and watched her fall apart seven years ago. Her humor is affection, dry and teasing, but when Olivia is near the smile thins and she watches Claire protectively. A smile in the voice, never a big grin or a laugh. Subtle handheld camera breathing.*
 
-**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun today). Olivia speaks in a warm, medium-low, slightly husky American voice. Story: seven years ago she left Claire without explaining; she never stopped loving her; now she is working beside her and still hiding why she left. On the surface: easy, playful, quietly amused; the jokes are a bridge she is trying to build. Underneath: tenderness and guilt; her eyes stay on Claire a beat too long and soften when Claire isn't looking; a small breath before she speaks to her; slower with Claire than with anyone else. Never cocky. Subtle handheld camera breathing.*
+**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun today). Olivia speaks in a warm, medium-low, slightly husky American voice. Story: seven years ago she left Claire without explaining; she never stopped loving her; now she is working beside her and still hiding why she left. On the surface: easy, playful, quietly amused; the jokes are a bridge she is trying to build. Underneath: tenderness and guilt; her eyes stay on Claire a beat too long and soften when Claire isn't looking; a small breath before she speaks to her; slower with Claire than with anyone else. Never cocky. She speaks slowly, about two words per second, with small pauses inside the sentence; never rushed. Subtle handheld camera breathing.*
 
 **Bloco de June (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_JUNE's identity. June speaks in a dry, medium-low American voice with sharp comic timing. Her FACE is deadpan, but her VOICE is not flat: like a seasoned comedian underplaying a joke, she takes a tiny pause before the punchline and puts a light, ironic stress on the key word; on the punchline her eyebrows lift a millimeter and the corner of her mouth almost moves. Subtle handheld camera breathing.*
 
@@ -92,6 +92,12 @@ Antes de toda fala pessoal entre Claire e Olivia, **1–2 s de silêncio**. Não
 - **SH11–SH12:** 1 s antes do "I'm a very reasonable person."
 - **SH24:** o plano fica até o rosto de Claire suavizar e voltar à armadura.
 - **Réplicas rápidas** só entre Maya e June e no protocolo (SH09–SH10).
+
+### Planos de reação e ritmo (V71)
+- **Ritmo:** entre Claire e Olivia, **70–85 palavras por minuto** e **pausa típica de 1,5–2 s** entre as falas; nunca menos de 1 s. Só a comédia de Maya e June fica rápida.
+- **Planos de reação:** gere também o rosto de quem escuta, com o mesmo keyframe e **sem fala** (SF). Na montagem, a fala da outra entra por cima do plano de reação.
+  - **R1 (durante o "Good morning." de Olivia):** KF-C1, SF. *Static. Claire listens; she holds Olivia's gaze a beat too long, then looks down at the page.*
+  - **R2 (durante o "I'm a very reasonable person."):** KF-O2, SF. *Subtle handheld. Olivia listens; the amusement softens into tenderness; her eyes stay on Claire.*
 
 ### Montagem geral
 - **Cold open:** os cortes secos do blazer (CO-SH05 a CO-SH07) em ritmo de 1,5–2 s; o humor está no corte. CO-SH10: segure o vacilo nos olhos e corte para preto. **Cartela de título**, 3 s.

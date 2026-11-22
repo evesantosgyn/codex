@@ -36,7 +36,7 @@
 
 **Bloco de Abel (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_ABEL's face. Abel, 74, speaks in an old New Yorker's voice, Puerto Rican, medium-low and a little hoarse: slow, short, concrete sentences of a craftsman, with dry pride and quiet stubbornness. Underneath, the hurt of a man who watched his street empty out. When he recognizes the woman behind the camera, his voice drops lower and becomes certain, not questioning. Static camera.*
 
-**Bloco de Olivia (OR):** *Use @KF-O7 as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun, headphones). Olivia speaks in a warm, medium-low, slightly husky American voice, professional and calm on the surface. Story: a stranger is about to say aloud the past she has hidden from the woman she loves, while that woman is watching. From "You." on: a contained jolt of fear; "I'm sorry?" and "I think you might be confusing me with—" come a touch too quickly; the final question is delivered TOO evenly, deliberately flat: control, not lack of emotion; she cannot look at Claire. Subtle handheld camera breathing.*
+**Bloco de Olivia (OR):** *Use @KF-O7 as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun, headphones). Olivia speaks in a warm, medium-low, slightly husky American voice, professional and calm on the surface. Story: a stranger is about to say aloud the past she has hidden from the woman she loves, while that woman is watching. From "You." on: a contained jolt of fear; "I'm sorry?" and "I think you might be confusing me with—" come a touch too quickly; the final question is delivered TOO evenly, deliberately flat: control, not lack of emotion; she cannot look at Claire. She speaks slowly, about two words per second, with small pauses inside the sentence; never rushed. Subtle handheld camera breathing.*
 
 **Subtexto obrigatório (V70), vale para todo plano de Claire e Olivia:** *Seven years ago Olivia left Claire without explaining. They never stopped loving each other, and the hurt never closed. Under every exchange between them there is a love that did not end and a wound that did not heal: no line between them is neutral. Olivia looks at Claire a beat too long and looks away when it hurts; her smiles break halfway; she breathes before she speaks to her. Claire's control is the armor of someone who still feels: her eyes betray her, holding Olivia's gaze and then fleeing; her voice drops and catches on anything personal. Tears scale: (1) eyes glistening, no tear — the default for subtext; (2) one contained tear she tries to hide — only where marked; (3) open crying — not in this episode.*
 
@@ -84,6 +84,9 @@ Gere com o **KF-O7 + bloco de Olivia**, uma frase por geração, e encaixe sobre
 Antes de toda fala pessoal entre Claire e Olivia, **1–2 s de silêncio**. Não corte colado.
 - **SH17–SH18:** o silêncio entre o olhar de Claire e o de Olivia: 1,5–2 s em cada plano.
 - **SH22:** o avanço lento inteiro, sem cortar cedo.
+
+### Planos de reação e ritmo (V71)
+- **Ritmo:** entre Claire e Olivia, **70–85 palavras por minuto** e **pausa típica de 1,5–2 s** entre as falas; nunca menos de 1 s. Só a comédia de Maya e June fica rápida.
 
 ### Montagem geral
 - **SH09:** deixe o olhar de Abel atravessar a lente devagar. É a virada da cena.

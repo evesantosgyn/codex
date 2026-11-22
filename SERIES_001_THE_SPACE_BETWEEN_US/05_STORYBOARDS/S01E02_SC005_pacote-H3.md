@@ -76,6 +76,9 @@ Antes de toda fala pessoal entre Claire e Olivia, **1–2 s de silêncio**. Não
 - O pingue-pongue de Maya e June continua rápido, **mas sem riso**: Maya é seca, não animada.
 - **SH22–SH25:** 1 s antes do "You know something." e do "About her."
 
+### Planos de reação e ritmo (V71)
+- **Ritmo:** entre Claire e Olivia, **70–85 palavras por minuto** e **pausa típica de 1,5–2 s** entre as falas; nunca menos de 1 s. Só a comédia de Maya e June fica rápida.
+
 ### Montagem geral
 - **Ritmo:**
   - SH04–SH15 em 1,5–2 s por fala, cortando **na palavra**, como uma partida de pingue-pongue;

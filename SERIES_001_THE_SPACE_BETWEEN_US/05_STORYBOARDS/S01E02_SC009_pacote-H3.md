@@ -28,7 +28,7 @@
 | `@KF-…` | `06_GENERATED_ASSETS/IMAGES/S01E02_SC009_KF-…`: STUDY-WS V01 · C14 V02 · C15 V01 · C16 V01 · C17 V02 · BROLL V03 · WALL V02 · INS-PHOTO V01 · INS-FOLDER V03 · INS-FOLDER-LAST V02 · INS-DELETE V01 · INS-SCREEN-INT V01 · INS-FREEZE V01 · INS-MOUSE V01 |
 | Entrevista na tela | o vídeo gerado da **SC003 SH09** (`S01E02_SC003_SH09_V##.mp4`), com o áudio dele |
 
-**Bloco de Claire, sem fala (SF):** *Keep @ID_CLAIRE's face. Story: alone at night, Claire sees herself the way Olivia still sees her (the same angle, the same laugh, seven years apart) and understands that Olivia never stopped looking at her that way, and that she never stopped loving her either. Silent, restrained, every emotion small and inside; her eyes fill when she compares the photo and the screen; one tear slips and she wipes it away quickly. She does not delete the file. Static camera.*
+**Bloco de Claire, sem fala (SF):** *Keep @ID_CLAIRE's face. Story: alone at night, Claire sees herself the way Olivia still sees her (the same angle, the same laugh, seven years apart) and understands that Olivia never stopped looking at her that way, and that she never stopped loving her either. Silent, restrained, every emotion small and inside; her eyes fill when she compares the photo and the screen; one tear slips and she wipes it away quickly. She does not delete the file. She speaks slowly, about two words per second, with small pauses inside the sentence; never rushed. Static camera.*
 
 **Bloco do BROLL (OR, riso):** *Use @KF-BROLL as the opening frame and composition. Keep @ID_CLAIRE's face. Documentary B-roll, subtle handheld, shot from a little distance. Someone off-screen to her right says something, inaudible and distant; Claire laughs fully and unguarded, in the voice of @VOZ_CLAIRE: a real, surprised, open laugh, head tilted back, completely unaware of the camera. Morning light in the old brick factory.*
 
@@ -67,6 +67,9 @@
 Antes de toda fala pessoal entre Claire e Olivia, **1–2 s de silêncio**. Não corte colado.
 - **SH13–SH17:** a comparação parede, tela, parede sem pressa; deixe os olhos de Claire encherem no SH15.
 - **SH20:** a lágrima no escuro, 1–1,5 s, antes do preto.
+
+### Planos de reação e ritmo (V71)
+- **Ritmo:** entre Claire e Olivia, **70–85 palavras por minuto** e **pausa típica de 1,5–2 s** entre as falas; nunca menos de 1 s. Só a comédia de Maya e June fica rápida.
 
 ### Montagem geral
 - **Os planos somam 1:07**, e os silêncios levam a cena para perto do 1:30.

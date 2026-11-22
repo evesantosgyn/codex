@@ -28,7 +28,7 @@
 
 **Bloco de June (OR):** *Use @KF-J3 as the opening frame and composition. Keep @ID_JUNE's face. June speaks in a low, dry, medium-low American voice, gentle and unhurried, with no comic timing at all tonight. She already knows the answers; she is not accusing, only naming what she sees, with quiet care for her friend. Subtle handheld camera breathing.*
 
-**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun). Olivia speaks in a warm, medium-low, slightly husky American voice, tired and emptied out. Story: she told the woman she loves one truth and kept the one that matters, and she knows it. Guilt and love underneath; slow and low, small breaths before her lines; "I told her the truth" sounds like a defense and falls apart halfway; "About that." goes to the window, barely a whisper, her breath catching, eyes glistening. Her eyes never meet June's. Subtle handheld camera breathing.*
+**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun). Olivia speaks in a warm, medium-low, slightly husky American voice, tired and emptied out. Story: she told the woman she loves one truth and kept the one that matters, and she knows it. Guilt and love underneath; slow and low, small breaths before her lines; "I told her the truth" sounds like a defense and falls apart halfway; "About that." goes to the window, barely a whisper, her breath catching, eyes glistening. Her eyes never meet June's. She speaks slowly, about two words per second, with small pauses inside the sentence; never rushed. Subtle handheld camera breathing.*
 
 **Subtexto obrigatório (V70), vale para todo plano de Claire e Olivia:** *Seven years ago Olivia left Claire without explaining. They never stopped loving each other, and the hurt never closed. Under every exchange between them there is a love that did not end and a wound that did not heal: no line between them is neutral. Olivia looks at Claire a beat too long and looks away when it hurts; her smiles break halfway; she breathes before she speaks to her. Claire's control is the armor of someone who still feels: her eyes betray her, holding Olivia's gaze and then fleeing; her voice drops and catches on anything personal. Tears scale: (1) eyes glistening, no tear — the default for subtext; (2) one contained tear she tries to hide — only where marked; (3) open crying — not in this episode.*
 
@@ -55,6 +55,11 @@
 Antes de toda fala pessoal entre Claire e Olivia, **1–2 s de silêncio**. Não corte colado.
 - **SH05–SH07:** 2 s no silêncio de June antes do "About that."
 - **SH08–SH09:** 1,5 s depois da virada para a janela, antes do "About that." de Olivia.
+
+### Planos de reação e ritmo (V71)
+- **Ritmo:** entre Claire e Olivia, **70–85 palavras por minuto** e **pausa típica de 1,5–2 s** entre as falas; nunca menos de 1 s. Só a comédia de Maya e June fica rápida.
+- **Planos de reação:** gere também o rosto de quem escuta, com o mesmo keyframe e **sem fala** (SF). Na montagem, a fala da outra entra por cima do plano de reação.
+  - **R1 (durante o "About that." de Olivia):** KF-J3, SF. *Subtle handheld. June listens; quiet concern; she looks at her friend and says nothing.*
 
 ### Montagem geral
 - **A cena é curta.** Os planos somam 37 s, e as pausas a levam para perto de 45 s.

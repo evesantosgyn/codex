@@ -1,6 +1,6 @@
 # Referência de emoção (outro estúdio) × nosso piloto · V01
 
-**Status:** PROPOSTA (análise para aprovação) · **Data:** 2026-11-22
+**Status:** ✅ APROVADA (2026-11-22, V71) · **Data:** 2026-11-22
 **Material:** episódio de referência enviado pela responsável (Drive, 18:40, "I Fell For My Sister's Best Friend", ep. 5; série GL de IA de outro estúdio). **Uso só como referência de nível de emoção e de técnica de interpretação e montagem**; não copiamos cenas, falas, enquadramentos nem personagens (princípio 5).
 **Método:** o mesmo da análise do EP01: transcrição com tempo por palavra, pausas, velocidade de fala, cortes por minuto e quadros-chave.
 

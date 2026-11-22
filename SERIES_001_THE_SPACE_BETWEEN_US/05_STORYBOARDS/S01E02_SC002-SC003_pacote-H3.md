@@ -30,9 +30,9 @@
 | `@KF-…` SC002 | `06_GENERATED_ASSETS/IMAGES/S01E02_SC002_KF-…`: SET-WS V02 · C1 V01 · **C1-B V01** (composição: o copo do INS-WATER sobre o caixote do C1) · C2 V01 · O1 V02 · O2 V01 · O3 V01 · INS-WATER V02 · INS-MON-A V02 · INS-MON-B V02 · 2S-MIC V02 · INS-MIC V01 · 2S-CLOSE V01 |
 | `@KF-…` SC003 | `06_GENERATED_ASSETS/IMAGES/S01E02_SC003_KF-…`: C3 V01 · C4 V01 · INS-REC V01 · MJ2 V02 |
 
-**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE. Story: she is being filmed by the woman she still loves and has not forgiven. Olivia's closeness (the light on her preferred side, the water she didn't ask for, the microphone) undoes her a little each time, and dryness is the only armor she has. In the interview her answers start rehearsed and fluent; when the questions turn personal the control cracks: a hesitation, a softer voice, eyes that go to Olivia and glisten, no tear. Static camera.*
+**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE. Story: she is being filmed by the woman she still loves and has not forgiven. Olivia's closeness (the light on her preferred side, the water she didn't ask for, the microphone) undoes her a little each time, and dryness is the only armor she has. In the interview her answers start rehearsed and fluent; when the questions turn personal the control cracks: a hesitation, a softer voice, eyes that go to Olivia and glisten, no tear. She speaks slowly, about two words per second, with small pauses inside the sentence; never rushed. Static camera.*
 
-**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun today). Olivia speaks in a warm, medium-low, slightly husky American voice. Story: she still loves Claire and knows her better than anyone; every small gesture is a way of taking care of her without saying so. Soft and unhurried, a breath before she speaks to her, her eyes lingering on Claire; behind the camera her questions are tender and deliberate, and the personal ones cost her. Never teasing for its own sake. Subtle handheld camera breathing.*
+**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun today). Olivia speaks in a warm, medium-low, slightly husky American voice. Story: she still loves Claire and knows her better than anyone; every small gesture is a way of taking care of her without saying so. Soft and unhurried, a breath before she speaks to her, her eyes lingering on Claire; behind the camera her questions are tender and deliberate, and the personal ones cost her. Never teasing for its own sake. She speaks slowly, about two words per second, with small pauses inside the sentence; never rushed. Subtle handheld camera breathing.*
 
 **Bloco de Maya (OR):** *Use @KF-… as the opening frame. Keep @ID_MAYA's face. Maya speaks in the voice of @VOZ_MAYA: a dry whisper with comic timing, a tiny pause before the punchline; underneath, she is watching her best friend unravel on camera, and the joke is how she copes. No laughing, at most a dry half-smile. Subtle handheld.*
 
@@ -62,7 +62,7 @@
 | SH15 | OR | **C1-B** + Claire | CLAIRE "Of course you were." | (bloco Claire) "Of course you were." |
 | SH16 | OR | 2S-MIC + Olivia | OLIVIA "May I?" | (bloco Olivia) Stopped an arm's length away, lavalier in hand, barely above a whisper, her eyes on Claire's: "May I?" |
 | SH17 | OR | C2 + Claire | CLAIRE "Yes." | (bloco Claire) A long beat; her eyes meet Olivia's and hold; then, quietly, almost a breath: "Yes." |
-| SH18 | SF | INS-MIC | — | Olivia clips the microphone to the edge of the turtleneck and runs the cable under the knit; Claire watches her. |
+| SH18 | SF | INS-MIC | — | Olivia clips the microphone to the edge of the turtleneck and runs the cable under the knit; her fingertips brush the side of Claire's neck for a second; Claire's breath catches; she watches her. |
 | SH19 | SF | 2S-CLOSE | — | Static. Their faces very close for two seconds; both breathe; neither moves; the seven years are in their eyes. Room tone only. |
 | SH20 | OR | O3 + Olivia | OLIVIA "Say something." | (bloco Olivia) Back behind the camera, headphones on: "Say something." |
 | SH21 | OR | **C3** + Claire | CLAIRE "Something." | (bloco Claire) Deliberately flat, a tiny defiant pause before it: "Something." |
@@ -102,6 +102,14 @@ Antes de toda fala pessoal entre Claire e Olivia, **1–2 s de silêncio**. Não
 - **SC002 SH16–SH19:** 1,5 s antes do "May I?"; 1,5–2 s antes do "Yes."; o SH19 inteiro (2–3 s) em silêncio.
 - **SC003 SH09–SH11:** depois do "Here...", 2 s de silêncio antes do corte para Olivia.
 - **SH16–SH19:** 1,5 s antes de "Next question." e de "Then we're done."
+
+### Planos de reação e ritmo (V71)
+- **Ritmo:** entre Claire e Olivia, **70–85 palavras por minuto** e **pausa típica de 1,5–2 s** entre as falas; nunca menos de 1 s. Só a comédia de Maya e June fica rápida.
+- **Planos de reação:** gere também o rosto de quem escuta, com o mesmo keyframe e **sem fala** (SF). Na montagem, a fala da outra entra por cima do plano de reação.
+  - **R1 (SC002, durante o "May I?"):** KF-C2, SF. *Static. Claire listens; her breath catches; her eyes go from the microphone to Olivia's eyes and stay.*
+  - **R2 (SC002, durante o "Yes."):** KF-2S-MIC, SF. *Static. Olivia hears the yes; the smallest exhale; she doesn't move for a second.*
+  - **R3 (SC003, durante "Next question." e "Then we're done."):** KF-O3, SF. *Subtle handheld. Olivia behind the camera receives it; her eyes glisten; she swallows and keeps still.*
+- **Toque (V71):** ver o plano marcado na tabela; o toque é breve, e as duas sentem.
 
 ### Montagem geral
 - **SC002:** as réplicas de SH02–SH07 em 1,5–2 s; **SH19**, segure o plano inteiro (3 s), sem som além da sala.

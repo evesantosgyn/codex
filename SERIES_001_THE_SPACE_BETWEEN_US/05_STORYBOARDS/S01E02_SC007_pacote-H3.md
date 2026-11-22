@@ -28,9 +28,9 @@
 | `@VOZ_CLAIRE` | `06_GENERATED_ASSETS/VOICES/claire_bennett_voice-ref_v02.wav` |
 | `@KF-…` | `06_GENERATED_ASSETS/IMAGES/S01E02_SC007_KF-…`: STAIR-WS V01 · C11 V02 · C12 V01 · C13 V01 · O8 V01 · O9 V01 · O10 V02 · INS-WATCH-558 V02 · INS-WATCH-559 V01 · INS-WATCH-600 V01 · 2S-STAIR V02 · WS-PASS V01 |
 
-**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE. Story: the question she has waited seven years to ask (why did you leave?) is right there, and she still loves her; that is exactly why she hides behind her own rule. Her lines about the time and the rule come a touch too quickly, as if she is holding on to them; "Goodnight, Olivia." is soft, almost tender, a retreat that costs her, her eyes glistening for a second. Static camera.*
+**Bloco de Claire (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_CLAIRE's face. Claire speaks in the voice of @VOZ_CLAIRE. Story: the question she has waited seven years to ask (why did you leave?) is right there, and she still loves her; that is exactly why she hides behind her own rule. Her lines about the time and the rule come a touch too quickly, as if she is holding on to them; "Goodnight, Olivia." is soft, almost tender, a retreat that costs her, her eyes glistening for a second. She speaks slowly, about two words per second, with small pauses inside the sentence; never rushed. Static camera.*
 
-**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun). Olivia speaks in a warm, medium-low, slightly husky American voice. Story: she still loves Claire and is waiting, hoping, for the question she both fears and wants; telling only part of the truth costs her. Slow on "Around the time I left", almost an invitation; "Your rule." is tender irony, full of love; in the silence, hope, and when Claire leaves, her eyes fill. Subtle handheld camera breathing.*
+**Bloco de Olivia (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun). Olivia speaks in a warm, medium-low, slightly husky American voice. Story: she still loves Claire and is waiting, hoping, for the question she both fears and wants; telling only part of the truth costs her. Slow on "Around the time I left", almost an invitation; "Your rule." is tender irony, full of love; in the silence, hope, and when Claire leaves, her eyes fill. She speaks slowly, about two words per second, with small pauses inside the sentence; never rushed. Subtle handheld camera breathing.*
 
 **Subtexto obrigatório (V70), vale para todo plano de Claire e Olivia:** *Seven years ago Olivia left Claire without explaining. They never stopped loving each other, and the hurt never closed. Under every exchange between them there is a love that did not end and a wound that did not heal: no line between them is neutral. Olivia looks at Claire a beat too long and looks away when it hurts; her smiles break halfway; she breathes before she speaks to her. Claire's control is the armor of someone who still feels: her eyes betray her, holding Olivia's gaze and then fleeing; her voice drops and catches on anything personal. Tears scale: (1) eyes glistening, no tear — the default for subtext; (2) one contained tear she tries to hide — only where marked; (3) open crying — not in this episode.*
 
@@ -60,7 +60,7 @@
 | SH19 | SF | C12 → C13 | — | Static. Claire looks up from the watch to Olivia; her lips part, the question almost out. (Start frame C12, end frame C13.) |
 | SH20 | SF | O10 | — | Subtle handheld. Olivia waits, lips closed, open and hopeful, her eyes glistening, ready for whatever comes. |
 | SH21 | OR | C13 + Claire | CLAIRE "Goodnight, Olivia." | (bloco Claire) She lets it go. Soft, almost tender, her eyes glistening for a second, a retreat that costs her: "Goodnight, Olivia." |
-| SH22 | SF | WS-PASS | — | Static. Claire walks down past Olivia toward the camera, eyes down, not looking back; Olivia stays behind on the landing, watching her go. Sound: footsteps on iron. |
+| SH22 | SF | WS-PASS | — | Static. Claire walks down past Olivia toward the camera, eyes down; as she passes, their shoulders almost touch; Olivia's hand moves a few centimeters toward her and stops; Olivia stays behind on the landing, watching her go. Sound: footsteps on iron. |
 | SH23 | SF | O10 | — | Subtle handheld. Olivia alone on the landing, the light stand in her hand; her eyes fill as Claire's footsteps fade below. → CUT TO |
 
 ## Montagem
@@ -71,6 +71,14 @@ Antes de toda fala pessoal entre Claire e Olivia, **1–2 s de silêncio**. Não
 - **SH15–SH20:** os dois minutos sem pressa; é o coração da cena.
 - **SH19–SH21:** a boca abre, 1,5 s, e só então "Goodnight, Olivia."
 - **SH23:** segure até os passos sumirem e os olhos de Olivia encherem.
+
+### Planos de reação e ritmo (V71)
+- **Ritmo:** entre Claire e Olivia, **70–85 palavras por minuto** e **pausa típica de 1,5–2 s** entre as falas; nunca menos de 1 s. Só a comédia de Maya e June fica rápida.
+- **Planos de reação:** gere também o rosto de quem escuta, com o mesmo keyframe e **sem fala** (SF). Na montagem, a fala da outra entra por cima do plano de reação.
+  - **R1 (durante "Around the time I left."):** KF-C11, SF. *Static. Claire listens; seven years cross her face; her eyes glisten.*
+  - **R2 (durante "No personal conversations during work hours."):** KF-O8, SF. *Subtle handheld. Olivia listens; a small, hurt smile, full of love; she understands the rule is a wall.*
+  - **R3 (durante "Goodnight, Olivia."):** KF-O10, SF. *Subtle handheld. Olivia hears it; the hope in her face breaks quietly; her eyes fill.*
+- **Toque (V71):** ver o plano marcado na tabela; o toque é breve, e as duas sentem.
 
 ### Montagem geral
 - **Os dois minutos:** os planos somam 1:08; o silêncio leva a cena para perto de 1:30.
