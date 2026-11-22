@@ -1,7 +1,7 @@
 # S01E03 — THE THINGS WE KEPT · Escaleta V1
 
-**Status:** 🟡 PROPOSTA (2026-11-22), aguardando aprovação · **Conceito:** B, "Contact Sheet" (N40) · **Duração-alvo:** ~13:15 de cenas, ~14:30 com as pausas da §13 · cold open + 9 cenas
-**Tempo da história (proposta):** **sexta-feira da primeira semana**, três dias depois do EP02. É dia de trabalho na fábrica; a partir das 6:00 da tarde, as regras de Claire deixam de valer.
+**Status:** ✅ APROVADA (2026-11-22, N41) · **Conceito:** B, "Contact Sheet" (N40) · **Duração-alvo:** ~13:15 de cenas, ~14:30 com as pausas da §13 · cold open + 9 cenas
+**Tempo da história:** **sexta-feira da primeira semana**, três dias depois do EP02. É dia de trabalho na fábrica; a partir das 6:00 da tarde, as regras de Claire deixam de valer.
 
 ## Pergunta do episódio
 O que se guarda de alguém que se deixou para trás, e o que isso diz sobre o que nunca acabou?
