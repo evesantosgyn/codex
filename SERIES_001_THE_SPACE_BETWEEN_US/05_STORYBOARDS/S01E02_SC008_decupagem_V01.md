@@ -91,3 +91,10 @@
 3. **A confissão de costas**, virada para a janela.
 4. **Sem comédia:** June seca e gentil.
 5. **O motor como fim**, com a luz do painel no rosto de Olivia.
+
+## Emoção (V70) — a regra do amor que não acabou
+Por baixo de toda fala entre Claire e Olivia há amor que não acabou e mágoa que não fechou; nenhuma fala entre elas é neutra. Antes de toda fala pessoal entre as duas, **1–2 s de silêncio** na montagem. Choro: (1) olhos brilhando, padrão; (2) uma lágrima contida, só onde marcado; (3) choro aberto, não neste episódio.
+
+**Nesta cena:** Olivia contou uma verdade e escondeu a que importa: culpa e amor; o "About that." sai quase sem voz, para a janela, com os olhos brilhando.
+
+Blocos de voz, direções por plano e pausas detalhadas: pacote H3 desta cena (seção "Emoção e pausas (V70)").

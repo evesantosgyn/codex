@@ -1,6 +1,6 @@
 # Pacote de geração no H3 — S01E02 · SC006 "The Man Who Remembered"
 
-**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-19
+**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-19 · **Emoção revista:** 2026-11-22 (V70, regra do amor que não acabou)
 **Base:**
 - decupagem V01 (APROVADA, N36) + 10 keyframes aprovados (V65);
 - roteiro V1.2;
@@ -36,7 +36,9 @@
 
 **Bloco de Abel (OR):** *Use @KF-… as the opening frame and composition. Keep @ID_ABEL's face. Abel, 74, speaks in an old New Yorker's voice, Puerto Rican, medium-low and a little hoarse: slow, short, concrete sentences of a craftsman, with dry pride and quiet stubbornness. Underneath, the hurt of a man who watched his street empty out. When he recognizes the woman behind the camera, his voice drops lower and becomes certain, not questioning. Static camera.*
 
-**Bloco de Olivia (OR):** *Use @KF-O7 as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun, headphones). Olivia speaks in a warm, medium-low, slightly husky American voice, professional and calm on the surface; underneath, from "You." on, a contained jolt of fear. "I'm sorry?" and "I think you might be confusing me with—" come a touch too quickly. The final question is delivered TOO evenly, deliberately flat: control, not lack of emotion. Subtle handheld camera breathing.*
+**Bloco de Olivia (OR):** *Use @KF-O7 as the opening frame and composition. Keep @ID_OLIVIA's face (messy bun, headphones). Olivia speaks in a warm, medium-low, slightly husky American voice, professional and calm on the surface. Story: a stranger is about to say aloud the past she has hidden from the woman she loves, while that woman is watching. From "You." on: a contained jolt of fear; "I'm sorry?" and "I think you might be confusing me with—" come a touch too quickly; the final question is delivered TOO evenly, deliberately flat: control, not lack of emotion; she cannot look at Claire. Subtle handheld camera breathing.*
+
+**Subtexto obrigatório (V70), vale para todo plano de Claire e Olivia:** *Seven years ago Olivia left Claire without explaining. They never stopped loving each other, and the hurt never closed. Under every exchange between them there is a love that did not end and a wound that did not heal: no line between them is neutral. Olivia looks at Claire a beat too long and looks away when it hurts; her smiles break halfway; she breathes before she speaks to her. Claire's control is the armor of someone who still feels: her eyes betray her, holding Olivia's gaze and then fleeing; her voice drops and catches on anything personal. Tears scale: (1) eyes glistening, no tear — the default for subtext; (2) one contained tear she tries to hide — only where marked; (3) open crying — not in this episode.*
 
 **Frase final de todo prompt:** *Warm, low, golden afternoon light from the tall arched windows of the old brick factory; soft LED key light on Abel. Abel: grey combed hair, short grey mustache, dark-green wool cardigan over a pressed light-blue shirt, reading glasses in the shirt pocket, black lavalier mic on his shirt, small scar on one thumb. Claire: dark-brown wavy hair with curtain bangs, wine-red lipstick, black turtleneck with dark-red pendant, taupe trousers, watch on her LEFT wrist, notebook and pen, black folding chair beside the monitor cart, no microphone. Olivia: messy dark-blond bun, brown knit sweater, headphones, no wristwatch, ONE beauty mark below her lower lip on her left side. No readable text. No music.*
 
@@ -59,12 +61,12 @@
 | SH14 | OR | A3 + Abel | ABEL "You came back." | (bloco Abel) Quietly, as a fact: "You came back." |
 | SH15 | SF | A3 | (OLIVIA O.S. "I think you might be confusing me with—") | Static. Abel listens, unconvinced; a tiny shake of the head. |
 | SH16 | OR | A3 + Abel | ABEL "You had longer hair. You asked about the letters." | (bloco Abel) Cutting her off, sure of himself, unhurried: "You had longer hair. You asked about the letters." |
-| SH17 | SF | C10 | — | Static. A very small silence. Claire turns her head to the right and looks at Olivia, measuring. |
+| SH17 | SF | C10 | — | Static. A very small silence. Claire turns her head to the right and looks at Olivia: not suspicion only, worry; she still cares, and it shows for a second. |
 | SH18 | SF | O7 | — | Subtle handheld. Olivia, behind the camera, keeps her eyes on the monitor; she does not look at Claire. Silence. |
 | SH19 | OR | O7 + Olivia | OLIVIA "What did you do when the building closed, Mr. Ortiz?" | (bloco Olivia) Too evenly, eyes on the monitor: "What did you do when the building closed, Mr. Ortiz?" |
 | SH20 | SF | A3 → A1 | — | Static. Abel studies her a moment longer, then lets it go and settles back into the armchair. (Start frame A3, end frame A1.) |
 | SH21 | OR | A1 + Abel | ABEL "I kept the store open three more years. Out of spite." | (bloco Abel) A beat, then stubborn pride with a dry glint: "I kept the store open three more years." A beat. "Out of spite." |
-| SH22 | SF | C10 | — | **Very slow push-in** (about 10%). Claire writes nothing; she keeps watching Olivia. → CUT TO |
+| SH22 | SF | C10 | — | **Very slow push-in** (about 10%). Claire writes nothing; she keeps watching Olivia with hurt and worry, the look of someone who still loves her. → CUT TO |
 
 ## Áudio O.S. de Olivia (planos-fonte, só o áudio)
 Gere com o **KF-O7 + bloco de Olivia**, uma frase por geração, e encaixe sobre o plano indicado:
@@ -77,6 +79,13 @@ Gere com o **KF-O7 + bloco de Olivia**, uma frase por geração, e encaixe sobre
 | "I think you might be confusing me with—" | SH15 | Rápida demais, cortada por Abel |
 
 ## Montagem
+
+### Emoção e pausas (V70)
+Antes de toda fala pessoal entre Claire e Olivia, **1–2 s de silêncio**. Não corte colado.
+- **SH17–SH18:** o silêncio entre o olhar de Claire e o de Olivia: 1,5–2 s em cada plano.
+- **SH22:** o avanço lento inteiro, sem cortar cedo.
+
+### Montagem geral
 - **SH09:** deixe o olhar de Abel atravessar a lente devagar. É a virada da cena.
 - **SH10–SH16:** cortes secos entre Abel e as falas O.S. de Olivia.
 - **SH17–SH18:** **o silêncio pequeno.** Segure 1–1,5 s a mais do que parece necessário.

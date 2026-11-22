@@ -122,3 +122,10 @@
 3. O **avanço lento** no SH09, num plano de Claire.
 4. Os **inserts do monitor** com a imagem gerada.
 5. **Capacetes fora no set**.
+
+## Emoção (V70) — a regra do amor que não acabou
+Por baixo de toda fala entre Claire e Olivia há amor que não acabou e mágoa que não fechou; nenhuma fala entre elas é neutra. Antes de toda fala pessoal entre as duas, **1–2 s de silêncio** na montagem. Choro: (1) olhos brilhando, padrão; (2) uma lágrima contida, só onde marcado; (3) choro aberto, não neste episódio.
+
+**Nesta cena:** Cada gesto de cuidado de Olivia (a luz, a água, o microfone) é amor que ela não diz; Claire se desfaz um pouco a cada um. O microfone (SH16–SH19) é o momento mais íntimo do episódio. Na entrevista, o controle de Claire racha, e os olhos dela brilham no "Here...".
+
+Blocos de voz, direções por plano e pausas detalhadas: pacote H3 desta cena (seção "Emoção e pausas (V70)").

@@ -119,3 +119,10 @@ O C8, o C9 e o C10 são o mesmo quadro de Claire com três olhares; os dois últ
 4. **O avanço lento em Claire** no último plano.
 5. O insert das mãos de Abel e o LED aceso.
 6. **A voz de Abel** pelo método de conversão.
+
+## Emoção (V70) — a regra do amor que não acabou
+Por baixo de toda fala entre Claire e Olivia há amor que não acabou e mágoa que não fechou; nenhuma fala entre elas é neutra. Antes de toda fala pessoal entre as duas, **1–2 s de silêncio** na montagem. Choro: (1) olhos brilhando, padrão; (2) uma lágrima contida, só onde marcado; (3) choro aberto, não neste episódio.
+
+**Nesta cena:** Olivia com medo de que o passado seja dito diante da mulher que ama. Claire olha para ela com mágoa e preocupação, não só desconfiança.
+
+Blocos de voz, direções por plano e pausas detalhadas: pacote H3 desta cena (seção "Emoção e pausas (V70)").

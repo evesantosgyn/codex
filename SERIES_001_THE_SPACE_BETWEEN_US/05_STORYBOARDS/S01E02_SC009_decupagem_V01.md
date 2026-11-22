@@ -116,3 +116,10 @@ O C15, o C16 e o C17 são edições do C14. O FOLDER-LAST, o FREEZE e o DELETE s
 3. **O plano de cobertura (BROLL)** com o mesmo ângulo da foto antiga, e Maya só como murmúrio.
 4. **Texto na tela gerado na imagem** (V43).
 5. **O fim:** a tela apaga, o rosto fica no escuro, CUT TO BLACK.
+
+## Emoção (V70) — a regra do amor que não acabou
+Por baixo de toda fala entre Claire e Olivia há amor que não acabou e mágoa que não fechou; nenhuma fala entre elas é neutra. Antes de toda fala pessoal entre as duas, **1–2 s de silêncio** na montagem. Choro: (1) olhos brilhando, padrão; (2) uma lágrima contida, só onde marcado; (3) choro aberto, não neste episódio.
+
+**Nesta cena:** Claire entende que Olivia ainda a enxerga do mesmo jeito, e que ela também nunca deixou de amar: os olhos enchem na comparação, e **uma lágrima** escapa no escuro, que ela enxuga rápido (nível 2).
+
+Blocos de voz, direções por plano e pausas detalhadas: pacote H3 desta cena (seção "Emoção e pausas (V70)").

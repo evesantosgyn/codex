@@ -1,6 +1,6 @@
 # Pacote de geração no H3 — S01E02 · SC009 "Raw Footage"
 
-**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-19
+**Plataforma:** buzzy.now · **Modelo:** MiniMax-H3 · **Data:** 2026-11-19 · **Emoção revista:** 2026-11-22 (V70, regra do amor que não acabou)
 **Base:**
 - decupagem V01 (APROVADA, N39) + 14 keyframes aprovados (V69) + o KF-RAIN da SC003 do piloto, reaproveitado;
 - roteiro V1.2;
@@ -28,9 +28,11 @@
 | `@KF-…` | `06_GENERATED_ASSETS/IMAGES/S01E02_SC009_KF-…`: STUDY-WS V01 · C14 V02 · C15 V01 · C16 V01 · C17 V02 · BROLL V03 · WALL V02 · INS-PHOTO V01 · INS-FOLDER V03 · INS-FOLDER-LAST V02 · INS-DELETE V01 · INS-SCREEN-INT V01 · INS-FREEZE V01 · INS-MOUSE V01 |
 | Entrevista na tela | o vídeo gerado da **SC003 SH09** (`S01E02_SC003_SH09_V##.mp4`), com o áudio dele |
 
-**Bloco de Claire, sem fala (SF):** *Keep @ID_CLAIRE's face. Claire alone at night, silent, restrained: she watches herself and doesn't like what she sees, until something she didn't expect disarms her. Every emotion stays small and inside; no tears, no big gestures. Static camera.*
+**Bloco de Claire, sem fala (SF):** *Keep @ID_CLAIRE's face. Story: alone at night, Claire sees herself the way Olivia still sees her (the same angle, the same laugh, seven years apart) and understands that Olivia never stopped looking at her that way, and that she never stopped loving her either. Silent, restrained, every emotion small and inside; her eyes fill when she compares the photo and the screen; one tear slips and she wipes it away quickly. She does not delete the file. Static camera.*
 
 **Bloco do BROLL (OR, riso):** *Use @KF-BROLL as the opening frame and composition. Keep @ID_CLAIRE's face. Documentary B-roll, subtle handheld, shot from a little distance. Someone off-screen to her right says something, inaudible and distant; Claire laughs fully and unguarded, in the voice of @VOZ_CLAIRE: a real, surprised, open laugh, head tilted back, completely unaware of the camera. Morning light in the old brick factory.*
+
+**Subtexto obrigatório (V70), vale para todo plano de Claire e Olivia:** *Seven years ago Olivia left Claire without explaining. They never stopped loving each other, and the hurt never closed. Under every exchange between them there is a love that did not end and a wound that did not heal: no line between them is neutral. Olivia looks at Claire a beat too long and looks away when it hurts; her smiles break halfway; she breathes before she speaks to her. Claire's control is the armor of someone who still feels: her eyes betray her, holding Olivia's gaze and then fleeing; her voice drops and catches on anything personal. Tears scale: (1) eyes glistening, no tear — the default for subtext; (2) one contained tear she tries to hide — only where marked; (3) open crying — not in this episode.*
 
 **Frase final de todo prompt (planos no ateliê):** *Night in Claire's study: the cool blue-white light of the iMac screen on her face, a low warm desk lamp behind, shelves in half-darkness. Claire: long dark-brown wavy hair with curtain bangs, the ends slightly damp, wine-red lipstick, black turtleneck with ONE dark-red pendant, white-dial watch with a black strap on her LEFT wrist, no rings. No music.*
 
@@ -46,20 +48,27 @@
 | SH07 | SF | INS-FOLDER-LAST | — | Static close-up. The cursor rests on the last file, B-ROLL_BREAK_03.mov. The text does not change. |
 | SH08 | SF | C14 | — | (bloco Claire) A beat of curiosity; she clicks. |
 | SH09 | OR | BROLL + Claire | (murmúrio de Maya; riso de Claire) | (bloco BROLL) Claire laughs fully at something off-screen, head tilted back. |
-| SH10 | SF | C15 | — | (bloco Claire) She watches herself laugh; her guard drops; lips parted; she didn't know she was being filmed. |
+| SH10 | SF | C15 | — | (bloco Claire) She watches herself laugh; her guard drops; lips parted; she didn't know she was being filmed, and she understands who was looking. |
 | SH11 | SF | INS-FREEZE | (o riso corta) | Static. She stops the video; the laugh freezes on the screen. **In the edit: the screen shows the last frame of SH09, frozen.** |
 | SH12 | SF | C15 → C16 | — | (bloco Claire) Slowly, she turns her chair to the left, toward the photo wall behind her. (Start frame C15, end frame C16.) |
 | SH13 | SF | WALL | — | Static. The photo wall in half-darkness; a very slow drift of light; the small old photo among the buildings. |
 | SH14 | SF | INS-PHOTO | — | Static. The old photo in its frame: Claire at 28, no bangs, laughing. |
-| SH15 | SF | C16 | — | (bloco Claire) She looks at the wall, very still. |
+| SH15 | SF | C16 | — | (bloco Claire) She looks at the wall, very still; her eyes fill. |
 | SH16 | SF | INS-FREEZE | — | Static. The frozen laugh on the screen. |
 | SH17 | SF | INS-PHOTO | — | Static. The old photo again. |
 | SH18 | SF | INS-DELETE | — | Static close-up. The right-click menu is open; "Delete" is highlighted. The text does not change. |
 | SH19 | SF | INS-MOUSE | — | Static close-up. Her index finger rests on the mouse button; a tiny tension in the finger; it does not press. |
-| SH20 | SF | C14 → C17 | (clique) | (bloco Claire) She switches off the screen; the cool light vanishes and her face sinks into darkness. (Start frame C14, end frame C17.) |
+| SH20 | SF | C14 → C17 | (clique) | (bloco Claire) She switches off the screen; the cool light vanishes; in the dark, one tear slips and she wipes it away quickly. (Start frame C14, end frame C17.) |
 | SH21 | — | preto | — | CUT TO BLACK. Cartela "END OF EPISODE 02", se a produção quiser. |
 
 ## Montagem
+
+### Emoção e pausas (V70)
+Antes de toda fala pessoal entre Claire e Olivia, **1–2 s de silêncio**. Não corte colado.
+- **SH13–SH17:** a comparação parede, tela, parede sem pressa; deixe os olhos de Claire encherem no SH15.
+- **SH20:** a lágrima no escuro, 1–1,5 s, antes do preto.
+
+### Montagem geral
 - **Os planos somam 1:07**, e os silêncios levam a cena para perto do 1:30.
   - **SH09:** deixe o riso inteiro, 5–6 s. É a coisa mais livre que ouvimos de Claire na série.
   - **SH11:** **corte seco** do riso para o silêncio.

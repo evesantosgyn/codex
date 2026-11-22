@@ -116,3 +116,10 @@ Claire e Maya com as referências v02 (método A). Olivia e June sem referência
 2. **P18:** trocar "blouse" por "turtleneck" no roteiro (só texto).
 3. ~~Números na pós~~ → **gerados na imagem** (correção do responsável).
 4. O eixo: Claire olha para a direita; Olivia para a esquerda.
+
+## Emoção (V70) — a regra do amor que não acabou
+Por baixo de toda fala entre Claire e Olivia há amor que não acabou e mágoa que não fechou; nenhuma fala entre elas é neutra. Antes de toda fala pessoal entre as duas, **1–2 s de silêncio** na montagem. Choro: (1) olhos brilhando, padrão; (2) uma lágrima contida, só onde marcado; (3) choro aberto, não neste episódio.
+
+**Nesta cena:** Claire diante de Olivia pela primeira vez no trabalho: o olhar dura um segundo a mais, depois a armadura. Olivia brinca como quem constrói uma ponte; o sorriso falha quando vê Claire. Maya protetora, sem riso aberto.
+
+Blocos de voz, direções por plano e pausas detalhadas: pacote H3 desta cena (seção "Emoção e pausas (V70)").

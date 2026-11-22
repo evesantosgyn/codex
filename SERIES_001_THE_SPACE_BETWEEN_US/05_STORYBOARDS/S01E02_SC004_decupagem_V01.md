@@ -93,3 +93,10 @@ Claire com a referência v02 (método A). Olivia e June sem referência; vozes d
 3. **O poder pela altura**: sentada × de pé, e o mesmo nível na virada.
 4. **O cabo nos dedos** como objeto da cena, e **nenhum avanço de câmera**.
 5. **O plano final** com Olivia de costas em primeiro plano.
+
+## Emoção (V70) — a regra do amor que não acabou
+Por baixo de toda fala entre Claire e Olivia há amor que não acabou e mágoa que não fechou; nenhuma fala entre elas é neutra. Antes de toda fala pessoal entre as duas, **1–2 s de silêncio** na montagem. Choro: (1) olhos brilhando, padrão; (2) uma lágrima contida, só onde marcado; (3) choro aberto, não neste episódio.
+
+**Nesta cena:** Claire está magoada porque ainda ama: a voz falha, e no "Not again." os olhos enchem, sem deixar a lágrima cair. Olivia perde a mulher que ama pela segunda vez; no último plano, **uma lágrima** que ela não enxuga (nível 2).
+
+Blocos de voz, direções por plano e pausas detalhadas: pacote H3 desta cena (seção "Emoção e pausas (V70)").

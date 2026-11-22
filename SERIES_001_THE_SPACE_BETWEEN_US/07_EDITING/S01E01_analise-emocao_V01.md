@@ -1,6 +1,6 @@
 # S01E01 — Análise de emoção do episódio montado · V01
 
-**Status:** PROPOSTA (diagnóstico para aprovação) · **Data:** 2026-11-22
+**Status:** ✅ APROVADA (2026-11-22, V70) · o EP01 não será refeito; a regra vale do EP02 em diante · **Data:** 2026-11-22
 **Material analisado:** o episódio montado (`Drive: 1o23hrrzySnUR0QKidnCQPuc8vDEvAmy2`, 11:27, 4K). O áudio foi transcrito com marcação de tempo por palavra; medi a pausa antes de cada fala, a velocidade (palavras por segundo) e a variação de altura da voz (em semitons). Extraí também os quadros do meio de cada fala-chave.
 **Pedido da responsável:** Olivia sem emoção; diálogos corridos; Maya sempre rindo e animada; Claire e Olivia precisam interagir **como duas pessoas que ainda se amam**, apesar dos sete anos e da mágoa.
 

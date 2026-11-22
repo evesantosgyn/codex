@@ -118,3 +118,10 @@ O C12 e o C13 são edições do C11, e o O9 e o O10 são edições do O8. Os tr�
 3. **Claire acima e Olivia no patamar.**
 4. **Sem avanço de câmera** e a luz andando no tijolo.
 5. **A saída** com Olivia em primeiro plano.
+
+## Emoção (V70) — a regra do amor que não acabou
+Por baixo de toda fala entre Claire e Olivia há amor que não acabou e mágoa que não fechou; nenhuma fala entre elas é neutra. Antes de toda fala pessoal entre as duas, **1–2 s de silêncio** na montagem. Choro: (1) olhos brilhando, padrão; (2) uma lágrima contida, só onde marcado; (3) choro aberto, não neste episódio.
+
+**Nesta cena:** Claire ainda ama, e por isso se esconde atrás da regra; o "Goodnight, Olivia." é quase terno. Olivia espera a pergunta com esperança; quando Claire vai embora, os olhos dela enchem.
+
+Blocos de voz, direções por plano e pausas detalhadas: pacote H3 desta cena (seção "Emoção e pausas (V70)").
