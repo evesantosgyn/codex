@@ -25,10 +25,15 @@ Para cada personagem: idade, rosto, cabelo (cor, comprimento, corte), olhos, mar
 ## 4. Cenário, luz e clima
 Descrição do espaço, eixos de câmera, luz e clima, e o que não pode variar entre as imagens.
 
+## 4b. Emoção desta cena (manual de produção §13)
+- Onde cada personagem está na história nesta cena: o que sente pela outra, a mágoa, o que esconde (2–3 linhas).
+- O subtexto da relação central e como ele aparece no rosto (olhar que dura um segundo a mais, olhar que foge, sorriso que quebra, olhos brilhando).
+- O **nível de choro** de cada keyframe de rosto: (1) olhos brilhando, (2) uma lágrima contida, (3) choro aberto.
+
 ## 5. Keyframes (na ordem de geração)
-Por keyframe: ID · planos que usa · referências (R1, R2…) · prompt em inglês.
+Por keyframe: ID · planos que usa · referências (R1, R2…) · prompt em inglês. Nos keyframes de rosto, o prompt descreve a **emoção** do momento (antes ou depois da fala), nunca um rosto neutro no meio de uma fala qualquer.
 Ordem: plates → inserts → personagens → junção com a próxima cena.
 
 ## 6. Critérios de aprovação desta cena
-O checklist específico da cena (identidade, figurino, luz, objetos).
+O checklist específico da cena (identidade, figurino, luz, objetos e **emoção pedida**).
 ```
