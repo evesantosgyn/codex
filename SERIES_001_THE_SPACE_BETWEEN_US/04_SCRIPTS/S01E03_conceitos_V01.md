@@ -1,6 +1,6 @@
 # S01E03 — "The Things We Kept" · Alternativas de conceito V01
 
-**Status:** 🟡 PROPOSTA (2026-11-22), aguardando escolha · **Modo 2 — Sala de Roteiristas** · formato 12–15 min, ~9 cenas
+**Status:** ✅ Conceito **B** escolhido (2026-11-22, N40) · **Modo 2 — Sala de Roteiristas** · formato 12–15 min, ~9 cenas
 
 ## O que o EP03 precisa cumprir (bíblia + pontas do EP02 + regras §13)
 - **Bíblia:** **um objeto do passado** revela que Olivia **nunca rompeu completamente o vínculo**. Na coluna da revelação, "(idem 02)": referências e lembranças, sem avançar o segredo. **A ligação com a família Bennett não aparece** (é do EP04, "Almost").
