@@ -219,6 +219,17 @@ locacoes:
     cenas: [EP02_SC008]
     pendencias: []
 
+objetos_ep03:
+  # APROVADOS (V79–V81, 2026-11-22)
+  caixa_negativos: "caixa de metal cinza gasta, tamanho de caixa de sapato, adesivos de viagem; só 'LISBON', 'DETROIT', 'MANILA' legíveis; envelopes translúcidos de negativo arquivados à mão. Ref: 06_GENERATED_ASSETS/IMAGES/S01E03_PROP_PRANCHA-OBJETOS_V01.png"
+  filme: "negativo colorido 120 (médio formato): quadros QUADRADOS, SEM furos, base laranja"
+  mesa_de_luz: "mesa de luz branca, lupa redonda, lápis vermelho; X vermelhos no envelope (Claire marca como Olivia ensinou)"
+  tira_cortada: "tira em DOIS pedaços com o vão da mesa de luz entre eles (três quadros cortados); sem tesoura"
+  scanner: "scanner pequeno de negativos ligado ao laptop (escritório do capataz, V73)"
+  foto_claire_dormindo: "positivo, scan limpo quadrado, nunca impressa; Claire aos 28, sem franja, batom vinho. Ref: S01E03_PROP_FOTO-CLAIRE-DORMINDO_V01.png (V80)"
+  negativos: "S01E03_PROP_NEGATIVO-FOTO-ANTIGA_V01.png e S01E03_PROP_NEGATIVO-CLAIRE-DORMINDO_V01.png (inversão digital, V81)"
+  tira_final: "a tira de Claire dormindo fica com Claire (SC007, bolso interno do casaco cinza-chumbo)"
+
 cronologia_piloto:
   # APROVADO (P13): dia 1 = quinta-feira; dia 2 = sexta-feira
   - {cena: COLD_OPEN, dia: 1, dia_semana: quinta, periodo: noite, local: hall do prédio de Claire, clima: chuva, nota: "keyframes travados da SC003, sem falas"}
