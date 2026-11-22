@@ -1,6 +1,6 @@
 # S01E03 · COLD OPEN + SC001 — UNPACKED / THE GAP · Decupagem V01
 
-**Status:** 🟡 PROPOSTA (2026-11-22) · **Roteiro:** EP03 Screenplay V1 (APROVADO, N42) · **Data:** 2026-11-22
+**Status:** ✅ APROVADA (2026-11-22, N43) · **Roteiro:** EP03 Screenplay V1 (APROVADO, N42) · **Data:** 2026-11-22
 **Duração:** cold open 0:45 no roteiro → **~0:38** de planos + cartela, ~0:45 com as pausas · SC001 1:30 no roteiro → **~1:21** de planos, ~1:30 com as pausas · **10 + 31 planos** · buzzy.now / MiniMax-H3
 **Pendências:** P11 e P12 não bloqueiam nenhum plano.
 
