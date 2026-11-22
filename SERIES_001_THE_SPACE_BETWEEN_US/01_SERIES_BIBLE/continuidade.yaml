@@ -148,6 +148,7 @@ personagens:
     figurinos_por_cena:
       SC005-SC009: "L5 suéter bordô + calça preta + sobretudo caramelo + crachá de produção (V36; NÃO usar verde-oliva: é a cor de Olivia)"
       EP02: "L4 overshirt creme (tom areia), camiseta branca, cargo preta, tênis, crachá, prancheta. Ref: 06_GENERATED_ASSETS/IMAGES/S01E02_LOOK_JUNE_V01.png. Creme como Maya, sem combinar (V54)"
+      EP03: "L5 do piloto: suéter bordô de tricô grosso, calça preta, tênis claros, crachá no cordão preto, prancheta; sobretudo caramelo à noite (SC008–SC009); relógio de mostrador branco e pulseira escura no pulso esquerdo; cinto de fivela dourada; nada verde-oliva. Ref: 06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_JUNE_V01.png (V78)"
     voz: "escolhida na edição por conversão de voz (V38); registro: seca, rápida, americana, médio-grave, deadpan"
     objetos: [laptop (SC005), pasta de arquivo com registros de aquisição (SC009)]
 
