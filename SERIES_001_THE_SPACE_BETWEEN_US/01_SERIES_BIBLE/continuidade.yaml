@@ -117,6 +117,7 @@ personagens:
       SC001: "blazer escuro liso (marrom/grafite) + blusa preta (FINAL, vídeo aprovado; substitui o tweed L1 nesta cena)"
       SC006-SC009: "L2 Minimalista preta: camisa e calça pretas (V42)"
       EP02: "L3 camisa e calça creme, cinto caramelo, botas marrons de cano curto; relógio branco de couro. Ref: 06_GENERATED_ASSETS/IMAGES/S01E02_LOOK_MAYA_V01.png (V54)"
+      EP03: "L1 blazer e calça de tweed marrom, blusa preta, cinto de fivela dourada, botas marrons de cano curto; relógio branco de couro marrom no pulso esquerdo; argolas, colar dourado; SEM cachecol e SEM bolsa. Ref: 06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_MAYA_V01.png (V77)"
     voz:
       referencia: "06_GENERATED_ASSETS/VOICES/maya_reed_voice-ref_v02.wav (6,85 s = SC001 2,0–4,0 + 7,0–9,5 + 11,2–12,95 s, com 0,3 s de silêncio entre trechos)"
       historico: "v01 = só 2,0–4,0 s"
