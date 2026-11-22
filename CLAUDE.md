@@ -196,4 +196,4 @@ Não salve trabalho que ainda está só **proposto** como se fosse decisão. Ras
 
 | Código | Título | Status | Pasta |
 |---|---|---|---|
-| SERIES_001 | The Space Between Us | Piloto: roteiro V3.2 aprovado; SC001 a SC009 com keyframes aprovados e pacotes do H3 prontos (pré-produção do piloto completa); próxima: geração no H3 e montagem. EP02 "Familiar Strangers": roteiro V1.2 e desenvolvimento visual aprovados; decupagem em andamento (cold open e SC001 com keyframes e pacote do H3; SC002–SC003 decupadas) | `SERIES_001_THE_SPACE_BETWEEN_US/` |
+| SERIES_001 | The Space Between Us | **Piloto (EP01):** gerado e montado (11:27); análise de emoção feita; **não será refeito** (V70). **EP02 "Familiar Strangers":** roteiro V1.2 aprovado; pré-produção completa (cold open + SC001–SC009 com decupagem, keyframes, pacote do H3, animatic e documento do videomaker); regras de emoção V70–V71 aplicadas; animatic do episódio 10:43; próxima: geração no H3 e montagem. **EP03 "The Things We Kept":** a escrever (escaleta) | `SERIES_001_THE_SPACE_BETWEEN_US/` |
