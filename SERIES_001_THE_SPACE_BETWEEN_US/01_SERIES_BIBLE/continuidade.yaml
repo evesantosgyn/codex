@@ -201,6 +201,12 @@ locacoes:
     fixos: [janelas altas em arco, caixa d'água de madeira no telhado, marquise de carga de ferro, loja de velas em frente (antiga loja de ferragens de Abel)]
     cenas: [EP02_SC001, EP02_SC002, EP02_SC003, EP02_SC004, EP02_SC005, EP02_SC006, EP02_SC007]
     pendencias: ["geografia interna a definir na decupagem do EP02"]
+  quarto_olivia:
+    status: "APROVADO (V74, 2026-11-22)"
+    referencia: 03_LOCATIONS/QUARTO_OLIVIA/quarto-olivia_prancha.png
+    ficha: 03_LOCATIONS/QUARTO_OLIVIA/ficha.md
+    cenas: [EP03_COLD_OPEN]
+    pendencias: []
   van_producao:
     status: "APROVADO (V56, 2026-11-17)"
     referencia: 03_LOCATIONS/VAN_PRODUCAO/van_prancha.png
