@@ -49,7 +49,7 @@
 - **Salão da fábrica:**
   - Claire e Maya diante do cavalete com a foto de 1928, à esquerda, **perto de uma janela alta (luz fria)**;
   - Olivia junto às caixas de equipamento, à direita, **com uma lâmpada de trabalho acesa ao lado (luz quente)**.
-- **Eixo:** Claire olha para a **direita**, Olivia para a **esquerda**; Maya fica à esquerda de Claire.
+- **Eixo:** Claire olha para a **direita**, Olivia para a **esquerda**. **Maya fica à DIREITA de Claire** (entre ela e Olivia) e olha para a **esquerda** (para Claire) — ajuste aceito no KF-HALL-WS (2026-11-23); vale para CM, M1, CM-J e WS-DISTANCE.
 
 ## Lista de planos — COLD OPEN
 | Shot | Dur. | Keyframe | Recurso | Ação | Som (E15) |
