@@ -1,4 +1,4 @@
-# Pacote ChatGPT — S01E03 · COLD OPEN + SC001 · V02
+# Pacote ChatGPT — S01E03 · COLD OPEN + SC001 · V02 (índice)
 
 **Base:** decupagem V02 aprovada (N44) · roteiro V1 (N42) · desenvolvimento visual V73–V81 · regras §13 e §14 (V82) · **substitui o pacote V01 de 22/11**
 
@@ -9,7 +9,16 @@
 > Cole **tudo abaixo da linha**, com as imagens R1–R12 anexadas.
 > **Ordem:** o cold open primeiro (só Olivia). Na SC001, confira sempre o rosto e a cor do cabelo de cada uma antes de aprovar.
 
+> **Atualização (2026-11-23):** o pacote inteiro numa mensagem só dava erro no ChatGPT (29 keyframes e 12 imagens). Foi dividido em **4 partes**, coladas no mesmo chat, uma por vez:
+> 1. `S01E03_CO-SC001_pacote-chatgpt_parte1.md`: cold open (R3, R4, R9, R10) e as regras;
+> 2. `..._parte2.md`: o salão, Claire, Maya e June (R1, R2, R5, R6, R7, R8, R11, R12);
+> 3. `..._parte3.md`: Olivia e June na fábrica (R3 e R4 de novo);
+> 4. `..._parte4.md`: o tablet e a mão de Claire (R2).
+>
+> Os prompts são os mesmos da V02; o texto completo continua abaixo, para consulta.
+
 ---
+
 
 # PACOTE DE CENA — THE SPACE BETWEEN US · S01E03 "THE THINGS WE KEPT" · COLD OPEN + SC001
 
