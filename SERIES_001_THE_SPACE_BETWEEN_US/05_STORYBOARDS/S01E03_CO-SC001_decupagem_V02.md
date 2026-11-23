@@ -84,6 +84,7 @@
 | SH10 | 1,5 s | KF-C-ECU-EYES | **Close extremo dos olhos** | Os olhos de Claire param | O ambiente continua; **ninguém fala** |
 | SH11 | 2 s | KF-INS-O-CABLE | **Mãos** | As mãos de Olivia **param** no cabo que enrolava | O cabo para de arrastar |
 | SH12 | 3 s | KF-O1 | **Entre as caixas** (primeiro plano tapando) | Olivia, na luz quente, não levanta os olhos logo | O zumbido da lâmpada de trabalho |
+| SH12B | 2 s | **KF-C1-HIT** | Plano próximo | Claire, atingida, olha para Olivia (à direita) e baixa os olhos | — |
 | SH13 | 3 s | KF-OTS-C | **Por cima do ombro de Claire** | O capacete e o casaco em primeiro plano; lá longe, Olivia. Claire olha e volta ao tablet | — |
 | SH14 | 1,5 s | KF-M1 | | | MAYA: "What are you doing?" |
 | SH15 | 2 s | KF-C1 | | Digitando | CLAIRE: "Making a request." · toques |
@@ -129,7 +130,7 @@
 | KF-CM | Duas: Maya à esquerda, Claire à direita (tablet), diante da foto | igual |
 | KF-C1 | Claire, **um pouco de baixo**, luz fria da janela, tablet, olhar para a direita | ajustado |
 | KF-C-ECU-EYES | **Close extremo dos olhos** de Claire, imóveis | **novo** |
-| **KF-C1-HIT** | Claire em plano próximo, **atingida** (testa franzida, boca apertada), olhar para a direita; usado depois do SH10 (reação ao "seven years ago") e no SH31 | **novo (aprovado na geração, 2026-11-23)** |
+| **KF-C1-HIT** | Claire em plano próximo, **atingida** (testa franzida, boca apertada), olhar para a direita; usado no **SH12B** (reação ao "seven years ago") e no SH31 | **novo (aprovado na geração, 2026-11-23)** |
 | KF-M1 | Maya, plano **um pouco mais aberto** (cintura para cima), olhar para a direita | ajustado |
 | KF-CM-J | O quadro do CM com **June passando em primeiro plano, desfocada**, os dois cafés | refeito |
 | KF-INS-O-CABLE | As mãos de Olivia paradas no cabo enrolado | **novo** |
