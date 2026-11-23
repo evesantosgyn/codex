@@ -1,6 +1,6 @@
 # S01E03 · SC002 — THE BOX · Decupagem V01
 
-**Status:** 🟡 PROPOSTA (2026-11-23) · **Roteiro:** EP03 Screenplay V1 (APROVADO, N42) · **Data:** 2026-11-23
+**Status:** ✅ APROVADA (2026-11-23, N45) · **Roteiro:** EP03 Screenplay V1 (APROVADO, N42) · **Data:** 2026-11-23
 **Duração:** 1:15 no roteiro → **~0:55** de planos, ~1:05–1:10 com as pausas · **23 planos** · **15 keyframes** · buzzy.now / MiniMax-H3
 **Regras aplicadas:** §13 (emoção) e §14 (ritmo por tom, câmera variada, assinaturas, som, fragmentos).
 **Pendências:** P11 e P12 não bloqueiam nenhum plano.

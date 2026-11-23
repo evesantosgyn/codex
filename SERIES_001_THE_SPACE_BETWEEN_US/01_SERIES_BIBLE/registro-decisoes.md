@@ -26,6 +26,7 @@ Legenda de status:
 | N13 | Claire mora no mesmo apartamento há mais de sete anos; Olivia conhece o prédio e o porteiro (P15) | APROVADO (2026-11-12) | Avaliação V3.1, C6 |
 | N14 | June Park conhece o segredo de Olivia | APROVADO (2026-11-12) | SC009 |
 | N19 | **SC001: refação da produção AUTORIZADA** pelo responsável (2026-11-12), com o método novo e as regras L1–L8. O vídeo V00 deixa de ser o final e passa a ser **referência** de bloqueio, geografia, ritmo e atuação. Falas e roteiro inalterados; as referências de voz extraídas dele continuam valendo | APROVADO (2026-11-12) | Autorização explícita |
+| N45 | **EP03: decupagem da SC002 APROVADA** (23 planos, 15 keyframes, ~55 s de planos; comédia de dupla com o "Seven years." como pausa; a mão de June espalmada na tampa como centro; o café transbordando como piada final; **sem capacete na mesa de café** (como no EP02), capacetes pousados na mesa; **açucareiro** novo; "Lisbon. Detroit. Manila." fora de quadro sobre o insert dos adesivos) | APROVADO (2026-11-23) | `05_STORYBOARDS/S01E03_SC002_decupagem_V01.md` |
 | N44 | **EP03: decupagem V02 do cold open e da SC001 APROVADA** (substitui a V01, N43): manual §14 aplicado; 11 + 34 planos, 29 keyframes; Olivia pelo batente e entre as caixas, a caixa vista de baixo da cama, contraluz da tira, close extremo dos olhos (Olivia e Claire), as mãos no cabo, o polegar, a mão de Claire no relógio, as botas de Claire na entrada, OTS de Claire para Olivia, **o geral da distância** como piada do "ten feet apart", June em primeiro plano e pela borda; **luz por personagem: Claire na janela (fria), Olivia junto a uma lâmpada de trabalho (quente)**; som escrito plano a plano | APROVADO (2026-11-23) | `05_STORYBOARDS/S01E03_CO-SC001_decupagem_V02.md` |
 | N43 | **EP03: decupagem do cold open e da SC001 APROVADA** (10 + 31 planos, 22 keyframes; a tira vista só contra a luz, sem imagem; o polegar parado de Olivia como virada; **capacetes no salão para as quatro**, pela regra de Claire; **quatro inserts de tela** em vez de seis, com o texto do roteiro; Claire de casaco na SC001; **tablet preto** como objeto novo; eixo do EP02: Claire para a direita, Olivia para a esquerda, Maya à esquerda de Claire) | APROVADO (2026-11-22) | `05_STORYBOARDS/S01E03_CO-SC001_decupagem_V01.md` |
 | N42 | **EP03 "The Things We Kept": roteiro V1 APROVADO** (cold open + 9 cenas, ~13:15 de cenas, ~14:30 com os silêncios da §13; sexta-feira). Aprovado pela responsável sem a revisão formal de 6 dimensões | APROVADO (2026-11-22) | `04_SCRIPTS/S01E03_THE-THINGS-WE-KEPT_V1.md` |
@@ -184,6 +185,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-23 | EP03: decupagem da SC002 aprovada (N45) | Showrunner GL AI |
 | 2026-11-23 | EP03: keyframes da SC001 aprovados (V85) | Showrunner GL AI |
 | 2026-11-23 | EP03: keyframes do cold open aprovados (V84) | Showrunner GL AI |
 | 2026-11-23 | EP03: decupagem V02 do cold open e da SC001 aprovada (N44) | Showrunner GL AI |
