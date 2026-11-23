@@ -1,6 +1,6 @@
 # S01E03 · COLD OPEN + SC001 — UNPACKED / THE GAP · Decupagem V02
 
-**Status:** ✅ APROVADA (2026-11-23, N44) · substitui a V01 (N43) · **Roteiro:** EP03 Screenplay V1 (APROVADO, N42)
+**Status:** ✅ APROVADA (2026-11-23, N44) · substitui a V01 (N43) · **keyframes do cold open aprovados (V84):** no CO-SH03 o UNDERBED mostra o rosto de Olivia, ajoelhada; CLOSED, OPEN e SLEEVES do ponto de vista dela · **Roteiro:** EP03 Screenplay V1 (APROVADO, N42)
 **Por que V02:** aplicar o manual §14 (V82): ritmo por tom, câmera variada, assinatura de cada personagem, som natural e fragmentos. **Falas, ações e decisões da V01 continuam iguais:**
 - os capacetes;
 - os quatro inserts de tela;
