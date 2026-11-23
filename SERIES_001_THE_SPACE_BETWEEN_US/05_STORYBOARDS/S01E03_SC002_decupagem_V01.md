@@ -43,7 +43,7 @@
 |---|---|---|---|---|---|
 | SH01 | 3 s | KF-TABLE-WS | Geral | A mesa de café ao meio-dia; Maya enche um copo na garrafa térmica; June entra pela direita com a caixa debaixo do braço | Ambiente da fábrica; **a bomba da garrafa** |
 | SH02 | 2 s | KF-INS-BOX-SET | **Insert** | A mão de June pousa a caixa de metal na mesa, ao lado do açucareiro; os adesivos para cima | **Metal no tampo** |
-| SH03 | 2 s | KF-M1 | Mais aberto | Maya, copo na mão, percebe; inclina a cabeça para ler | — |
+| SH03 | 2 s | **KF-M1-READ** | A caixa em primeiro plano | Maya, copo na mão, percebe; inclina a cabeça para ler | — |
 | SH04 | 3 s | KF-INS-STICKERS | **Ponto de vista de Maya**, inclinado | A tampa com os adesivos | MAYA (O.S.): "Lisbon. Detroit. Manila." |
 | SH05 | 3 s | KF-M1 | | Seca, sem sorrir | MAYA: "This box has more airport stickers than I do." |
 | SH06 | 2 s | KF-J1 | **Pela borda** | June, quase imóvel | JUNE: "It's been busy." |
@@ -72,6 +72,7 @@
 |---|---|
 | KF-TABLE-WS | Geral da mesa de café do EP02 (mesma mesa, garrafas, flores, fruteira, caixa de doces + **açucareiro**), meio-dia; **Maya** (tweed, sem capacete) enchendo um copo; **June** entrando pela direita com a caixa debaixo do braço; dois capacetes brancos pousados na ponta da mesa |
 | KF-INS-BOX-SET | A mão de June pousando a caixa de metal (adesivos para cima) ao lado do açucareiro; manga bordô |
+| **KF-M1-READ** | Maya olhando para baixo, lendo a caixa (a tampa desfocada em primeiro plano); novo, aprovado na geração (2026-11-23) |
 | KF-M1 | Maya, cintura para cima, copo na mão, olhar para a **direita**, cara séria e atenta |
 | KF-INS-STICKERS | A tampa da caixa na mesa, vista **de cima e inclinada** (o olhar de Maya), só "LISBON", "DETROIT" e "MANILA" legíveis |
 | KF-J1 | June **na borda direita do quadro**, três quartos, olhar para a **esquerda**, rosto quase imóvel |
