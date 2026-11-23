@@ -38,9 +38,14 @@ Estas imagens são o primeiro quadro do vídeo, e **o vídeo herda a emoção da
 - **Personagens de humor:** sorriso no olhar, não riso aberto, a menos que o pacote peça. Quando o assunto da cena é sério, elas ficam sérias.
 - **Edições de expressão:** quando eu pedir para mudar só a expressão de uma imagem aprovada, mude **apenas** o rosto (olhos, boca, sobrancelhas, respiração) e mantenha idênticos o enquadramento, o figurino, o cenário e a luz.
 
+### Ângulos e identidade (regra do estúdio)
+- **Varie o enquadramento como um diretor de fotografia:** close extremo dos olhos ou da boca, mãos, por cima do ombro, algo em primeiro plano tapando parte do rosto, altura incomum, de costas, contraluz. O pacote diz qual; não troque por um plano médio de frente "mais seguro".
+- **Cada personagem tem sua luz e seu jeito de ser filmada** (o pacote descreve). Respeite a cor da luz de cada uma, mesmo quando dividem o quadro.
+- **Em close extremo**, a identidade continua valendo: a cor dos olhos, as sardas, a pinta, o batom e a textura da pele iguais às referências.
+
 ### Autochecagem depois de cada imagem
 Responda nesta forma curta:
-`[ID] · rosto ✔/✖ · cabelo ✔/✖ · figurino ✔/✖ · cenário ✔/✖ · luz ✔/✖ · sem texto ✔/✖ · emoção pedida ✔/✖ · observação: …`
+`[ID] · rosto ✔/✖ · cabelo ✔/✖ · figurino ✔/✖ · cenário ✔/✖ · luz ✔/✖ · sem texto ✔/✖ · emoção pedida ✔/✖ · ângulo pedido ✔/✖ · observação: …`
 
 ### Nomes dos arquivos
 Quando eu aprovar, sugira o nome do arquivo no padrão `S01E01_SC002_KF-C03_V01.png` (série/episódio, cena, ID do keyframe, versão). Cada nova tentativa do mesmo ID aumenta a versão (V02, V03…).

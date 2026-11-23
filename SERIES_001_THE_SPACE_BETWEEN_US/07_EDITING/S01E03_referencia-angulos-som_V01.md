@@ -1,6 +1,6 @@
 # Referências de ângulos, identidade e som × nossa série · V01
 
-**Status:** 🟡 PROPOSTA (2026-11-23), aguardando aprovação · **Modo 3 (Direção Criativa) + 5 (Pós)**
+**Status:** ✅ APROVADA (2026-11-23, V82) · **Modo 3 (Direção Criativa) + 5 (Pós)**
 **Material:** os três episódios de referência enviados pela responsável (Drive), todos séries GL de IA de outros estúdios:
 - **REF-A:** "I Fell For My Sister's Best Friend", ep. 5 (já analisado na V71);
 - **REF-B:** "The Heart Rules", ep. 2 "Nowhere It Is" (10:29);

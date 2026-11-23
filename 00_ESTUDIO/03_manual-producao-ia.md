@@ -163,3 +163,18 @@ Aprovadas pela responsável em 2026-11-22, a partir da análise do EP01 montado 
 | E11 | **Conferir a montagem com números.** Depois do corte, medir as pausas e as palavras por minuto das cenas emocionais (transcrição com tempo por palavra) e comparar com o alvo da E5 antes de aprovar |
 
 Na decupagem, cada cena com as protagonistas traz uma seção **"Emoção"** (o estado da relação naquela cena, o nível de choro e as pausas). No pacote de geração, o parágrafo de subtexto entra em todo plano das duas, logo antes da frase final.
+
+## 14. Linguagem de câmera, identidade das personagens e som
+
+Aprovadas pela responsável em 2026-11-23, a partir de três episódios de referência de outros estúdios (análise em `SERIES_001_THE_SPACE_BETWEEN_US/07_EDITING/S01E03_referencia-angulos-som_V01.md`): só técnica, nada copiado. Valem para **todas as séries**; na SERIES_001, decisão V82. Completam o §13.
+
+**O que as referências mostraram:** cada tom tem seu ritmo (comédia ~110 palavras/min e pausa abaixo de 1 s; amor 60–90 e pausas de 1,7–3 s); os planos duram 2–3 s em todos os tons, mas no amor a montagem vai para **fragmentos** (olhos, boca, mãos); entre as falas nunca há silêncio digital, e sim ambiente e 80–250 pequenos sons por minuto.
+
+| # | Regra |
+|---|---|
+| E12 | **Ritmo por tom.** Comédia: réplicas rápidas (~100–115 palavras/min, pausa abaixo de 1 s), piada que volta, objeto que vira piada, a reação de quem ouve. Amor: 60–90 palavras/min, pausas de 1,5–3 s. Tristeza: a mais lenta e a mais silenciosa. O humor pode entrar no amor como intimidade (a piada de quem conhece a outra de cor), nunca o contrário: quando o assunto é sério, ninguém faz graça, nem as secundárias |
+| E13 | **Câmera variada.** No máximo **metade** dos planos de uma cena em plano médio frontal. Repertório: close extremo dos olhos (descoberta) e da boca (a fala de amor, a respiração); a mão que conta a emoção; primeiro plano tapando parte do rosto; por cima do ombro (OTS) nos dois sentidos; altura incomum (do travesseiro, do chão, da mesa); de costas (recusa, segredo); contraluz (saudade, lembrança); quem espia; entrada por detalhe (pés, mãos, objeto); luz quente × fria por personagem; lágrima com sorriso. Cada recurso tem motivo dramático |
+| E14 | **Assinatura de cada personagem**, registrada na ficha: câmera (parada, na mão, através de coisas, pelas bordas), **cor da luz**, como fala no amor e na comédia, como chora, o gesto que denuncia a emoção e o som próprio. Toda decupagem e todo prompt seguem a assinatura |
+| E15 | **Som natural sempre presente.** Ambiente próprio por locação em toda cena; **todo insert tem o próprio som**; respiração, tecido e passos nas cenas íntimas. A música entra **nas pausas** dos picos de emoção, não por cima das palavras; na comédia, quase nenhuma música. Silêncio total só como escolha dramática, no máximo uma vez por episódio |
+| E16 | **Fragmentos como linguagem do amor.** Nas cenas de amor e mágoa, a decupagem prevê inserts de olhos, boca e mãos (de quem fala e de quem escuta), que a montagem usa entre as falas |
+

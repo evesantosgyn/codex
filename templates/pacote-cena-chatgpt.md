@@ -30,6 +30,10 @@ Descrição do espaço, eixos de câmera, luz e clima, e o que não pode variar 
 - O subtexto da relação central e como ele aparece no rosto (olhar que dura um segundo a mais, olhar que foge, sorriso que quebra, olhos brilhando).
 - O **nível de choro** de cada keyframe de rosto: (1) olhos brilhando, (2) uma lágrima contida, (3) choro aberto.
 
+## 4c. Ângulos e identidade (manual §14)
+- A assinatura de cada personagem presente: como é filmada (câmera), a **cor da luz** dela, o gesto que denuncia a emoção.
+- Os recursos de câmera pedidos em cada keyframe (close extremo, OTS, primeiro plano tapando, contraluz, de costas…), com o motivo dramático.
+
 ## 5. Keyframes (na ordem de geração)
 Por keyframe: ID · planos que usa · referências (R1, R2…) · prompt em inglês. Nos keyframes de rosto, o prompt descreve a **emoção** do momento (antes ou depois da fala), nunca um rosto neutro no meio de uma fala qualquer.
 Ordem: plates → inserts → personagens → junção com a próxima cena.

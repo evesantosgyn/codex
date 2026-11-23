@@ -31,3 +31,13 @@ Divertida (provocativa) · Atenta · Pensativa · Afetuosa (cúmplice) · Serena
 
 ## Cenas no piloto
 SC001 (presencial) · SC002 e SC004 (V.O., telefone) · SC006 · SC007 · SC009.
+
+## Assinatura de cena (E14, V82)
+| | |
+|---|---|
+| **Câmera** | Na mão, planos mais abertos para pegar o corpo na reação |
+| **Cor da luz** | Neutra e terrosa |
+| **Na comédia** | Rápida e cortante, **sem sorrir** (seco é na cara, E3) |
+| **Quando o assunto é sério** | Para de se mexer; a piada morre na boca; protetora de Claire |
+| **Como chora** | Só pela amiga, e não neste arco |
+| **Som próprio** | Xícaras, chaves, a caneta batendo |

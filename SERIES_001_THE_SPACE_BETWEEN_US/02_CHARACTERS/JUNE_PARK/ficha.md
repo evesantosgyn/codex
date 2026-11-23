@@ -26,3 +26,12 @@ Expressões: Observant · Witty (dryly amused) · Focused · Warm · Guarded/Tho
 
 ## Cenas no piloto
 SC005 (café, com laptop) · SC009 (pasta de registros de aquisição).
+
+## Assinatura de cena (E14, V82)
+| | |
+|---|---|
+| **Câmera** | Na mão, **pelas bordas**: atrás de vidro, de perfil, de longe (é quem observa) |
+| **Cor da luz** | Neutra |
+| **Fala** | Monossílabos secos; quando importa, uma frase só, sem olhar |
+| **Como chora** | Não chora |
+| **Som próprio** | A prancheta, o crachá |

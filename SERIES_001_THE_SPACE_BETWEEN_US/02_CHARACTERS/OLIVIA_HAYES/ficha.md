@@ -39,3 +39,14 @@ Loira, ondulada, frequentemente com coque bagunçado · olhos verde-avelã · 1,
 - Câmera ou bolsa de câmera presente nas cenas de trabalho (SC005, SC007, SC008, SC009).
 - Coque × cabelo solto: registrar por cena.
 - Casaco úmido na SC003 (P12).
+
+## Assinatura de cena (E14, V82)
+| | |
+|---|---|
+| **Câmera** | Na mão; filmada **através de coisas** (vidro, lentes, filme, batentes): ela é fotógrafa |
+| **Cor da luz** | **Quente**: âmbar e dourado (filme, fim de tarde, mesa de luz); contraluz |
+| **Quando a emoção vem** | O olhar foge para a janela; respira antes de falar; os dedos param no que estão segurando |
+| **No amor** | Devagar, quase sussurrando; diz a verdade olhando para outro lugar |
+| **Na comédia** | Ironia carinhosa; o sorriso quebra no meio |
+| **Como chora** | Os olhos enchem e ela não esconde; não deixa a lágrima cair (até a revelação) |
+| **Som próprio** | O obturador, o papel do negativo, a respiração |

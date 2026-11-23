@@ -39,3 +39,14 @@ Postura: controlada, ereta, braços cruzados quando contrariada. Contraste com O
 - **A franja é nova** (decisão P06). Hoje: longo, ondulado, com franja cortina. **Há sete anos (28 anos): longo, ondulado, sem franja.** É o que Olivia nota na SC003 ("You cut your hair"). Fotos antigas, a parede de fotos do ateliê e flashbacks mostram Claire sem franja.
 - Batom vinho constante, exceto nas cenas de casa ou de manhã (SC004: definir).
 - Os acessórios assinatura aparecem em quase todos os looks.
+
+## Assinatura de cena (E14, V82)
+| | |
+|---|---|
+| **Câmera** | Parada, simétrica; um pouco de baixo quando está no controle |
+| **Cor da luz** | **Fria**: branco e azul (telas, vidro, manhã). Quando divide o quadro com Olivia, o frio encontra o quente dela |
+| **Quando a emoção vem** | O controle racha: close extremo dos olhos; **a mão vai ao relógio** |
+| **No amor** | A voz desce e falha no nome dela; frases curtas, uma pausa antes |
+| **Na comédia** | Seca, precisa, como num contrato |
+| **Como chora** | Nunca na frente: vira o rosto, uma lágrima, enxuga rápido |
+| **Som próprio** | O tique do relógio, o vidro do tablet, passos firmes |

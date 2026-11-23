@@ -45,3 +45,11 @@ Cena: ______ · Decupagem: ______ · Data: ______
 - ☐ Planos de reação sem fala previstos para as falas-chave (E6).
 - ☐ Nível de choro marcado cena a cena (E7) e toques coerentes com o arco (E8).
 - ☐ Os keyframes das falas emocionais já carregam a emoção (E9).
+
+## 10. Câmera, identidade e som (manual §14)
+- ☐ No máximo metade dos planos da cena em plano médio frontal; cada recurso de câmera tem motivo (E13).
+- ☐ Cada personagem filmada e iluminada pela própria assinatura (câmera, cor da luz, gesto, choro) (E14).
+- ☐ O ritmo segue o tom: comédia rápida, amor devagar, tristeza mais lenta (E12).
+- ☐ Ambiente da locação descrito; todo insert com o próprio som; música só nas pausas dos picos (E15).
+- ☐ Nas cenas de amor e mágoa, inserts de olhos, boca e mãos previstos (E16).
+
