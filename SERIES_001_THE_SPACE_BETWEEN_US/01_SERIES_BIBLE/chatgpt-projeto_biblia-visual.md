@@ -36,7 +36,7 @@
 - **Sempre:**
   - argolas douradas pequenas;
   - **relógio de mostrador branco com pulseira preta no PULSO ESQUERDO**;
-  - **sem anéis** e **um pingente vermelho-escuro só** (a não ser que o pacote peça). *Pendente P19: confirmar com o estúdio.*
+  - **sem anéis** e **um pingente vermelho-escuro só** (a não ser que o pacote peça).
 - **Assinatura:**
   - **câmera parada**, simétrica, um pouco de baixo quando está no controle;
   - **luz FRIA** (branco e azul: telas, vidro, manhã);

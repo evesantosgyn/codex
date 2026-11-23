@@ -84,6 +84,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V83 | **P19 resolvida, opção (a):** do EP02 em diante, Claire **sem anéis** e com **UM pingente vermelho-escuro** (no piloto: anéis finos e colar duplo). `continuidade.yaml` atualizado; a bíblia visual do Projeto do ChatGPT segue isso | APROVADO (2026-11-23) | P19 |
 | V82 | **Ângulos, identidade e som APROVADOS** (análise de três referências: `07_EDITING/S01E03_referencia-angulos-som_V01.md`): (1) **assinatura de cena** de Claire, Olivia, Maya e June nas fichas, com a **cor da luz**: Claire fria, Olivia quente; (2) regras de som (ambiente por locação sempre presente, todo insert com som, música nas pausas dos picos, silêncio total no máximo uma vez por episódio); (3) **E12–E16 levadas ao manual do estúdio (§14)**, ao briefing do ChatGPT, ao checklist, ao template do pacote e à skill de decupagem; (4) refazer a decupagem do cold open e da SC001 do EP03 (V02) antes dos keyframes | APROVADO (2026-11-23) | Análise de referências |
 | V81 | **EP03: os dois negativos APROVADOS** (inversão digital das fotos aprovadas, base laranja de negativo colorido 120, margem de filme): `S01E03_PROP_NEGATIVO-FOTO-ANTIGA_V01.png` (da foto da parede, V55; borda de papel cortada) e `S01E03_PROP_NEGATIVO-CLAIRE-DORMINDO_V01.png` (da V80). **Desenvolvimento visual do EP03 completo** (V73–V81) | APROVADO (2026-11-22) | `06_GENERATED_ASSETS/IMAGES/` |
 | V80 | **EP03: foto de Claire dormindo APROVADA** (P5): Claire aos 28, sem franja, dormindo de lado, rosto desprotegido, lábios entreabertos, luz da manhã pela janela, ombro nu com o lençol branco, cor e grão de filme como a foto antiga (V55); formato quadrado, scan limpo sem borda (nunca foi impressa). **O batom vinho fica** (assinatura de Claire) | APROVADO (2026-11-22) | `06_GENERATED_ASSETS/IMAGES/S01E03_PROP_FOTO-CLAIRE-DORMINDO_V01.png` |
@@ -180,6 +181,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-23 | Claire sem anéis e com um pingente só, do EP02 em diante; P19 resolvida (V83) | Showrunner GL AI |
 | 2026-11-23 | Ângulos, identidade e som; E12–E16 no manual do estúdio (V82) | Showrunner GL AI |
 | 2026-11-22 | EP03: decupagem do cold open e da SC001 aprovada (N43) | Showrunner GL AI |
 | 2026-11-22 | EP03: negativos aprovados; desenvolvimento visual completo (V81) | Showrunner GL AI |

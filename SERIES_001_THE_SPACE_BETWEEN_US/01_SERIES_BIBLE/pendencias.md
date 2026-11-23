@@ -16,12 +16,15 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 - Equipe de redevelopment da SC006: 2 figurantes sem referência visual.
 - Voice Identity Packs: ferramenta definida (**áudio nativo do MiniMax H3**). ✅ Clipes de referência de **Claire** e **Maya** extraídos da SC001 (2026-11-12); ampliados na v02 (Claire 5,6 s; Maya 6,85 s). Falta definir as vozes de **Olivia** (SC003) e **June** (SC005).
 
+
+## Resolvidas
+
 ### P19 — Anéis e colar de Claire: `continuidade.yaml` × decisões do EP02/EP03
 - O `continuidade.yaml` (assinatura de Claire, versão do piloto) lista **"anéis finos dourados"** e **"colar duplo dourado (pingente escuro + pingente circular)"**.
 - As decisões do EP02 e do EP03 pedem **sem anéis** e **UM pingente vermelho-escuro**: V66 (o C11 refeito "sem anel e sem a segunda corrente") e V75 ("NO rings" nos keyframes do EP03). Os pacotes do EP02 e do EP03 já seguem isso.
 - **Decidir:** (a) do EP02 em diante Claire usa **sem anéis e um pingente só**, e o `continuidade.yaml` é atualizado; ou (b) anéis e colar duplo continuam valendo e os pacotes mudam. A bíblia visual do Projeto do ChatGPT foi escrita com (a), marcada como pendente.
+- ✅ **Resolvida (2026-11-23, V83): opção (a).** Do EP02 em diante, Claire **sem anéis** e com **um pingente vermelho-escuro só**; `continuidade.yaml` atualizado.
 
-## Resolvidas
 
 | # | Tema | Decisão | Data |
 |---|---|---|---|
