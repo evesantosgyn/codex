@@ -102,7 +102,7 @@
 | SH28 | 2 s | KF-J2 | **Pela borda**, de perfil | June, na beira do quadro, vê a amiga parada e segue sem dizer nada | Os passos dela; a prancheta |
 | SH29 | 2 s | KF-O2 | | Olivia digita e envia | Envio |
 | SH30 | 3 s | KF-INS-TAB-D | Insert | "When?" / "They're in a box. I'll bring it this afternoon." | Chegada |
-| SH31 | 3 s | KF-C1 | | Claire lê duas vezes | — |
+| SH31 | 3 s | **KF-C1-HIT** | | Claire lê duas vezes; a armadura racha | — |
 | SH32 | 1,5 s | KF-INS-C-WATCH | **Mão** | Os dedos de Claire vão ao relógio no pulso esquerdo | **O tique do relógio**, baixo |
 | SH33 | 1,5 s | KF-M1 | | | MAYA: "What kind of box?" |
 | SH34 | 3 s | KF-OTS-C | Por cima do ombro | Claire não responde; ergue os olhos para Olivia, lá longe na luz quente | → CUT TO |
@@ -129,6 +129,7 @@
 | KF-CM | Duas: Maya à esquerda, Claire à direita (tablet), diante da foto | igual |
 | KF-C1 | Claire, **um pouco de baixo**, luz fria da janela, tablet, olhar para a direita | ajustado |
 | KF-C-ECU-EYES | **Close extremo dos olhos** de Claire, imóveis | **novo** |
+| **KF-C1-HIT** | Claire em plano próximo, **atingida** (testa franzida, boca apertada), olhar para a direita; usado depois do SH10 (reação ao "seven years ago") e no SH31 | **novo (aprovado na geração, 2026-11-23)** |
 | KF-M1 | Maya, plano **um pouco mais aberto** (cintura para cima), olhar para a direita | ajustado |
 | KF-CM-J | O quadro do CM com **June passando em primeiro plano, desfocada**, os dois cafés | refeito |
 | KF-INS-O-CABLE | As mãos de Olivia paradas no cabo enrolado | **novo** |
