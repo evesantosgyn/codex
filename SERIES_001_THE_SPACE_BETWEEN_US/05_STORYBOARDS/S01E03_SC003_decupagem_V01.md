@@ -81,7 +81,7 @@
 | KF-INS-LOUPE-MOVE | A mão de Claire deslizando a lupa ao longo de uma tira sobre a mesa de luz | ChatGPT |
 | KF-C-ECU-STOP | Close extremo dos olhos de Claire (castanhos), iluminados de baixo, parados | ChatGPT |
 | KF-INS-SCANNER | As mãos de Olivia passando uma tira no scanner pequeno ligado ao laptop | ChatGPT |
-| KF-INS-LAPTOP | O laptop na mesa, a tela acesa **vazia** (a foto V55 entra na edição) | ChatGPT |
+| KF-INS-LAPTOP | O laptop na mesa, **a foto V55 na tela** (gerada no ChatGPT, V87) | ChatGPT |
 | KF-2S-LIGHT | As duas de perfil sobre a mesa de luz, na altura da mesa, rostos iluminados de baixo; o laptop aceso entre elas | ChatGPT |
 | KF-C2 | Claire em close, luz fria, olhos brilhando, a boca quase abrindo | ChatGPT |
 | KF-O2 | Olivia em close, luz quente, olhos baixos para a tela, brilhando | ChatGPT |
