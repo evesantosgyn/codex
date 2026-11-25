@@ -1,7 +1,7 @@
 # S01E03 · SC003 — LIGHT TABLE · Decupagem V01
 
 **Status:** ✅ APROVADA (2026-11-24, N46) · **Roteiro:** EP03 Screenplay V1 (APROVADO, N42) · **Data:** 2026-11-24
-**Duração:** 2:30 no roteiro → **~1:52** de planos, ~2:20–2:30 com os silêncios · **30 planos** · **21 keyframes** (16 no ChatGPT + 2 fotos-base + 3 vistas da lupa feitas aqui) · buzzy.now / MiniMax-H3
+**Duração:** 2:30 no roteiro → **~1:24** de planos (animatic), ~2:00–2:20 com os silêncios · **30 planos** · **21 keyframes** (16 no ChatGPT + 2 fotos-base + 3 vistas da lupa feitas aqui) · buzzy.now / MiniMax-H3
 **Regras aplicadas:** §13 (emoção) e §14 (ritmo por tom, câmera variada, assinaturas, som, fragmentos).
 **Pendências:** P11 e P12 não bloqueiam nenhum plano.
 
@@ -65,7 +65,7 @@
 | SH29 | 2 s | KF-O2 | | Olivia não oferece; desvia para a mesa | — |
 | SH30 | 4 s | KF-INS-HAND | **Mão** | A mão de Claire põe a lupa no envelope seguinte, as janelas de novo; **a mão não está firme** | A lupa no vidro, um toque fora do ritmo · → CUT TO |
 
-**Total ≈ 1:52**; ~2:20–2:30 com os silêncios. Planos médios de frente: **4 de 30** (13%).
+**Total ≈ 1:24** (soma corrigida no animatic); ~2:00–2:20 com os silêncios. Planos médios de frente: **4 de 30** (13%).
 
 ## Keyframes (21)
 | ID | O quê | Quem faz |
