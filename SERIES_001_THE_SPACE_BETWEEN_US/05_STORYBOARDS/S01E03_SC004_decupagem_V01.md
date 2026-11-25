@@ -1,6 +1,6 @@
 # S01E03 · SC004 — THREE FRAMES · Decupagem V01
 
-**Status:** 🟡 PROPOSTA (2026-11-25) · **Roteiro:** EP03 Screenplay V1 (APROVADO, N42) · **Data:** 2026-11-25
+**Status:** ✅ APROVADA (2026-11-25, N47) · **Roteiro:** EP03 Screenplay V1 (APROVADO, N42) · **Data:** 2026-11-25
 **Duração:** 1:15 no roteiro → **~46 s** de planos, ~1:05–1:15 com os silêncios · **17 planos** · **9 keyframes**: 6 novos + 3 reaproveitados da SC003 · buzzy.now / MiniMax-H3
 **Regras aplicadas:** §13 (emoção) e §14 (ritmo por tom, câmera variada, assinaturas, som, fragmentos).
 **Pendências:** P11 e P12 não bloqueiam nenhum plano.
