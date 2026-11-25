@@ -1,6 +1,6 @@
 # EP02 montado — análise de emoção (Olivia) · V01
 
-**Status:** 🟡 PROPOSTA (2026-11-25), aguardando decisão · **Material:** corte do EP02 enviado pela responsável (Drive, 8:22, 3840×2160)
+**Status:** ✅ APROVADA (2026-11-25, V90): caminho **A + B**, `@VOZ_OLIVIA` a criar, checagem medida obrigatória · **Material:** corte do EP02 enviado pela responsável (Drive, 8:22, 3840×2160)
 **Método:** o mesmo do EP01 e das referências:
 - transcrição com tempo por palavra;
 - falas alinhadas ao roteiro V1.2;

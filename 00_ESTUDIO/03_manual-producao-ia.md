@@ -160,7 +160,7 @@ Aprovadas pela responsável em 2026-11-22, a partir da análise do EP01 montado 
 | E8 | **O toque segue o arco.** Planejar os toques na temporada: pequenos e acidentais enquanto a relação está ferida (dedos que se tocam, um roçar, uma mão que se move e para); o primeiro toque de verdade (abraço, mão no rosto) é um pico, planejado como tal |
 | E9 | **Keyframe neutro gera vídeo neutro.** Nas falas emocionais, a imagem inicial já precisa carregar a emoção. Quando o keyframe aprovado for neutro, fazer uma edição dele (só a expressão muda) em vez de esperar que o prompt resolva |
 | E10 | **No roteiro, um momento por episódio em que o subtexto quebra:** alguém diz em voz alta o que sente. É o pico que o espectador leva para o próximo episódio |
-| E11 | **Conferir a montagem com números.** Depois do corte, medir as pausas e as palavras por minuto das cenas emocionais (transcrição com tempo por palavra) e comparar com o alvo da E5 antes de aprovar |
+| E11 | **Conferir a montagem com números — etapa OBRIGATÓRIA antes da entrega** (aprovado em 2026-11-25). O videomaker entrega **cada cena montada** para checagem; o showrunner mede palavras por segundo, pausa antes de cada fala e variação de tom por personagem (transcrição com tempo por palavra) e compara com o alvo da E5 e do E12. **Nenhuma cena é dada como final sem essa medição.** Toda personagem com falas emocionais precisa de **referência de voz** própria (`@VOZ_`); voz sem referência convertida na edição mantém a entonação chapada da origem |
 
 Na decupagem, cada cena com as protagonistas traz uma seção **"Emoção"** (o estado da relação naquela cena, o nível de choro e as pausas). No pacote de geração, o parágrafo de subtexto entra em todo plano das duas, logo antes da frase final.
 
