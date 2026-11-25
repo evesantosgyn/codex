@@ -2,16 +2,16 @@
   "shot_id": "S01E03_SC005_SH04",
   "scene_id": "S01E03_SC005",
   "revision": "V01",
-  "status": "proposed",
+  "status": "approved",
   "owner": {
     "creative": "Evelin",
     "technical": "Pedro"
   },
   "approval": {
     "creative": {
-      "by": null,
-      "date": null,
-      "decision": null
+      "by": "Evelin",
+      "date": "2026-11-25",
+      "decision": "N48"
     },
     "technical": {
       "by": null,

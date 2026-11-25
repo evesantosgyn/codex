@@ -7,7 +7,7 @@
 | Campo | Valor |
 |---|---|
 | Série / episódio / cena | TSBU · S01E03 "The Things We Kept" · SC005 "Whose Story" |
-| Versão / status | V01 · 🟡 **PROPOSTO** (2026-11-25) |
+| Versão / status | V01 · ✅ **APROVADO** (2026-11-25, N48) |
 | Roteiro de origem | `04_SCRIPTS/S01E03_THE-THINGS-WE-KEPT_V1.md`, Scene 005 (APROVADO, N42) |
 | Duração-alvo | **~37 s** de planos · **~55 s–1:00** com as pausas (roteiro: 1:00) |
 | Planos / keyframes | **15 planos** · **9 keyframes novos** |
@@ -140,7 +140,7 @@
 
 | Gate (HPS) | O quê | Responsável | Status |
 |---|---|---|---|
-| **G1** | Pacote (intenção e decupagem), keyframes e animatic | Evelin | 🟡 pacote aguardando aprovação |
+| **G1** | Pacote (intenção e decupagem), keyframes e animatic | Evelin | ✅ pacote aprovado (N48); keyframes e animatic a seguir |
 | **G2** | Identidade, atuação, movimento, diálogo e continuidade dos takes (adaptador e execução: Pedro) | Evelin + Pedro | — |
 | **G3** | Edição, restauração, cor e som da cena | Evelin + Pedro | — |
 | **G4** | Licenças, master e publicação (no episódio) | Conjunta | — |

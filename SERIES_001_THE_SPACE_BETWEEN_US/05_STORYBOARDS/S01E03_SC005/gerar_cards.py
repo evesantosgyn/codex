@@ -26,9 +26,9 @@ def card(n,dur,kf,framing,camera,lens,action,emotion,gaze,intent,prompt,dialogue
     if 'G' in chars: refs+=CO; c.append(CONT_G)
     if cont: c+=cont
     return {
-     'shot_id':f'S01E03_SC005_SH{n:02d}','scene_id':'S01E03_SC005','revision':'V01','status':'proposed',
+     'shot_id':f'S01E03_SC005_SH{n:02d}','scene_id':'S01E03_SC005','revision':'V01','status':'approved',
      'owner':{'creative':'Evelin','technical':'Pedro'},
-     'approval':{'creative':{'by':None,'date':None,'decision':None},'technical':{'by':None,'date':None}},
+     'approval':{'creative':{'by':'Evelin','date':'2026-11-25','decision':'N48'},'technical':{'by':None,'date':None}},
      'direction':{'intent':intent,'action':action,'dialogue':dialogue or [],'emotion':emotion,'tears_level':tears,'gaze':gaze,
        'camera':camera,'framing':framing,'lens_reference':lens,'duration_s':dur,'reaction_of':reaction,'continuity':c,
        'sound':{'dialogue':'; '.join(f"{d['character']}: {d['line']}" for d in (dialogue or [])) or 'none','ambience':SND_AMB,'sfx':sfx,'music':'none'},
