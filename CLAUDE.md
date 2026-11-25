@@ -71,6 +71,15 @@ Identifique o modo pelo pedido; se ambíguo, diga qual modo está usando.
 
 **Não avance automaticamente entre etapas que exigem aprovação criativa.** Termine cada entrega com o que precisa ser aprovado.
 
+## HPS 1.0 — padrão de produção oficial (P-16, P-17, P-18)
+
+A partir da SC005 do EP03 vale o **HERFRAME Production Standard 1.0** (`00_ESTUDIO/05_HPS-1.0_padrao-producao.md`), aprovado pelos sócios. Onde houver conflito com este arquivo ou com os manuais, o HPS prevalece.
+
+- **Papéis:** Evelin (com o Showrunner) cuida de história, personagens, emoção, decupagem, direção criativa, keyframes e storyboards. **Pedro** cuida dos adaptadores técnicos dos prompts, da escolha dos motores, dos workflows, da produção de vídeo, do lip sync, da restauração, de SFX, cor e master.
+- **O documento criativo é a fonte oficial da intenção cinematográfica e não depende de modelo.** Nada de "pacote H3": o pacote de cena (`templates/scene-production-package.md`) traz a direção neutra, e o **Shot Production Card** em JSON por plano (`templates/shot-card.schema.json`) leva a direção aprovada. Os adaptadores por motor são do Pedro e substituíveis.
+- **H3 suspenso** até a licença ser esclarecida; **LTX não aprovado** até o fim dos benchmarks. Os pacotes H3 do CO à SC004 do EP03 ficam preservados e são convertidos aos poucos, quando cada cena entrar em produção. A correção B do EP02 espera o motor.
+- **Uma mudança de tecnologia não obriga a reescrever a história, recriar keyframes ou refazer a pré-produção.** P-15, V70, V71 e todas as decisões criativas continuam valendo.
+
 ## Pipeline de produção (7 fases)
 
 `01 SCRIPT LOCK → 02 VISUAL DEVELOPMENT → 03 SHOT DESIGN → 04 AI GENERATION → 05 AUDIO & EDITING → 06 QUALITY CONTROL → 07 MASTER & DELIVERY`
@@ -146,6 +155,8 @@ TARGET GENERATION TOOL:
 `S{temporada}E{episódio}_SC{cena}_SH{plano}_V{versão}`, por exemplo `S01E02_SC014_SH03_V02`.
 Arquivos gerados vão para `06_GENERATED_ASSETS/{IMAGES|VIDEO|VOICES|MUSIC}/` com esse identificador no nome.
 
+**Arquivos novos, a partir da SC005 do EP03 (P-18, HPS):** `TSBU_S01E03_SC005_SH02_KF_V01.png` (e `_RAW_`, `_RST_`, `_VOX_`, `_WF_`; `TSBU_S01E03_MASTER_V01.mov`). O keyframe leva o número do **primeiro plano em que aparece**; o card JSON de cada plano aponta para ele. Arquivos antigos não se movem.
+
 ## Pacote de entrega de um episódio
 
 1. Roteiro cinematográfico aprovado, em inglês.
@@ -197,4 +208,4 @@ Não salve trabalho que ainda está só **proposto** como se fosse decisão. Ras
 
 | Código | Título | Status | Pasta |
 |---|---|---|---|
-| SERIES_001 | The Space Between Us | **Piloto (EP01):** gerado e montado (11:27); análise de emoção feita; **não será refeito** (V70). **EP02 "Familiar Strangers":** roteiro V1.2 aprovado; pré-produção completa (cold open + SC001–SC009 com decupagem, keyframes, pacote do H3, animatic e documento do videomaker); regras de emoção V70–V71 aplicadas; animatic do episódio 10:43; próxima: geração no H3 e montagem. **EP03 "The Things We Kept":** conceito B "Contact Sheet" (N40), escaleta (N41) e roteiro V1 aprovados (N42); desenvolvimento visual completo (V73–V81); regras de câmera, identidade e som (§14, V82); cold open e SC001–SC003 com pré-produção completa (decupagem, keyframes, animatic, storyboard, pacote do H3 e documento do videomaker; V84–V88); SC004 também completa (V89); telas geradas no ChatGPT (V87); próxima: SC005 | `SERIES_001_THE_SPACE_BETWEEN_US/` |
+| SERIES_001 | The Space Between Us | **Piloto (EP01):** gerado e montado (11:27); análise de emoção feita; **não será refeito** (V70). **EP02 "Familiar Strangers":** roteiro V1.2 aprovado; pré-produção completa (cold open + SC001–SC009 com decupagem, keyframes, pacote do H3, animatic e documento do videomaker); regras de emoção V70–V71 aplicadas; animatic do episódio 10:43; próxima: geração no H3 e montagem. **EP03 "The Things We Kept":** conceito B "Contact Sheet" (N40), escaleta (N41) e roteiro V1 aprovados (N42); desenvolvimento visual completo (V73–V81); regras de câmera, identidade e som (§14, V82); cold open e SC001–SC003 com pré-produção completa (decupagem, keyframes, animatic, storyboard, pacote do H3 e documento do videomaker; V84–V88); SC004 também completa (V89); telas geradas no ChatGPT (V87); **HPS 1.0 adotado a partir da SC005** (P-16–P-18); próxima: SC005 no formato do HPS | `SERIES_001_THE_SPACE_BETWEEN_US/` |

@@ -16,22 +16,25 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 - Equipe de redevelopment da SC006: 2 figurantes sem referência visual.
 - Voice Identity Packs: ferramenta definida (**áudio nativo do MiniMax H3**). ✅ Clipes de referência de **Claire** e **Maya** extraídos da SC001 (2026-11-12); ampliados na v02 (Claire 5,6 s; Maya 6,85 s). Falta definir as vozes de **Olivia** (SC003) e **June** (SC005).
 
+
+## Resolvidas
+
 ### P20 — HPS 1.0: H3 suspenso × pipeline aprovado no H3 (2026-11-25)
 - O **HPS 1.0** (`00_ESTUDIO/05_HPS-1.0_padrao-producao.md`) diz: **"H3 suspenso até esclarecimento de licença"**; LTX em validação; o pacote de cena **nunca depende de um só modelo** (prompt neutro + adaptador por motor).
 - Decisões aprovadas que dependem do H3: **P-06** (vídeo no H3), **P-07** e **P-13** (vozes nativas do H3 com `@VOZ_`), os pacotes "pacote-H3" do EP03 (CO–SC004, V84–V89) e a **correção B do EP02** (V90: regerar 10 falas de Olivia com `@VOZ_OLIVIA` no H3).
 - **Decidir:** o HPS substitui essas decisões? Os pacotes do EP03 já entregues viram "adaptador H3" (válido só se a licença for liberada)? E a correção B do EP02 espera o motor definitivo?
+- ✅ **Resolvida (2026-11-25, P-17):** documento criativo neutro + adaptadores do Pedro por motor; pacotes H3 do CO–SC004 preservados e convertidos quando entrarem em produção; H3 suspenso; LTX não aprovado até os benchmarks; correção B do EP02 espera o motor
 
 ### P21 — HPS 1.0: convenção de nomes de arquivo (2026-11-25)
 - HPS: `TSBU_S01E03_SC001_SH01_KF_V01.png` (prefixo da série, keyframe **por plano**, e também RAW, RST, VOX, WF, MASTER).
 - Hoje: `S01E03_SC004_KF-C-GAP_V01.png` (keyframe **por ID**, reaproveitado em vários planos), conforme o `CLAUDE.md`.
 - O HPS manda **não mover arquivos antigos sem autorização**. **Decidir:** adotar o padrão do HPS só para arquivos novos (a partir da SC005) e como o keyframe reaproveitado é nomeado (por plano de origem ou por ID).
+- ✅ **Resolvida (2026-11-25, P-18):** padrão do HPS para arquivos novos; o keyframe leva o número do primeiro plano em que aparece
 
 ### P22 — HPS 1.0: status do documento (2026-11-25)
 - O documento é a **"Versão 1.0 para aprovação dos sócios"**, com as assinaturas de Evelin e Pedro em branco. A responsável o enviou como **indispensável** para os próximos passos.
 - **Decidir:** o HPS está aprovado pelos dois sócios (entra no registro como decisão) ou é aplicado como proposta até a assinatura?
-
-
-## Resolvidas
+- ✅ **Resolvida (2026-11-25, P-16):** aprovado pelos dois sócios; adotado oficialmente a partir da SC005 do EP03
 
 ### P19 — Anéis e colar de Claire: `continuidade.yaml` × decisões do EP02/EP03
 - O `continuidade.yaml` (assinatura de Claire, versão do piloto) lista **"anéis finos dourados"** e **"colar duplo dourado (pingente escuro + pingente circular)"**.

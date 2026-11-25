@@ -168,19 +168,22 @@ Legenda de status:
 |---|---|---|
 | P-01 | Estratégia image-to-video com referências controladas | APROVADO (manual 02) |
 | P-02 | ComfyUI como ferramenta de produção | APROVADO; workflows e modelos **PENDENTES** (P11) |
-| P-06 | **Vídeo: MiniMax H3 (Hailuo 3)** · **consistência de personagem: LoRA** por personagem | APROVADO (2026-11-12) |
+| P-06 | **Vídeo: MiniMax H3 (Hailuo 3)** · **consistência de personagem: LoRA** por personagem | APROVADO (2026-11-12) · **SUSPENSO (2026-11-25, P-17):** H3 suspenso até esclarecimento de licença (HPS 1.0) |
 | P-09 | Referências de voz v01: Claire = SC001 5,0–6,4 s ("I'm aware."); Maya = SC001 2,0–4,0 s ("You know that's a tree, right?"). Em `06_GENERATED_ASSETS/VOICES/` | APROVADO (2026-11-12) |
-| P-13 | **Método de fala (resultado A):** no buzzy.now (MiniMax-H3), cada plano com fala leva a imagem de identidade + a referência de voz da personagem; o H3 gera a fala nova do prompt na voz da referência. Sempre conferir **16:9** (o teste saiu em 21:9) | APROVADO (2026-11-12) |
+| P-13 | **Método de fala (resultado A):** no buzzy.now (MiniMax-H3), cada plano com fala leva a imagem de identidade + a referência de voz da personagem; o H3 gera a fala nova do prompt na voz da referência. Sempre conferir **16:9** (o teste saiu em 21:9) | APROVADO (2026-11-12) · **SUSPENSO (2026-11-25, P-17):** H3 suspenso até esclarecimento de licença (HPS 1.0) |
 | P-12 | **Keyframes no ChatGPT**, um chat novo por cena, com o briefing fixo do estúdio + o pacote da cena e as imagens de referência anexadas. Os plates gerados no Canva ficam descartados | APROVADO (2026-11-12) |
-| P-11 | **Falas fora de quadro (V.O.)**: gerar no H3 planos-fonte da personagem falando, com a referência de voz, e usar só o áudio, com EQ de celular (P16) | APROVADO (2026-11-12) |
+| P-11 | **Falas fora de quadro (V.O.)**: gerar no H3 planos-fonte da personagem falando, com a referência de voz, e usar só o áudio, com EQ de celular (P16) | APROVADO (2026-11-12) · **SUSPENSO (2026-11-25, P-17):** H3 suspenso até esclarecimento de licença (HPS 1.0) |
 | P-10 | Referências de voz **v02** (substituem a v01): Claire 5,6 s = SC001 5,0–6,4 + 9,55–11,15 + 13,0–15,0 s; Maya 6,85 s = SC001 2,0–4,0 + 7,0–9,5 + 11,2–12,95 s. Trechos indicados pelo responsável, ajustados aos cortes de plano | APROVADO (2026-11-12) |
 | P-15 | **Duas linguagens de câmera na série:** Claire filmada com câmera parada e controlada; Olivia, June e Maya com leve respiração de câmera na mão | APROVADO (2026-11-16) |
 | P-14 | **Regra L9** aprovada: no Start & end frame, início e fim precisam ser compatíveis (mesmo lado e eixo); senão, dividir com corte. SC001 SH01 dividida em SH01A + SH01B; o teste V01 pode ser aproveitado em dois trechos (0,0–1,9 s e 3,6–5,9 s) | APROVADO (2026-11-13) |
 | P-08 | **Lições L1–L8** do teste da SC001 viram regras de produção do estúdio (`00_ESTUDIO/03_manual-producao-ia.md` §12 e `templates/checklist-pre-geracao.md`) | APROVADO (2026-11-12) |
-| P-07 | **Vozes: áudio nativo do MiniMax H3**; identidade vocal por clipes de referência (Voice Identity Pack, ver manual de ferramentas) | APROVADO (2026-11-12) |
+| P-07 | **Vozes: áudio nativo do MiniMax H3**; identidade vocal por clipes de referência (Voice Identity Pack, ver manual de ferramentas) | APROVADO (2026-11-12) · **SUSPENSO (2026-11-25, P-17):** H3 suspenso até esclarecimento de licença (HPS 1.0) |
 | P-03 | Prioridade: Location Identity Pack do escritório de Claire | RECOMENDADO |
 | P-04 | Começar por prova de conceito → piloto → temporada | RECOMENDADO (manual 03) |
 | P-05 | Numeração de planos **recomeça em cada cena** (SH01, SH02…). Os SH29–SH34 das pranchas da SC001 serão renumerados na decupagem completa | APROVADO (2026-11-12) |
+| P-16 | **HPS 1.0 (HERFRAME Production Standard) APROVADO pelos dois sócios** (Evelin e Pedro), conforme a responsável. Vale para esta e para as futuras séries e prevalece sobre os manuais onde houver conflito. Papéis: **Evelin** lidera história, personagens, emoção, decupagem e keyframes; **Pedro** lidera geração de vídeo, seleção técnica, edição, SFX, cor e master. Aprovação conjunta: roteiro fechado, mudanças narrativas na montagem e liberação do master. Handoff obrigatório Evelin → Pedro (roteiro, decupagem com IDs, duração e fala literal; keyframes PNG; storyboard/animatic; manifesto de arquivos com o que está aprovado). Pacote de cena no template do HPS; **Shot Production Card em JSON** por plano; padrão técnico 16:9, 24 fps, 1080p mín., áudio 48 kHz/24 bits, −14 LUFS, −1 dBTP, SRT | APROVADO (2026-11-25) · `00_ESTUDIO/05_HPS-1.0_padrao-producao.md` (P22) |
+| P-17 | **Metodologia HPS a partir da SC005 do EP03** (diretrizes da responsável, 2026-11-25). (1) **O documento criativo é a fonte oficial da intenção cinematográfica** e é **independente dos modelos de IA**; os adaptadores são ferramentas técnicas substituíveis. (2) **Pedro** produz os adaptadores técnicos conforme o motor escolhido para cada plano, e cuida de workflows, vídeo, lip sync, restauração, SFX, cor e master. **Evelin** (com o Showrunner) cuida de história, personagens, emoção, decupagem, direção criativa, keyframes e storyboards. (3) Os pacotes H3 do **Cold Open à SC004 ficam preservados integralmente** e são convertidos para o formato neutro **aos poucos, quando cada cena entrar em produção**; o desenvolvimento do EP03 não para para refazer documentação aprovada. (4) **H3 suspenso** enquanto a licença não for esclarecida (P-06, P-07, P-11 e P-13 suspensos). (5) **LTX não está aprovado** até o fim dos benchmarks. (6) A **correção B do EP02** (V90) espera o motor definitivo; a correção A segue. (7) **P-15, V70, V71 e todas as decisões criativas aprovadas continuam valendo.** Uma mudança de tecnologia não obriga a reescrever a história, recriar keyframes ou refazer a pré-produção | APROVADO (2026-11-25) (P20) |
+| P-18 | **Nomes de arquivo do HPS para arquivos novos** (a partir da SC005 do EP03): `TSBU_S01E03_SC005_SH02_KF_V01.png`, `…_RAW_`, `…_RST_`, `…_VOX_`, `…_WF_` (.json), `TSBU_S01E03_MASTER_V01.mov`. O keyframe leva o número do **primeiro plano em que aparece**; o card JSON de cada plano aponta para ele. **Arquivos antigos não se movem** | APROVADO (2026-11-25) (P21) |
 
 ## Distribuição
 
@@ -192,6 +195,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-25 | HPS 1.0 aprovado pelos sócios (P-16); pacote neutro + adaptadores, H3 suspenso (P-17); nomes de arquivo do HPS (P-18) | Showrunner GL AI |
 | 2026-11-25 | EP02: correção A + B; @VOZ_OLIVIA a criar; checagem medida obrigatória (V90) | Showrunner GL AI |
 | 2026-11-25 | EP03: keyframes da SC004 aprovados (V89) | Showrunner GL AI |
 | 2026-11-25 | EP03: decupagem da SC004 aprovada (N47) | Showrunner GL AI |
