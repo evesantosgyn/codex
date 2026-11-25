@@ -1,0 +1,102 @@
+{
+  "shot_id": "S01E03_SC005_SH15",
+  "scene_id": "S01E03_SC005",
+  "revision": "V01",
+  "status": "proposed",
+  "owner": {
+    "creative": "Evelin",
+    "technical": "Pedro"
+  },
+  "approval": {
+    "creative": {
+      "by": null,
+      "date": null,
+      "decision": null
+    },
+    "technical": {
+      "by": null,
+      "date": null
+    }
+  },
+  "direction": {
+    "intent": "Bridge to SC006: the hour is coming",
+    "action": "Inside, Claire glances at the watch on her LEFT wrist; Olivia, bent over the light table, doesn't notice",
+    "dialogue": [],
+    "emotion": "Time is running out",
+    "tears_level": 0,
+    "gaze": "Claire: down at her watch",
+    "camera": "static",
+    "framing": "Through the glass, closer",
+    "lens_reference": "35mm",
+    "duration_s": 3,
+    "reaction_of": null,
+    "continuity": [
+      "Axis: Maya LEFT, June RIGHT; between them Maya looks right, June looks left; the glass is in front of both",
+      "Through the glass: Claire (dark-brown hair with curtain bangs, dark-red silk blouse, ONE dark-red pendant, watch LEFT wrist, NO rings) and Olivia (messy dark-blond bun, olive shirt, no watch), no hard hats, bent over the white light table"
+    ],
+    "sound": {
+      "dialogue": "none",
+      "ambience": "Empty factory hall: big echo, pigeons in the rafters, a distant hammer",
+      "sfx": "The hall; the light-table hum muffled",
+      "music": "none"
+    },
+    "neutral_prompt": "Static, from the hall through the black-framed glass, closer: inside, Claire glances at the watch on her LEFT wrist. Beside her, Olivia stays bent over the light table and does not notice. Then cut. Late afternoon in the main hall of the old brick factory: low golden sun through high windows, long dusty beams; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
+    "forbidden": [
+      "Claire or Olivia talking",
+      "Olivia looking up",
+      "any text on hard hats",
+      "music"
+    ]
+  },
+  "assets": {
+    "first_frame": "06_GENERATED_ASSETS/IMAGES/TSBU_S01E03_SC005_SH15_KF_V01.png",
+    "last_frame": null,
+    "character_refs": [
+      "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_CLAIRE_V01.png",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_OLIVIA_V01.png"
+    ],
+    "voice_refs": [],
+    "location_refs": [
+      "03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_ref-salao.png",
+      "03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_ref-escritorio-capataz.png",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_SC001_KF-HALL-WS_V01.png",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_SC003_KF-OFFICE-WS_V02.png"
+    ],
+    "asset_hashes": {
+      "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_CLAIRE_V01.png": "4738fee5774068764292ad9ae256c09424335a9251fd93821642c303306efe9f",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_OLIVIA_V01.png": "06afe521de855196e5afdb92352c1b5ffb4f6ef2bc4d479061eb90ca1564d63b",
+      "03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_ref-salao.png": "c35592467c7c132c59a05c4d9632e5f6c2700ff8125a86ce3b681761cd99a3b8",
+      "03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_ref-escritorio-capataz.png": "6e5f500d8dcee1659634325502a9c4a9f9af9af72b14f520b566a239cf00f4a1",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_SC001_KF-HALL-WS_V01.png": "0efa8a1d0281383b29db5050c5bd42744081d49afa37d4f7ed30785b212643ed",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_SC003_KF-OFFICE-WS_V02.png": "5d4c6f68055aa8a246186dbd492cce76a118d98a37288f247b5aa8a81f86a32e"
+    }
+  },
+  "execution": {
+    "engine": null,
+    "checkpoint": null,
+    "precision": null,
+    "workflow_id": null,
+    "prompt": null,
+    "seed": null,
+    "fps": null,
+    "resolution": null,
+    "duration": null,
+    "take_id": null
+  },
+  "post": {
+    "restoration": null,
+    "color_transform": null,
+    "audio_stems": [],
+    "edit_in": null,
+    "edit_out": null
+  },
+  "audit": {
+    "license_id": null,
+    "gpu": null,
+    "runtime": null,
+    "cost": null,
+    "output_hash": null,
+    "qc_status": null,
+    "approval_date": null
+  }
+}

@@ -73,7 +73,7 @@ Identifique o modo pelo pedido; se ambíguo, diga qual modo está usando.
 
 ## HPS 1.0 — padrão de produção oficial (P-16, P-17, P-18)
 
-A partir da SC005 do EP03 vale o **HERFRAME Production Standard 1.0** (`00_ESTUDIO/05_HPS-1.0_padrao-producao.md`), aprovado pelos sócios. Onde houver conflito com este arquivo ou com os manuais, o HPS prevalece.
+A partir da SC005 do EP03 vale o **HERFRAME Production Standard 1.0** (`00_ESTUDIO/05_HPS-1.0_padrao-producao.md`), aprovado pelos sócios. Onde houver conflito com este arquivo ou com os manuais, o HPS prevalece. As **15 bíblias oficiais** do HPS (`00_ESTUDIO/06_HPS-1.0_biblias-oficiais.md`, P-19) correspondem aos arquivos atuais conforme `00_ESTUDIO/07_mapa-biblias-HPS.md`; o cânone existente prevalece até revisão formal. Gates: **G1** (criação) → **G2** (takes) → **G3** (pós) → **G4** (master e publicação, conjunta).
 
 - **Papéis:** Evelin (com o Showrunner) cuida de história, personagens, emoção, decupagem, direção criativa, keyframes e storyboards. **Pedro** cuida dos adaptadores técnicos dos prompts, da escolha dos motores, dos workflows, da produção de vídeo, do lip sync, da restauração, de SFX, cor e master.
 - **O documento criativo é a fonte oficial da intenção cinematográfica e não depende de modelo.** Nada de "pacote H3": o pacote de cena (`templates/scene-production-package.md`) traz a direção neutra, e o **Shot Production Card** em JSON por plano (`templates/shot-card.schema.json`) leva a direção aprovada. Os adaptadores por motor são do Pedro e substituíveis.

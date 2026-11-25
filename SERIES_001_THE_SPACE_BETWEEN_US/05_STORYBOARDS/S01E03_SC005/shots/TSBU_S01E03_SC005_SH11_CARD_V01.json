@@ -1,0 +1,101 @@
+{
+  "shot_id": "S01E03_SC005_SH11",
+  "scene_id": "S01E03_SC005",
+  "revision": "V01",
+  "status": "proposed",
+  "owner": {
+    "creative": "Evelin",
+    "technical": "Pedro"
+  },
+  "approval": {
+    "creative": {
+      "by": null,
+      "date": null,
+      "decision": null
+    },
+    "technical": {
+      "by": null,
+      "date": null
+    }
+  },
+  "direction": {
+    "intent": "June's answer is a gesture",
+    "action": "Her hands stop coiling",
+    "dialogue": [],
+    "emotion": "The answer is the stop",
+    "tears_level": 0,
+    "gaze": "—",
+    "camera": "static",
+    "framing": "Insert: June's hands on the cable",
+    "lens_reference": "100mm macro",
+    "duration_s": 2,
+    "reaction_of": null,
+    "continuity": [
+      "Axis: Maya LEFT, June RIGHT; between them Maya looks right, June looks left; the glass is in front of both",
+      "June: EP03 L5 burgundy chunky sweater, black trousers, badge lanyard, dark-strap watch on LEFT wrist; white hard hat, no text; straight dark hair loose at collarbone; black cable"
+    ],
+    "sound": {
+      "dialogue": "none",
+      "ambience": "Empty factory hall: big echo, pigeons in the rafters, a distant hammer",
+      "sfx": "The cable stops; then only the hall",
+      "music": "none"
+    },
+    "neutral_prompt": "Static insert. June's hands, burgundy sleeves, dark-strap watch on her LEFT wrist, stop in the middle of coiling a black cable and stay still. Late afternoon in the main hall of the old brick factory: low golden sun through high windows, long dusty beams; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
+    "forbidden": [
+      "hands moving after they stop",
+      "any text on hard hats",
+      "music"
+    ]
+  },
+  "assets": {
+    "first_frame": "06_GENERATED_ASSETS/IMAGES/TSBU_S01E03_SC005_SH11_KF_V01.png",
+    "last_frame": null,
+    "character_refs": [
+      "02_CHARACTERS/JUNE_PARK/june_ref-SC005_KF-J1.png",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_JUNE_V01.png"
+    ],
+    "voice_refs": [],
+    "location_refs": [
+      "03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_ref-salao.png",
+      "03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_ref-escritorio-capataz.png",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_SC001_KF-HALL-WS_V01.png",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_SC003_KF-OFFICE-WS_V02.png"
+    ],
+    "asset_hashes": {
+      "02_CHARACTERS/JUNE_PARK/june_ref-SC005_KF-J1.png": "6a0412c1d3c3902c336dc8fec154089c888c280953a5df972e7783e7d1775638",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_JUNE_V01.png": "177bd7620595f5a3d74d09275be8996c78fb028f199c3bf53eb3d9affb0c202d",
+      "03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_ref-salao.png": "c35592467c7c132c59a05c4d9632e5f6c2700ff8125a86ce3b681761cd99a3b8",
+      "03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_ref-escritorio-capataz.png": "6e5f500d8dcee1659634325502a9c4a9f9af9af72b14f520b566a239cf00f4a1",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_SC001_KF-HALL-WS_V01.png": "0efa8a1d0281383b29db5050c5bd42744081d49afa37d4f7ed30785b212643ed",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_SC003_KF-OFFICE-WS_V02.png": "5d4c6f68055aa8a246186dbd492cce76a118d98a37288f247b5aa8a81f86a32e"
+    }
+  },
+  "execution": {
+    "engine": null,
+    "checkpoint": null,
+    "precision": null,
+    "workflow_id": null,
+    "prompt": null,
+    "seed": null,
+    "fps": null,
+    "resolution": null,
+    "duration": null,
+    "take_id": null
+  },
+  "post": {
+    "restoration": null,
+    "color_transform": null,
+    "audio_stems": [],
+    "edit_in": null,
+    "edit_out": null
+  },
+  "audit": {
+    "license_id": null,
+    "gpu": null,
+    "runtime": null,
+    "cost": null,
+    "output_hash": null,
+    "qc_status": null,
+    "approval_date": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "templates/shot-card.schema.json",
+  "title": "Shot Production Card (HPS 1.0)",
+  "description": "Um registro por plano. 'direction' e 'assets' são a direção criativa aprovada (Evelin) e não mudam sem nova aprovação. 'execution', 'post' e 'audit' são do Pedro e versionados por take. Validar antes de qualquer execução paga.",
+  "type": "object",
+  "required": ["shot_id", "scene_id", "revision", "status", "owner", "approval", "direction", "assets", "execution", "post", "audit"],
+  "additionalProperties": false,
+  "properties": {
+    "shot_id": {"type": "string", "pattern": "^S[0-9]{2}E[0-9]{2}_SC[0-9]{3}_SH[0-9]{2}[A-Z]?$"},
+    "scene_id": {"type": "string", "pattern": "^S[0-9]{2}E[0-9]{2}_SC[0-9]{3}$"},
+    "revision": {"type": "string", "pattern": "^V[0-9]{2}$"},
+    "status": {"enum": ["proposed", "approved", "locked", "in_production", "delivered"]},
+    "owner": {"type": "object", "required": ["creative", "technical"], "properties": {"creative": {"type": "string"}, "technical": {"type": "string"}}},
+    "approval": {
+      "type": "object",
+      "required": ["creative"],
+      "properties": {
+        "creative": {"type": "object", "properties": {"by": {"type": ["string", "null"]}, "date": {"type": ["string", "null"]}, "decision": {"type": ["string", "null"]}}},
+        "technical": {"type": "object", "properties": {"by": {"type": ["string", "null"]}, "date": {"type": ["string", "null"]}}}
+      }
+    },
+    "direction": {
+      "type": "object",
+      "required": ["intent", "action", "dialogue", "emotion", "gaze", "camera", "framing", "duration_s", "continuity", "sound", "neutral_prompt"],
+      "additionalProperties": false,
+      "properties": {
+        "intent": {"type": "string"},
+        "action": {"type": "string"},
+        "dialogue": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["character", "line"],
+            "properties": {
+              "character": {"type": "string"},
+              "line": {"type": "string", "description": "Fala literal do roteiro aprovado"},
+              "delivery": {"type": "string"},
+              "pause_before_s": {"type": "number"},
+              "on_screen": {"type": "boolean"}
+            }
+          }
+        },
+        "emotion": {"type": "string"},
+        "tears_level": {"enum": [0, 1, 2, 3]},
+        "gaze": {"type": "string"},
+        "camera": {"type": "string"},
+        "framing": {"type": "string"},
+        "lens_reference": {"type": ["string", "null"]},
+        "duration_s": {"type": "number", "exclusiveMinimum": 0},
+        "reaction_of": {"type": ["string", "null"], "description": "Se for plano de reação: a fala de quem está por cima"},
+        "continuity": {"type": "array", "items": {"type": "string"}},
+        "sound": {
+          "type": "object",
+          "properties": {"dialogue": {"type": "string"}, "ambience": {"type": "string"}, "sfx": {"type": "string"}, "music": {"type": "string"}}
+        },
+        "neutral_prompt": {"type": "string", "description": "Direção em inglês, sem sintaxe de nenhuma ferramenta"},
+        "forbidden": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "assets": {
+      "type": "object",
+      "required": ["first_frame", "character_refs", "location_refs"],
+      "properties": {
+        "first_frame": {"type": ["string", "null"]},
+        "last_frame": {"type": ["string", "null"]},
+        "character_refs": {"type": "array", "items": {"type": "string"}},
+        "voice_refs": {"type": "array", "items": {"type": "string"}},
+        "location_refs": {"type": "array", "items": {"type": "string"}},
+        "asset_hashes": {"type": "object", "additionalProperties": {"type": "string"}}
+      }
+    },
+    "execution": {
+      "type": "object",
+      "description": "Pedro. Nulo até o adaptador ser feito.",
+      "properties": {
+        "engine": {"type": ["string", "null"]}, "checkpoint": {"type": ["string", "null"]}, "precision": {"type": ["string", "null"]},
+        "workflow_id": {"type": ["string", "null"]}, "prompt": {"type": ["string", "null"]}, "seed": {"type": ["integer", "null"]},
+        "fps": {"type": ["number", "null"]}, "resolution": {"type": ["string", "null"]}, "duration": {"type": ["number", "null"]}, "take_id": {"type": ["string", "null"]}
+      }
+    },
+    "post": {
+      "type": "object",
+      "properties": {
+        "restoration": {"type": ["string", "null"]}, "color_transform": {"type": ["string", "null"]},
+        "audio_stems": {"type": "array", "items": {"type": "string"}}, "edit_in": {"type": ["string", "null"]}, "edit_out": {"type": ["string", "null"]}
+      }
+    },
+    "audit": {
+      "type": "object",
+      "properties": {
+        "license_id": {"type": ["string", "null"]}, "gpu": {"type": ["string", "null"]}, "runtime": {"type": ["string", "null"]}, "cost": {"type": ["number", "null"]},
+        "output_hash": {"type": ["string", "null"]}, "qc_status": {"type": ["string", "null"]}, "approval_date": {"type": ["string", "null"]}
+      }
+    }
+  }
+}

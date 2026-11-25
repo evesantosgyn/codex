@@ -1,6 +1,6 @@
 # S01E03 · SC005 — WHOSE STORY · Decupagem V01
 
-**Status:** 🟡 PROPOSTA (2026-11-25) · **Roteiro:** EP03 Screenplay V1 (APROVADO, N42) · **Data:** 2026-11-25
+**Status:** ⚪ SUBSTITUÍDA pelo pacote HPS `05_STORYBOARDS/S01E03_SC005/TSBU_S01E03_SC005_PACKAGE_V01.md` (mesmo conteúdo criativo) · era PROPOSTA (2026-11-25) · **Roteiro:** EP03 Screenplay V1 (APROVADO, N42) · **Data:** 2026-11-25
 **Duração:** 1:00 no roteiro → **~36 s** de planos, ~55 s–1:00 com as pausas · **15 planos** · **9 keyframes** · buzzy.now / MiniMax-H3
 **Regras aplicadas:** §13 e §14, e as lições da análise do EP02 (V90): pausas medidas, rosto que sente antes de falar, clipes longos para falas curtas.
 **Pendências:** P11 e P12 não bloqueiam nenhum plano.
