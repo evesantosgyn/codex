@@ -48,7 +48,7 @@
       "sfx": "Cable sliding",
       "music": "none"
     },
-    "neutral_prompt": "Subtle handheld profile close-up. June keeps coiling the cable and says simply, without looking away from the glass: \"Not my story.\" Not defensive, not funny. Slow. Late afternoon in the main hall of the old brick factory: low golden sun through high windows, long dusty beams; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
+    "neutral_prompt": "Subtle handheld profile close-up. June keeps coiling the cable and says simply, without looking away from the glass: \"Not my story.\" Not defensive, not funny. Slow. Late afternoon in the main hall of the old brick factory: cool grey-blue daylight overall, with a few low golden sunbeams slanting through the high west windows and dust in the air; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
     "forbidden": [
       "deadpan comedy",
       "any text on hard hats",

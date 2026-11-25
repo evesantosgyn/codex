@@ -17,7 +17,7 @@ CONT_J='June: EP03 L5 burgundy chunky sweater, black trousers, badge lanyard, da
 CONT_G='Through the glass: Claire (dark-brown hair with curtain bangs, dark-red silk blouse, ONE dark-red pendant, watch LEFT wrist, NO rings) and Olivia (messy dark-blond bun, olive shirt, no watch), no hard hats, bent over the white light table'
 AXIS='Axis: Maya LEFT, June RIGHT; between them Maya looks right, June looks left; the glass is in front of both'
 NOSMILE='Maya smiling (not even in the eyes)'
-HALL='Late afternoon in the main hall of the old brick factory: low golden sun through high windows, long dusty beams; beyond the black-framed glass partition, the foreman\'s office with a white glowing light table and a warm sconce.'
+HALL='Late afternoon in the main hall of the old brick factory: cool grey-blue daylight overall, with a few low golden sunbeams slanting through the high west windows and dust in the air; beyond the black-framed glass partition, the foreman\'s office with a white glowing light table and a warm sconce.'
 SND_AMB='Empty factory hall: big echo, pigeons in the rafters, a distant hammer'
 def card(n,dur,kf,framing,camera,lens,action,emotion,gaze,intent,prompt,dialogue=None,chars='M',cont=None,sfx='',forbid=None,tears=0,reaction=None,voice=False,last=None):
     refs=[]; c=[AXIS]

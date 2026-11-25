@@ -41,7 +41,7 @@
       "sfx": "The light-table hum, muffled by the glass",
       "music": "none"
     },
-    "neutral_prompt": "Static shot over the soft-focus shoulder of a woman in a white hard hat and brown tweed (Maya, copper curls). Through a black-framed glass partition, two women bend over a glowing white light table without speaking. Nothing moves except dust in the light. Late afternoon in the main hall of the old brick factory: low golden sun through high windows, long dusty beams; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
+    "neutral_prompt": "Static shot over the soft-focus shoulder of a woman in a white hard hat and brown tweed (Maya, copper curls). Through a black-framed glass partition, two women bend over a glowing white light table without speaking. Nothing moves except dust in the light. Late afternoon in the main hall of the old brick factory: cool grey-blue daylight overall, with a few low golden sunbeams slanting through the high west windows and dust in the air; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
     "forbidden": [
       "Claire or Olivia talking or touching",
       "Maya in focus",

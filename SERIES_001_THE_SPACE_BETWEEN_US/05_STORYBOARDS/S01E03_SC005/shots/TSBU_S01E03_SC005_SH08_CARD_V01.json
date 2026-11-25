@@ -48,7 +48,7 @@
       "sfx": "Cable sliding",
       "music": "none"
     },
-    "neutral_prompt": "Subtle handheld profile close-up. Low and warm, still looking at Olivia: \"Hers. She's going to tell it.\" A held beat. \"Give her time.\" It is a request, not an excuse. Late afternoon in the main hall of the old brick factory: low golden sun through high windows, long dusty beams; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
+    "neutral_prompt": "Subtle handheld profile close-up. Low and warm, still looking at Olivia: \"Hers. She's going to tell it.\" A held beat. \"Give her time.\" It is a request, not an excuse. Late afternoon in the main hall of the old brick factory: cool grey-blue daylight overall, with a few low golden sunbeams slanting through the high west windows and dust in the air; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
     "forbidden": [
       "any text on hard hats",
       "music"

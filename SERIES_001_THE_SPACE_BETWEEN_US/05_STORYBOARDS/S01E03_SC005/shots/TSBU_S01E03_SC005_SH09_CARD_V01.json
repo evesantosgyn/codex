@@ -40,7 +40,7 @@
       "sfx": "",
       "music": "none"
     },
-    "neutral_prompt": "Static close-up. Maya slowly turns her face to her right, toward June, and holds. Serious, still, eyes beginning to glisten. No smile. 1.5 to 2 seconds of silence. Late afternoon in the main hall of the old brick factory: low golden sun through high windows, long dusty beams; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
+    "neutral_prompt": "Static close-up. Maya slowly turns her face to her right, toward June, and holds. Serious, still, eyes beginning to glisten. No smile. 1.5 to 2 seconds of silence. Late afternoon in the main hall of the old brick factory: cool grey-blue daylight overall, with a few low golden sunbeams slanting through the high west windows and dust in the air; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
     "forbidden": [
       "Maya smiling (not even in the eyes)",
       "any text on hard hats",

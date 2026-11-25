@@ -40,7 +40,7 @@
       "sfx": "Footsteps stopping; the cable sliding over the sweater sleeve",
       "music": "none"
     },
-    "neutral_prompt": "Subtle handheld, June framed at the right edge, in profile: white hard hat, burgundy chunky sweater, straight dark hair at the collarbone. She steps in and stops, coiling a black cable around her forearm, eyes on the glass. Late afternoon in the main hall of the old brick factory: low golden sun through high windows, long dusty beams; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
+    "neutral_prompt": "Subtle handheld, June framed at the right edge, in profile: white hard hat, burgundy chunky sweater, straight dark hair at the collarbone. She steps in and stops, coiling a black cable around her forearm, eyes on the glass. Late afternoon in the main hall of the old brick factory: cool grey-blue daylight overall, with a few low golden sunbeams slanting through the high west windows and dust in the air; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
     "forbidden": [
       "deadpan comedy",
       "looking at camera",

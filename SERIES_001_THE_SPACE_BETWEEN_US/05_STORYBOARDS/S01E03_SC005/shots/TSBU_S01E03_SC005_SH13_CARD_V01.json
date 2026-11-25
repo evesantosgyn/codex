@@ -41,7 +41,7 @@
       "sfx": "The hall muffled by the glass; the light-table hum in the room",
       "music": "none"
     },
-    "neutral_prompt": "Static, from inside the office through the glass partition: Maya (left, tweed, hard hat) and June (right, burgundy, hard hat, cable) stand side by side in the golden hall, looking in, silent. Soft reflections of the light table and the warm sconce on the glass. Late afternoon in the main hall of the old brick factory: low golden sun through high windows, long dusty beams; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
+    "neutral_prompt": "Static, from inside the office through the glass partition: Maya (left, tweed, hard hat) and June (right, burgundy, hard hat, cable) stand side by side in the golden hall, looking in, silent. Soft reflections of the light table and the warm sconce on the glass. Late afternoon in the main hall of the old brick factory: cool grey-blue daylight overall, with a few low golden sunbeams slanting through the high west windows and dust in the air; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
     "forbidden": [
       "Maya smiling (not even in the eyes)",
       "reflections hiding the faces",

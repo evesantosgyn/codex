@@ -40,7 +40,7 @@
       "sfx": "The cable stops; then only the hall",
       "music": "none"
     },
-    "neutral_prompt": "Static insert. June's hands, burgundy sleeves, dark-strap watch on her LEFT wrist, stop in the middle of coiling a black cable and stay still. Late afternoon in the main hall of the old brick factory: low golden sun through high windows, long dusty beams; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
+    "neutral_prompt": "Static insert. June's hands, burgundy sleeves, dark-strap watch on her LEFT wrist, stop in the middle of coiling a black cable and stay still. Late afternoon in the main hall of the old brick factory: cool grey-blue daylight overall, with a few low golden sunbeams slanting through the high west windows and dust in the air; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
     "forbidden": [
       "hands moving after they stop",
       "any text on hard hats",

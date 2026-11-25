@@ -40,7 +40,7 @@
       "sfx": "Tweed rustle as she crosses her arms",
       "music": "none"
     },
-    "neutral_prompt": "Static medium shot. Maya, arms crossed, white hard hat, brown tweed blazer, looks just off camera toward the glass partition. Serious, completely still, jaw set. No smile, not even in the eyes. Golden side light. Late afternoon in the main hall of the old brick factory: low golden sun through high windows, long dusty beams; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
+    "neutral_prompt": "Static medium shot. Maya, arms crossed, white hard hat, brown tweed blazer, looks just off camera toward the glass partition. Serious, completely still, jaw set. No smile, not even in the eyes. Golden side light. Late afternoon in the main hall of the old brick factory: cool grey-blue daylight overall, with a few low golden sunbeams slanting through the high west windows and dust in the air; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
     "forbidden": [
       "Maya smiling (not even in the eyes)",
       "gesturing",

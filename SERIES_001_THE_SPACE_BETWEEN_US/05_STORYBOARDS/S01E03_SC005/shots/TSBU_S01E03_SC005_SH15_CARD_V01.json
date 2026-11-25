@@ -40,7 +40,7 @@
       "sfx": "The hall; the light-table hum muffled",
       "music": "none"
     },
-    "neutral_prompt": "Static, from the hall through the black-framed glass, closer: inside, Claire glances at the watch on her LEFT wrist. Beside her, Olivia stays bent over the light table and does not notice. Then cut. Late afternoon in the main hall of the old brick factory: low golden sun through high windows, long dusty beams; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
+    "neutral_prompt": "Static, from the hall through the black-framed glass, closer: inside, Claire glances at the watch on her LEFT wrist. Beside her, Olivia stays bent over the light table and does not notice. Then cut. Late afternoon in the main hall of the old brick factory: cool grey-blue daylight overall, with a few low golden sunbeams slanting through the high west windows and dust in the air; beyond the black-framed glass partition, the foreman's office with a white glowing light table and a warm sconce.",
     "forbidden": [
       "Claire or Olivia talking",
       "Olivia looking up",

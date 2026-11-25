@@ -36,9 +36,9 @@
 
 ## 4. Fotografia
 - **Cenário:** salão principal da fábrica (`03_LOCATIONS/FABRICA_RESTAURACAO/`, `fabrica_ref-salao.png`), junto à divisória de vidro de caixilho preto do escritório do capataz (`fabrica_ref-escritorio-capataz.png`).
-- **Horário:** fim de tarde. Sol baixo e dourado pelas janelas altas, feixes longos com poeira no ar.
+- **Horário:** fim de tarde. Luz do salão **fria, cinza-azulada** (igual ao SH17 da SC004, que vem logo antes), com **alguns feixes baixos e dourados** entrando pelas janelas altas a oeste, poeira no ar.
 - **Do lado de dentro do vidro:** a mesa de luz branca e a arandela quente (a luz da SC003–SC004). Reflexos suaves no vidro, sem esconder os rostos.
-- **Contraste e paleta:** médio. Dourado e tijolo no salão; branco frio e âmbar dentro do escritório.
+- **Contraste e paleta:** médio. Cinza-azulado e tijolo no salão, com feixes dourados; branco e âmbar dentro do escritório.
 - **Lente de referência:** 50 mm para Maya (mais aberto, corpo inteiro na pose); 85 mm de perfil para June; 35 mm para os planos pelo vidro.
 - **Câmera (P-15, E14):** Maya **parada** (é o momento em que ela para de se mexer); June **pela borda**, com leve câmera na mão; os planos pelo vidro **parados**, como quem espia.
 - **Exceção:** o SH13 é o único plano de dentro do escritório para fora.
@@ -95,8 +95,8 @@
 **Keyframes (nome P-18 → conteúdo):**
 | Arquivo | O quê |
 |---|---|
-| `SH01_KF` | Do salão, por cima do ombro de Maya (cachos, capacete, tweed, desfocados): pela divisória de vidro de caixilho preto, o escritório com a mesa de luz acesa e Claire e Olivia debruçadas; arandela quente; fim de tarde dourado |
-| `SH02_KF` | Maya, cintura para cima, de frente, braços cruzados, capacete branco, tweed, olhando para dentro; séria, sem sorriso; luz dourada lateral |
+| `SH01_KF` | Do salão, por cima do ombro de Maya (cachos, capacete, tweed, desfocados): pela divisória de vidro de caixilho preto, o escritório com a mesa de luz acesa e Claire e Olivia debruçadas; arandela quente; salão frio com um feixe dourado |
+| `SH02_KF` | Maya, cintura para cima, de frente, braços cruzados, capacete branco, tweed, olhando para dentro; séria, sem sorriso; um feixe dourado de lado |
 | `SH03_KF` | June na borda direita, de perfil, capacete branco, suéter bordô, enrolando um cabo preto no antebraço, chegando ao lado de Maya |
 | `SH05_KF` | June de perfil, olhando pelo vidro (para Olivia), o cabo nas mãos; séria, protetora |
 | `SH09_KF` | Maya em close, virada para a direita (June); séria, imóvel, um brilho nos olhos; nenhuma piada |
@@ -128,7 +128,7 @@
   - **planos de reação (V71):**
     - **R1**, durante "Not my story.": SH02_KF sem fala, *Maya doesn't look away from the glass*;
     - **R2**, durante "She gave her seven years.": SH12_KF sem fala, *June hears it and has nothing*.
-- **Cor:** salão dourado e quente; o escritório, pelo vidro, mais frio. Conferir o cabelo de Claire pelo vidro (castanho-escuro, nunca cobre).
+- **Cor:** salão frio com feixes dourados; o escritório, pelo vidro, com a mesa de luz branca e a arandela âmbar. Conferir o cabelo de Claire pelo vidro (castanho-escuro, nunca cobre).
 
 ## 10. QC e aprovação
 - **Checagem medida antes da entrega (E11):** Maya ≤ 2,5 palavras/s em "She gave her seven years."; pausas ≥ 1 s; ≥ 2 s em volta do pico.
