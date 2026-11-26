@@ -5,7 +5,7 @@
 
 | Arquivo | Planos | Tipo | Resolução | Refs usadas | Edições | SHA-256 | Aprovador | Data | Decisão |
 |---|---|---|---|---|---|---|---|---|---|
-| `TSBU_S01E03_SC005_SH01_KF_V##.png` | SH01 | primeiro quadro | | R4, R5, R1 | | | | | |
+| `TSBU_S01E03_SC005_SH01_KF_V02.png` | SH01 | primeiro quadro | 1671×941 | R4, R5, R1 | V01 → V02 no ChatGPT: mesa de luz branca, cabelo de Claire escuro até as pontas, Maya desfocada | `b86e4f7554a0dfafa44797f5d5b2f062c369574a1acef58a35a16348b9a66b5e` | Evelin | 2026-11-26 | V91 |
 | `TSBU_S01E03_SC005_SH02_KF_V##.png` | SH02, SH04, SH06, SH14 | primeiro quadro | | R1, R5 | | | | | |
 | `TSBU_S01E03_SC005_SH03_KF_V##.png` | SH03 | primeiro quadro | | R2, R3, R5 | | | | | |
 | `TSBU_S01E03_SC005_SH05_KF_V##.png` | SH05, SH07, SH08 | primeiro quadro | | R2, R3, R4 | | | | | |
