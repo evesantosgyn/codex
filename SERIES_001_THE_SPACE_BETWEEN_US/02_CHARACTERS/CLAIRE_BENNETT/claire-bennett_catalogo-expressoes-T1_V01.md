@@ -83,10 +83,10 @@
 ### H. Choro aberto, nível 3 (seção 4.3.1 da bíblia)
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-C-47 | **A luta** | Pico do arco, EP07 ou EP08 (A DEFINIR) | *THE FIGHT: eyes fixed on a point, brimming but holding; chin trembling, lips pressed tight; breath held; completely still. A real, painful cry is coming, not glamorous.* | P2·1 | — |
-| EXP-C-48 | **A quebra** | idem | *THE BREAK: her face gives way: brows lifted in the middle, eyes squeezing shut, mouth opening; her LEFT hand (white-dial watch) pressed over her mouth, face turning slightly away; the first tear spills.* | P2·2 | — |
-| EXP-C-49 | **O choro aberto** | idem | *OPEN CRYING: crying for real but quietly, the sound held inward: eyes closed, tears running down both cheeks, mouth open in a silent sob, shoulders curled in, one arm wrapped around herself; lipstick slightly smudged; not looking at the camera.* | P2·3 | — |
-| EXP-C-50 | **Depois** | idem | *AFTER: red, wet eyes open and looking just off camera; tear tracks on her cheeks; wiping one cheek with the back of her hand; jaw set again, shoulders slowly straightening.* | P2·4 | — |
+| EXP-C-47 | **A luta** | Pico do arco, EP07 ou EP08 (A DEFINIR) | *THE FIGHT: eyes fixed on a point, brimming but holding; chin trembling, lips pressed tight; breath held; completely still. A real, painful cry is coming, not glamorous.* | P2·1 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-choro-nivel3_V01.png` painel 1 |
+| EXP-C-48 | **A quebra** | idem | *THE BREAK: her face gives way: brows lifted in the middle, eyes squeezing shut, mouth opening; her LEFT hand (white-dial watch) pressed over her mouth, face turning slightly away; the first tear spills.* | P2·2 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-choro-nivel3_V01.png` painel 2 |
+| EXP-C-49 | **O choro aberto** | idem | *OPEN CRYING: crying for real but quietly, the sound held inward: eyes closed, tears running down both cheeks, mouth open in a silent sob, shoulders curled in, one arm wrapped around herself; lipstick slightly smudged; not looking at the camera.* | P2·3 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-choro-nivel3_V01.png` painel 3 |
+| EXP-C-50 | **Depois** | idem | *AFTER: red, wet eyes open and looking just off camera; tear tracks on her cheeks; wiping one cheek with the back of her hand; jaw set again, shoulders slowly straightening.* | P2·4 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-choro-nivel3_V01.png` painel 4 |
 
 ### I. Intimidade e casa
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -108,7 +108,7 @@
 | Prancha | Painéis | Arquivo | Status |
 |---|---|---|---|
 | P1 — Essenciais | EXP-C-01, EXP-C-25, EXP-C-26, EXP-C-12, EXP-C-31, EXP-C-41 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` | approved |
-| P2 — Choro aberto | EXP-C-47, EXP-C-48, EXP-C-49, EXP-C-50 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-choro-nivel3_V01.png` | pending |
+| P2 — Choro aberto | EXP-C-47, EXP-C-48, EXP-C-49, EXP-C-50 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-choro-nivel3_V01.png` | approved |
 | P3 — Controle e trabalho | EXP-C-02, EXP-C-03, EXP-C-04, EXP-C-05, EXP-C-06, EXP-C-30 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` | pending |
 | P4 — Comédia | EXP-C-07, EXP-C-08, EXP-C-09, EXP-C-10, EXP-C-11, EXP-C-14 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` | pending |
 | P5 — Sorriso e amor | EXP-C-13, EXP-C-15, EXP-C-16, EXP-C-17, EXP-C-20, EXP-C-22 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` | pending |
