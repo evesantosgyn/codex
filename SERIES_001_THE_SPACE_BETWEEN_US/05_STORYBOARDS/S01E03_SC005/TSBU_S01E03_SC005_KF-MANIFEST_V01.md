@@ -8,7 +8,7 @@
 | `TSBU_S01E03_SC005_SH01_KF_V02.png` | SH01 | primeiro quadro | 1671×941 | R4, R5, R1 | V01 → V02 no ChatGPT: mesa de luz branca, cabelo de Claire escuro até as pontas, Maya desfocada | `b86e4f7554a0dfafa44797f5d5b2f062c369574a1acef58a35a16348b9a66b5e` | Evelin | 2026-11-26 | V91 |
 | `TSBU_S01E03_SC005_SH02_KF_V01.png` | SH02, SH04, SH06, SH14 | primeiro quadro | 1671×941 | R1, R5 | nenhuma (relógio conferido: pulso esquerdo, braço de baixo) | `8ab49630481471b602b5d823a32059d4886321355d85af4773c7adf0a7012dbd` | Evelin | 2026-11-26 | aprovado (registro da cena ao fim) |
 | `TSBU_S01E03_SC005_SH03_KF_V01.png` | SH03 | primeiro quadro | 1670×941 | R2, R3, R5 | nenhuma (cabo enrolado nas mãos, não no antebraço; relógio no pulso esquerdo) | `93bef9a328ef64ceb6ae3209ea5d92bc3c1efc4c523da0adfb8e17c82ec199d6` | Evelin | 2026-11-26 | aprovado (registro da cena ao fim) |
-| `TSBU_S01E03_SC005_SH05_KF_V##.png` | SH05, SH07, SH08 | primeiro quadro | | R2, R3, R4 | | | | | |
+| `TSBU_S01E03_SC005_SH05_KF_V01.png` | SH05, SH07, SH08 | primeiro quadro | 1670×942 | R2, R3, R4 | nenhuma | `8d9c6bd7f826a2b385ff999b6f4ee7a5c8b617b215355ef0075227cb46875b3b` | Evelin | 2026-11-26 | aprovado (registro da cena ao fim) |
 | `TSBU_S01E03_SC005_SH09_KF_V##.png` | SH09, SH10 | primeiro quadro | | SH02_KF, R1 | | | | | |
 | `TSBU_S01E03_SC005_SH11_KF_V##.png` | SH11 | primeiro quadro | | SH05_KF, R3 | | | | | |
 | `TSBU_S01E03_SC005_SH12_KF_V##.png` | SH12 (+ R2 na montagem) | primeiro quadro | | SH05_KF, R2 | | | | | |
