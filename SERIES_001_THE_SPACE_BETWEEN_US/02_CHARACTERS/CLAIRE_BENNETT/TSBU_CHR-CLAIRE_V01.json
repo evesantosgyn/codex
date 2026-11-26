@@ -249,8 +249,12 @@
       "direction": "Perfectly serious face, one brow barely raised; the joke is in the timing, not the face.",
       "sheet": "P4",
       "panel": 1,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png",
+        "sha256": "b3cbfe0e5809a0021ec1b966ed21537f68eaa1f71ead82da56f5f78327b9f18b",
+        "panel": 1
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-08",
@@ -260,8 +264,12 @@
       "direction": "A slow blink and a held breath, lips pressed; she will not dignify this with a reaction.",
       "sheet": "P4",
       "panel": 2,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png",
+        "sha256": "b3cbfe0e5809a0021ec1b966ed21537f68eaa1f71ead82da56f5f78327b9f18b",
+        "panel": 2
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-09",
@@ -271,8 +279,12 @@
       "direction": "Caught looking at Olivia: her eyes snap away to something technical, a flush she pretends isn't there.",
       "sheet": "P4",
       "panel": 3,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png",
+        "sha256": "b3cbfe0e5809a0021ec1b966ed21537f68eaa1f71ead82da56f5f78327b9f18b",
+        "panel": 3
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-10",
@@ -282,8 +294,12 @@
       "direction": "Thrown for half a second: a blink, lips part, then she recovers with exaggerated precision.",
       "sheet": "P4",
       "panel": 4,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png",
+        "sha256": "b3cbfe0e5809a0021ec1b966ed21537f68eaa1f71ead82da56f5f78327b9f18b",
+        "panel": 4
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-11",
@@ -293,8 +309,12 @@
       "direction": "Pressing her lips together against a laugh, eyes bright, looking down; a breath through the nose.",
       "sheet": "P4",
       "panel": 5,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png",
+        "sha256": "b3cbfe0e5809a0021ec1b966ed21537f68eaa1f71ead82da56f5f78327b9f18b",
+        "panel": 5
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-12",
@@ -330,8 +350,12 @@
       "direction": "Mortified but dignified: eyes closed for a beat, a tiny exhale, chin up.",
       "sheet": "P4",
       "panel": 6,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png",
+        "sha256": "b3cbfe0e5809a0021ec1b966ed21537f68eaa1f71ead82da56f5f78327b9f18b",
+        "panel": 6
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-15",
@@ -873,7 +897,10 @@
         "EXP-C-14"
       ],
       "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "b3cbfe0e5809a0021ec1b966ed21537f68eaa1f71ead82da56f5f78327b9f18b",
+      "approval": "V98",
+      "edits": "V01 → V02 no ChatGPT: EXP-C-14 com rubor e careta (estava igual ao EXP-C-08)"
     },
     {
       "id": "P5",

@@ -19,14 +19,14 @@
 ### B. Comédia (seco na cara, timing na voz)
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-C-07 | **Sarcasmo seco** | EP01–EP03 | *Perfectly serious face, one brow barely raised; the joke is in the timing, not the face.* | P4·1 | — |
-| EXP-C-08 | **Exasperação contida** | EP02 SC002 (a luz: "I said preferred") | *A slow blink and a held breath, lips pressed; she will not dignify this with a reaction.* | P4·2 | — |
-| EXP-C-09 | **Pega olhando** | EP01–EP04 | *Caught looking at Olivia: her eyes snap away to something technical, a flush she pretends isn't there.* | P4·3 | — |
-| EXP-C-10 | **Desconcertada (Olivia a desarma)** | EP02; EP04 | *Thrown for half a second: a blink, lips part, then she recovers with exaggerated precision.* | P4·4 | — |
-| EXP-C-11 | **Segurando o riso** | EP02; EP04; EP06 | *Pressing her lips together against a laugh, eyes bright, looking down; a breath through the nose.* | P4·5 | — |
+| EXP-C-07 | **Sarcasmo seco** | EP01–EP03 | *Perfectly serious face, one brow barely raised; the joke is in the timing, not the face.* | P4·1 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` painel 1 |
+| EXP-C-08 | **Exasperação contida** | EP02 SC002 (a luz: "I said preferred") | *A slow blink and a held breath, lips pressed; she will not dignify this with a reaction.* | P4·2 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` painel 2 |
+| EXP-C-09 | **Pega olhando** | EP01–EP04 | *Caught looking at Olivia: her eyes snap away to something technical, a flush she pretends isn't there.* | P4·3 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` painel 3 |
+| EXP-C-10 | **Desconcertada (Olivia a desarma)** | EP02; EP04 | *Thrown for half a second: a blink, lips part, then she recovers with exaggerated precision.* | P4·4 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` painel 4 |
+| EXP-C-11 | **Segurando o riso** | EP02; EP04; EP06 | *Pressing her lips together against a laugh, eyes bright, looking down; a breath through the nose.* | P4·5 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` painel 5 |
 | EXP-C-12 | **"Almost smile"** | Motivo recorrente da T1 | *The corner of her mouth starts to lift and she catches it before it becomes a smile; eyes lowered.* | P1·4 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` painel 4 |
 | EXP-C-13 | **Sorriso que escapa** | EP01 SC008 (`S01E01_SC008_KF-C3-SMILE_V01`); EP08 | *A real smile escapes before she can stop it; small, warm, quickly hidden.* | P5·1 | — |
-| EXP-C-14 | **Embaraço** | EP01 SC004 (o café no balcão) | *Mortified but dignified: eyes closed for a beat, a tiny exhale, chin up.* | P4·6 | — |
+| EXP-C-14 | **Embaraço** | EP01 SC004 (o café no balcão) | *Mortified but dignified: eyes closed for a beat, a tiny exhale, chin up.* | P4·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` painel 6 |
 
 ### C. Amor e desejo (escondidos)
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -110,7 +110,7 @@
 | P1 — Essenciais | EXP-C-01, EXP-C-25, EXP-C-26, EXP-C-12, EXP-C-31, EXP-C-41 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` | approved |
 | P2 — Choro aberto | EXP-C-47, EXP-C-48, EXP-C-49, EXP-C-50 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-choro-nivel3_V01.png` | approved |
 | P3 — Controle e trabalho | EXP-C-02, EXP-C-03, EXP-C-04, EXP-C-05, EXP-C-06, EXP-C-30 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` | approved |
-| P4 — Comédia | EXP-C-07, EXP-C-08, EXP-C-09, EXP-C-10, EXP-C-11, EXP-C-14 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` | pending |
+| P4 — Comédia | EXP-C-07, EXP-C-08, EXP-C-09, EXP-C-10, EXP-C-11, EXP-C-14 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` | approved |
 | P5 — Sorriso e amor | EXP-C-13, EXP-C-15, EXP-C-16, EXP-C-17, EXP-C-20, EXP-C-22 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` | pending |
 | P6 — Desejo e toque | EXP-C-18, EXP-C-19, EXP-C-21, EXP-C-45, EXP-C-46, EXP-C-54 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png` | pending |
 | P7 — Mágoa | EXP-C-23, EXP-C-24, EXP-C-27, EXP-C-28, EXP-C-29, EXP-C-42 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` | pending |
