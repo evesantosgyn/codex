@@ -25,20 +25,20 @@
 | EXP-C-10 | **Desconcertada (Olivia a desarma)** | EP02; EP04 | *Thrown for half a second: a blink, lips part, then she recovers with exaggerated precision.* | P4·4 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` painel 4 |
 | EXP-C-11 | **Segurando o riso** | EP02; EP04; EP06 | *Pressing her lips together against a laugh, eyes bright, looking down; a breath through the nose.* | P4·5 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` painel 5 |
 | EXP-C-12 | **"Almost smile"** | Motivo recorrente da T1 | *The corner of her mouth starts to lift and she catches it before it becomes a smile; eyes lowered.* | P1·4 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` painel 4 |
-| EXP-C-13 | **Sorriso que escapa** | EP01 SC008 (`S01E01_SC008_KF-C3-SMILE_V01`); EP08 | *A real smile escapes before she can stop it; small, warm, quickly hidden.* | P5·1 | — |
+| EXP-C-13 | **Sorriso que escapa** | EP01 SC008 (`S01E01_SC008_KF-C3-SMILE_V01`); EP08 | *A real smile escapes before she can stop it; small, warm, quickly hidden.* | P5·1 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` painel 1 |
 | EXP-C-14 | **Embaraço** | EP01 SC004 (o café no balcão) | *Mortified but dignified: eyes closed for a beat, a tiny exhale, chin up.* | P4·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` painel 6 |
 
 ### C. Amor e desejo (escondidos)
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-C-15 | **O olhar escondido** | Toda a T1 | *Looking at Olivia when Olivia can't see; her face softens without permission.* | P5·2 | — |
-| EXP-C-16 | **Ternura disfarçada (o cuidado técnico)** | EP01 ("The light is better from the west"); EP02 | *Tenderness disguised as correction: a businesslike face, but the eyes are gentle.* | P5·3 | — |
-| EXP-C-17 | **O nome dela** | Toda fala com "Olivia" | *A small breath before the name; the voice drops and nearly catches.* | P5·4 | — |
+| EXP-C-15 | **O olhar escondido** | Toda a T1 | *Looking at Olivia when Olivia can't see; her face softens without permission.* | P5·2 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` painel 2 |
+| EXP-C-16 | **Ternura disfarçada (o cuidado técnico)** | EP01 ("The light is better from the west"); EP02 | *Tenderness disguised as correction: a businesslike face, but the eyes are gentle.* | P5·3 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` painel 3 |
+| EXP-C-17 | **O nome dela** | Toda fala com "Olivia" | *A small breath before the name; the voice drops and nearly catches.* | P5·4 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` painel 4 |
 | EXP-C-18 | **Desejo** | EP04 "Almost" (planejado) | *Her eyes drop to Olivia's lips and come back up too fast, guilty; breath held.* | P6·1 | — |
 | EXP-C-19 | **A quase-aproximação** | EP04 (planejado) | *Leaning in a centimeter, eyes half-lowered, lips parted, about to; then she stops herself.* | P6·2 | — |
-| EXP-C-20 | **Saudade (a lembrança)** | EP01 SC004 (o número); EP03 SC003 (a foto dela dormindo) | *Looking at an object from the past, eyes soft and far away, the faintest pain at the mouth.* | P5·5 | — |
+| EXP-C-20 | **Saudade (a lembrança)** | EP01 SC004 (o número); EP03 SC003 (a foto dela dormindo) | *Looking at an object from the past, eyes soft and far away, the faintest pain at the mouth.* | P5·5 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` painel 5 |
 | EXP-C-21 | **Ser tocada** | EP03 em diante | *When Olivia touches her she does not pull away and does not respond: perfectly still, eyes down, breath stopped.* | P6·3 | — |
-| EXP-C-22 | **Rendição ao amor** | EP06 "The Night We Stayed"; EP08 (planejado) | *She stops fighting it: open, soft eyes on Olivia, a slow breath out, the whole face unguarded.* | P5·6 | — |
+| EXP-C-22 | **Rendição ao amor** | EP06 "The Night We Stayed"; EP08 (planejado) | *She stops fighting it: open, soft eyes on Olivia, a slow breath out, the whole face unguarded.* | P5·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` painel 6 |
 
 ### D. Mágoa e tristeza
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -111,7 +111,7 @@
 | P2 — Choro aberto | EXP-C-47, EXP-C-48, EXP-C-49, EXP-C-50 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-choro-nivel3_V01.png` | approved |
 | P3 — Controle e trabalho | EXP-C-02, EXP-C-03, EXP-C-04, EXP-C-05, EXP-C-06, EXP-C-30 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` | approved |
 | P4 — Comédia | EXP-C-07, EXP-C-08, EXP-C-09, EXP-C-10, EXP-C-11, EXP-C-14 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` | approved |
-| P5 — Sorriso e amor | EXP-C-13, EXP-C-15, EXP-C-16, EXP-C-17, EXP-C-20, EXP-C-22 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` | pending |
+| P5 — Sorriso e amor | EXP-C-13, EXP-C-15, EXP-C-16, EXP-C-17, EXP-C-20, EXP-C-22 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` | approved |
 | P6 — Desejo e toque | EXP-C-18, EXP-C-19, EXP-C-21, EXP-C-45, EXP-C-46, EXP-C-54 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png` | pending |
 | P7 — Mágoa | EXP-C-23, EXP-C-24, EXP-C-27, EXP-C-28, EXP-C-29, EXP-C-42 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` | pending |
 | P8 — Raiva e confronto | EXP-C-32, EXP-C-33, EXP-C-34, EXP-C-35, EXP-C-43, EXP-C-44 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png` | pending |

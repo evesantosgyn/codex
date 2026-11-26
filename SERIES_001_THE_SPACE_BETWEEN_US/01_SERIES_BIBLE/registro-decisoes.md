@@ -89,6 +89,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V99 | **Claire: prancha P5 (sorriso e amor) APROVADA** (`02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png`, após 1 edição: corrente única com o pingente; EXP-C-22 de frente). EXP-C-13, 15, 16, 17, 20, 22. **Nota:** o EXP-C-22 ficou próximo do 17; o keyframe da cena acrescenta o contexto. O sufixo de geração passa a proibir a segunda corrente | APROVADO (2026-11-26) | `TSBU_CHR-CLAIRE_V01.json` |
 | V98 | **Claire: prancha P4 (comédia) APROVADA** (`02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png`, após 1 edição: EXP-C-14 com rubor e careta, para se distinguir do EXP-C-08). EXP-C-07, 08, 09, 10, 11 (segura o riso, não ri), 14. Nenhum riso aberto | APROVADO (2026-11-26) | `TSBU_CHR-CLAIRE_V01.json` |
 | V97 | **Claire: prancha P3 (controle e trabalho) APROVADA** sem edição (`02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png`): EXP-C-02, 03, 04 (relógio no pulso esquerdo), 05, 06 (a piscada como quadro de passagem), 30. O sufixo de geração (cabelo uniforme, olhos castanhos, pingente sobre a gola) entra no JSON (`generation_suffix`) e nos próximos pacotes | APROVADO (2026-11-26) | `TSBU_CHR-CLAIRE_V01.json` |
 | V96 | **Claire: prancha P2 (choro aberto, nível 3) APROVADA** (`02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-choro-nivel3_V01.png`, após 1 edição: olhos castanhos nos painéis 47 e 50). Painéis ligados no JSON: EXP-C-47 (a luta), EXP-C-48 (a quebra, mão esquerda na boca), EXP-C-49 (o choro aberto; a boca aberta é aceita, o som "para dentro" fica para a direção do vídeo e da voz), EXP-C-50 (depois) | APROVADO (2026-11-26) | `TSBU_CHR-CLAIRE_V01.json` |
@@ -205,6 +206,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-26 | Claire: prancha P5 (sorriso e amor) aprovada e ligada ao JSON (V99) | Showrunner GL AI |
 | 2026-11-26 | Claire: prancha P4 (comédia) aprovada e ligada ao JSON (V98) | Showrunner GL AI |
 | 2026-11-26 | Claire: prancha P3 aprovada e ligada ao JSON (V97) | Showrunner GL AI |
 | 2026-11-26 | Claire: prancha P2 (choro aberto) aprovada e ligada ao JSON (V96) | Showrunner GL AI |

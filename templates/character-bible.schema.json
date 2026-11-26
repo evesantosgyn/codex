@@ -209,6 +209,9 @@
                 "type": "integer"
               }
             }
+          },
+          "note": {
+            "type": "string"
           }
         }
       }
