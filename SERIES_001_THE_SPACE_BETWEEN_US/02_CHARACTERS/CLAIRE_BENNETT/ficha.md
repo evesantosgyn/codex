@@ -1,7 +1,7 @@
 # Claire Bennett — Protagonista
 
 **Status:** identidade dramática APROVADA · **rosto TRAVADO** (2026-11-12) · looks aprovados como referência
-**Prancha:** `claire-bennett_identity-pack.webp` · **Traços fixos:** `01_SERIES_BIBLE/continuidade.yaml → claire_bennett`
+**Character Bible (HPS, completa):** `claire-bennett_character-bible_V01.md` (V93) · **Prancha:** `claire-bennett_identity-pack.webp` · **Traços fixos:** `01_SERIES_BIBLE/continuidade.yaml → claire_bennett`
 
 ## Identidade dramática
 

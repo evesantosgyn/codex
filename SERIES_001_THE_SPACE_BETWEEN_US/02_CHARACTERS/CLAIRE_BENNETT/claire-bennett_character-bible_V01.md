@@ -1,12 +1,12 @@
 # Claire Bennett — Character Bible · V01
 
 > **HPS 1.0 · Bíblia 03 (Character Bible)** · Série: The Space Between Us (TSBU)
-> **Status:** 🟡 PROPOSTA (2026-11-26). Organiza o cânone que já existe e **acrescenta o mapa de interpretação**, que é o que faltava.
+> **Status:** ✅ **APROVADA** (2026-11-26, V93): as marcas [P] desta versão passam a valer como cânone. Organiza o cânone que já existe e **acrescenta o mapa de interpretação**, que é o que faltava.
 > **Legenda das fontes:**
 > - **[C]** = cânone aprovado, com a decisão ou o arquivo de origem;
 > - **[P]** = proposta nova, que precisa de aprovação;
 > - **[A DEFINIR]** = lacuna. Não é inventada como fato.
-> **Não substitui:** `ficha.md` (resumo) e `continuidade.yaml → claire_bennett` (traços fixos). Em conflito, valem os dois até esta bíblia ser aprovada.
+> **Relação com os outros arquivos:** `ficha.md` é o resumo; `continuidade.yaml → claire_bennett` guarda os traços fixos. Esta bíblia é a fonte completa da personagem.
 
 ---
 
@@ -14,12 +14,12 @@
 | Campo | Valor |
 |---|---|
 | ID da personagem | **CHR-CLAIRE** |
-| Versão | V01 · 2026-11-26 · 🟡 em revisão |
+| Versão | V01 · 2026-11-26 · ✅ aprovada (V93) |
 | Responsável | Evelin (criação) · Pedro (valida a implementação de voz e câmera) |
 | Referências aprovadas | `claire-bennett_identity-pack.webp` (rosto TRAVADO, P09) · `claire_ref-SC001_t04s.jpg` · `06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_CLAIRE_V01.png` (L7) · `S01E02_LOOK_CLAIRE_V01.png` (L6) · voz `06_GENERATED_ASSETS/VOICES/claire_bennett_voice-ref_v02.wav` |
 | Atributos imutáveis | Seção 3.1 |
 | Atributos variáveis | Seção 3.2 |
-| Aprovação | — |
+| Aprovação | Evelin, 2026-11-26 (V93) |
 
 ---
 
