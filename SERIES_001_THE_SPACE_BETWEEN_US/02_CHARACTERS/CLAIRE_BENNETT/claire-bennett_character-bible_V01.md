@@ -177,6 +177,25 @@ Figurino por look (`continuidade.yaml → looks`), penteado (preso só no identi
 | **Contato físico** | Pequeno e acidental enquanto a relação está ferida (E8). **Claire nunca inicia o toque até o EP08** [P]; quando é tocada, **não recua, mas também não responde** (EP03) | [C] E8 + [P] |
 | **Voz alta** | Nunca grita na T1 [P]. O máximo é a voz baixa e lenta da raiva fria | [P] |
 
+### 4.3.1 Choro aberto, nível 3 — 🟡 PROPOSTA (2026-11-26)
+> Como Claire chora quando a armadura cai. **Em que cena isso acontece continua [A DEFINIR]** (EP07 ou EP08). A prancha de referência pode ser feita antes.
+
+| Fase | O que acontece | Olhar | Respiração | Boca e rosto | Mãos e corpo | Som |
+|---|---|---|---|---|---|---|
+| **1. A luta** | Ela ainda tenta segurar | Fixo num ponto, piscando para não deixar cair | Presa; o peito sobe e não desce | O queixo **treme**; os lábios apertados | Imóvel; os dedos apertam o que estiver na mão | Uma respiração que falha |
+| **2. A quebra** | O controle cede de uma vez | Fecha os olhos ou baixa | Um soluço preso, **para dentro** | O rosto se desfaz: sobrancelhas sobem no meio, a boca abre | **A mão vai à boca** (o gesto dela); vira o rosto | O primeiro som, abafado pela mão |
+| **3. O choro aberto** | Chora de verdade, sem conseguir parar | Os olhos fechados, ou para baixo; **nunca chora olhando para a câmera** | Entrecortada, audível | Lágrimas correndo; o batom não importa mais | Curvada, um braço em volta de si; senta ou se apoia na parede | Choro baixo; **nunca grito, nunca lamento alto** |
+| **4. Depois** | Recompõe-se, mas não inteira | Vermelhos, molhados, enfim olhando para alguém | Funda, trêmula, voltando | As marcas das lágrimas; enxuga com as costas da mão | Endireita os ombros, devagar | Uma fungada; o silêncio |
+
+- **O que a torna Claire:**
+  - **luta contra o choro até o último segundo**;
+  - a mão na boca;
+  - vira o rosto;
+  - **o som é sempre para dentro**;
+  - na fase 4, mesmo destruída, **endireita os ombros**: a armadura tenta voltar.
+- **Na frente de Olivia [P]:** só se a cena for **a quebra da regra** do arco. Ela não escolhe chorar na frente de Olivia: perde a luta.
+- **Bloco de direção (inglês):** *Claire fights the tears until she cannot: her chin trembles, her breath catches and won't release, she presses her hand to her mouth and turns her face away. When it breaks, she cries for real but quietly, the sound held inward, eyes closed or down, tears running. Afterwards she wipes her face with the back of her hand and slowly straightens her shoulders, red-eyed, trying to put the armor back on.*
+
 ### 4.4 Comportamentos proibidos (rejeitar o take)
 - Rir aberto, gargalhar, sorriso largo sem motivo.
 - Gritar, gesticular muito, chorar soluçando (fora de um pico autorizado).
