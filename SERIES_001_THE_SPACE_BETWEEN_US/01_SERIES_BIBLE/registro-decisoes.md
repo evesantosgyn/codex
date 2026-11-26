@@ -199,6 +199,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-26 | EP03 SC005: animatic (0:37), storyboard e handoff HPS para o Pedro gerados | Showrunner GL AI |
 | 2026-11-26 | EP03 SC005: 9 keyframes aprovados (V92) | Showrunner GL AI |
 | 2026-11-26 | EP03 SC005: SH01_KF V02 aprovado; geografia de frente para o vidro (V91) | Showrunner GL AI |
 | 2026-11-25 | EP03: pacote de cena da SC005 aprovado (N48, G1) | Showrunner GL AI |
