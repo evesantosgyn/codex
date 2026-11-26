@@ -108,6 +108,8 @@ def sheets(path, out, only):
             e = ex[pid]
             extra = f' [AGE VARIANT: {e["age_variant"]}]' if e.get('age_variant') else ''
             L.append(f'{i}. {pid} — {e["direction"]}{extra}')
+        if d.get('generation_suffix'):
+            L += ['', d['generation_suffix']]
         L += ['', 'Captions: ' + ' · '.join(s['panels']) + '. No other text.', '```', '']
     with open(out, 'w', encoding='utf-8') as f:
         f.write('\n'.join(L) + '\n')

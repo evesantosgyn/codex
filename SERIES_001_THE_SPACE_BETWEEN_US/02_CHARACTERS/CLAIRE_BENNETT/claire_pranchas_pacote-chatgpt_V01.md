@@ -27,6 +27,8 @@ Who she is: Her control is the armor of someone who still feels. The eyes betray
 5. EXP-C-31 — Very still, chin slightly down, eyes holding and hard, slow blink; no shouting.
 6. EXP-C-41 — For once she does not look away: eyes open and soft, brows lifted in the middle, lips just parted.
 
+Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONE small dark-red pendant resting on top of the high neck of the blouse.
+
 Captions: EXP-C-01 · EXP-C-25 · EXP-C-26 · EXP-C-12 · EXP-C-31 · EXP-C-41. No other text.
 ```
 
@@ -46,6 +48,8 @@ Who she is: Her control is the armor of someone who still feels. The eyes betray
 2. EXP-C-48 — THE BREAK: her face gives way: brows lifted in the middle, eyes squeezing shut, mouth opening; her LEFT hand (white-dial watch) pressed over her mouth, face turning slightly away; the first tear spills.
 3. EXP-C-49 — OPEN CRYING: crying for real but quietly, the sound held inward: eyes closed, tears running down both cheeks, mouth open in a silent sob, shoulders curled in, one arm wrapped around herself; lipstick slightly smudged; not looking at the camera.
 4. EXP-C-50 — AFTER: red, wet eyes open and looking just off camera; tear tracks on her cheeks; wiping one cheek with the back of her hand; jaw set again, shoulders slowly straightening.
+
+Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONE small dark-red pendant resting on top of the high neck of the blouse.
 
 Captions: EXP-C-47 · EXP-C-48 · EXP-C-49 · EXP-C-50. No other text.
 ```
@@ -69,6 +73,8 @@ Who she is: Her control is the armor of someone who still feels. The eyes betray
 5. EXP-C-06 — She blinks once, resets her face, straightens; the professional mask slides back on.
 6. EXP-C-30 — A tightening around the eyes and jaw; voice-ready politeness over it.
 
+Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONE small dark-red pendant resting on top of the high neck of the blouse.
+
 Captions: EXP-C-02 · EXP-C-03 · EXP-C-04 · EXP-C-05 · EXP-C-06 · EXP-C-30. No other text.
 ```
 
@@ -90,6 +96,8 @@ Who she is: Her control is the armor of someone who still feels. The eyes betray
 4. EXP-C-10 — Thrown for half a second: a blink, lips part, then she recovers with exaggerated precision.
 5. EXP-C-11 — Pressing her lips together against a laugh, eyes bright, looking down; a breath through the nose.
 6. EXP-C-14 — Mortified but dignified: eyes closed for a beat, a tiny exhale, chin up.
+
+Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONE small dark-red pendant resting on top of the high neck of the blouse.
 
 Captions: EXP-C-07 · EXP-C-08 · EXP-C-09 · EXP-C-10 · EXP-C-11 · EXP-C-14. No other text.
 ```
@@ -113,6 +121,8 @@ Who she is: Her control is the armor of someone who still feels. The eyes betray
 5. EXP-C-20 — Looking at an object from the past, eyes soft and far away, the faintest pain at the mouth.
 6. EXP-C-22 — She stops fighting it: open, soft eyes on Olivia, a slow breath out, the whole face unguarded.
 
+Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONE small dark-red pendant resting on top of the high neck of the blouse.
+
 Captions: EXP-C-13 · EXP-C-15 · EXP-C-16 · EXP-C-17 · EXP-C-20 · EXP-C-22. No other text.
 ```
 
@@ -134,6 +144,8 @@ Who she is: Her control is the armor of someone who still feels. The eyes betray
 4. EXP-C-45 — A careful, almost frightened hope: eyes bright, a breath in, the start of a smile she allows.
 5. EXP-C-46 — Calm, clear, eyes wet but steady on Olivia; a small nod; she chooses this.
 6. EXP-C-54 — At rest beside Olivia, face relaxed for the first time in the season, eyes half-closed.
+
+Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONE small dark-red pendant resting on top of the high neck of the blouse.
 
 Captions: EXP-C-18 · EXP-C-19 · EXP-C-21 · EXP-C-45 · EXP-C-46 · EXP-C-54. No other text.
 ```
@@ -157,6 +169,8 @@ Who she is: Her control is the armor of someone who still feels. The eyes betray
 5. EXP-C-29 — Tired to the bone: heavy lids, slow blink, shoulders down.
 6. EXP-C-42 — Listening without defending: still, eyes on Olivia, absorbing each word, a small swallow.
 
+Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONE small dark-red pendant resting on top of the high neck of the blouse.
+
 Captions: EXP-C-23 · EXP-C-24 · EXP-C-27 · EXP-C-28 · EXP-C-29 · EXP-C-42. No other text.
 ```
 
@@ -178,6 +192,8 @@ Who she is: Her control is the armor of someone who still feels. The eyes betray
 4. EXP-C-35 — Mid-anger the voice cracks; she swallows hard, eyes flood, she refuses to let the tears fall.
 5. EXP-C-43 — Asking the real question: quiet, direct, eyes searching Olivia's face, afraid of the answer.
 6. EXP-C-44 — Looking at Olivia a long moment, the hurt and the love both visible, undecided.
+
+Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONE small dark-red pendant resting on top of the high neck of the blouse.
 
 Captions: EXP-C-32 · EXP-C-33 · EXP-C-34 · EXP-C-35 · EXP-C-43 · EXP-C-44. No other text.
 ```
@@ -201,6 +217,8 @@ Who she is: Her control is the armor of someone who still feels. The eyes betray
 5. EXP-C-40 — Too-regular breath she is controlling, eyes slightly too wide, hands flat on the table.
 6. EXP-C-53 — Thumb over a contact, eyes on the screen, a breath, then she locks it.
 
+Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONE small dark-red pendant resting on top of the high neck of the blouse.
+
 Captions: EXP-C-36 · EXP-C-37 · EXP-C-38 · EXP-C-39 · EXP-C-40 · EXP-C-53. No other text.
 ```
 
@@ -218,6 +236,8 @@ Who she is: Her control is the armor of someone who still feels. The eyes betray
 
 1. EXP-C-51 — Asleep on her side, face completely unguarded, lips slightly parted, morning light. [AGE VARIANT: 28 (seven years ago): NO bangs]
 2. EXP-C-52 — Half-awake, soft and unguarded for three seconds before she remembers to be Claire.
+
+Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONE small dark-red pendant resting on top of the high neck of the blouse.
 
 Captions: EXP-C-51 · EXP-C-52. No other text.
 ```

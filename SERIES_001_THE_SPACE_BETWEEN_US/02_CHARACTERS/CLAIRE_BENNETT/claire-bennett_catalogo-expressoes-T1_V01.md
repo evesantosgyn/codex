@@ -10,11 +10,11 @@
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
 | EXP-C-01 | **Controle (o padrão)** | Toda cena de trabalho | *Composed, direct steady gaze, lips closed, upright; nothing gives her away.* | P1·1 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` painel 1 |
-| EXP-C-02 | **Concentrada (no trabalho)** | EP01 SC001 (a maquete); EP03 SC003 (a lupa) | *Absorbed in precise work, eyes narrowed slightly, mouth relaxed, completely still.* | P3·1 | — |
-| EXP-C-03 | **Avaliando alguém** | EP01 (a reunião); EP02 | *A cool, measuring look, head very slightly tilted, unreadable.* | P3·2 | — |
-| EXP-C-04 | **Impaciência educada (o relógio)** | EP02 SC007 (5:58 → 6:00); EP03 SC005 | *Glances at her watch, then back up with polite, thin patience.* | P3·3 | — |
-| EXP-C-05 | **Dando uma regra (formalidade jurídica)** | EP01 SC007; EP02 SC007 | *Calm and formal, as if reading a contract clause; the faintest lift of the chin.* | P3·4 | — |
-| EXP-C-06 | **Recolocando a máscara** | Depois de todo momento em que racha | *She blinks once, resets her face, straightens; the professional mask slides back on.* | P3·5 | — |
+| EXP-C-02 | **Concentrada (no trabalho)** | EP01 SC001 (a maquete); EP03 SC003 (a lupa) | *Absorbed in precise work, eyes narrowed slightly, mouth relaxed, completely still.* | P3·1 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` painel 1 |
+| EXP-C-03 | **Avaliando alguém** | EP01 (a reunião); EP02 | *A cool, measuring look, head very slightly tilted, unreadable.* | P3·2 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` painel 2 |
+| EXP-C-04 | **Impaciência educada (o relógio)** | EP02 SC007 (5:58 → 6:00); EP03 SC005 | *Glances at her watch, then back up with polite, thin patience.* | P3·3 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` painel 3 |
+| EXP-C-05 | **Dando uma regra (formalidade jurídica)** | EP01 SC007; EP02 SC007 | *Calm and formal, as if reading a contract clause; the faintest lift of the chin.* | P3·4 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` painel 4 |
+| EXP-C-06 | **Recolocando a máscara** | Depois de todo momento em que racha | *She blinks once, resets her face, straightens; the professional mask slides back on.* | P3·5 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` painel 5 |
 
 ### B. Comédia (seco na cara, timing na voz)
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -54,7 +54,7 @@
 ### E. Raiva (fria)
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-C-30 | **Irritação controlada** | EP01–EP02 | *A tightening around the eyes and jaw; voice-ready politeness over it.* | P3·6 | — |
+| EXP-C-30 | **Irritação controlada** | EP01–EP02 | *A tightening around the eyes and jaw; voice-ready politeness over it.* | P3·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` painel 6 |
 | EXP-C-31 | **Raiva fria** | EP02 SC004 ("You don't get to decide that for me.") | *Very still, chin slightly down, eyes holding and hard, slow blink; no shouting.* | P1·5 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` painel 5 |
 | EXP-C-32 | **Desconfiança** | EP01–EP05 | *Narrowed eyes, head barely turned, weighing every word Olivia says.* | P8·1 | — |
 | EXP-C-33 | **A traição entendida** | EP04 (a família, planejado); EP07 | *The moment she understands: eyes go still, color drains, the mouth opens slightly and closes.* | P8·2 | — |
@@ -109,7 +109,7 @@
 |---|---|---|---|
 | P1 — Essenciais | EXP-C-01, EXP-C-25, EXP-C-26, EXP-C-12, EXP-C-31, EXP-C-41 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` | approved |
 | P2 — Choro aberto | EXP-C-47, EXP-C-48, EXP-C-49, EXP-C-50 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-choro-nivel3_V01.png` | approved |
-| P3 — Controle e trabalho | EXP-C-02, EXP-C-03, EXP-C-04, EXP-C-05, EXP-C-06, EXP-C-30 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` | pending |
+| P3 — Controle e trabalho | EXP-C-02, EXP-C-03, EXP-C-04, EXP-C-05, EXP-C-06, EXP-C-30 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` | approved |
 | P4 — Comédia | EXP-C-07, EXP-C-08, EXP-C-09, EXP-C-10, EXP-C-11, EXP-C-14 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` | pending |
 | P5 — Sorriso e amor | EXP-C-13, EXP-C-15, EXP-C-16, EXP-C-17, EXP-C-20, EXP-C-22 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` | pending |
 | P6 — Desejo e toque | EXP-C-18, EXP-C-19, EXP-C-21, EXP-C-45, EXP-C-46, EXP-C-54 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png` | pending |

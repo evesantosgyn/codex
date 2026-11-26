@@ -174,8 +174,12 @@
       "direction": "Absorbed in precise work, eyes narrowed slightly, mouth relaxed, completely still.",
       "sheet": "P3",
       "panel": 1,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png",
+        "sha256": "d0778378d99505513d48affd73a6d542d2af4d35734ffbe9166e6ab94dafc69f",
+        "panel": 1
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-03",
@@ -185,8 +189,12 @@
       "direction": "A cool, measuring look, head very slightly tilted, unreadable.",
       "sheet": "P3",
       "panel": 2,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png",
+        "sha256": "d0778378d99505513d48affd73a6d542d2af4d35734ffbe9166e6ab94dafc69f",
+        "panel": 2
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-04",
@@ -196,8 +204,12 @@
       "direction": "Glances at her watch, then back up with polite, thin patience.",
       "sheet": "P3",
       "panel": 3,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png",
+        "sha256": "d0778378d99505513d48affd73a6d542d2af4d35734ffbe9166e6ab94dafc69f",
+        "panel": 3
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-05",
@@ -207,8 +219,12 @@
       "direction": "Calm and formal, as if reading a contract clause; the faintest lift of the chin.",
       "sheet": "P3",
       "panel": 4,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png",
+        "sha256": "d0778378d99505513d48affd73a6d542d2af4d35734ffbe9166e6ab94dafc69f",
+        "panel": 4
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-06",
@@ -218,8 +234,12 @@
       "direction": "She blinks once, resets her face, straightens; the professional mask slides back on.",
       "sheet": "P3",
       "panel": 5,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png",
+        "sha256": "d0778378d99505513d48affd73a6d542d2af4d35734ffbe9166e6ab94dafc69f",
+        "panel": 5
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-07",
@@ -494,8 +514,12 @@
       "direction": "A tightening around the eyes and jaw; voice-ready politeness over it.",
       "sheet": "P3",
       "panel": 6,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png",
+        "sha256": "d0778378d99505513d48affd73a6d542d2af4d35734ffbe9166e6ab94dafc69f",
+        "panel": 6
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-31",
@@ -832,7 +856,10 @@
         "EXP-C-30"
       ],
       "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "d0778378d99505513d48affd73a6d542d2af4d35734ffbe9166e6ab94dafc69f",
+      "approval": "V97",
+      "edits": "nenhuma (prompt com as linhas de cabelo, olhos e pingente)"
     },
     {
       "id": "P4",
@@ -931,5 +958,6 @@
   ],
   "notes": {
     "expression_status": "proposed = texto aprovado (V94), ainda sem painel de prancha aprovado; approved = com reference_image (prancha aprovada)"
-  }
+  },
+  "generation_suffix": "Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONE small dark-red pendant resting on top of the high neck of the blouse."
 }
