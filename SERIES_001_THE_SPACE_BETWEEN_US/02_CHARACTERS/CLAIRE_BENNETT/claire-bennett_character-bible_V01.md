@@ -8,7 +8,7 @@
 > - **[A DEFINIR]** = lacuna. Não é inventada como fato.
 > **Relação com os outros arquivos:** `ficha.md` é o resumo; `continuidade.yaml → claire_bennett` guarda os traços fixos. Esta bíblia é a fonte completa da personagem.
 
-> **Fonte canônica legível por programa (🟡 proposta):** `TSBU_CHR-CLAIRE_V01.json` (schema `templates/character-bible.schema.json`). Guarda o Identity Lock, as referências com SHA-256, os looks, os limites e o **catálogo das 54 expressões da T1** (IDs `EXP-C-01` a `EXP-C-54`). O catálogo em Markdown e o pacote das pranchas são **gerados** dele por `tools/character_bible.py`. As fichas de plano citam `character_id`, `look_id` e `expression_ids`.
+> **Fonte canônica legível por programa (✅ V94):** `TSBU_CHR-CLAIRE_V01.json` (schema `templates/character-bible.schema.json`). Guarda o Identity Lock, as referências com SHA-256, os looks, os limites e o **catálogo das 54 expressões da T1** (IDs `EXP-C-01` a `EXP-C-54`). O catálogo em Markdown e o pacote das pranchas são **gerados** dele por `tools/character_bible.py`. As fichas de plano citam `character_id`, `look_id` e `expression_ids`.
 
 ---
 
@@ -179,7 +179,7 @@ Figurino por look (`continuidade.yaml → looks`), penteado (preso só no identi
 | **Contato físico** | Pequeno e acidental enquanto a relação está ferida (E8). **Claire nunca inicia o toque até o EP08** [P]; quando é tocada, **não recua, mas também não responde** (EP03) | [C] E8 + [P] |
 | **Voz alta** | Nunca grita na T1 [P]. O máximo é a voz baixa e lenta da raiva fria | [P] |
 
-### 4.3.1 Choro aberto, nível 3 — 🟡 PROPOSTA (2026-11-26)
+### 4.3.1 Choro aberto, nível 3 — ✅ APROVADO (2026-11-26, V94)
 > Como Claire chora quando a armadura cai. **Em que cena isso acontece continua [A DEFINIR]** (EP07 ou EP08). A prancha de referência pode ser feita antes.
 
 | Fase | O que acontece | Olhar | Respiração | Boca e rosto | Mãos e corpo | Som |

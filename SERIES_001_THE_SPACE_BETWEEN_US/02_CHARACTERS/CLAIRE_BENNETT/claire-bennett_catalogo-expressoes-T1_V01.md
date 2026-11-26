@@ -1,7 +1,7 @@
 # Claire Bennett — Catálogo de expressões da Temporada 1 · V01
 
 > **Gerado automaticamente** de `TSBU_CHR-CLAIRE_V01.json` (fonte canônica, HPS). Não edite este arquivo: edite o JSON e rode `tools/character_bible.py render-md`.
-> **Status:** proposed · atualizado em 2026-11-26
+> **Status:** approved · atualizado em 2026-11-26
 
 **Regra-mãe:** Her control is the armor of someone who still feels. The eyes betray her first, then the breath, the mouth last. The stronger the emotion, the less she moves.
 
