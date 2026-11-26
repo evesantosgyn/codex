@@ -11,6 +11,6 @@
 | `TSBU_S01E03_SC005_SH05_KF_V01.png` | SH05, SH07, SH08 | primeiro quadro | 1670×942 | R2, R3, R4 | nenhuma | `8d9c6bd7f826a2b385ff999b6f4ee7a5c8b617b215355ef0075227cb46875b3b` | Evelin | 2026-11-26 | aprovado (registro da cena ao fim) |
 | `TSBU_S01E03_SC005_SH09_KF_V02.png` | SH09, SH10 | primeiro quadro | 1670×942 | SH02_KF, R1 | V01 → V02 no ChatGPT: expressão de raiva para dor (sobrancelhas, olhos úmidos nível 1, boca macia) | `d43c1608918126497b078c3d618305d19390858abc63eaef8c3bb29bbf55154b` | Evelin | 2026-11-26 | aprovado (registro da cena ao fim) |
 | `TSBU_S01E03_SC005_SH11_KF_V01.png` | SH11 | primeiro quadro | 1670×942 | SH05_KF, R3 | nenhuma (relógio no pulso esquerdo, mesma mão do SH03) | `abdb48ecee04448f7524b7b29723ee01df5430e17529622b0983b519751e9a0b` | Evelin | 2026-11-26 | aprovado (registro da cena ao fim) |
-| `TSBU_S01E03_SC005_SH12_KF_V##.png` | SH12 (+ R2 na montagem) | primeiro quadro | | SH05_KF, R2 | | | | | |
+| `TSBU_S01E03_SC005_SH12_KF_V01.png` | SH12 (+ R2 na montagem) | primeiro quadro | 1670×942 | SH05_KF, R2 | nenhuma | `2bfaf664c4aec487ba6b22063ef5d2e56e9d65eb10f2db328bb58c0402f85953` | Evelin | 2026-11-26 | aprovado (registro da cena ao fim) |
 | `TSBU_S01E03_SC005_SH13_KF_V##.png` | SH13 | primeiro quadro | | R4, SH02_KF, SH05_KF | | | | | |
 | `TSBU_S01E03_SC005_SH15_KF_V##.png` | SH15 | primeiro quadro | | R4, SH01_KF | | | | | |
