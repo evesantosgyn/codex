@@ -69,7 +69,10 @@ card(14,1.5,2,'= SH02','static','50mm','Maya looks back at the glass','Resignati
 card(15,3,15,'Through the glass, closer','static','35mm','Inside, Claire glances at the watch on her LEFT wrist; Olivia, bent over the light table, doesn\'t notice','Time is running out','Claire: down at her watch','Bridge to SC006: the hour is coming',
  'Static, from the hall through the black-framed glass, closer: inside, Claire glances at the watch on her LEFT wrist. Beside her, Olivia stays bent over the light table and does not notice. Then cut.',chars='G',sfx='The hall; the light-table hum muffled',forbid=['Claire or Olivia talking','Olivia looking up']),
 ]
+CL=lambda e:{'character_id':'CHR-CLAIRE','look_id':'L7','expression_ids':e}
+CHARS={1:[{'character_id':'CHR-MAYA'},CL(['EXP-C-02']),{'character_id':'CHR-OLIVIA'}],2:[{'character_id':'CHR-MAYA'}],3:[{'character_id':'CHR-JUNE'}],4:[{'character_id':'CHR-MAYA'}],5:[{'character_id':'CHR-JUNE'}],6:[{'character_id':'CHR-MAYA'}],7:[{'character_id':'CHR-JUNE'}],8:[{'character_id':'CHR-JUNE'}],9:[{'character_id':'CHR-MAYA'}],10:[{'character_id':'CHR-MAYA'}],11:[{'character_id':'CHR-JUNE'}],12:[{'character_id':'CHR-JUNE'}],13:[{'character_id':'CHR-MAYA'},{'character_id':'CHR-JUNE'}],14:[{'character_id':'CHR-MAYA'}],15:[CL(['EXP-C-04']),{'character_id':'CHR-OLIVIA'}]}
 for c in S:
+    n=int(c['shot_id'][-2:]); c['direction']['characters']=CHARS.get(n,[])
     a=c['assets']; a['asset_hashes']={f:h(f) for f in a['character_refs']+a['voice_refs']+a['location_refs'] if h(f)}
     missing=[f for f in a['character_refs']+a['voice_refs']+a['location_refs'] if not h(f)]
     assert not missing, missing

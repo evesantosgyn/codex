@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "templates/character-bible.schema.json",
+  "title": "Character Bible canônica (HPS 1.0, bíblia 03)",
+  "description": "Fonte canônica legível por programa de uma personagem: identity lock, referências com SHA-256, looks, voz, limites, proibidos e o catálogo de expressões com IDs (EXP-<inicial>-NN). Os Shot Production Cards citam character_id, look_id e expression_ids. O Markdown de leitura e os pacotes de prancha são gerados a partir deste arquivo (tools/character_bible.py).",
+  "type": "object",
+  "required": ["character_id", "series", "name", "version", "status", "references", "identity_lock", "looks", "interpretation_rule", "limits", "forbidden", "expressions", "sheets"],
+  "properties": {
+    "character_id": {"type": "string", "pattern": "^CHR-[A-Z]+$"},
+    "series": {"type": "string"},
+    "name": {"type": "string"},
+    "version": {"type": "string", "pattern": "^V[0-9]{2}$"},
+    "status": {"enum": ["proposed", "approved", "superseded"]},
+    "updated": {"type": "string"},
+    "approval": {"type": "object"},
+    "sources": {"type": "object"},
+    "references": {
+      "type": "object",
+      "additionalProperties": {"type": "object", "required": ["path", "sha256"], "properties": {"path": {"type": "string"}, "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}}}
+    },
+    "identity_lock": {
+      "type": "object",
+      "required": ["immutable", "variable", "generator_errors"],
+      "properties": {
+        "immutable": {"type": "object", "additionalProperties": {"type": "string"}},
+        "variable": {"type": "array", "items": {"type": "string"}},
+        "generator_errors": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "looks": {"type": "object", "additionalProperties": {"type": "string"}, "propertyNames": {"pattern": "^L[0-9]+$"}},
+    "voice": {"type": "object"},
+    "camera": {"type": "string"},
+    "light": {"type": "string"},
+    "sound": {"type": "array", "items": {"type": "string"}},
+    "interpretation_rule": {"type": "string"},
+    "limits": {"type": "object"},
+    "forbidden": {"type": "array", "items": {"type": "string"}},
+    "expression_groups": {"type": "array", "items": {"type": "object", "required": ["id", "name"]}},
+    "expressions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "group", "name", "where", "direction", "sheet", "panel", "status", "reference_image"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^EXP-[A-Z]+-[0-9]{2}$"},
+          "group": {"type": "string"},
+          "name": {"type": "string"},
+          "where": {"type": "string"},
+          "direction": {"type": "string", "description": "Direção em inglês, neutra de ferramenta"},
+          "sheet": {"type": "string", "pattern": "^P[0-9]+$"},
+          "panel": {"type": "integer", "minimum": 1},
+          "age_variant": {"type": "string"},
+          "status": {"enum": ["proposed", "approved"]},
+          "reference_image": {"type": ["object", "null"], "properties": {"path": {"type": "string"}, "sha256": {"type": "string"}, "panel": {"type": "integer"}}}
+        }
+      }
+    },
+    "sheets": {
+      "type": "array",
+      "items": {"type": "object", "required": ["id", "name", "panels", "approved_file", "status"], "properties": {"status": {"enum": ["pending", "approved"]}}}
+    }
+  }
+}

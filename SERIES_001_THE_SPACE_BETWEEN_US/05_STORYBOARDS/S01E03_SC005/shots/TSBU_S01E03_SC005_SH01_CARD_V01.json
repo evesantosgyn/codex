@@ -47,6 +47,21 @@
       "Maya in focus",
       "any text on hard hats",
       "music"
+    ],
+    "characters": [
+      {
+        "character_id": "CHR-MAYA"
+      },
+      {
+        "character_id": "CHR-CLAIRE",
+        "look_id": "L7",
+        "expression_ids": [
+          "EXP-C-02"
+        ]
+      },
+      {
+        "character_id": "CHR-OLIVIA"
+      }
     ]
   },
   "assets": {

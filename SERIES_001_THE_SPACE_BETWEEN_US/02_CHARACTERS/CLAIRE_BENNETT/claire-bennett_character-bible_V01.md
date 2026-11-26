@@ -8,6 +8,8 @@
 > - **[A DEFINIR]** = lacuna. Não é inventada como fato.
 > **Relação com os outros arquivos:** `ficha.md` é o resumo; `continuidade.yaml → claire_bennett` guarda os traços fixos. Esta bíblia é a fonte completa da personagem.
 
+> **Fonte canônica legível por programa (🟡 proposta):** `TSBU_CHR-CLAIRE_V01.json` (schema `templates/character-bible.schema.json`). Guarda o Identity Lock, as referências com SHA-256, os looks, os limites e o **catálogo das 54 expressões da T1** (IDs `EXP-C-01` a `EXP-C-54`). O catálogo em Markdown e o pacote das pranchas são **gerados** dele por `tools/character_bible.py`. As fichas de plano citam `character_id`, `look_id` e `expression_ids`.
+
 ---
 
 ## 0. Controle documental

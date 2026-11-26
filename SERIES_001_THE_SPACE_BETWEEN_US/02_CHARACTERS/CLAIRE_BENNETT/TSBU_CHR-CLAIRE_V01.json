@@ -1,0 +1,886 @@
+{
+  "character_id": "CHR-CLAIRE",
+  "series": "TSBU",
+  "name": "Claire Bennett",
+  "version": "V01",
+  "status": "proposed",
+  "updated": "2026-11-26",
+  "approval": {
+    "bible": "V93",
+    "catalog": null
+  },
+  "sources": {
+    "bible_md": "02_CHARACTERS/CLAIRE_BENNETT/claire-bennett_character-bible_V01.md",
+    "continuity": "01_SERIES_BIBLE/continuidade.yaml#claire_bennett",
+    "catalog_md": "02_CHARACTERS/CLAIRE_BENNETT/claire-bennett_catalogo-expressoes-T1_V01.md (gerado)",
+    "sheets_pack": "02_CHARACTERS/CLAIRE_BENNETT/claire_pranchas_pacote-chatgpt_V01.md (gerado)"
+  },
+  "references": {
+    "identity_pack": {
+      "path": "02_CHARACTERS/CLAIRE_BENNETT/claire-bennett_identity-pack.webp",
+      "sha256": "aefa60dd42cd85faf8a419433a662d347530ec0f9d823445824869b250da8a6b"
+    },
+    "face_ref": {
+      "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_ref-SC001_t04s.jpg",
+      "sha256": "615cebb925dc752c712c4cca9576a13dea45c9e6071f290e16f49f1ffc3b13ae"
+    },
+    "look_L6": {
+      "path": "06_GENERATED_ASSETS/IMAGES/S01E02_LOOK_CLAIRE_V01.png",
+      "sha256": "bf2efa13ef6c61925b3f6a53cd7bcc4f9f283e96ac8fc542768dbfad88d21bbf"
+    },
+    "look_L7": {
+      "path": "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_CLAIRE_V01.png",
+      "sha256": "4738fee5774068764292ad9ae256c09424335a9251fd93821642c303306efe9f"
+    },
+    "level1_ref": {
+      "path": "06_GENERATED_ASSETS/IMAGES/S01E03_SC004_KF-C-ASK_V02.png",
+      "sha256": "09163719c63d2ad313a8ad531984af433ba93c19f2bab5f2f738c3790319557f"
+    },
+    "voice": {
+      "path": "06_GENERATED_ASSETS/VOICES/claire_bennett_voice-ref_v02.wav",
+      "sha256": "dfc7ef67376d14f1ba4a4a71a747ae43cd263f0cdcf892ffdc655032fc98aa63"
+    }
+  },
+  "identity_lock": {
+    "immutable": {
+      "face": "oval face, high cheekbones, strong dark straight eyebrows, expressive eyes, straight slim nose, full lips",
+      "eyes": "brown",
+      "hair": "dark brown all the way to the ends (never copper or auburn), long soft waves, curtain bangs, worn loose in scenes",
+      "hair_seven_years_ago": "dark brown, long, wavy, NO bangs",
+      "skin": "fair, natural",
+      "height": "1.65 m",
+      "watch": "white dial, black strap, LEFT wrist",
+      "necklace": "ONE small dark-red pendant on a thin gold chain",
+      "rings": "none",
+      "earrings": "small gold hoops",
+      "lipstick": "wine red (none at home in the morning)"
+    },
+    "variable": [
+      "look (L1–L7)",
+      "hard hat on site",
+      "coat on or off",
+      "home make-up"
+    ],
+    "generator_errors": [
+      "copper hair ends",
+      "hazel or green eyes",
+      "rings",
+      "second necklace",
+      "watch on right wrist",
+      "large hoops",
+      "hair pulled back or half-up",
+      "face mixed with Olivia when both in the same chat"
+    ]
+  },
+  "looks": {
+    "L6": "black fine turtleneck, taupe pleated trousers, black belt with gold buckle, black ankle boots (EP02, V54)",
+    "L7": "dark-red silk blouse with soft high neck, black tailored trousers, black belt, black block-heel boots, long charcoal wool coat with inner pocket (EP03, V75)"
+  },
+  "voice": {
+    "reference": "06_GENERATED_ASSETS/VOICES/claire_bennett_voice-ref_v02.wav",
+    "language": "American English",
+    "register": "controlled, dry, precise; irony without raising the voice",
+    "pace_wpm": {
+      "comedy": "100-115",
+      "love": "60-90",
+      "sadness": "slowest"
+    }
+  },
+  "camera": "static, symmetrical; slightly low when in control (P-15)",
+  "light": "cool: white and blue (E14)",
+  "sound": [
+    "watch tick",
+    "tablet glass",
+    "firm footsteps"
+  ],
+  "interpretation_rule": "Her control is the armor of someone who still feels. The eyes betray her first, then the breath, the mouth last. The stronger the emotion, the less she moves.",
+  "limits": {
+    "laugh_open": "never in S1",
+    "shout": "never in S1",
+    "touch": "never initiates until EP08; when touched, does not pull away and does not respond",
+    "tears": {
+      "1": "default subtext",
+      "2": "only EP03 SC006",
+      "3": "TBD, EP07 or EP08"
+    }
+  },
+  "forbidden": [
+    "open laughter",
+    "shouting",
+    "sobbing outside an authorized peak",
+    "wide smile without reason",
+    "neutral face in a personal line with Olivia",
+    "sustained gaze at Olivia without looking away (except EXP-C-22, EXP-C-41)"
+  ],
+  "expression_groups": [
+    {
+      "id": "A",
+      "name": "Controle e trabalho (a armadura)"
+    },
+    {
+      "id": "B",
+      "name": "Comédia (seco na cara, timing na voz)"
+    },
+    {
+      "id": "C",
+      "name": "Amor e desejo (escondidos)"
+    },
+    {
+      "id": "D",
+      "name": "Mágoa e tristeza"
+    },
+    {
+      "id": "E",
+      "name": "Raiva (fria)"
+    },
+    {
+      "id": "F",
+      "name": "Medo, choque e ansiedade"
+    },
+    {
+      "id": "G",
+      "name": "Vulnerabilidade e esperança"
+    },
+    {
+      "id": "H",
+      "name": "Choro aberto, nível 3 (seção 4.3.1 da bíblia)"
+    },
+    {
+      "id": "I",
+      "name": "Intimidade e casa"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "EXP-C-01",
+      "group": "A",
+      "name": "Controle (o padrão)",
+      "where": "Toda cena de trabalho",
+      "direction": "Composed, direct steady gaze, lips closed, upright; nothing gives her away.",
+      "sheet": "P1",
+      "panel": 1,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-02",
+      "group": "A",
+      "name": "Concentrada (no trabalho)",
+      "where": "EP01 SC001 (a maquete); EP03 SC003 (a lupa)",
+      "direction": "Absorbed in precise work, eyes narrowed slightly, mouth relaxed, completely still.",
+      "sheet": "P3",
+      "panel": 1,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-03",
+      "group": "A",
+      "name": "Avaliando alguém",
+      "where": "EP01 (a reunião); EP02",
+      "direction": "A cool, measuring look, head very slightly tilted, unreadable.",
+      "sheet": "P3",
+      "panel": 2,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-04",
+      "group": "A",
+      "name": "Impaciência educada (o relógio)",
+      "where": "EP02 SC007 (5:58 → 6:00); EP03 SC005",
+      "direction": "Glances at her watch, then back up with polite, thin patience.",
+      "sheet": "P3",
+      "panel": 3,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-05",
+      "group": "A",
+      "name": "Dando uma regra (formalidade jurídica)",
+      "where": "EP01 SC007; EP02 SC007",
+      "direction": "Calm and formal, as if reading a contract clause; the faintest lift of the chin.",
+      "sheet": "P3",
+      "panel": 4,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-06",
+      "group": "A",
+      "name": "Recolocando a máscara",
+      "where": "Depois de todo momento em que racha",
+      "direction": "She blinks once, resets her face, straightens; the professional mask slides back on.",
+      "sheet": "P3",
+      "panel": 5,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-07",
+      "group": "B",
+      "name": "Sarcasmo seco",
+      "where": "EP01–EP03",
+      "direction": "Perfectly serious face, one brow barely raised; the joke is in the timing, not the face.",
+      "sheet": "P4",
+      "panel": 1,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-08",
+      "group": "B",
+      "name": "Exasperação contida",
+      "where": "EP02 SC002 (a luz: \"I said preferred\")",
+      "direction": "A slow blink and a held breath, lips pressed; she will not dignify this with a reaction.",
+      "sheet": "P4",
+      "panel": 2,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-09",
+      "group": "B",
+      "name": "Pega olhando",
+      "where": "EP01–EP04",
+      "direction": "Caught looking at Olivia: her eyes snap away to something technical, a flush she pretends isn't there.",
+      "sheet": "P4",
+      "panel": 3,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-10",
+      "group": "B",
+      "name": "Desconcertada (Olivia a desarma)",
+      "where": "EP02; EP04",
+      "direction": "Thrown for half a second: a blink, lips part, then she recovers with exaggerated precision.",
+      "sheet": "P4",
+      "panel": 4,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-11",
+      "group": "B",
+      "name": "Segurando o riso",
+      "where": "EP02; EP04; EP06",
+      "direction": "Pressing her lips together against a laugh, eyes bright, looking down; a breath through the nose.",
+      "sheet": "P4",
+      "panel": 5,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-12",
+      "group": "B",
+      "name": "\"Almost smile\"",
+      "where": "Motivo recorrente da T1",
+      "direction": "The corner of her mouth starts to lift and she catches it before it becomes a smile; eyes lowered.",
+      "sheet": "P1",
+      "panel": 4,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-13",
+      "group": "B",
+      "name": "Sorriso que escapa",
+      "where": "EP01 SC008 (`S01E01_SC008_KF-C3-SMILE_V01`); EP08",
+      "direction": "A real smile escapes before she can stop it; small, warm, quickly hidden.",
+      "sheet": "P5",
+      "panel": 1,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-14",
+      "group": "B",
+      "name": "Embaraço",
+      "where": "EP01 SC004 (o café no balcão)",
+      "direction": "Mortified but dignified: eyes closed for a beat, a tiny exhale, chin up.",
+      "sheet": "P4",
+      "panel": 6,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-15",
+      "group": "C",
+      "name": "O olhar escondido",
+      "where": "Toda a T1",
+      "direction": "Looking at Olivia when Olivia can't see; her face softens without permission.",
+      "sheet": "P5",
+      "panel": 2,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-16",
+      "group": "C",
+      "name": "Ternura disfarçada (o cuidado técnico)",
+      "where": "EP01 (\"The light is better from the west\"); EP02",
+      "direction": "Tenderness disguised as correction: a businesslike face, but the eyes are gentle.",
+      "sheet": "P5",
+      "panel": 3,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-17",
+      "group": "C",
+      "name": "O nome dela",
+      "where": "Toda fala com \"Olivia\"",
+      "direction": "A small breath before the name; the voice drops and nearly catches.",
+      "sheet": "P5",
+      "panel": 4,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-18",
+      "group": "C",
+      "name": "Desejo",
+      "where": "EP04 \"Almost\" (planejado)",
+      "direction": "Her eyes drop to Olivia's lips and come back up too fast, guilty; breath held.",
+      "sheet": "P6",
+      "panel": 1,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-19",
+      "group": "C",
+      "name": "A quase-aproximação",
+      "where": "EP04 (planejado)",
+      "direction": "Leaning in a centimeter, eyes half-lowered, lips parted, about to; then she stops herself.",
+      "sheet": "P6",
+      "panel": 2,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-20",
+      "group": "C",
+      "name": "Saudade (a lembrança)",
+      "where": "EP01 SC004 (o número); EP03 SC003 (a foto dela dormindo)",
+      "direction": "Looking at an object from the past, eyes soft and far away, the faintest pain at the mouth.",
+      "sheet": "P5",
+      "panel": 5,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-21",
+      "group": "C",
+      "name": "Ser tocada",
+      "where": "EP03 em diante",
+      "direction": "When Olivia touches her she does not pull away and does not respond: perfectly still, eyes down, breath stopped.",
+      "sheet": "P6",
+      "panel": 3,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-22",
+      "group": "C",
+      "name": "Rendição ao amor",
+      "where": "EP06 \"The Night We Stayed\"; EP08 (planejado)",
+      "direction": "She stops fighting it: open, soft eyes on Olivia, a slow breath out, the whole face unguarded.",
+      "sheet": "P5",
+      "panel": 6,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-23",
+      "group": "D",
+      "name": "Atingida (o golpe)",
+      "where": "EP01 SC006 (o slide); EP03 SC001 (`KF-C1-HIT`)",
+      "direction": "Hit: everything stops; eyes widen a fraction, breath held, no other movement.",
+      "sheet": "P7",
+      "panel": 1,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-24",
+      "group": "D",
+      "name": "Mágoa escondida",
+      "where": "EP02; EP03",
+      "direction": "Hurt behind a composed face: the jaw set, the eyes betraying a flicker of pain.",
+      "sheet": "P7",
+      "panel": 2,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-25",
+      "group": "D",
+      "name": "Nível 1 (olhos brilhando)",
+      "where": "Padrão do subtexto (V70); EP03 SC004 (`KF-C-ASK`)",
+      "direction": "Firm face, a thin wet shine on the lower lids, no tear.",
+      "sheet": "P1",
+      "panel": 2,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-26",
+      "group": "D",
+      "name": "Nível 2 (uma lágrima contida)",
+      "where": "**EP03 SC006**",
+      "direction": "One tear on one cheek; jaw held, eyes open and steady; she refuses to break.",
+      "sheet": "P1",
+      "panel": 3,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-27",
+      "group": "D",
+      "name": "Tristeza sozinha",
+      "where": "EP01 SC004 (a manhã); EP05–EP07",
+      "direction": "Alone, unguarded: still, eyes on nothing, a long exhale; the armor off because no one sees.",
+      "sheet": "P7",
+      "panel": 3,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-28",
+      "group": "D",
+      "name": "Decepção",
+      "where": "EP02 SC004 (\"Did you know?\"); EP05",
+      "direction": "Quiet disappointment: eyes lower, a small nod to herself, the mouth tightening at one corner.",
+      "sheet": "P7",
+      "panel": 4,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-29",
+      "group": "D",
+      "name": "Cansaço",
+      "where": "EP01 SC004 (sem batom, olheiras); fim de dia",
+      "direction": "Tired to the bone: heavy lids, slow blink, shoulders down.",
+      "sheet": "P7",
+      "panel": 5,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-30",
+      "group": "E",
+      "name": "Irritação controlada",
+      "where": "EP01–EP02",
+      "direction": "A tightening around the eyes and jaw; voice-ready politeness over it.",
+      "sheet": "P3",
+      "panel": 6,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-31",
+      "group": "E",
+      "name": "Raiva fria",
+      "where": "EP02 SC004 (\"You don't get to decide that for me.\")",
+      "direction": "Very still, chin slightly down, eyes holding and hard, slow blink; no shouting.",
+      "sheet": "P1",
+      "panel": 5,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-32",
+      "group": "E",
+      "name": "Desconfiança",
+      "where": "EP01–EP05",
+      "direction": "Narrowed eyes, head barely turned, weighing every word Olivia says.",
+      "sheet": "P8",
+      "panel": 1,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-33",
+      "group": "E",
+      "name": "A traição entendida",
+      "where": "EP04 (a família, planejado); EP07",
+      "direction": "The moment she understands: eyes go still, color drains, the mouth opens slightly and closes.",
+      "sheet": "P8",
+      "panel": 2,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-34",
+      "group": "E",
+      "name": "O confronto",
+      "where": "**EP07 \"The Cost of Silence\"** (planejado)",
+      "direction": "Facing Olivia directly, eyes wet and furious, voice low and shaking but not raised; she does not look away.",
+      "sheet": "P8",
+      "panel": 3,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-35",
+      "group": "E",
+      "name": "A raiva que vira choro",
+      "where": "EP07 (planejado)",
+      "direction": "Mid-anger the voice cracks; she swallows hard, eyes flood, she refuses to let the tears fall.",
+      "sheet": "P8",
+      "panel": 4,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-36",
+      "group": "F",
+      "name": "Choque",
+      "where": "EP01 SC003 (Olivia na porta)",
+      "direction": "Frozen in the doorway: eyes wide, lips parted, no breath, the hand still on the door.",
+      "sheet": "P9",
+      "panel": 1,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-37",
+      "group": "F",
+      "name": "Dúvida",
+      "where": "EP03 SC004 (o vão: `KF-C-GAP`)",
+      "direction": "A small frown of doubt, eyes fixed on the detail that doesn't fit.",
+      "sheet": "P9",
+      "panel": 2,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-38",
+      "group": "F",
+      "name": "Medo de ser deixada",
+      "where": "EP04–EP08",
+      "direction": "Eyes flick to the door or to Olivia's bag; arms fold; a shallow breath; she steers back to work.",
+      "sheet": "P9",
+      "panel": 3,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-39",
+      "group": "F",
+      "name": "Ansiedade em ordem",
+      "where": "EP01 (a chave torta, a árvore de 4 mm)",
+      "direction": "Straightening something that is already straight, eyes on her hands, lips pressed.",
+      "sheet": "P9",
+      "panel": 4,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-40",
+      "group": "F",
+      "name": "Pânico contido",
+      "where": "EP05 (planejado)",
+      "direction": "Too-regular breath she is controlling, eyes slightly too wide, hands flat on the table.",
+      "sheet": "P9",
+      "panel": 5,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-41",
+      "group": "G",
+      "name": "Vulnerável",
+      "where": "EP03 SC006; EP06; EP08",
+      "direction": "For once she does not look away: eyes open and soft, brows lifted in the middle, lips just parted.",
+      "sheet": "P1",
+      "panel": 6,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-42",
+      "group": "G",
+      "name": "Ouvindo a verdade",
+      "where": "EP05–EP07 (planejado)",
+      "direction": "Listening without defending: still, eyes on Olivia, absorbing each word, a small swallow.",
+      "sheet": "P7",
+      "panel": 6,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-43",
+      "group": "G",
+      "name": "A pergunta honesta",
+      "where": "EP06 (planejado)",
+      "direction": "Asking the real question: quiet, direct, eyes searching Olivia's face, afraid of the answer.",
+      "sheet": "P8",
+      "panel": 5,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-44",
+      "group": "G",
+      "name": "Considerando perdoar",
+      "where": "EP07–EP08 (planejado)",
+      "direction": "Looking at Olivia a long moment, the hurt and the love both visible, undecided.",
+      "sheet": "P8",
+      "panel": 6,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-45",
+      "group": "G",
+      "name": "Esperança",
+      "where": "EP06; EP08 (planejado)",
+      "direction": "A careful, almost frightened hope: eyes bright, a breath in, the start of a smile she allows.",
+      "sheet": "P6",
+      "panel": 4,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-46",
+      "group": "G",
+      "name": "A decisão (tentar de novo)",
+      "where": "**EP08** (planejado)",
+      "direction": "Calm, clear, eyes wet but steady on Olivia; a small nod; she chooses this.",
+      "sheet": "P6",
+      "panel": 5,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-47",
+      "group": "H",
+      "name": "A luta",
+      "where": "Pico do arco, EP07 ou EP08 (A DEFINIR)",
+      "direction": "THE FIGHT: eyes fixed on a point, brimming but holding; chin trembling, lips pressed tight; breath held; completely still. A real, painful cry is coming, not glamorous.",
+      "sheet": "P2",
+      "panel": 1,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-48",
+      "group": "H",
+      "name": "A quebra",
+      "where": "idem",
+      "direction": "THE BREAK: her face gives way: brows lifted in the middle, eyes squeezing shut, mouth opening; her LEFT hand (white-dial watch) pressed over her mouth, face turning slightly away; the first tear spills.",
+      "sheet": "P2",
+      "panel": 2,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-49",
+      "group": "H",
+      "name": "O choro aberto",
+      "where": "idem",
+      "direction": "OPEN CRYING: crying for real but quietly, the sound held inward: eyes closed, tears running down both cheeks, mouth open in a silent sob, shoulders curled in, one arm wrapped around herself; lipstick slightly smudged; not looking at the camera.",
+      "sheet": "P2",
+      "panel": 3,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-50",
+      "group": "H",
+      "name": "Depois",
+      "where": "idem",
+      "direction": "AFTER: red, wet eyes open and looking just off camera; tear tracks on her cheeks; wiping one cheek with the back of her hand; jaw set again, shoulders slowly straightening.",
+      "sheet": "P2",
+      "panel": 4,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-51",
+      "group": "I",
+      "name": "Dormindo (aos 28, sem franja)",
+      "where": "EP03 (a foto, V80)",
+      "direction": "Asleep on her side, face completely unguarded, lips slightly parted, morning light.",
+      "sheet": "P10",
+      "panel": 1,
+      "reference_image": null,
+      "status": "proposed",
+      "age_variant": "28 (seven years ago): NO bangs"
+    },
+    {
+      "id": "EXP-C-52",
+      "group": "I",
+      "name": "Acordando",
+      "where": "EP01 SC004; EP06 (planejado)",
+      "direction": "Half-awake, soft and unguarded for three seconds before she remembers to be Claire.",
+      "reference_image": null,
+      "status": "proposed",
+      "sheet": "P10",
+      "panel": 2
+    },
+    {
+      "id": "EXP-C-53",
+      "group": "I",
+      "name": "Sozinha com o celular (o número)",
+      "where": "EP01 SC004; EP03",
+      "direction": "Thumb over a contact, eyes on the screen, a breath, then she locks it.",
+      "sheet": "P9",
+      "panel": 6,
+      "reference_image": null,
+      "status": "proposed"
+    },
+    {
+      "id": "EXP-C-54",
+      "group": "I",
+      "name": "Paz",
+      "where": "EP08 (planejado)",
+      "direction": "At rest beside Olivia, face relaxed for the first time in the season, eyes half-closed.",
+      "sheet": "P6",
+      "panel": 6,
+      "reference_image": null,
+      "status": "proposed"
+    }
+  ],
+  "sheets": [
+    {
+      "id": "P1",
+      "name": "Essenciais",
+      "panels": [
+        "EXP-C-01",
+        "EXP-C-25",
+        "EXP-C-26",
+        "EXP-C-12",
+        "EXP-C-31",
+        "EXP-C-41"
+      ],
+      "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P2",
+      "name": "Choro aberto",
+      "panels": [
+        "EXP-C-47",
+        "EXP-C-48",
+        "EXP-C-49",
+        "EXP-C-50"
+      ],
+      "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-choro-nivel3_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P3",
+      "name": "Controle e trabalho",
+      "panels": [
+        "EXP-C-02",
+        "EXP-C-03",
+        "EXP-C-04",
+        "EXP-C-05",
+        "EXP-C-06",
+        "EXP-C-30"
+      ],
+      "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P4",
+      "name": "Comédia",
+      "panels": [
+        "EXP-C-07",
+        "EXP-C-08",
+        "EXP-C-09",
+        "EXP-C-10",
+        "EXP-C-11",
+        "EXP-C-14"
+      ],
+      "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P5",
+      "name": "Sorriso e amor",
+      "panels": [
+        "EXP-C-13",
+        "EXP-C-15",
+        "EXP-C-16",
+        "EXP-C-17",
+        "EXP-C-20",
+        "EXP-C-22"
+      ],
+      "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P6",
+      "name": "Desejo e toque",
+      "panels": [
+        "EXP-C-18",
+        "EXP-C-19",
+        "EXP-C-21",
+        "EXP-C-45",
+        "EXP-C-46",
+        "EXP-C-54"
+      ],
+      "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P7",
+      "name": "Mágoa",
+      "panels": [
+        "EXP-C-23",
+        "EXP-C-24",
+        "EXP-C-27",
+        "EXP-C-28",
+        "EXP-C-29",
+        "EXP-C-42"
+      ],
+      "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P8",
+      "name": "Raiva e confronto",
+      "panels": [
+        "EXP-C-32",
+        "EXP-C-33",
+        "EXP-C-34",
+        "EXP-C-35",
+        "EXP-C-43",
+        "EXP-C-44"
+      ],
+      "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P9",
+      "name": "Medo e choque",
+      "panels": [
+        "EXP-C-36",
+        "EXP-C-37",
+        "EXP-C-38",
+        "EXP-C-39",
+        "EXP-C-40",
+        "EXP-C-53"
+      ],
+      "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P10",
+      "name": "Intimidade",
+      "panels": [
+        "EXP-C-51",
+        "EXP-C-52"
+      ],
+      "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P10_V01.png",
+      "status": "pending"
+    }
+  ]
+}

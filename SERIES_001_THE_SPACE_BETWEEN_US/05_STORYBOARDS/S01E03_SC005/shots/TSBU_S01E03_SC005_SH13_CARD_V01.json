@@ -47,6 +47,14 @@
       "reflections hiding the faces",
       "any text on hard hats",
       "music"
+    ],
+    "characters": [
+      {
+        "character_id": "CHR-MAYA"
+      },
+      {
+        "character_id": "CHR-JUNE"
+      }
     ]
   },
   "assets": {
