@@ -203,8 +203,12 @@
       "name": "Exagero cômico",
       "where": "EP01 (\"There. Civilization is saved.\")",
       "direction": "Mock-grand seriousness, chin up, eyes half-closed as if announcing a great achievement; still no smile.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png",
+        "sha256": "4cb3e57b9672050159f29c1ec79261060bfeff2548651d5121cce9cfe4e0c1a7",
+        "panel": 1
+      },
       "sheet": "P2",
       "panel": 1
     },
@@ -214,8 +218,12 @@
       "name": "Exasperação contida",
       "where": "EP01–EP03",
       "direction": "A slow blink at the ceiling, lips pressed, patience visibly running out; no smile.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png",
+        "sha256": "4cb3e57b9672050159f29c1ec79261060bfeff2548651d5121cce9cfe4e0c1a7",
+        "panel": 2
+      },
       "sheet": "P2",
       "panel": 2
     },
@@ -225,8 +233,12 @@
       "name": "Falsa compaixão",
       "where": "EP01 (\"Oh, that's unfortunate.\")",
       "direction": "Exaggerated mock sympathy, brows lifted in the middle, lips pursed; clearly not sorry at all.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png",
+        "sha256": "4cb3e57b9672050159f29c1ec79261060bfeff2548651d5121cce9cfe4e0c1a7",
+        "panel": 3
+      },
       "sheet": "P2",
       "panel": 3
     },
@@ -236,8 +248,12 @@
       "name": "Surpresa fingida",
       "where": "EP02",
       "direction": "Eyebrows raised theatrically, mouth closed, deadpan; she is not surprised.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png",
+        "sha256": "4cb3e57b9672050159f29c1ec79261060bfeff2548651d5121cce9cfe4e0c1a7",
+        "panel": 4
+      },
       "sheet": "P2",
       "panel": 4
     },
@@ -247,8 +263,12 @@
       "name": "Duelo com June (desconfiança simpática)",
       "where": "EP02 SC005; EP03 SC002",
       "direction": "Narrowed eyes and a polite, dangerous calm, head tilted, studying an opponent she secretly likes.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png",
+        "sha256": "4cb3e57b9672050159f29c1ec79261060bfeff2548651d5121cce9cfe4e0c1a7",
+        "panel": 5
+      },
       "sheet": "P2",
       "panel": 5
     },
@@ -258,8 +278,12 @@
       "name": "A encarada",
       "where": "EP03 SC002 (\"What's in it?\")",
       "direction": "A long unblinking stare, arms crossed, waiting for an answer she will get eventually.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png",
+        "sha256": "4cb3e57b9672050159f29c1ec79261060bfeff2548651d5121cce9cfe4e0c1a7",
+        "panel": 6
+      },
       "sheet": "P2",
       "panel": 6
     },
@@ -487,7 +511,10 @@
         "EXP-M-12"
       ],
       "approved_file": "02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "4cb3e57b9672050159f29c1ec79261060bfeff2548651d5121cce9cfe4e0c1a7",
+      "approval": "V118",
+      "edits": "nenhuma"
     },
     {
       "id": "P3",

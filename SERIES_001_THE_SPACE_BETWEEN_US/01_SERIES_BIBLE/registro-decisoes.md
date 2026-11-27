@@ -89,6 +89,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V118 | **Maya: prancha P2 (comédia) APROVADA** sem edição (`02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png`): EXP-M-07, 08, 09, 10, 11, 12. Seis piadas sem sorriso: o exagero nas sobrancelhas, nos olhos e no queixo, nunca na boca | APROVADO (2026-11-27) | `TSBU_CHR-MAYA_V01.json` |
 | V117 | **Maya: prancha P1 (essenciais) APROVADA** (`02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png`, após 1 edição: carinho nos olhos no 13; lábios entreabertos no 24). EXP-M-05, 06, 13, 19, 21, 24. Nenhum riso aberto; olhos verde-oliva | APROVADO (2026-11-27) | `TSBU_CHR-MAYA_V01.json` |
 | V116 | **Character Bible de Maya V01 APROVADA** (`02_CHARACTERS/MAYA_REED/maya-reed_character-bible_V01.md` + JSON `TSBU_CHR-MAYA_V01.json`, 28 expressões `EXP-M-01`–`EXP-M-28` em 6 grupos, 5 pranchas). **Regra-mãe:** fala com o timing e cala com o corpo. **Vida própria:** ferida (foi ela quem ficou quando Olivia partiu; não confia em quem já foi embora), contradição (a vida fora da planilha × os prazos de todo mundo), arco (de guardiã a aceitar a escolha de Claire; com June, da rivalidade simpática à aliança). As expressões rindo de boca aberta da prancha original ficam fora (V70) | APROVADO (2026-11-27) | Character Bible de Maya |
 | V115 | **As vozes ficam a cargo do Pedro** (decisão da responsável, alinhada ao HPS: Evelin define a interpretação, Pedro implementa). Pedro escolhe o motor de voz, cria ou substitui as referências, faz a conversão e o lip sync de todas as personagens. **Evelin valida a fidelidade**: registro de cada personagem (V28 Olivia, P-10 Claire e Maya, V38 June), a emoção e o ritmo medido (E11, V90). A candidata `@VOZ_OLIVIA` do EP02 deixa de esperar a escuta da responsável e vai para o Pedro como sugestão (`06_GENERATED_ASSETS/VOICES/CANDIDATAS_PEDRO/olivia_hayes_voice-ref_CANDIDATA_v01.wav`). A correção B do EP02 (V90) continua com o Pedro, no motor que ele definir | APROVADO (2026-11-27) | Decisão da responsável |
@@ -224,6 +225,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-27 | Maya: prancha P2 (comédia) aprovada e ligada ao JSON (V118) | Showrunner GL AI |
 | 2026-11-27 | Maya: prancha P1 aprovada e ligada ao JSON (V117) | Showrunner GL AI |
 | 2026-11-27 | Character Bible de Maya V01 aprovada, 28 expressões (V116) | Showrunner GL AI |
 | 2026-11-27 | As vozes ficam a cargo do Pedro; candidata de Olivia entregue como sugestão (V115) | Showrunner GL AI |

@@ -19,12 +19,12 @@
 |---|---|---|---|---|---|
 | EXP-M-05 | **Deadpan (a piada no timing)** | Toda a T1 (E3) | *Perfectly serious face delivering a joke; not a trace of a smile; the comedy is in her stillness.* | P1·1 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png` painel 1 |
 | EXP-M-06 | **Ironia carinhosa** | EP01 ("Good night, you terrifying woman.") | *A dry, fond look, one corner of the mouth barely moving, eyebrow slightly raised; affection disguised as sarcasm.* | P1·2 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png` painel 2 |
-| EXP-M-07 | **Exagero cômico** | EP01 ("There. Civilization is saved.") | *Mock-grand seriousness, chin up, eyes half-closed as if announcing a great achievement; still no smile.* | P2·1 | — |
-| EXP-M-08 | **Exasperação contida** | EP01–EP03 | *A slow blink at the ceiling, lips pressed, patience visibly running out; no smile.* | P2·2 | — |
-| EXP-M-09 | **Falsa compaixão** | EP01 ("Oh, that's unfortunate.") | *Exaggerated mock sympathy, brows lifted in the middle, lips pursed; clearly not sorry at all.* | P2·3 | — |
-| EXP-M-10 | **Surpresa fingida** | EP02 | *Eyebrows raised theatrically, mouth closed, deadpan; she is not surprised.* | P2·4 | — |
-| EXP-M-11 | **Duelo com June (desconfiança simpática)** | EP02 SC005; EP03 SC002 | *Narrowed eyes and a polite, dangerous calm, head tilted, studying an opponent she secretly likes.* | P2·5 | — |
-| EXP-M-12 | **A encarada** | EP03 SC002 ("What's in it?") | *A long unblinking stare, arms crossed, waiting for an answer she will get eventually.* | P2·6 | — |
+| EXP-M-07 | **Exagero cômico** | EP01 ("There. Civilization is saved.") | *Mock-grand seriousness, chin up, eyes half-closed as if announcing a great achievement; still no smile.* | P2·1 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png` painel 1 |
+| EXP-M-08 | **Exasperação contida** | EP01–EP03 | *A slow blink at the ceiling, lips pressed, patience visibly running out; no smile.* | P2·2 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png` painel 2 |
+| EXP-M-09 | **Falsa compaixão** | EP01 ("Oh, that's unfortunate.") | *Exaggerated mock sympathy, brows lifted in the middle, lips pursed; clearly not sorry at all.* | P2·3 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png` painel 3 |
+| EXP-M-10 | **Surpresa fingida** | EP02 | *Eyebrows raised theatrically, mouth closed, deadpan; she is not surprised.* | P2·4 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png` painel 4 |
+| EXP-M-11 | **Duelo com June (desconfiança simpática)** | EP02 SC005; EP03 SC002 | *Narrowed eyes and a polite, dangerous calm, head tilted, studying an opponent she secretly likes.* | P2·5 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png` painel 5 |
+| EXP-M-12 | **A encarada** | EP03 SC002 ("What's in it?") | *A long unblinking stare, arms crossed, waiting for an answer she will get eventually.* | P2·6 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png` painel 6 |
 
 ### C. Carinho e cumplicidade
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -68,7 +68,7 @@
 | Prancha | Painéis | Arquivo | Status |
 |---|---|---|---|
 | P1 — Essenciais | EXP-M-05, EXP-M-06, EXP-M-13, EXP-M-19, EXP-M-21, EXP-M-24 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png` | approved |
-| P2 — Comédia | EXP-M-07, EXP-M-08, EXP-M-09, EXP-M-10, EXP-M-11, EXP-M-12 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png` | pending |
+| P2 — Comédia | EXP-M-07, EXP-M-08, EXP-M-09, EXP-M-10, EXP-M-11, EXP-M-12 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png` | approved |
 | P3 — Trabalho e carinho | EXP-M-01, EXP-M-02, EXP-M-03, EXP-M-04, EXP-M-14, EXP-M-15 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P3_V01.png` | pending |
 | P4 — Proteção | EXP-M-16, EXP-M-17, EXP-M-18, EXP-M-20, EXP-M-22, EXP-M-23 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P4_V01.png` | pending |
 | P5 — Ela mesma | EXP-M-25, EXP-M-26, EXP-M-27, EXP-M-28 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png` | pending |
