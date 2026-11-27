@@ -89,6 +89,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V104 | **Claire: prancha P10 (acordando) APROVADA** e **bíblia de Claire completa: as 54 expressões da T1 com referência visual aprovada.** EXP-C-52 (`02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P10_V01.png`, painel recortado após edição: franja, sem colar, sem batom, argolas pequenas, pijama de seda preta); EXP-C-51 ligado à foto de Claire dormindo aos 28 (V80). Total: 10 pranchas + a foto V80, todas com SHA-256 no JSON canônico | APROVADO (2026-11-27) | `TSBU_CHR-CLAIRE_V01.json` |
 | V103 | **Claire: prancha P9 (medo e choque) APROVADA** sem edição (`02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png`): EXP-C-36 (a mão no batente), 37, 38, 39, 40 (relógio no pulso esquerdo), 53 (o celular de costas, sem texto). Nenhum anel | APROVADO (2026-11-27) | `TSBU_CHR-CLAIRE_V01.json` |
 | V102 | **Claire: prancha P8 (raiva e confronto) APROVADA** sem edição (`02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png`): EXP-C-32, 33, 34 (o confronto do EP07, sem grito), 35, 43, 44 | APROVADO (2026-11-27) | `TSBU_CHR-CLAIRE_V01.json` |
 | V101 | **Claire: prancha P7 (mágoa) APROVADA** (`02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png`, após 1 edição: EXP-C-27 sem armadura). EXP-C-23, 24, 27, 28, 29, 42, cada um com gesto próprio | APROVADO (2026-11-27) | `TSBU_CHR-CLAIRE_V01.json` |
@@ -210,6 +211,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-27 | Claire: prancha P10 aprovada; as 54 expressões com referência visual; bíblia de Claire completa (V104) | Showrunner GL AI |
 | 2026-11-27 | Claire: prancha P9 (medo e choque) aprovada e ligada ao JSON (V103) | Showrunner GL AI |
 | 2026-11-27 | Claire: prancha P8 (raiva e confronto) aprovada e ligada ao JSON (V102) | Showrunner GL AI |
 | 2026-11-27 | Claire: prancha P7 (mágoa) aprovada e ligada ao JSON (V101) | Showrunner GL AI |

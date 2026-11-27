@@ -926,8 +926,12 @@
       "name": "Acordando",
       "where": "EP01 SC004; EP06 (planejado)",
       "direction": "Half-awake, soft and unguarded for three seconds before she remembers to be Claire.",
-      "reference_image": null,
-      "status": "proposed",
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P10_V01.png",
+        "sha256": "bac33ad25e8ab5528674d152d55640e80e1d7f0c0c83306e767f56fad1882ab2",
+        "panel": 1
+      },
+      "status": "approved",
       "sheet": "P10",
       "panel": 1,
       "note": "Em casa de manhã: sem batom, sem colar, sem relógio, só argolas; pijama de seda preta (V32)"
@@ -1133,12 +1137,16 @@
         "EXP-C-52"
       ],
       "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P10_V01.png",
-      "status": "pending",
-      "custom_prompt": "Create a single photorealistic, cinematic close-up of the SAME woman as R1 (Claire Bennett, 35), 16:9, natural skin texture, with a small caption underneath.\n\nIdentity: oval face, high cheekbones, strong dark straight eyebrows, deep warm BROWN eyes, straight slim nose, full lips; dark brown hair all the way to the ends (no copper or caramel), long soft waves, curtain bangs, loose and a little messy from sleep. At home in the morning: NO lipstick, faint shadows under the eyes, black silk pajama shirt, small gold hoop earrings only — NO necklace, NO watch, NO rings.\n\nEXP-C-52 — Lying in bed with her head on a white pillow, half-awake in soft early-morning window light: eyes barely open and unfocused, face soft and completely unguarded, lips relaxed; the three seconds before she remembers to be Claire. Camera at pillow height.\n\nCaption: EXP-C-52. No other text."
+      "status": "approved",
+      "custom_prompt": "Create a single photorealistic, cinematic close-up of the SAME woman as R1 (Claire Bennett, 35), 16:9, natural skin texture, with a small caption underneath.\n\nIdentity: oval face, high cheekbones, strong dark straight eyebrows, deep warm BROWN eyes, straight slim nose, full lips; dark brown hair all the way to the ends (no copper or caramel), long soft waves, curtain bangs, loose and a little messy from sleep. At home in the morning: NO lipstick, faint shadows under the eyes, black silk pajama shirt, small gold hoop earrings only — NO necklace, NO watch, NO rings.\n\nEXP-C-52 — Lying in bed with her head on a white pillow, half-awake in soft early-morning window light: eyes barely open and unfocused, face soft and completely unguarded, lips relaxed; the three seconds before she remembers to be Claire. Camera at pillow height.\n\nCaption: EXP-C-52. No other text.",
+      "sha256": "bac33ad25e8ab5528674d152d55640e80e1d7f0c0c83306e767f56fad1882ab2",
+      "approval": "V104",
+      "edits": "Gerado com o bloco antigo (2 painéis); painel EXP-C-52 editado (franja, sem colar, sem batom, argolas pequenas, pijama de seda preta) e recortado; o painel EXP-C-51 foi descartado (a referência é a foto V80)"
     }
   ],
   "notes": {
     "expression_status": "proposed = texto aprovado (V94), ainda sem painel de prancha aprovado; approved = com reference_image (prancha aprovada)"
   },
-  "generation_suffix": "Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONLY ONE thin gold chain with ONE small dark-red pendant resting on top of the high neck of the blouse; never a second chain."
+  "generation_suffix": "Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONLY ONE thin gold chain with ONE small dark-red pendant resting on top of the high neck of the blouse; never a second chain.",
+  "status_visual": "54/54 expressões com referência visual aprovada"
 }
