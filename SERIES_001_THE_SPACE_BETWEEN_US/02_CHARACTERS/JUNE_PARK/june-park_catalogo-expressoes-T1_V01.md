@@ -11,7 +11,7 @@
 |---|---|---|---|---|---|
 | EXP-J-01 | **Observando pela borda** | Toda a T1 (E14) | *Watching from the edge of the frame, in profile, still and attentive; she sees everything and says nothing.* | P3·1 | — |
 | EXP-J-02 | **Focada (laptop, prancheta)** | EP01 SC005; EP02 | *Eyes down on her laptop or clipboard, efficient and absorbed, a small crease between the brows.* | P3·2 | — |
-| EXP-J-03 | **A pergunta inconveniente** | EP01–EP03 | *Head slightly tilted, a level, patient look that has just asked the question nobody wanted asked.* | P2·1 | — |
+| EXP-J-03 | **A pergunta inconveniente** | EP01–EP03 | *Head slightly tilted, a level, patient look that has just asked the question nobody wanted asked.* | P2·1 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png` painel 1 |
 | EXP-J-04 | **A produtora resolvendo** | EP01–EP03 | *Pragmatic and unbothered, already solving the problem: brisk, practical, eyebrows level.* | P3·3 | — |
 
 ### B. Deadpan
@@ -19,10 +19,10 @@
 |---|---|---|---|---|---|
 | EXP-J-05 | **Deadpan seco** | EP01 ("Remarkable. You heard an entire noun.") | *A perfectly still face delivering a dry line; not a trace of a smile; irony only in the eyes.* | P1·1 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png` painel 1 |
 | EXP-J-06 | **Ironia nos olhos e no canto da boca** | EP01 SC005 (J1-B, V63) | *Irony in the eyes and one corner of the mouth barely lifted; dryly amused, nothing more.* | P1·2 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png` painel 2 |
-| EXP-J-07 | **O diagnóstico curto** | EP01 ("A romantic triumph.") | *A flat, unimpressed look, eyelids slightly lowered, delivering a one-line verdict.* | P2·2 | — |
-| EXP-J-08 | **O olhar "sério?"** | EP02 | *One eyebrow barely raised, mouth flat, staring at someone who has just said something absurd.* | P2·3 | — |
-| EXP-J-09 | **Duelo com Maya** | EP02 SC005; EP03 SC002 | *A calm, polite, immovable look across the table, chin level; she will not give an inch, and she likes her opponent.* | P2·4 | — |
-| EXP-J-10 | **A mão sobre a tampa** | EP03 SC002 ("Seven years.") | *Her hand resting flat on a box lid, eyes calmly meeting someone else's, protecting it without a word.* | P2·5 | — |
+| EXP-J-07 | **O diagnóstico curto** | EP01 ("A romantic triumph.") | *A flat, unimpressed look, eyelids slightly lowered, delivering a one-line verdict.* | P2·2 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png` painel 2 |
+| EXP-J-08 | **O olhar "sério?"** | EP02 | *One eyebrow barely raised, mouth flat, staring at someone who has just said something absurd.* | P2·3 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png` painel 3 |
+| EXP-J-09 | **Duelo com Maya** | EP02 SC005; EP03 SC002 | *A calm, polite, immovable look across the table, chin level; she will not give an inch, and she likes her opponent.* | P2·4 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png` painel 4 |
+| EXP-J-10 | **A mão sobre a tampa** | EP03 SC002 ("Seven years.") | *Her hand resting flat on a box lid, eyes calmly meeting someone else's, protecting it without a word.* | P2·5 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png` painel 5 |
 
 ### C. Lealdade a Olivia
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -52,7 +52,7 @@
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
 | EXP-J-23 | **Cansada (fim do dia)** | EP02 SC008; EP03 (a van) | *End-of-day tired: heavy lids, head resting back, the professional face off.* | P5·1 | — |
-| EXP-J-24 | **O sorriso de canto (raríssimo)** | EP08 (planejado) | *A rare, small, crooked half-smile that she allows for one second.* | P2·6 | — |
+| EXP-J-24 | **O sorriso de canto (raríssimo)** | EP08 (planejado) | *A rare, small, crooked half-smile that she allows for one second.* | P2·6 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png` painel 6 |
 | EXP-J-25 | **Aliança com Maya** | EP04–EP08 (planejado) | *A small, knowing nod across the room: an understanding with an old rival.* | P5·2 | — |
 | EXP-J-26 | **Alívio quando Olivia conta** | EP07–EP08 (planejado) | *Relief: a long breath out, eyes closing for a moment, shoulders dropping; finally not the only one who knows.* | P5·3 | — |
 
@@ -67,7 +67,7 @@
 | Prancha | Painéis | Arquivo | Status |
 |---|---|---|---|
 | P1 — Essenciais | EXP-J-05, EXP-J-06, EXP-J-12, EXP-J-16, EXP-J-18, EXP-J-20 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png` | approved |
-| P2 — Deadpan | EXP-J-03, EXP-J-07, EXP-J-08, EXP-J-09, EXP-J-10, EXP-J-24 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png` | pending |
+| P2 — Deadpan | EXP-J-03, EXP-J-07, EXP-J-08, EXP-J-09, EXP-J-10, EXP-J-24 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png` | approved |
 | P3 — Trabalho e lealdade | EXP-J-01, EXP-J-02, EXP-J-04, EXP-J-11, EXP-J-13, EXP-J-14 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png` | pending |
 | P4 — O segredo | EXP-J-15, EXP-J-17, EXP-J-19, EXP-J-21, EXP-J-22 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P4_V01.png` | pending |
 | P5 — Ela mesma | EXP-J-23, EXP-J-25, EXP-J-26 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png` | pending |

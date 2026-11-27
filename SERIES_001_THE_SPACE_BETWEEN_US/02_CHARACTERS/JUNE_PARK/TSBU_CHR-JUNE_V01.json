@@ -145,8 +145,12 @@
       "name": "A pergunta inconveniente",
       "where": "EP01–EP03",
       "direction": "Head slightly tilted, a level, patient look that has just asked the question nobody wanted asked.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png",
+        "sha256": "c37dda4b44351ef1efcdcef647abf39144b21d203679f5ae9ebbb027f4c9c31f",
+        "panel": 1
+      },
       "sheet": "P2",
       "panel": 1
     },
@@ -197,8 +201,12 @@
       "name": "O diagnóstico curto",
       "where": "EP01 (\"A romantic triumph.\")",
       "direction": "A flat, unimpressed look, eyelids slightly lowered, delivering a one-line verdict.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png",
+        "sha256": "c37dda4b44351ef1efcdcef647abf39144b21d203679f5ae9ebbb027f4c9c31f",
+        "panel": 2
+      },
       "sheet": "P2",
       "panel": 2
     },
@@ -208,8 +216,12 @@
       "name": "O olhar \"sério?\"",
       "where": "EP02",
       "direction": "One eyebrow barely raised, mouth flat, staring at someone who has just said something absurd.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png",
+        "sha256": "c37dda4b44351ef1efcdcef647abf39144b21d203679f5ae9ebbb027f4c9c31f",
+        "panel": 3
+      },
       "sheet": "P2",
       "panel": 3
     },
@@ -219,8 +231,12 @@
       "name": "Duelo com Maya",
       "where": "EP02 SC005; EP03 SC002",
       "direction": "A calm, polite, immovable look across the table, chin level; she will not give an inch, and she likes her opponent.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png",
+        "sha256": "c37dda4b44351ef1efcdcef647abf39144b21d203679f5ae9ebbb027f4c9c31f",
+        "panel": 4
+      },
       "sheet": "P2",
       "panel": 4
     },
@@ -230,8 +246,12 @@
       "name": "A mão sobre a tampa",
       "where": "EP03 SC002 (\"Seven years.\")",
       "direction": "Her hand resting flat on a box lid, eyes calmly meeting someone else's, protecting it without a word.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png",
+        "sha256": "c37dda4b44351ef1efcdcef647abf39144b21d203679f5ae9ebbb027f4c9c31f",
+        "panel": 5
+      },
       "sheet": "P2",
       "panel": 5
     },
@@ -400,8 +420,12 @@
       "name": "O sorriso de canto (raríssimo)",
       "where": "EP08 (planejado)",
       "direction": "A rare, small, crooked half-smile that she allows for one second.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png",
+        "sha256": "c37dda4b44351ef1efcdcef647abf39144b21d203679f5ae9ebbb027f4c9c31f",
+        "panel": 6
+      },
       "sheet": "P2",
       "panel": 6
     },
@@ -458,7 +482,10 @@
         "EXP-J-24"
       ],
       "approved_file": "02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "c37dda4b44351ef1efcdcef647abf39144b21d203679f5ae9ebbb027f4c9c31f",
+      "approval": "V124",
+      "edits": "V01 → V02 no ChatGPT: EXP-J-10 com a caixa de metal antiga de adesivos de bagagem (estava de papelão)"
     },
     {
       "id": "P3",
