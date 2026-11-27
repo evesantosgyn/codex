@@ -56,10 +56,10 @@
 |---|---|---|---|---|---|
 | EXP-C-30 | **Irritação controlada** | EP01–EP02 | *A tightening around the eyes and jaw; voice-ready politeness over it.* | P3·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` painel 6 |
 | EXP-C-31 | **Raiva fria** | EP02 SC004 ("You don't get to decide that for me.") | *Very still, chin slightly down, eyes holding and hard, slow blink; no shouting.* | P1·5 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` painel 5 |
-| EXP-C-32 | **Desconfiança** | EP01–EP05 | *Narrowed eyes, head barely turned, weighing every word Olivia says.* | P8·1 | — |
-| EXP-C-33 | **A traição entendida** | EP04 (a família, planejado); EP07 | *The moment she understands: eyes go still, color drains, the mouth opens slightly and closes.* | P8·2 | — |
-| EXP-C-34 | **O confronto** | **EP07 "The Cost of Silence"** (planejado) | *Facing Olivia directly, eyes wet and furious, voice low and shaking but not raised; she does not look away.* | P8·3 | — |
-| EXP-C-35 | **A raiva que vira choro** | EP07 (planejado) | *Mid-anger the voice cracks; she swallows hard, eyes flood, she refuses to let the tears fall.* | P8·4 | — |
+| EXP-C-32 | **Desconfiança** | EP01–EP05 | *Narrowed eyes, head barely turned, weighing every word Olivia says.* | P8·1 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png` painel 1 |
+| EXP-C-33 | **A traição entendida** | EP04 (a família, planejado); EP07 | *The moment she understands: eyes go still, color drains, the mouth opens slightly and closes.* | P8·2 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png` painel 2 |
+| EXP-C-34 | **O confronto** | **EP07 "The Cost of Silence"** (planejado) | *Facing Olivia directly, eyes wet and furious, voice low and shaking but not raised; she does not look away.* | P8·3 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png` painel 3 |
+| EXP-C-35 | **A raiva que vira choro** | EP07 (planejado) | *Mid-anger the voice cracks; she swallows hard, eyes flood, she refuses to let the tears fall.* | P8·4 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png` painel 4 |
 
 ### F. Medo, choque e ansiedade
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -75,8 +75,8 @@
 |---|---|---|---|---|---|
 | EXP-C-41 | **Vulnerável** | EP03 SC006; EP06; EP08 | *For once she does not look away: eyes open and soft, brows lifted in the middle, lips just parted.* | P1·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` painel 6 |
 | EXP-C-42 | **Ouvindo a verdade** | EP05–EP07 (planejado) | *Listening without defending: still, eyes on Olivia, absorbing each word, a small swallow.* | P7·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` painel 6 |
-| EXP-C-43 | **A pergunta honesta** | EP06 (planejado) | *Asking the real question: quiet, direct, eyes searching Olivia's face, afraid of the answer.* | P8·5 | — |
-| EXP-C-44 | **Considerando perdoar** | EP07–EP08 (planejado) | *Looking at Olivia a long moment, the hurt and the love both visible, undecided.* | P8·6 | — |
+| EXP-C-43 | **A pergunta honesta** | EP06 (planejado) | *Asking the real question: quiet, direct, eyes searching Olivia's face, afraid of the answer.* | P8·5 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png` painel 5 |
+| EXP-C-44 | **Considerando perdoar** | EP07–EP08 (planejado) | *Looking at Olivia a long moment, the hurt and the love both visible, undecided.* | P8·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png` painel 6 |
 | EXP-C-45 | **Esperança** | EP06; EP08 (planejado) | *A careful, almost frightened hope: eyes bright, a breath in, the start of a smile she allows.* | P6·4 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png` painel 4 |
 | EXP-C-46 | **A decisão (tentar de novo)** | **EP08** (planejado) | *Calm, clear, eyes wet but steady on Olivia; a small nod; she chooses this.* | P6·5 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png` painel 5 |
 
@@ -114,6 +114,6 @@
 | P5 — Sorriso e amor | EXP-C-13, EXP-C-15, EXP-C-16, EXP-C-17, EXP-C-20, EXP-C-22 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` | approved |
 | P6 — Desejo e toque | EXP-C-18, EXP-C-19, EXP-C-21, EXP-C-45, EXP-C-46, EXP-C-54 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png` | approved |
 | P7 — Mágoa | EXP-C-23, EXP-C-24, EXP-C-27, EXP-C-28, EXP-C-29, EXP-C-42 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` | approved |
-| P8 — Raiva e confronto | EXP-C-32, EXP-C-33, EXP-C-34, EXP-C-35, EXP-C-43, EXP-C-44 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png` | pending |
+| P8 — Raiva e confronto | EXP-C-32, EXP-C-33, EXP-C-34, EXP-C-35, EXP-C-43, EXP-C-44 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png` | approved |
 | P9 — Medo e choque | EXP-C-36, EXP-C-37, EXP-C-38, EXP-C-39, EXP-C-40, EXP-C-53 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png` | pending |
 | P10 — Intimidade | EXP-C-51, EXP-C-52 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P10_V01.png` | pending |

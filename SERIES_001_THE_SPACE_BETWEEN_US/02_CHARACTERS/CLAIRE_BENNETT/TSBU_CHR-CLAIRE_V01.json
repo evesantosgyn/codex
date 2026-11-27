@@ -626,8 +626,12 @@
       "direction": "Narrowed eyes, head barely turned, weighing every word Olivia says.",
       "sheet": "P8",
       "panel": 1,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png",
+        "sha256": "0dc88773ab69ce58b50669dab6359c48a2da5557a549bafc63eb689034538d0f",
+        "panel": 1
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-33",
@@ -637,8 +641,12 @@
       "direction": "The moment she understands: eyes go still, color drains, the mouth opens slightly and closes.",
       "sheet": "P8",
       "panel": 2,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png",
+        "sha256": "0dc88773ab69ce58b50669dab6359c48a2da5557a549bafc63eb689034538d0f",
+        "panel": 2
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-34",
@@ -648,8 +656,12 @@
       "direction": "Facing Olivia directly, eyes wet and furious, voice low and shaking but not raised; she does not look away.",
       "sheet": "P8",
       "panel": 3,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png",
+        "sha256": "0dc88773ab69ce58b50669dab6359c48a2da5557a549bafc63eb689034538d0f",
+        "panel": 3
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-35",
@@ -659,8 +671,12 @@
       "direction": "Mid-anger the voice cracks; she swallows hard, eyes flood, she refuses to let the tears fall.",
       "sheet": "P8",
       "panel": 4,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png",
+        "sha256": "0dc88773ab69ce58b50669dab6359c48a2da5557a549bafc63eb689034538d0f",
+        "panel": 4
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-36",
@@ -755,8 +771,12 @@
       "direction": "Asking the real question: quiet, direct, eyes searching Olivia's face, afraid of the answer.",
       "sheet": "P8",
       "panel": 5,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png",
+        "sha256": "0dc88773ab69ce58b50669dab6359c48a2da5557a549bafc63eb689034538d0f",
+        "panel": 5
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-44",
@@ -766,8 +786,12 @@
       "direction": "Looking at Olivia a long moment, the hurt and the love both visible, undecided.",
       "sheet": "P8",
       "panel": 6,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png",
+        "sha256": "0dc88773ab69ce58b50669dab6359c48a2da5557a549bafc63eb689034538d0f",
+        "panel": 6
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-45",
@@ -1039,7 +1063,10 @@
         "EXP-C-44"
       ],
       "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "0dc88773ab69ce58b50669dab6359c48a2da5557a549bafc63eb689034538d0f",
+      "approval": "V102",
+      "edits": "nenhuma"
     },
     {
       "id": "P9",
