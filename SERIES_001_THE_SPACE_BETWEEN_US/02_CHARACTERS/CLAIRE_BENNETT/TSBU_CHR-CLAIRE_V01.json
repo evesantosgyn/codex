@@ -686,8 +686,12 @@
       "direction": "Frozen in the doorway: eyes wide, lips parted, no breath, the hand still on the door.",
       "sheet": "P9",
       "panel": 1,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png",
+        "sha256": "9c20e22b8d9d7dc28073bc9dd141f8b78cf84d37fdd95abd8dc8b197a72ff334",
+        "panel": 1
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-37",
@@ -697,8 +701,12 @@
       "direction": "A small frown of doubt, eyes fixed on the detail that doesn't fit.",
       "sheet": "P9",
       "panel": 2,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png",
+        "sha256": "9c20e22b8d9d7dc28073bc9dd141f8b78cf84d37fdd95abd8dc8b197a72ff334",
+        "panel": 2
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-38",
@@ -708,8 +716,12 @@
       "direction": "Eyes flick to the door or to Olivia's bag; arms fold; a shallow breath; she steers back to work.",
       "sheet": "P9",
       "panel": 3,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png",
+        "sha256": "9c20e22b8d9d7dc28073bc9dd141f8b78cf84d37fdd95abd8dc8b197a72ff334",
+        "panel": 3
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-39",
@@ -719,8 +731,12 @@
       "direction": "Straightening something that is already straight, eyes on her hands, lips pressed.",
       "sheet": "P9",
       "panel": 4,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png",
+        "sha256": "9c20e22b8d9d7dc28073bc9dd141f8b78cf84d37fdd95abd8dc8b197a72ff334",
+        "panel": 4
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-40",
@@ -730,8 +746,12 @@
       "direction": "Too-regular breath she is controlling, eyes slightly too wide, hands flat on the table.",
       "sheet": "P9",
       "panel": 5,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png",
+        "sha256": "9c20e22b8d9d7dc28073bc9dd141f8b78cf84d37fdd95abd8dc8b197a72ff334",
+        "panel": 5
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-41",
@@ -914,8 +934,12 @@
       "direction": "Thumb over a contact, eyes on the screen, a breath, then she locks it.",
       "sheet": "P9",
       "panel": 6,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png",
+        "sha256": "9c20e22b8d9d7dc28073bc9dd141f8b78cf84d37fdd95abd8dc8b197a72ff334",
+        "panel": 6
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-54",
@@ -1080,7 +1104,10 @@
         "EXP-C-53"
       ],
       "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "9c20e22b8d9d7dc28073bc9dd141f8b78cf84d37fdd95abd8dc8b197a72ff334",
+      "approval": "V103",
+      "edits": "nenhuma"
     },
     {
       "id": "P10",

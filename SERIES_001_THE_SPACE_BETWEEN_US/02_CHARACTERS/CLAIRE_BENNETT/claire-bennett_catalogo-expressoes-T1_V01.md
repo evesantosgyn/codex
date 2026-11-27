@@ -64,11 +64,11 @@
 ### F. Medo, choque e ansiedade
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-C-36 | **Choque** | EP01 SC003 (Olivia na porta) | *Frozen in the doorway: eyes wide, lips parted, no breath, the hand still on the door.* | P9·1 | — |
-| EXP-C-37 | **Dúvida** | EP03 SC004 (o vão: `KF-C-GAP`) | *A small frown of doubt, eyes fixed on the detail that doesn't fit.* | P9·2 | — |
-| EXP-C-38 | **Medo de ser deixada** | EP04–EP08 | *Eyes flick to the door or to Olivia's bag; arms fold; a shallow breath; she steers back to work.* | P9·3 | — |
-| EXP-C-39 | **Ansiedade em ordem** | EP01 (a chave torta, a árvore de 4 mm) | *Straightening something that is already straight, eyes on her hands, lips pressed.* | P9·4 | — |
-| EXP-C-40 | **Pânico contido** | EP05 (planejado) | *Too-regular breath she is controlling, eyes slightly too wide, hands flat on the table.* | P9·5 | — |
+| EXP-C-36 | **Choque** | EP01 SC003 (Olivia na porta) | *Frozen in the doorway: eyes wide, lips parted, no breath, the hand still on the door.* | P9·1 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png` painel 1 |
+| EXP-C-37 | **Dúvida** | EP03 SC004 (o vão: `KF-C-GAP`) | *A small frown of doubt, eyes fixed on the detail that doesn't fit.* | P9·2 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png` painel 2 |
+| EXP-C-38 | **Medo de ser deixada** | EP04–EP08 | *Eyes flick to the door or to Olivia's bag; arms fold; a shallow breath; she steers back to work.* | P9·3 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png` painel 3 |
+| EXP-C-39 | **Ansiedade em ordem** | EP01 (a chave torta, a árvore de 4 mm) | *Straightening something that is already straight, eyes on her hands, lips pressed.* | P9·4 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png` painel 4 |
+| EXP-C-40 | **Pânico contido** | EP05 (planejado) | *Too-regular breath she is controlling, eyes slightly too wide, hands flat on the table.* | P9·5 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png` painel 5 |
 
 ### G. Vulnerabilidade e esperança
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -93,7 +93,7 @@
 |---|---|---|---|---|---|
 | EXP-C-51 | **Dormindo (aos 28, sem franja)** | EP03 (a foto, V80) | *Asleep on her side, face completely unguarded, lips slightly parted, morning light.* | P10·1 | — |
 | EXP-C-52 | **Acordando** | EP01 SC004; EP06 (planejado) | *Half-awake, soft and unguarded for three seconds before she remembers to be Claire.* | P10·2 | — |
-| EXP-C-53 | **Sozinha com o celular (o número)** | EP01 SC004; EP03 | *Thumb over a contact, eyes on the screen, a breath, then she locks it.* | P9·6 | — |
+| EXP-C-53 | **Sozinha com o celular (o número)** | EP01 SC004; EP03 | *Thumb over a contact, eyes on the screen, a breath, then she locks it.* | P9·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png` painel 6 |
 | EXP-C-54 | **Paz** | EP08 (planejado) | *At rest beside Olivia, face relaxed for the first time in the season, eyes half-closed.* | P6·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png` painel 6 |
 
 ## Proibidos
@@ -115,5 +115,5 @@
 | P6 — Desejo e toque | EXP-C-18, EXP-C-19, EXP-C-21, EXP-C-45, EXP-C-46, EXP-C-54 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png` | approved |
 | P7 — Mágoa | EXP-C-23, EXP-C-24, EXP-C-27, EXP-C-28, EXP-C-29, EXP-C-42 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` | approved |
 | P8 — Raiva e confronto | EXP-C-32, EXP-C-33, EXP-C-34, EXP-C-35, EXP-C-43, EXP-C-44 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png` | approved |
-| P9 — Medo e choque | EXP-C-36, EXP-C-37, EXP-C-38, EXP-C-39, EXP-C-40, EXP-C-53 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png` | pending |
+| P9 — Medo e choque | EXP-C-36, EXP-C-37, EXP-C-38, EXP-C-39, EXP-C-40, EXP-C-53 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png` | approved |
 | P10 — Intimidade | EXP-C-51, EXP-C-52 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P10_V01.png` | pending |
