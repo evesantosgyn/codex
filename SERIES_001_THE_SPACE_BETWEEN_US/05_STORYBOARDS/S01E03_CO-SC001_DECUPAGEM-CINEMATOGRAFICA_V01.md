@@ -1,6 +1,6 @@
 # S01E03 Cold Open + SC001 "Unpacked / The Gap" — Decupagem cinematográfica
 
-2026-11-27 · Evelin · 🟡 proposta · modelo: SC005 (V128) · base: decupagem V02 aprovada (N44) e keyframes aprovados (V84, V85). **Nada muda nos planos, falas ou imagens**: esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias, para o Pedro gerar em qualquer motor.
+2026-11-27 · Evelin · ✅ aprovada (V129) · modelo: SC005 (V128) · base: decupagem V02 aprovada (N44) e keyframes aprovados (V84, V85). **Nada muda nos planos, falas ou imagens**: esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias, para o Pedro gerar em qualquer motor.
 
 ## A cena
 
