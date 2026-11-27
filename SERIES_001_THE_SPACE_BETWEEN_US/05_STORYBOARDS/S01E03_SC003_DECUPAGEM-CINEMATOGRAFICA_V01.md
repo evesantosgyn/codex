@@ -1,6 +1,6 @@
 # S01E03 SC003 "Light Table" — Decupagem cinematográfica
 
-2026-11-27 · Evelin · 🟡 proposta · modelo: SC005 (V128) · base: decupagem aprovada (N46) e keyframes aprovados (V88). **Nada muda nos planos, falas ou imagens**: esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias.
+2026-11-27 · Evelin · ✅ aprovada (V131) · modelo: SC005 (V128) · base: decupagem aprovada (N46) e keyframes aprovados (V88). **Nada muda nos planos, falas ou imagens**: esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias.
 
 ## A cena
 
