@@ -5,3 +5,4 @@
 
 | Arquivo | Planos | Chat | Refs | Edições | SHA-256 | Aprovador | Data | Decisão |
 |---|---|---|---|---|---|---|---|---|
+| `TSBU_S01E03_SC006_SH03_KF_V02.png` | SH03 | 1 (Olivia) | R1, R4 | V01 → V02: tatuagem removida do antebraço direito; negativo 120 de base laranja, ilegível | `a662a2fb222981e3f101203b7ecf87c8a93ac666f172c7af7b043a9f38dfd9af` | Evelin | 2026-11-27 | registro da cena ao fim |
