@@ -56,7 +56,11 @@
     ],
     "characters": [
       {
-        "character_id": "CHR-JUNE"
+        "character_id": "CHR-JUNE",
+        "look_id": "L5",
+        "expression_ids": [
+          "EXP-J-16"
+        ]
       }
     ]
   },

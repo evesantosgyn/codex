@@ -234,6 +234,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-27 | EP03 SC005: decupagem cinematográfica para o Pedro (Claude Doc) e fichas de plano com os IDs de expressão das quatro bíblias | Showrunner GL AI |
 | 2026-11-27 | June: prancha P5 aprovada; bíblia de June completa; as quatro Character Bibles completas, 158 expressões (V127) | Showrunner GL AI |
 | 2026-11-27 | June: prancha P4 aprovada e ligada ao JSON (V126) | Showrunner GL AI |
 | 2026-11-27 | June: prancha P3 aprovada e ligada ao JSON (V125) | Showrunner GL AI |

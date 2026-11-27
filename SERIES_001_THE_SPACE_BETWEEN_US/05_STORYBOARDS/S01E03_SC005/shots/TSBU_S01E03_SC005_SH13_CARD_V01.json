@@ -50,10 +50,18 @@
     ],
     "characters": [
       {
-        "character_id": "CHR-MAYA"
+        "character_id": "CHR-MAYA",
+        "look_id": "L1",
+        "expression_ids": [
+          "EXP-M-19"
+        ]
       },
       {
-        "character_id": "CHR-JUNE"
+        "character_id": "CHR-JUNE",
+        "look_id": "L5",
+        "expression_ids": [
+          "EXP-J-22"
+        ]
       }
     ]
   },

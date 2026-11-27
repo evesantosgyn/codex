@@ -56,7 +56,11 @@
         ]
       },
       {
-        "character_id": "CHR-OLIVIA"
+        "character_id": "CHR-OLIVIA",
+        "look_id": "L1",
+        "expression_ids": [
+          "EXP-O-03"
+        ]
       }
     ]
   },

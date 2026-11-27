@@ -50,7 +50,8 @@
     ],
     "characters": [
       {
-        "character_id": "CHR-MAYA"
+        "character_id": "CHR-MAYA",
+        "look_id": "L1"
       },
       {
         "character_id": "CHR-CLAIRE",
@@ -60,7 +61,11 @@
         ]
       },
       {
-        "character_id": "CHR-OLIVIA"
+        "character_id": "CHR-OLIVIA",
+        "look_id": "L1",
+        "expression_ids": [
+          "EXP-O-03"
+        ]
       }
     ]
   },
