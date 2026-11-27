@@ -62,17 +62,17 @@
 ### F. Medo e nervos
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-O-34 | **Nervosa na porta** | EP01 SC003 ("I thought you'd close the door.") | *Nervous and hopeful at a door: a quick breath, eyes searching, a small uncertain smile that doesn't hold.* | P8·1 | — |
-| EXP-O-35 | **Medo de ser rejeitada** | EP01; EP05–EP07 | *Bracing for rejection: eyes wide and wet, lips pressed, shoulders tight.* | P8·2 | — |
-| EXP-O-36 | **Ansiedade (as mãos na câmera)** | EP01–EP03 | *Fidgeting with her camera strap or lens cap, eyes darting, a nervous half-laugh.* | P8·3 | — |
-| EXP-O-37 | **O impulso de fugir** | EP03 (as malas); EP07 | *Eyes flicking to the door or her bag, weight shifting back, the old instinct to run written on her face.* | P8·4 | — |
-| EXP-O-38 | **Decidindo ficar** | EP08 (planejado) | *The moment she chooses to stay: a deep breath, eyes steady on Claire, feet planted, frightened and sure.* | P8·5 | — |
+| EXP-O-34 | **Nervosa na porta** | EP01 SC003 ("I thought you'd close the door.") | *Nervous and hopeful at a door: a quick breath, eyes searching, a small uncertain smile that doesn't hold.* | P8·1 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png` painel 1 |
+| EXP-O-35 | **Medo de ser rejeitada** | EP01; EP05–EP07 | *Bracing for rejection: eyes wide and wet, lips pressed, shoulders tight.* | P8·2 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png` painel 2 |
+| EXP-O-36 | **Ansiedade (as mãos na câmera)** | EP01–EP03 | *Fidgeting with her camera strap or lens cap, eyes darting, a nervous half-laugh.* | P8·3 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png` painel 3 |
+| EXP-O-37 | **O impulso de fugir** | EP03 (as malas); EP07 | *Eyes flicking to the door or her bag, weight shifting back, the old instinct to run written on her face.* | P8·4 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png` painel 4 |
+| EXP-O-38 | **Decidindo ficar** | EP08 (planejado) | *The moment she chooses to stay: a deep breath, eyes steady on Claire, feet planted, frightened and sure.* | P8·5 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png` painel 5 |
 
 ### G. Vulnerabilidade e esperança
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
 | EXP-O-39 | **Vulnerável** | EP03 SC006; EP06–EP07 | *Facing Claire with full eyes and open empty hands, nothing to defend, almost whispering.* | P1·6 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` painel 6 |
-| EXP-O-40 | **Ouvindo a raiva de Claire** | EP07 (planejado) | *Listening to Claire's anger without defending herself: eyes on her, tears held, a small nod, taking every word.* | P8·6 | — |
+| EXP-O-40 | **Ouvindo a raiva de Claire** | EP07 (planejado) | *Listening to Claire's anger without defending herself: eyes on her, tears held, a small nod, taking every word.* | P8·6 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png` painel 6 |
 | EXP-O-41 | **Esperança** | EP03 SC009 (a mensagem); EP08 | *A careful hope: eyes bright and wet, a breath held, the beginning of a smile she does not dare finish.* | P9·3 | — |
 | EXP-O-42 | **Pedindo sem pedir** | EP06 (planejado) | *Asking without words: eyes searching Claire's face, lips parted, waiting, giving her the choice.* | P9·4 | — |
 
@@ -111,5 +111,5 @@
 | P5 — Amor | EXP-O-13, EXP-O-14, EXP-O-15, EXP-O-18, EXP-O-19, EXP-O-20 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` | approved |
 | P6 — Desejo e passado | EXP-O-16, EXP-O-17, EXP-O-47, EXP-O-48, EXP-O-49, EXP-O-50 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png` | approved |
 | P7 — Culpa e tristeza | EXP-O-24, EXP-O-26, EXP-O-30, EXP-O-31, EXP-O-32, EXP-O-33 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` | approved |
-| P8 — Medo e nervos | EXP-O-34, EXP-O-35, EXP-O-36, EXP-O-37, EXP-O-38, EXP-O-40 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png` | pending |
+| P8 — Medo e nervos | EXP-O-34, EXP-O-35, EXP-O-36, EXP-O-37, EXP-O-38, EXP-O-40 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png` | approved |
 | P9 — Confissão e esperança | EXP-O-27, EXP-O-28, EXP-O-41, EXP-O-42 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png` | pending |

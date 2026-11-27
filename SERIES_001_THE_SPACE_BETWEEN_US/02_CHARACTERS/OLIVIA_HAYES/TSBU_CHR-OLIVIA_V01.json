@@ -644,10 +644,15 @@
       "name": "Nervosa na porta",
       "where": "EP01 SC003 (\"I thought you'd close the door.\")",
       "direction": "Nervous and hopeful at a door: a quick breath, eyes searching, a small uncertain smile that doesn't hold.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png",
+        "sha256": "717978c974cb3d4f7d96130d3c8cbdb41c6acd53b0f06ddcc86de3a1ca8cf771",
+        "panel": 1
+      },
       "sheet": "P8",
-      "panel": 1
+      "panel": 1,
+      "note": "Na prancha, com a camisa de trabalho; na cena (EP01 SC003), o casaco longo de lã verde-oliva molhado e o cabelo solto (V26)"
     },
     {
       "id": "EXP-O-35",
@@ -655,8 +660,12 @@
       "name": "Medo de ser rejeitada",
       "where": "EP01; EP05–EP07",
       "direction": "Bracing for rejection: eyes wide and wet, lips pressed, shoulders tight.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png",
+        "sha256": "717978c974cb3d4f7d96130d3c8cbdb41c6acd53b0f06ddcc86de3a1ca8cf771",
+        "panel": 2
+      },
       "sheet": "P8",
       "panel": 2
     },
@@ -666,10 +675,15 @@
       "name": "Ansiedade (as mãos na câmera)",
       "where": "EP01–EP03",
       "direction": "Fidgeting with her camera strap or lens cap, eyes darting, a nervous half-laugh.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png",
+        "sha256": "717978c974cb3d4f7d96130d3c8cbdb41c6acd53b0f06ddcc86de3a1ca8cf771",
+        "panel": 3
+      },
       "sheet": "P8",
-      "panel": 3
+      "panel": 3,
+      "note": "A tampa da lente na prancha tem letras de marca; nos keyframes, câmera sem marca visível"
     },
     {
       "id": "EXP-O-37",
@@ -677,8 +691,12 @@
       "name": "O impulso de fugir",
       "where": "EP03 (as malas); EP07",
       "direction": "Eyes flicking to the door or her bag, weight shifting back, the old instinct to run written on her face.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png",
+        "sha256": "717978c974cb3d4f7d96130d3c8cbdb41c6acd53b0f06ddcc86de3a1ca8cf771",
+        "panel": 4
+      },
       "sheet": "P8",
       "panel": 4
     },
@@ -688,8 +706,12 @@
       "name": "Decidindo ficar",
       "where": "EP08 (planejado)",
       "direction": "The moment she chooses to stay: a deep breath, eyes steady on Claire, feet planted, frightened and sure.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png",
+        "sha256": "717978c974cb3d4f7d96130d3c8cbdb41c6acd53b0f06ddcc86de3a1ca8cf771",
+        "panel": 5
+      },
       "sheet": "P8",
       "panel": 5
     },
@@ -714,8 +736,12 @@
       "name": "Ouvindo a raiva de Claire",
       "where": "EP07 (planejado)",
       "direction": "Listening to Claire's anger without defending herself: eyes on her, tears held, a small nod, taking every word.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png",
+        "sha256": "717978c974cb3d4f7d96130d3c8cbdb41c6acd53b0f06ddcc86de3a1ca8cf771",
+        "panel": 6
+      },
       "sheet": "P8",
       "panel": 6
     },
@@ -994,7 +1020,10 @@
         "EXP-O-40"
       ],
       "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "717978c974cb3d4f7d96130d3c8cbdb41c6acd53b0f06ddcc86de3a1ca8cf771",
+      "approval": "V113",
+      "edits": "nenhuma"
     },
     {
       "id": "P9",
