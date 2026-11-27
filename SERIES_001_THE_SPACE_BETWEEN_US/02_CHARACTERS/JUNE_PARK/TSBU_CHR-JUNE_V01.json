@@ -123,8 +123,12 @@
       "name": "Observando pela borda",
       "where": "Toda a T1 (E14)",
       "direction": "Watching from the edge of the frame, in profile, still and attentive; she sees everything and says nothing.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png",
+        "sha256": "0238d145a96cf547570c795812896a988503001d8ad1f9caa7ee5bbdbeefc07b",
+        "panel": 1
+      },
       "sheet": "P3",
       "panel": 1
     },
@@ -134,8 +138,12 @@
       "name": "Focada (laptop, prancheta)",
       "where": "EP01 SC005; EP02",
       "direction": "Eyes down on her laptop or clipboard, efficient and absorbed, a small crease between the brows.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png",
+        "sha256": "0238d145a96cf547570c795812896a988503001d8ad1f9caa7ee5bbdbeefc07b",
+        "panel": 2
+      },
       "sheet": "P3",
       "panel": 2
     },
@@ -160,8 +168,12 @@
       "name": "A produtora resolvendo",
       "where": "EP01–EP03",
       "direction": "Pragmatic and unbothered, already solving the problem: brisk, practical, eyebrows level.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png",
+        "sha256": "0238d145a96cf547570c795812896a988503001d8ad1f9caa7ee5bbdbeefc07b",
+        "panel": 3
+      },
       "sheet": "P3",
       "panel": 3
     },
@@ -261,8 +273,12 @@
       "name": "Calorosa",
       "where": "EP01; EP03",
       "direction": "A rare warmth in the eyes for her friend, the face softening, a tiny closed-mouth curve.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png",
+        "sha256": "0238d145a96cf547570c795812896a988503001d8ad1f9caa7ee5bbdbeefc07b",
+        "panel": 4
+      },
       "sheet": "P3",
       "panel": 4
     },
@@ -287,8 +303,12 @@
       "name": "Protetora de Olivia",
       "where": "EP02; EP03",
       "direction": "Standing a little closer to Olivia, quietly blocking, eyes level on whoever is asking.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png",
+        "sha256": "0238d145a96cf547570c795812896a988503001d8ad1f9caa7ee5bbdbeefc07b",
+        "panel": 5
+      },
       "sheet": "P3",
       "panel": 5
     },
@@ -298,8 +318,12 @@
       "name": "Confrontando Olivia",
       "where": "EP01 (\"You can't spend seven years rehearsing a conversation...\")",
       "direction": "Looking straight at Olivia without blinking, hands stopped, saying the one true sentence.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png",
+        "sha256": "0238d145a96cf547570c795812896a988503001d8ad1f9caa7ee5bbdbeefc07b",
+        "panel": 6
+      },
       "sheet": "P3",
       "panel": 6
     },
@@ -499,7 +523,10 @@
         "EXP-J-14"
       ],
       "approved_file": "02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "0238d145a96cf547570c795812896a988503001d8ad1f9caa7ee5bbdbeefc07b",
+      "approval": "V125",
+      "edits": "nenhuma"
     },
     {
       "id": "P4",

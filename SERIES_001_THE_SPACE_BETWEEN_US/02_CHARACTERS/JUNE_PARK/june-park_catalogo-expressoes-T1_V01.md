@@ -9,10 +9,10 @@
 ### A. Observação e trabalho
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-J-01 | **Observando pela borda** | Toda a T1 (E14) | *Watching from the edge of the frame, in profile, still and attentive; she sees everything and says nothing.* | P3·1 | — |
-| EXP-J-02 | **Focada (laptop, prancheta)** | EP01 SC005; EP02 | *Eyes down on her laptop or clipboard, efficient and absorbed, a small crease between the brows.* | P3·2 | — |
+| EXP-J-01 | **Observando pela borda** | Toda a T1 (E14) | *Watching from the edge of the frame, in profile, still and attentive; she sees everything and says nothing.* | P3·1 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png` painel 1 |
+| EXP-J-02 | **Focada (laptop, prancheta)** | EP01 SC005; EP02 | *Eyes down on her laptop or clipboard, efficient and absorbed, a small crease between the brows.* | P3·2 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png` painel 2 |
 | EXP-J-03 | **A pergunta inconveniente** | EP01–EP03 | *Head slightly tilted, a level, patient look that has just asked the question nobody wanted asked.* | P2·1 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png` painel 1 |
-| EXP-J-04 | **A produtora resolvendo** | EP01–EP03 | *Pragmatic and unbothered, already solving the problem: brisk, practical, eyebrows level.* | P3·3 | — |
+| EXP-J-04 | **A produtora resolvendo** | EP01–EP03 | *Pragmatic and unbothered, already solving the problem: brisk, practical, eyebrows level.* | P3·3 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png` painel 3 |
 
 ### B. Deadpan
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -27,10 +27,10 @@
 ### C. Lealdade a Olivia
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-J-11 | **Calorosa** | EP01; EP03 | *A rare warmth in the eyes for her friend, the face softening, a tiny closed-mouth curve.* | P3·4 | — |
+| EXP-J-11 | **Calorosa** | EP01; EP03 | *A rare warmth in the eyes for her friend, the face softening, a tiny closed-mouth curve.* | P3·4 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png` painel 4 |
 | EXP-J-12 | **Preocupação firme e gentil** | EP01 SC005 (J2-B, V63) | *Firm, gentle concern: eyes steady on Olivia, brows slightly drawn, lips closed; she will not let her run.* | P1·3 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png` painel 3 |
-| EXP-J-13 | **Protetora de Olivia** | EP02; EP03 | *Standing a little closer to Olivia, quietly blocking, eyes level on whoever is asking.* | P3·5 | — |
-| EXP-J-14 | **Confrontando Olivia** | EP01 ("You can't spend seven years rehearsing a conversation...") | *Looking straight at Olivia without blinking, hands stopped, saying the one true sentence.* | P3·6 | — |
+| EXP-J-13 | **Protetora de Olivia** | EP02; EP03 | *Standing a little closer to Olivia, quietly blocking, eyes level on whoever is asking.* | P3·5 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png` painel 5 |
+| EXP-J-14 | **Confrontando Olivia** | EP01 ("You can't spend seven years rehearsing a conversation...") | *Looking straight at Olivia without blinking, hands stopped, saying the one true sentence.* | P3·6 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png` painel 6 |
 | EXP-J-15 | **Empurrando Olivia ("Does Claire know?")** | EP01 SC009; EP02 SC008 | *A direct, quiet look that asks the question Olivia avoids; patient and relentless.* | P4·1 | — |
 
 ### D. O segredo
@@ -68,6 +68,6 @@
 |---|---|---|---|
 | P1 — Essenciais | EXP-J-05, EXP-J-06, EXP-J-12, EXP-J-16, EXP-J-18, EXP-J-20 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png` | approved |
 | P2 — Deadpan | EXP-J-03, EXP-J-07, EXP-J-08, EXP-J-09, EXP-J-10, EXP-J-24 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png` | approved |
-| P3 — Trabalho e lealdade | EXP-J-01, EXP-J-02, EXP-J-04, EXP-J-11, EXP-J-13, EXP-J-14 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png` | pending |
+| P3 — Trabalho e lealdade | EXP-J-01, EXP-J-02, EXP-J-04, EXP-J-11, EXP-J-13, EXP-J-14 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png` | approved |
 | P4 — O segredo | EXP-J-15, EXP-J-17, EXP-J-19, EXP-J-21, EXP-J-22 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P4_V01.png` | pending |
 | P5 — Ela mesma | EXP-J-23, EXP-J-25, EXP-J-26 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png` | pending |
