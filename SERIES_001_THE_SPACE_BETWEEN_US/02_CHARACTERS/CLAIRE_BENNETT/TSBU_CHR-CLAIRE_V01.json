@@ -414,8 +414,12 @@
       "direction": "Her eyes drop to Olivia's lips and come back up too fast, guilty; breath held.",
       "sheet": "P6",
       "panel": 1,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png",
+        "sha256": "c4332a0fb0d07236c530dd4df962453bbbcc2367b48f4fc69fd51a5c71c73413",
+        "panel": 1
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-19",
@@ -425,8 +429,12 @@
       "direction": "Leaning in a centimeter, eyes half-lowered, lips parted, about to; then she stops herself.",
       "sheet": "P6",
       "panel": 2,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png",
+        "sha256": "c4332a0fb0d07236c530dd4df962453bbbcc2367b48f4fc69fd51a5c71c73413",
+        "panel": 2
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-20",
@@ -451,8 +459,13 @@
       "direction": "When Olivia touches her she does not pull away and does not respond: perfectly still, eyes down, breath stopped.",
       "sheet": "P6",
       "panel": 3,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png",
+        "sha256": "c4332a0fb0d07236c530dd4df962453bbbcc2367b48f4fc69fd51a5c71c73413",
+        "panel": 3
+      },
+      "status": "approved",
+      "note": "Na prancha, a mão que toca é genérica (manga preta); na cena, é a de Olivia com o figurino dela"
     },
     {
       "id": "EXP-C-22",
@@ -740,8 +753,12 @@
       "direction": "A careful, almost frightened hope: eyes bright, a breath in, the start of a smile she allows.",
       "sheet": "P6",
       "panel": 4,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png",
+        "sha256": "c4332a0fb0d07236c530dd4df962453bbbcc2367b48f4fc69fd51a5c71c73413",
+        "panel": 4
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-46",
@@ -751,8 +768,12 @@
       "direction": "Calm, clear, eyes wet but steady on Olivia; a small nod; she chooses this.",
       "sheet": "P6",
       "panel": 5,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png",
+        "sha256": "c4332a0fb0d07236c530dd4df962453bbbcc2367b48f4fc69fd51a5c71c73413",
+        "panel": 5
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-47",
@@ -856,8 +877,12 @@
       "direction": "At rest beside Olivia, face relaxed for the first time in the season, eyes half-closed.",
       "sheet": "P6",
       "panel": 6,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png",
+        "sha256": "c4332a0fb0d07236c530dd4df962453bbbcc2367b48f4fc69fd51a5c71c73413",
+        "panel": 6
+      },
+      "status": "approved"
     }
   ],
   "sheets": [
@@ -956,7 +981,10 @@
         "EXP-C-54"
       ],
       "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "c4332a0fb0d07236c530dd4df962453bbbcc2367b48f4fc69fd51a5c71c73413",
+      "approval": "V100",
+      "edits": "V01 → V02 no ChatGPT: EXP-C-46 (a decisão) de frente, sem sorriso, olhos úmidos e firmes (estava igual ao EXP-C-45)"
     },
     {
       "id": "P7",
