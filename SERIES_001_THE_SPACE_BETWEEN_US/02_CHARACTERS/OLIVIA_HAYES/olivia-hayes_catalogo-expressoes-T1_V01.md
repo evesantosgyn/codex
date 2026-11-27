@@ -44,9 +44,9 @@
 | EXP-O-21 | **A meia-verdade** | EP02 SC008; EP03 SC004 | *Telling half the truth with her eyes fixed on the table, never on Claire: lips tight between the words, guilt held very still.* | P1·3 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` painel 3 |
 | EXP-O-22 | **Culpa atrás da leveza** | EP01–EP03 (no escritório) | *A light, friendly face on the surface, but the eyes give her away: a flicker of guilt behind the smile.* | P4·6 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` painel 6 |
 | EXP-O-23 | **A respiração antes da verdade** | EP03 SC004 ("I didn't take care of that.") | *The held breath before a hard truth: lips pressed together then parting, eyes down and glistening.* | P1·5 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` painel 5 |
-| EXP-O-24 | **Vergonha** | EP03 SC004; EP05 | *Shame: eyes down and they don't come up, shoulders curling in, her fingers touching the empty inside of her left wrist.* | P7·1 | — |
+| EXP-O-24 | **Vergonha** | EP03 SC004; EP05 | *Shame: eyes down and they don't come up, shoulders curling in, her fingers touching the empty inside of her left wrist.* | P7·1 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` painel 1 |
 | EXP-O-25 | **Evasão (volta ao trabalho)** | EP03 SC004 ("The west side…") | *Retreating into work: eyes on the windows or the negatives, a busy, too-practical expression; the subject is closed.* | P3·6 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` painel 6 |
-| EXP-O-26 | **Pega na mentira** | EP02 SC004 ("Did you know?") | *Caught: a small freeze, eyes widening a fraction then lowering, a breath in; she will not lie again.* | P7·2 | — |
+| EXP-O-26 | **Pega na mentira** | EP02 SC004 ("Did you know?") | *Caught: a small freeze, eyes widening a fraction then lowering, a breath in; she will not lie again.* | P7·2 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` painel 2 |
 | EXP-O-27 | **A confissão** | EP06–EP07 (planejado) | *Telling the whole truth at last: eyes on Claire, wet and steady, voice-ready, every word costing her.* | P9·1 | — |
 | EXP-O-28 | **Assumindo a responsabilidade** | EP07 "The Cost of Silence" (planejado) | *Taking responsibility without asking forgiveness: eyes on Claire, tears held, chin level, no excuses in the face.* | P9·2 | — |
 
@@ -54,10 +54,10 @@
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
 | EXP-O-29 | **Nível 1 (os olhos enchem)** | Padrão do subtexto (V70); EP03 SC004 (KF-O-GAP) | *Her eyes fill with tears and she does not hide it; no tear falls; lips closed and soft.* | P1·2 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` painel 2 |
-| EXP-O-30 | **Olhos cheios para a janela** | EP02 SC008 ("About that."); EP03 | *Turned toward a window, eyes full, the light catching the wet lids, jaw soft; alone with it.* | P7·3 | — |
-| EXP-O-31 | **Tristeza sozinha** | EP03 cold open (o quarto alugado) | *Alone in her rented room: sitting still, eyes on nothing, the face loose and tired, a long exhale.* | P7·4 | — |
-| EXP-O-32 | **Saudade (a caixa de negativos)** | EP03 cold open; SC003 | *Looking at an old negative against the light: eyes soft and far away, a small pained smile.* | P7·5 | — |
-| EXP-O-33 | **Nível 2 (a lágrima cai)** | A partir do EP05 (planejado) | *For the first time a tear falls and she lets it: eyes open on Claire, the tear running, no attempt to wipe it.* | P7·6 | — |
+| EXP-O-30 | **Olhos cheios para a janela** | EP02 SC008 ("About that."); EP03 | *Turned toward a window, eyes full, the light catching the wet lids, jaw soft; alone with it.* | P7·3 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` painel 3 |
+| EXP-O-31 | **Tristeza sozinha** | EP03 cold open (o quarto alugado) | *Alone in her rented room: sitting still, eyes on nothing, the face loose and tired, a long exhale.* | P7·4 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` painel 4 |
+| EXP-O-32 | **Saudade (a caixa de negativos)** | EP03 cold open; SC003 | *Looking at an old negative against the light: eyes soft and far away, a small pained smile.* | P7·5 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` painel 5 |
+| EXP-O-33 | **Nível 2 (a lágrima cai)** | A partir do EP05 (planejado) | *For the first time a tear falls and she lets it: eyes open on Claire, the tear running, no attempt to wipe it.* | P7·6 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` painel 6 |
 
 ### F. Medo e nervos
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -110,6 +110,6 @@
 | P4 — Humor e leveza | EXP-O-07, EXP-O-09, EXP-O-10, EXP-O-11, EXP-O-12, EXP-O-22 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` | approved |
 | P5 — Amor | EXP-O-13, EXP-O-14, EXP-O-15, EXP-O-18, EXP-O-19, EXP-O-20 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` | approved |
 | P6 — Desejo e passado | EXP-O-16, EXP-O-17, EXP-O-47, EXP-O-48, EXP-O-49, EXP-O-50 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png` | approved |
-| P7 — Culpa e tristeza | EXP-O-24, EXP-O-26, EXP-O-30, EXP-O-31, EXP-O-32, EXP-O-33 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` | pending |
+| P7 — Culpa e tristeza | EXP-O-24, EXP-O-26, EXP-O-30, EXP-O-31, EXP-O-32, EXP-O-33 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` | approved |
 | P8 — Medo e nervos | EXP-O-34, EXP-O-35, EXP-O-36, EXP-O-37, EXP-O-38, EXP-O-40 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png` | pending |
 | P9 — Confissão e esperança | EXP-O-27, EXP-O-28, EXP-O-41, EXP-O-42 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png` | pending |

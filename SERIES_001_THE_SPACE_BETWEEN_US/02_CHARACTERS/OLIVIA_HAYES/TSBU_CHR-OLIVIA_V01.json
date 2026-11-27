@@ -501,8 +501,12 @@
       "name": "Vergonha",
       "where": "EP03 SC004; EP05",
       "direction": "Shame: eyes down and they don't come up, shoulders curling in, her fingers touching the empty inside of her left wrist.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png",
+        "sha256": "fc41a7ca88b9f148b813534bf9e5bf48b334563d53f6ee7783fd30128a35b01a",
+        "panel": 1
+      },
       "sheet": "P7",
       "panel": 1
     },
@@ -528,8 +532,12 @@
       "name": "Pega na mentira",
       "where": "EP02 SC004 (\"Did you know?\")",
       "direction": "Caught: a small freeze, eyes widening a fraction then lowering, a breath in; she will not lie again.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png",
+        "sha256": "fc41a7ca88b9f148b813534bf9e5bf48b334563d53f6ee7783fd30128a35b01a",
+        "panel": 2
+      },
       "sheet": "P7",
       "panel": 2
     },
@@ -576,8 +584,12 @@
       "name": "Olhos cheios para a janela",
       "where": "EP02 SC008 (\"About that.\"); EP03",
       "direction": "Turned toward a window, eyes full, the light catching the wet lids, jaw soft; alone with it.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png",
+        "sha256": "fc41a7ca88b9f148b813534bf9e5bf48b334563d53f6ee7783fd30128a35b01a",
+        "panel": 3
+      },
       "sheet": "P7",
       "panel": 3
     },
@@ -587,8 +599,12 @@
       "name": "Tristeza sozinha",
       "where": "EP03 cold open (o quarto alugado)",
       "direction": "Alone in her rented room: sitting still, eyes on nothing, the face loose and tired, a long exhale.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png",
+        "sha256": "fc41a7ca88b9f148b813534bf9e5bf48b334563d53f6ee7783fd30128a35b01a",
+        "panel": 4
+      },
       "sheet": "P7",
       "panel": 4
     },
@@ -598,8 +614,12 @@
       "name": "Saudade (a caixa de negativos)",
       "where": "EP03 cold open; SC003",
       "direction": "Looking at an old negative against the light: eyes soft and far away, a small pained smile.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png",
+        "sha256": "fc41a7ca88b9f148b813534bf9e5bf48b334563d53f6ee7783fd30128a35b01a",
+        "panel": 5
+      },
       "sheet": "P7",
       "panel": 5
     },
@@ -609,8 +629,12 @@
       "name": "Nível 2 (a lágrima cai)",
       "where": "A partir do EP05 (planejado)",
       "direction": "For the first time a tear falls and she lets it: eyes open on Claire, the tear running, no attempt to wipe it.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png",
+        "sha256": "fc41a7ca88b9f148b813534bf9e5bf48b334563d53f6ee7783fd30128a35b01a",
+        "panel": 6
+      },
       "sheet": "P7",
       "panel": 6
     },
@@ -953,7 +977,10 @@
         "EXP-O-33"
       ],
       "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "fc41a7ca88b9f148b813534bf9e5bf48b334563d53f6ee7783fd30128a35b01a",
+      "approval": "V112",
+      "edits": "V01 → V02 no ChatGPT: parede vazia no EXP-O-31 (quarto alugado, V74); negativo 120 sem furos no EXP-O-32"
     },
     {
       "id": "P8",
