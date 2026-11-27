@@ -6,7 +6,7 @@
 | Campo | Valor |
 |---|---|
 | Série / episódio / cena | TSBU · S01E03 "The Things We Kept" · SC006 "The Last Strip" |
-| Versão / status | V01 · 🟡 **PROPOSTO** (2026-11-27) |
+| Versão / status | V01 · ✅ **APROVADO** (2026-11-27, N49) |
 | Roteiro de origem | `04_SCRIPTS/S01E03_THE-THINGS-WE-KEPT_V1.md`, Scene 006 (APROVADO, N42) |
 | Duração-alvo | **~1:34** de planos · **~2:00–2:15** com os silêncios (roteiro: 2:00) |
 | Planos / keyframes | **33 planos** · **21 keyframes** (19 no ChatGPT, 1 reaproveitado da SC003, 1 feito aqui por inversão digital) |
@@ -169,7 +169,7 @@ Keyframes novos em `06_GENERATED_ASSETS/IMAGES/TSBU_S01E03_SC006_SH##_KF_V##.png
 
 | Gate | Responsável | Status |
 |---|---|---|
-| G1: pacote, keyframes, animatic | Evelin | 🟡 pacote aguardando aprovação |
+| G1: pacote, keyframes, animatic | Evelin | ✅ pacote aprovado (N49); keyframes a gerar |
 | G2: takes | Evelin + Pedro | — |
 | G3: corte, som e cor | Evelin + Pedro | — |
 
