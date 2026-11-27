@@ -89,6 +89,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V106 | **Olivia: prancha P1 (essenciais) APROVADA** (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png`, após 1 edição: EXP-O-29 com os olhos cheios). EXP-O-05, 29, 21, 08, 23, 39. Rosto conferido com o KF-O-GAP da SC004 (a Olivia do EP03); uma pinta só, do lado esquerdo dela | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
 | V105 | **Character Bible de Olivia V01 APROVADA** (`02_CHARACTERS/OLIVIA_HAYES/olivia-hayes_character-bible_V01.md` + JSON canônico `TSBU_CHR-OLIVIA_V01.json`, 50 expressões `EXP-O-01`–`EXP-O-50` em 9 grupos e 9 pranchas). **Regra-mãe:** Claire esconde no rosto, Olivia esconde nas palavras; nunca uma fala pessoal com o rosto neutro. **Limites:** riso aberto só longe de Claire até o EP06; lágrima caindo só a partir do EP05; choro aberto de rosto à mostra, olhando para Claire, em silêncio, com um sorriso quebrado no fim (cena A DEFINIR). **Lacunas:** June a chama de "Liv" (Claire nunca); formação em fotojornalismo. A voz (`@VOZ_OLIVIA`) continua pendente da escuta | APROVADO (2026-11-27) | Character Bible de Olivia |
 | V104 | **Claire: prancha P10 (acordando) APROVADA** e **bíblia de Claire completa: as 54 expressões da T1 com referência visual aprovada.** EXP-C-52 (`02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P10_V01.png`, painel recortado após edição: franja, sem colar, sem batom, argolas pequenas, pijama de seda preta); EXP-C-51 ligado à foto de Claire dormindo aos 28 (V80). Total: 10 pranchas + a foto V80, todas com SHA-256 no JSON canônico | APROVADO (2026-11-27) | `TSBU_CHR-CLAIRE_V01.json` |
 | V103 | **Claire: prancha P9 (medo e choque) APROVADA** sem edição (`02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png`): EXP-C-36 (a mão no batente), 37, 38, 39, 40 (relógio no pulso esquerdo), 53 (o celular de costas, sem texto). Nenhum anel | APROVADO (2026-11-27) | `TSBU_CHR-CLAIRE_V01.json` |
@@ -212,6 +213,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-27 | Olivia: prancha P1 aprovada e ligada ao JSON (V106) | Showrunner GL AI |
 | 2026-11-27 | Character Bible de Olivia V01 aprovada, 50 expressões (V105) | Showrunner GL AI |
 | 2026-11-27 | Claire: prancha P10 aprovada; as 54 expressões com referência visual; bíblia de Claire completa (V104) | Showrunner GL AI |
 | 2026-11-27 | Claire: prancha P9 (medo e choque) aprovada e ligada ao JSON (V103) | Showrunner GL AI |

@@ -200,8 +200,12 @@
       "name": "O olhar sustentado",
       "where": "Toda fala com Claire (V70)",
       "direction": "Looking at Claire one second too long: open, unguarded eyes, lips closed, a quiet ache she does not hide.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png",
+        "sha256": "55f5342aa97fbd879c5bbe0368aa933f8b1b369629f49db176ec9888362139c6",
+        "panel": 1
+      },
       "sheet": "P1",
       "panel": 1
     },
@@ -233,8 +237,12 @@
       "name": "O sorriso que quebra no meio",
       "where": "Toda a T1 (E14)",
       "direction": "A smile that starts and breaks halfway: the mouth lifts, then falters, the eyes turning sad before the smile is finished.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png",
+        "sha256": "55f5342aa97fbd879c5bbe0368aa933f8b1b369629f49db176ec9888362139c6",
+        "panel": 4
+      },
       "sheet": "P1",
       "panel": 4
     },
@@ -376,8 +384,12 @@
       "name": "A meia-verdade",
       "where": "EP02 SC008; EP03 SC004",
       "direction": "Telling half the truth with her eyes fixed on the table, never on Claire: lips tight between the words, guilt held very still.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png",
+        "sha256": "55f5342aa97fbd879c5bbe0368aa933f8b1b369629f49db176ec9888362139c6",
+        "panel": 3
+      },
       "sheet": "P1",
       "panel": 3
     },
@@ -398,8 +410,12 @@
       "name": "A respiração antes da verdade",
       "where": "EP03 SC004 (\"I didn't take care of that.\")",
       "direction": "The held breath before a hard truth: lips pressed together then parting, eyes down and glistening.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png",
+        "sha256": "55f5342aa97fbd879c5bbe0368aa933f8b1b369629f49db176ec9888362139c6",
+        "panel": 5
+      },
       "sheet": "P1",
       "panel": 5
     },
@@ -464,8 +480,12 @@
       "name": "Nível 1 (os olhos enchem)",
       "where": "Padrão do subtexto (V70); EP03 SC004 (KF-O-GAP)",
       "direction": "Her eyes fill with tears and she does not hide it; no tear falls; lips closed and soft.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png",
+        "sha256": "55f5342aa97fbd879c5bbe0368aa933f8b1b369629f49db176ec9888362139c6",
+        "panel": 2
+      },
       "sheet": "P1",
       "panel": 2
     },
@@ -574,8 +594,12 @@
       "name": "Vulnerável",
       "where": "EP03 SC006; EP06–EP07",
       "direction": "Facing Claire with full eyes and open empty hands, nothing to defend, almost whispering.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png",
+        "sha256": "55f5342aa97fbd879c5bbe0368aa933f8b1b369629f49db176ec9888362139c6",
+        "panel": 6
+      },
       "sheet": "P1",
       "panel": 6
     },
@@ -715,7 +739,10 @@
         "EXP-O-39"
       ],
       "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "55f5342aa97fbd879c5bbe0368aa933f8b1b369629f49db176ec9888362139c6",
+      "approval": "V106",
+      "edits": "V01 → V02 no ChatGPT: EXP-O-29 com os olhos visivelmente cheios (estava igual ao EXP-O-05)"
     },
     {
       "id": "P2",
