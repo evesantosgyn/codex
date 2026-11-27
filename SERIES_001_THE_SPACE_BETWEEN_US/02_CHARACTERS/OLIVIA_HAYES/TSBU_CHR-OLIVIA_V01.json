@@ -79,10 +79,11 @@
   },
   "voice": {
     "reference": null,
-    "candidate": "olivia_voice-ref_v01.wav (EP02, 7.6 s) awaiting approval (V90)",
+    "candidate": "06_GENERATED_ASSETS/VOICES/CANDIDATAS_PEDRO/olivia_hayes_voice-ref_CANDIDATA_v01.wav (EP02, 7.6 s), suggestion for Pedro",
     "language": "American English",
     "register": "medium-low, slightly husky, warm, unhurried; short sentences; a pause before what is honest (V28)",
-    "pace": "<= 3 words/s in personal lines (V90)"
+    "pace": "<= 3 words/s in personal lines (V90)",
+    "owner": "Pedro chooses, creates and implements the voice (V115); Evelin validates the interpretation"
   },
   "camera": "subtle handheld, filmed through things: glass, door frames, boxes, lenses, film (P-15, E14)",
   "light": "warm: amber and gold, often backlit (E14)",

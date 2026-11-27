@@ -18,7 +18,7 @@
 | Versão | V01 · 2026-11-27 · ✅ aprovada (V105) |
 | Responsável | Evelin (criação) · Pedro (valida a implementação de voz e câmera) |
 | Referências aprovadas | `olivia-hayes_identity-pack.webp` (rosto TRAVADO, P09) · `olivia_ref-SC003_KF-O1.png` (a pinta) · `S01E03_LOOK_OLIVIA_V01.png` (L1, V76) · `S01E02_LOOK_OLIVIA_V01.png` (L4, V54) · `S01E03_SC004_KF-O-GAP_V01.png` (nível 1) |
-| Voz | **Pendente:** candidata `@VOZ_OLIVIA` (`olivia_voice-ref_v01.wav`, do EP02) aguardando a escuta da responsável (V90) |
+| Voz | **Responsabilidade do Pedro (V115):** escolha, referência e implementação. Candidata sugerida: `06_GENERATED_ASSETS/VOICES/CANDIDATAS_PEDRO/olivia_hayes_voice-ref_CANDIDATA_v01.wav` (EP02, 7,6 s). Evelin valida a interpretação (registro V28, emoção, ritmo) |
 | Aprovação | Evelin, 2026-11-27 (V105) |
 
 ---
@@ -179,7 +179,7 @@ Look (L1–L5; EP03 = L1 com o casaco longo de lã verde-oliva à noite), coque 
 ## 5. Vínculos com as outras bíblias
 | Bíblia | O que vale para Olivia |
 |---|---|
-| **Voice Bible** | Registro V28. **Referência pendente:** `@VOZ_OLIVIA` candidata (EP02, 7,6 s), aguardando a escuta. Até lá, conversão na edição (V31). Alvo medido: ≤ 3 palavras/s nas falas pessoais (V90) |
+| **Voice Bible** | **Pedro escolhe e implementa a voz (V115)**; Evelin define a interpretação e valida a fidelidade. Registro V28. Candidata sugerida: `CANDIDATAS_PEDRO/olivia_hayes_voice-ref_CANDIDATA_v01.wav` (EP02, 7,6 s). Alvo medido: ≤ 3 palavras/s nas falas pessoais (V90) |
 | **Wardrobe** | L1–L5; EP03 = L1 + o casaco de lã verde-oliva à noite; o card cita o look ID |
 | **Cinematography** | **Câmera na mão**, filmada **através de coisas** (vidro, batentes, caixas, lentes, filme) (P-15, E14) |
 | **Color** | **Luz quente**: âmbar e dourado, muitas vezes contraluz |

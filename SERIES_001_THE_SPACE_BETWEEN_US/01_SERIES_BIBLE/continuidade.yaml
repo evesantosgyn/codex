@@ -94,7 +94,7 @@ personagens:
       EP02: "L4 suéter de tricô marrom de ombro caído, jeans largo, cinto de couro, coturno; coque bagunçado; bolsa de câmera de lona verde; tatuagem visível no antebraço esquerdo; UMA pinta (abaixo do lábio). Ref: 06_GENERATED_ASSETS/IMAGES/S01E02_LOOK_OLIVIA_V01.png (V54)"
       EP03: "Cold open (quarto, amanhecer): cabelo SOLTO, já vestida com o L1. Dia (fábrica): L1 trabalho, camisa utilitária verde-oliva aberta, top preto, cargo escura, coturno; coque bagunçado; bolsa de câmera de lona verde; tatuagem no antebraço interno esquerdo; sem relógio; UMA pinta abaixo do lábio, lado esquerdo. Noite (SC007–SC009): + o casaco longo de lã verde-oliva do piloto (SC003). Ref: 06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_OLIVIA_V01.png (V76)"
     voz:
-      referencia: "a definir na edição (V31): gerar sem referência e aplicar a voz escolhida por conversão speech-to-speech"
+      referencia: "a cargo do Pedro (V115): escolha, referência e implementação. Candidata sugerida: 06_GENERATED_ASSETS/VOICES/CANDIDATAS_PEDRO/olivia_hayes_voice-ref_CANDIDATA_v01.wav (EP02)"
       registro: "americana, médio-grave, levemente rouca, calorosa, sem pressa; frases curtas, pausas antes do que é honesto (V28)"
     interpretacao: "Character Bible V01 (V105): Claire esconde no rosto, Olivia esconde nas palavras; a respiração muda primeiro, os olhos enchem e ela não esconde, o olhar foge para a janela; nunca uma fala pessoal com o rosto neutro. Riso aberto só longe de Claire até o EP06. Lágrima caindo só a partir do EP05; choro aberto de rosto à mostra, olhando para Claire (cena A DEFINIR)"
     apelido: "Liv (só June); Claire nunca usa apelido (V105)"
