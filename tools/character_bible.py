@@ -99,6 +99,11 @@ def sheets(path, out, only):
     for s in d['sheets']:
         if only and s['id'] not in only:
             continue
+        if not only and s['status'] == 'approved':
+            continue
+        if s.get('custom_prompt'):
+            L += ['---', '', f'## {s["id"]} — {s["name"]}', f'**Salvar o aprovado como:** `{s["approved_file"]}`', '', '```', s['custom_prompt'], '```', '']
+            continue
         n = len(s['panels'])
         grid = '3×2' if n == 6 else ('2×2' if n == 4 else f'1×{n}')
         L += ['---', '', f'## {s["id"]} — {s["name"]}', f'**Salvar o aprovado como:** `{s["approved_file"]}`', '', '```',

@@ -91,8 +91,8 @@
 ### I. Intimidade e casa
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-C-51 | **Dormindo (aos 28, sem franja)** | EP03 (a foto, V80) | *Asleep on her side, face completely unguarded, lips slightly parted, morning light.* | P10·1 | — |
-| EXP-C-52 | **Acordando** | EP01 SC004; EP06 (planejado) | *Half-awake, soft and unguarded for three seconds before she remembers to be Claire.* | P10·2 | — |
+| EXP-C-51 | **Dormindo (aos 28, sem franja)** | EP03 (a foto, V80) | *Asleep on her side, face completely unguarded, lips slightly parted, morning light.* | P0·1 | `06_GENERATED_ASSETS/IMAGES/S01E03_PROP_FOTO-CLAIRE-DORMINDO_V01.png` painel 1 |
+| EXP-C-52 | **Acordando** | EP01 SC004; EP06 (planejado) | *Half-awake, soft and unguarded for three seconds before she remembers to be Claire.* | P10·1 | — |
 | EXP-C-53 | **Sozinha com o celular (o número)** | EP01 SC004; EP03 | *Thumb over a contact, eyes on the screen, a breath, then she locks it.* | P9·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png` painel 6 |
 | EXP-C-54 | **Paz** | EP08 (planejado) | *At rest beside Olivia, face relaxed for the first time in the season, eyes half-closed.* | P6·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png` painel 6 |
 
@@ -107,6 +107,7 @@
 ## Pranchas
 | Prancha | Painéis | Arquivo | Status |
 |---|---|---|---|
+| P0 — Referências já aprovadas em cena | EXP-C-51 | `06_GENERATED_ASSETS/IMAGES/S01E03_PROP_FOTO-CLAIRE-DORMINDO_V01.png` | approved |
 | P1 — Essenciais | EXP-C-01, EXP-C-25, EXP-C-26, EXP-C-12, EXP-C-31, EXP-C-41 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` | approved |
 | P2 — Choro aberto | EXP-C-47, EXP-C-48, EXP-C-49, EXP-C-50 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-choro-nivel3_V01.png` | approved |
 | P3 — Controle e trabalho | EXP-C-02, EXP-C-03, EXP-C-04, EXP-C-05, EXP-C-06, EXP-C-30 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P3_V01.png` | approved |
@@ -116,4 +117,4 @@
 | P7 — Mágoa | EXP-C-23, EXP-C-24, EXP-C-27, EXP-C-28, EXP-C-29, EXP-C-42 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` | approved |
 | P8 — Raiva e confronto | EXP-C-32, EXP-C-33, EXP-C-34, EXP-C-35, EXP-C-43, EXP-C-44 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png` | approved |
 | P9 — Medo e choque | EXP-C-36, EXP-C-37, EXP-C-38, EXP-C-39, EXP-C-40, EXP-C-53 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png` | approved |
-| P10 — Intimidade | EXP-C-51, EXP-C-52 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P10_V01.png` | pending |
+| P10 — Intimidade (acordando) | EXP-C-52 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P10_V01.png` | pending |

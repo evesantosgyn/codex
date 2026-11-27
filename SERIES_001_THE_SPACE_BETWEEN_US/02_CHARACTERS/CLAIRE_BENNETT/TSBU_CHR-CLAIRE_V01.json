@@ -909,11 +909,16 @@
       "name": "Dormindo (aos 28, sem franja)",
       "where": "EP03 (a foto, V80)",
       "direction": "Asleep on her side, face completely unguarded, lips slightly parted, morning light.",
-      "sheet": "P10",
+      "sheet": "P0",
       "panel": 1,
-      "reference_image": null,
-      "status": "proposed",
-      "age_variant": "28 (seven years ago): NO bangs"
+      "reference_image": {
+        "path": "06_GENERATED_ASSETS/IMAGES/S01E03_PROP_FOTO-CLAIRE-DORMINDO_V01.png",
+        "sha256": "edd9dc1e32b4326a05504dfedd7bd130b5f934a3da1177818ae5445ed31779dc",
+        "panel": 1
+      },
+      "status": "approved",
+      "age_variant": "28 (seven years ago): NO bangs",
+      "note": "Referência já aprovada em cena: a foto de Claire dormindo aos 28 (V80); não se gera de novo"
     },
     {
       "id": "EXP-C-52",
@@ -924,7 +929,8 @@
       "reference_image": null,
       "status": "proposed",
       "sheet": "P10",
-      "panel": 2
+      "panel": 1,
+      "note": "Em casa de manhã: sem batom, sem colar, sem relógio, só argolas; pijama de seda preta (V32)"
     },
     {
       "id": "EXP-C-53",
@@ -958,6 +964,17 @@
     }
   ],
   "sheets": [
+    {
+      "id": "P0",
+      "name": "Referências já aprovadas em cena",
+      "panels": [
+        "EXP-C-51"
+      ],
+      "approved_file": "06_GENERATED_ASSETS/IMAGES/S01E03_PROP_FOTO-CLAIRE-DORMINDO_V01.png",
+      "status": "approved",
+      "sha256": "edd9dc1e32b4326a05504dfedd7bd130b5f934a3da1177818ae5445ed31779dc",
+      "approval": "V80"
+    },
     {
       "id": "P1",
       "name": "Essenciais",
@@ -1111,13 +1128,13 @@
     },
     {
       "id": "P10",
-      "name": "Intimidade",
+      "name": "Intimidade (acordando)",
       "panels": [
-        "EXP-C-51",
         "EXP-C-52"
       ],
       "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P10_V01.png",
-      "status": "pending"
+      "status": "pending",
+      "custom_prompt": "Create a single photorealistic, cinematic close-up of the SAME woman as R1 (Claire Bennett, 35), 16:9, natural skin texture, with a small caption underneath.\n\nIdentity: oval face, high cheekbones, strong dark straight eyebrows, deep warm BROWN eyes, straight slim nose, full lips; dark brown hair all the way to the ends (no copper or caramel), long soft waves, curtain bangs, loose and a little messy from sleep. At home in the morning: NO lipstick, faint shadows under the eyes, black silk pajama shirt, small gold hoop earrings only — NO necklace, NO watch, NO rings.\n\nEXP-C-52 — Lying in bed with her head on a white pillow, half-awake in soft early-morning window light: eyes barely open and unfocused, face soft and completely unguarded, lips relaxed; the three seconds before she remembers to be Claire. Camera at pillow height.\n\nCaption: EXP-C-52. No other text."
     }
   ],
   "notes": {
