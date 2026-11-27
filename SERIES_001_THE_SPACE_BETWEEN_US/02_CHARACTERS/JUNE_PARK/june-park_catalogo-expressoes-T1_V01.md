@@ -51,10 +51,10 @@
 ### F. Ela mesma
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-J-23 | **Cansada (fim do dia)** | EP02 SC008; EP03 (a van) | *End-of-day tired: heavy lids, head resting back, the professional face off.* | P5·1 | — |
+| EXP-J-23 | **Cansada (fim do dia)** | EP02 SC008; EP03 (a van) | *End-of-day tired: heavy lids, head resting back, the professional face off.* | P5·1 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png` painel 1 |
 | EXP-J-24 | **O sorriso de canto (raríssimo)** | EP08 (planejado) | *A rare, small, crooked half-smile that she allows for one second.* | P2·6 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png` painel 6 |
-| EXP-J-25 | **Aliança com Maya** | EP04–EP08 (planejado) | *A small, knowing nod across the room: an understanding with an old rival.* | P5·2 | — |
-| EXP-J-26 | **Alívio quando Olivia conta** | EP07–EP08 (planejado) | *Relief: a long breath out, eyes closing for a moment, shoulders dropping; finally not the only one who knows.* | P5·3 | — |
+| EXP-J-25 | **Aliança com Maya** | EP04–EP08 (planejado) | *A small, knowing nod across the room: an understanding with an old rival.* | P5·2 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png` painel 2 |
+| EXP-J-26 | **Alívio quando Olivia conta** | EP07–EP08 (planejado) | *Relief: a long breath out, eyes closing for a moment, shoulders dropping; finally not the only one who knows.* | P5·3 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png` painel 3 |
 
 ## Proibidos
 - olive green clothing
@@ -70,4 +70,4 @@
 | P2 — Deadpan | EXP-J-03, EXP-J-07, EXP-J-08, EXP-J-09, EXP-J-10, EXP-J-24 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png` | approved |
 | P3 — Trabalho e lealdade | EXP-J-01, EXP-J-02, EXP-J-04, EXP-J-11, EXP-J-13, EXP-J-14 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png` | approved |
 | P4 — O segredo | EXP-J-15, EXP-J-17, EXP-J-19, EXP-J-21, EXP-J-22 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P4_V01.png` | approved |
-| P5 — Ela mesma | EXP-J-23, EXP-J-25, EXP-J-26 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png` | pending |
+| P5 — Ela mesma | EXP-J-23, EXP-J-25, EXP-J-26 | `02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png` | approved |

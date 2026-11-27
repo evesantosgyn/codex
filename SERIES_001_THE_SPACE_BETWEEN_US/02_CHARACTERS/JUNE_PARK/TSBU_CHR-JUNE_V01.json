@@ -453,8 +453,12 @@
       "name": "Cansada (fim do dia)",
       "where": "EP02 SC008; EP03 (a van)",
       "direction": "End-of-day tired: heavy lids, head resting back, the professional face off.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png",
+        "sha256": "d6698be054b5ba524f8ec96e53d27de0206928318ac81918995d968efb3f0764",
+        "panel": 1
+      },
       "sheet": "P5",
       "panel": 1
     },
@@ -479,8 +483,12 @@
       "name": "Aliança com Maya",
       "where": "EP04–EP08 (planejado)",
       "direction": "A small, knowing nod across the room: an understanding with an old rival.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png",
+        "sha256": "d6698be054b5ba524f8ec96e53d27de0206928318ac81918995d968efb3f0764",
+        "panel": 2
+      },
       "sheet": "P5",
       "panel": 2
     },
@@ -490,8 +498,12 @@
       "name": "Alívio quando Olivia conta",
       "where": "EP07–EP08 (planejado)",
       "direction": "Relief: a long breath out, eyes closing for a moment, shoulders dropping; finally not the only one who knows.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png",
+        "sha256": "d6698be054b5ba524f8ec96e53d27de0206928318ac81918995d968efb3f0764",
+        "panel": 3
+      },
       "sheet": "P5",
       "panel": 3
     }
@@ -573,10 +585,14 @@
         "EXP-J-26"
       ],
       "approved_file": "02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "d6698be054b5ba524f8ec96e53d27de0206928318ac81918995d968efb3f0764",
+      "approval": "V127",
+      "edits": "nenhuma; nota de cor: a contraluz puxou reflexos avermelhados no cabelo, escurecer na correção de cor"
     }
   ],
   "notes": {
     "expression_status": "proposed = texto aprovado (V122), ainda sem painel de prancha aprovado; approved = com reference_image"
-  }
+  },
+  "status_visual": "26/26 expressões com referência visual aprovada"
 }
