@@ -1,7 +1,7 @@
 # Olivia Hayes — Character Bible · V01
 
 > **HPS 1.0 · Bíblia 03 (Character Bible)** · Série: The Space Between Us (TSBU) · modelo: a bíblia de Claire (V93–V104)
-> **Status:** 🟡 PROPOSTA (2026-11-27).
+> **Status:** ✅ **APROVADA** (2026-11-27, V105): as marcas [P] desta versão passam a valer como cânone.
 > **Legenda das fontes:**
 > - **[C]** = cânone aprovado, com a decisão ou o arquivo de origem;
 > - **[P]** = proposta nova, que precisa de aprovação;
@@ -15,11 +15,11 @@
 | Campo | Valor |
 |---|---|
 | ID da personagem | **CHR-OLIVIA** |
-| Versão | V01 · 2026-11-27 · 🟡 em revisão |
+| Versão | V01 · 2026-11-27 · ✅ aprovada (V105) |
 | Responsável | Evelin (criação) · Pedro (valida a implementação de voz e câmera) |
 | Referências aprovadas | `olivia-hayes_identity-pack.webp` (rosto TRAVADO, P09) · `olivia_ref-SC003_KF-O1.png` (a pinta) · `S01E03_LOOK_OLIVIA_V01.png` (L1, V76) · `S01E02_LOOK_OLIVIA_V01.png` (L4, V54) · `S01E03_SC004_KF-O-GAP_V01.png` (nível 1) |
 | Voz | **Pendente:** candidata `@VOZ_OLIVIA` (`olivia_voice-ref_v01.wav`, do EP02) aguardando a escuta da responsável (V90) |
-| Aprovação | — |
+| Aprovação | Evelin, 2026-11-27 (V105) |
 
 ---
 

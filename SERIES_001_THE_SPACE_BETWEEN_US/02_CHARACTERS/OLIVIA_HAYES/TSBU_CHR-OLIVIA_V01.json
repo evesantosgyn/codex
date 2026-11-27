@@ -3,11 +3,11 @@
   "series": "TSBU",
   "name": "Olivia Hayes",
   "version": "V01",
-  "status": "proposed",
+  "status": "approved",
   "updated": "2026-11-27",
   "approval": {
-    "bible": null,
-    "catalog": null
+    "bible": "V105",
+    "catalog": "V105"
   },
   "sources": {
     "bible_md": "02_CHARACTERS/OLIVIA_HAYES/olivia-hayes_character-bible_V01.md",
@@ -825,5 +825,8 @@
       "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png",
       "status": "pending"
     }
-  ]
+  ],
+  "notes": {
+    "expression_status": "proposed = texto aprovado (V105), ainda sem painel de prancha aprovado; approved = com reference_image"
+  }
 }

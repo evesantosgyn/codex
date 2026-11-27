@@ -1,7 +1,7 @@
 # Olivia Hayes — Protagonista
 
 **Status:** identidade dramática APROVADA · segredo CÂNONE V2.2 · **rosto TRAVADO** (2026-11-12) · marcas a confirmar nos keyframes da SC003 (P12)
-**Character Bible (HPS, proposta):** `olivia-hayes_character-bible_V01.md` + JSON `TSBU_CHR-OLIVIA_V01.json` · **Prancha:** `olivia-hayes_identity-pack.webp` · **Traços fixos:** `01_SERIES_BIBLE/continuidade.yaml → olivia_hayes`
+**Character Bible (HPS, V105):** `olivia-hayes_character-bible_V01.md` + JSON `TSBU_CHR-OLIVIA_V01.json` · **Prancha:** `olivia-hayes_identity-pack.webp` · **Traços fixos:** `01_SERIES_BIBLE/continuidade.yaml → olivia_hayes`
 **Segredo completo:** `01_SERIES_BIBLE/canone-segredo-olivia.md`
 
 ## Identidade dramática

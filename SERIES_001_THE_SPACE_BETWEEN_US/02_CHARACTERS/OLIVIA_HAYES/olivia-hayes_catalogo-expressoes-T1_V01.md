@@ -1,7 +1,7 @@
 # Olivia Hayes — Catálogo de expressões da Temporada 1 · V01
 
 > **Gerado automaticamente** de `TSBU_CHR-OLIVIA_V01.json` (fonte canônica, HPS). Não edite este arquivo: edite o JSON e rode `tools/character_bible.py render-md`.
-> **Status:** proposed · atualizado em 2026-11-27
+> **Status:** approved · atualizado em 2026-11-27
 
 **Regra-mãe:** Claire hides in her face; Olivia hides in her words. Her body tells the truth before she does: the breath changes first, her eyes fill and she does not hide it, her gaze escapes to the window when it hurts. She looks one second too long. Her fingers stop on whatever they hold. She never says a personal line with a neutral face.
 

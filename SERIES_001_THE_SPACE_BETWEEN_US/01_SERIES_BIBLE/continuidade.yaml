@@ -96,6 +96,9 @@ personagens:
     voz:
       referencia: "a definir na edição (V31): gerar sem referência e aplicar a voz escolhida por conversão speech-to-speech"
       registro: "americana, médio-grave, levemente rouca, calorosa, sem pressa; frases curtas, pausas antes do que é honesto (V28)"
+    interpretacao: "Character Bible V01 (V105): Claire esconde no rosto, Olivia esconde nas palavras; a respiração muda primeiro, os olhos enchem e ela não esconde, o olhar foge para a janela; nunca uma fala pessoal com o rosto neutro. Riso aberto só longe de Claire até o EP06. Lágrima caindo só a partir do EP05; choro aberto de rosto à mostra, olhando para Claire (cena A DEFINIR)"
+    apelido: "Liv (só June); Claire nunca usa apelido (V105)"
+    formacao: "fotojornalismo; autodidata no documentário (V105)"
 
   maya_reed:
     status_visual: APROVADO (prancha; P03 resolvida)
