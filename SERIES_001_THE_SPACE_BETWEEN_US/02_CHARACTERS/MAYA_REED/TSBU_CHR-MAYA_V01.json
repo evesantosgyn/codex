@@ -354,8 +354,12 @@
       "name": "O sorriso que escapa",
       "where": "Raro (EP08, planejado)",
       "direction": "A small reluctant smile that escapes for a second before she catches it; she hates being caught.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P4_V01.png",
+        "sha256": "7f862ad340422cc0ede8d66ac4281796fcc3a3337c3cb9c7b6b0b0c4eee04396",
+        "panel": 1
+      },
       "sheet": "P4",
       "panel": 1
     },
@@ -365,8 +369,12 @@
       "name": "Desconfiança de Olivia",
       "where": "EP01–EP03",
       "direction": "Cool, measuring look, chin down, lips pressed; polite and unconvinced.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P4_V01.png",
+        "sha256": "7f862ad340422cc0ede8d66ac4281796fcc3a3337c3cb9c7b6b0b0c4eee04396",
+        "panel": 2
+      },
       "sheet": "P4",
       "panel": 2
     },
@@ -376,8 +384,12 @@
       "name": "A piada morre na boca",
       "where": "EP01 SC006; EP03 SC005",
       "direction": "About to make a joke, mouth slightly open, and she stops: the joke dies; her face goes still.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P4_V01.png",
+        "sha256": "7f862ad340422cc0ede8d66ac4281796fcc3a3337c3cb9c7b6b0b0c4eee04396",
+        "panel": 3
+      },
       "sheet": "P4",
       "panel": 3
     },
@@ -402,8 +414,12 @@
       "name": "Protetora",
       "where": "EP02; EP03",
       "direction": "Standing slightly in front of Claire, shoulders square, jaw set, eyes on the threat.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P4_V01.png",
+        "sha256": "7f862ad340422cc0ede8d66ac4281796fcc3a3337c3cb9c7b6b0b0c4eee04396",
+        "panel": 4
+      },
       "sheet": "P4",
       "panel": 4
     },
@@ -428,8 +444,12 @@
       "name": "Raiva fria por Claire",
       "where": "EP04–EP07 (planejado)",
       "direction": "Very still, eyes hard and cold, jaw tight; quiet fury on Claire's behalf; no shouting.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P4_V01.png",
+        "sha256": "7f862ad340422cc0ede8d66ac4281796fcc3a3337c3cb9c7b6b0b0c4eee04396",
+        "panel": 5
+      },
       "sheet": "P4",
       "panel": 5
     },
@@ -439,8 +459,12 @@
       "name": "Surpresa real",
       "where": "EP01–EP03",
       "direction": "Real surprise: eyebrows up, eyes wide, lips parted for a second.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P4_V01.png",
+        "sha256": "7f862ad340422cc0ede8d66ac4281796fcc3a3337c3cb9c7b6b0b0c4eee04396",
+        "panel": 6
+      },
       "sheet": "P4",
       "panel": 6
     },
@@ -569,7 +593,10 @@
         "EXP-M-23"
       ],
       "approved_file": "02_CHARACTERS/MAYA_REED/maya_expressoes-P4_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "7f862ad340422cc0ede8d66ac4281796fcc3a3337c3cb9c7b6b0b0c4eee04396",
+      "approval": "V120",
+      "edits": "V01 → V02 no ChatGPT: EXP-M-18 com os olhos sérios e os lábios mal entreabertos (lia como susto)"
     },
     {
       "id": "P5",
