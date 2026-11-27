@@ -47,8 +47,8 @@
 | EXP-O-24 | **Vergonha** | EP03 SC004; EP05 | *Shame: eyes down and they don't come up, shoulders curling in, her fingers touching the empty inside of her left wrist.* | P7·1 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` painel 1 |
 | EXP-O-25 | **Evasão (volta ao trabalho)** | EP03 SC004 ("The west side…") | *Retreating into work: eyes on the windows or the negatives, a busy, too-practical expression; the subject is closed.* | P3·6 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` painel 6 |
 | EXP-O-26 | **Pega na mentira** | EP02 SC004 ("Did you know?") | *Caught: a small freeze, eyes widening a fraction then lowering, a breath in; she will not lie again.* | P7·2 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` painel 2 |
-| EXP-O-27 | **A confissão** | EP06–EP07 (planejado) | *Telling the whole truth at last: eyes on Claire, wet and steady, voice-ready, every word costing her.* | P9·1 | — |
-| EXP-O-28 | **Assumindo a responsabilidade** | EP07 "The Cost of Silence" (planejado) | *Taking responsibility without asking forgiveness: eyes on Claire, tears held, chin level, no excuses in the face.* | P9·2 | — |
+| EXP-O-27 | **A confissão** | EP06–EP07 (planejado) | *Telling the whole truth at last: eyes on Claire, wet and steady, voice-ready, every word costing her.* | P9·1 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png` painel 1 |
+| EXP-O-28 | **Assumindo a responsabilidade** | EP07 "The Cost of Silence" (planejado) | *Taking responsibility without asking forgiveness: eyes on Claire, tears held, chin level, no excuses in the face.* | P9·2 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png` painel 2 |
 
 ### E. Tristeza
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -73,8 +73,8 @@
 |---|---|---|---|---|---|
 | EXP-O-39 | **Vulnerável** | EP03 SC006; EP06–EP07 | *Facing Claire with full eyes and open empty hands, nothing to defend, almost whispering.* | P1·6 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` painel 6 |
 | EXP-O-40 | **Ouvindo a raiva de Claire** | EP07 (planejado) | *Listening to Claire's anger without defending herself: eyes on her, tears held, a small nod, taking every word.* | P8·6 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png` painel 6 |
-| EXP-O-41 | **Esperança** | EP03 SC009 (a mensagem); EP08 | *A careful hope: eyes bright and wet, a breath held, the beginning of a smile she does not dare finish.* | P9·3 | — |
-| EXP-O-42 | **Pedindo sem pedir** | EP06 (planejado) | *Asking without words: eyes searching Claire's face, lips parted, waiting, giving her the choice.* | P9·4 | — |
+| EXP-O-41 | **Esperança** | EP03 SC009 (a mensagem); EP08 | *A careful hope: eyes bright and wet, a breath held, the beginning of a smile she does not dare finish.* | P9·3 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png` painel 3 |
+| EXP-O-42 | **Pedindo sem pedir** | EP06 (planejado) | *Asking without words: eyes searching Claire's face, lips parted, waiting, giving her the choice.* | P9·4 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png` painel 4 |
 
 ### H. Choro (níveis 2 e 3)
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -112,4 +112,4 @@
 | P6 — Desejo e passado | EXP-O-16, EXP-O-17, EXP-O-47, EXP-O-48, EXP-O-49, EXP-O-50 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png` | approved |
 | P7 — Culpa e tristeza | EXP-O-24, EXP-O-26, EXP-O-30, EXP-O-31, EXP-O-32, EXP-O-33 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` | approved |
 | P8 — Medo e nervos | EXP-O-34, EXP-O-35, EXP-O-36, EXP-O-37, EXP-O-38, EXP-O-40 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png` | approved |
-| P9 — Confissão e esperança | EXP-O-27, EXP-O-28, EXP-O-41, EXP-O-42 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png` | pending |
+| P9 — Confissão e esperança | EXP-O-27, EXP-O-28, EXP-O-41, EXP-O-42 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png` | approved |

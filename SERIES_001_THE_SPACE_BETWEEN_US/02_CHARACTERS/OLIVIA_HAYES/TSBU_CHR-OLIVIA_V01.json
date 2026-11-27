@@ -547,8 +547,12 @@
       "name": "A confissão",
       "where": "EP06–EP07 (planejado)",
       "direction": "Telling the whole truth at last: eyes on Claire, wet and steady, voice-ready, every word costing her.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png",
+        "sha256": "b36ada507f5566f9109ab3f15f53bd648123b6a60b80c3568898c358022c1253",
+        "panel": 1
+      },
       "sheet": "P9",
       "panel": 1
     },
@@ -558,8 +562,12 @@
       "name": "Assumindo a responsabilidade",
       "where": "EP07 \"The Cost of Silence\" (planejado)",
       "direction": "Taking responsibility without asking forgiveness: eyes on Claire, tears held, chin level, no excuses in the face.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png",
+        "sha256": "b36ada507f5566f9109ab3f15f53bd648123b6a60b80c3568898c358022c1253",
+        "panel": 2
+      },
       "sheet": "P9",
       "panel": 2
     },
@@ -751,8 +759,12 @@
       "name": "Esperança",
       "where": "EP03 SC009 (a mensagem); EP08",
       "direction": "A careful hope: eyes bright and wet, a breath held, the beginning of a smile she does not dare finish.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png",
+        "sha256": "b36ada507f5566f9109ab3f15f53bd648123b6a60b80c3568898c358022c1253",
+        "panel": 3
+      },
       "sheet": "P9",
       "panel": 3
     },
@@ -762,8 +774,12 @@
       "name": "Pedindo sem pedir",
       "where": "EP06 (planejado)",
       "direction": "Asking without words: eyes searching Claire's face, lips parted, waiting, giving her the choice.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png",
+        "sha256": "b36ada507f5566f9109ab3f15f53bd648123b6a60b80c3568898c358022c1253",
+        "panel": 4
+      },
       "sheet": "P9",
       "panel": 4
     },
@@ -1035,10 +1051,14 @@
         "EXP-O-42"
       ],
       "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "b36ada507f5566f9109ab3f15f53bd648123b6a60b80c3568898c358022c1253",
+      "approval": "V114",
+      "edits": "nenhuma"
     }
   ],
   "notes": {
     "expression_status": "proposed = texto aprovado (V105), ainda sem painel de prancha aprovado; approved = com reference_image"
-  }
+  },
+  "status_visual": "50/50 expressões com referência visual aprovada"
 }

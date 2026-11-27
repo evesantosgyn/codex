@@ -89,6 +89,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V114 | **Olivia: prancha P9 (confissão e esperança) APROVADA** sem edição (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png`): EXP-O-27, 28, 41, 42. **Bíblia de Olivia completa: as 50 expressões da T1 com referência visual aprovada** (9 pranchas, V106–V114, SHA-256 no JSON canônico) | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
 | V113 | **Olivia: prancha P8 (medo e nervos) APROVADA** sem edição (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png`): EXP-O-34 (na prancha com a camisa de trabalho; na cena, o figurino V26), 35, 36, 37, 38, 40 | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
 | V112 | **Olivia: prancha P7 (culpa e tristeza) APROVADA** (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png`, após 1 edição: parede vazia no 31, negativo 120 no 32). EXP-O-24 (a tatuagem no antebraço interno esquerdo, o pulso vazio), 26, 30, 31, 32, 33 (nível 2, a partir do EP05) | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
 | V111 | **Olivia: prancha P6 (desejo e passado) APROVADA** (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png`, após 1 edição: negativo 120 colorido no EXP-O-49). EXP-O-16, 17, 47 (a cama de ferro do quarto alugado), 48, 49, 50. **Nota:** o EXP-O-48 (aos 26) ainda parece 33; o rosto mais jovem será gerado à parte quando houver um flashback escrito | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
@@ -220,6 +221,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-27 | Olivia: prancha P9 aprovada; as 50 expressões com referência visual; bíblia de Olivia completa (V114) | Showrunner GL AI |
 | 2026-11-27 | Olivia: prancha P8 aprovada e ligada ao JSON (V113) | Showrunner GL AI |
 | 2026-11-27 | Olivia: prancha P7 aprovada e ligada ao JSON (V112) | Showrunner GL AI |
 | 2026-11-27 | Olivia: prancha P6 aprovada e ligada ao JSON (V111) | Showrunner GL AI |
