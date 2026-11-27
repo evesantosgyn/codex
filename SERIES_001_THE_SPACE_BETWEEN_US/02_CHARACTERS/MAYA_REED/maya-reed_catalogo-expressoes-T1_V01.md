@@ -1,7 +1,7 @@
 # Maya Reed — Catálogo de expressões da Temporada 1 · V01
 
 > **Gerado automaticamente** de `TSBU_CHR-MAYA_V01.json` (fonte canônica, HPS). Não edite este arquivo: edite o JSON e rode `tools/character_bible.py render-md`.
-> **Status:** proposed · atualizado em 2026-11-27
+> **Status:** approved · atualizado em 2026-11-27
 
 **Regra-mãe:** Maya speaks with timing and goes silent with her body. In comedy her face stays serious and the joke is in the timing. When it is serious, she stops moving and the joke dies before it reaches her mouth. Her care for Claire is always practical: food, sleep, time.
 

@@ -1,7 +1,7 @@
 # Maya Reed — Recorrente
 
 **Status:** elenco recorrente APROVADO (2026-11-12) · visual APROVADO (prancha)
-**Character Bible (HPS, proposta):** `maya-reed_character-bible_V01.md` + JSON `TSBU_CHR-MAYA_V01.json` · **Prancha:** `maya-reed_biblia-visual.webp` · **Traços:** `01_SERIES_BIBLE/continuidade.yaml → maya_reed`
+**Character Bible (HPS, V116):** `maya-reed_character-bible_V01.md` + JSON `TSBU_CHR-MAYA_V01.json` · **Prancha:** `maya-reed_biblia-visual.webp` · **Traços:** `01_SERIES_BIBLE/continuidade.yaml → maya_reed`
 
 ## Identidade dramática
 
@@ -12,7 +12,7 @@
 | Função na série | Confidente de Claire; mostra a protagonista por outra perspectiva. **Não é só alívio cômico.** |
 | Linguagem afetiva | Cuida de Claire pelo humor: verifica se ela comeu, se dormiu, se está atrasada. |
 | Tensão de humor | É arquiteta e talentosa, mas também é quem administra os prazos. Pode cobrar Claire de igual para igual e brincar com o perfeccionismo dela por conhecer o ofício. |
-| A desenvolver | Desejo, ferida e arco próprios (a Bíblia Criativa exige que secundárias tenham personalidade própria). |
+| Desejo, ferida e arco | Definidos na Character Bible (V116): foi ela quem ficou quando Olivia partiu e não confia em quem já foi embora; a vida fora da planilha × os prazos de todo mundo; de guardiã a aceitar a escolha de Claire, e com June da rivalidade à aliança. |
 
 ## Visual (APROVADO)
 Cabelo castanho-escuro com reflexos acobreados, cacheado/ondulado, **na altura do queixo** · olhos **verdes** · pele clara com sardas · alfaiataria com toque despojado · argolas douradas, colar dourado triplo, relógio de mostrador branco, anel liso.

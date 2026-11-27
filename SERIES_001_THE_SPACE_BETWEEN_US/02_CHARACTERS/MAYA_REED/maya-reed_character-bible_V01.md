@@ -1,7 +1,7 @@
 # Maya Reed — Character Bible · V01
 
 > **HPS 1.0 · Bíblia 03 (Character Bible)** · Série: The Space Between Us (TSBU) · modelo: as bíblias de Claire (V93–V104) e Olivia (V105–V114)
-> **Status:** 🟡 PROPOSTA (2026-11-27).
+> **Status:** ✅ **APROVADA** (2026-11-27, V116): as marcas [P] desta versão passam a valer como cânone.
 > **Legenda das fontes:**
 > - **[C]** = cânone aprovado, com a decisão ou o arquivo de origem;
 > - **[P]** = proposta nova, que precisa de aprovação;
@@ -15,11 +15,11 @@
 | Campo | Valor |
 |---|---|
 | ID da personagem | **CHR-MAYA** |
-| Versão | V01 · 2026-11-27 · 🟡 em revisão |
+| Versão | V01 · 2026-11-27 · ✅ aprovada (V116) |
 | Responsável | Evelin (criação) · Pedro (voz e câmera, V115) |
 | Referências aprovadas | `maya-reed_biblia-visual.webp` (prancha, P03) · `maya_ref-SC001_t82s.jpg` · `S01E03_LOOK_MAYA_V01.png` (L1, V77) · `TSBU_S01E03_SC005_SH09_KF_V02.png` (a dor pela amiga, V92) |
 | Voz | `maya_reed_voice-ref_v02.wav` (P-10); implementação a cargo do Pedro (V115) |
-| Aprovação | — |
+| Aprovação | Evelin, 2026-11-27 (V116) |
 
 ---
 
