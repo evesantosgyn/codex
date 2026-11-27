@@ -490,8 +490,12 @@
       "name": "Percebendo que June sabe",
       "where": "EP03 SC002",
       "direction": "Eyes narrowing on June, a small realization: June knows something.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png",
+        "sha256": "d75822176cc73ff79708fa61e4e4d3c21b12dade6a3b235d00e033e99d4739bb",
+        "panel": 1
+      },
       "sheet": "P5",
       "panel": 1
     },
@@ -501,8 +505,12 @@
       "name": "Reflexiva (vulnerável)",
       "where": "[P] EP04–EP08",
       "direction": "Alone for a moment, the armor of jokes off: tired eyes, a softer, sadder face.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png",
+        "sha256": "d75822176cc73ff79708fa61e4e4d3c21b12dade6a3b235d00e033e99d4739bb",
+        "panel": 2
+      },
       "sheet": "P5",
       "panel": 2
     },
@@ -512,8 +520,12 @@
       "name": "Serena",
       "where": "EP01–EP03 (fora do trabalho)",
       "direction": "Relaxed and calm, eyes soft, a quiet ease in her face.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png",
+        "sha256": "d75822176cc73ff79708fa61e4e4d3c21b12dade6a3b235d00e033e99d4739bb",
+        "panel": 3
+      },
       "sheet": "P5",
       "panel": 3
     },
@@ -523,8 +535,12 @@
       "name": "Empolgada",
       "where": "EP02 (pós-trabalho)",
       "direction": "Bright eyes and lifted brows, leaning in with energy; her version of excitement, still without a big smile.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png",
+        "sha256": "d75822176cc73ff79708fa61e4e4d3c21b12dade6a3b235d00e033e99d4739bb",
+        "panel": 4
+      },
       "sheet": "P5",
       "panel": 4
     }
@@ -608,10 +624,14 @@
         "EXP-M-28"
       ],
       "approved_file": "02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "d75822176cc73ff79708fa61e4e4d3c21b12dade6a3b235d00e033e99d4739bb",
+      "approval": "V121",
+      "edits": "V01 → V02 no ChatGPT: EXP-M-27 serena sem tristeza; EXP-M-28 empolgada (lia como preocupação)"
     }
   ],
   "notes": {
     "expression_status": "proposed = texto aprovado (V116), ainda sem painel de prancha aprovado; approved = com reference_image"
-  }
+  },
+  "status_visual": "28/28 expressões com referência visual aprovada"
 }

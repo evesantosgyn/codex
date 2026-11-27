@@ -89,6 +89,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V121 | **Maya: prancha P5 (ela mesma) APROVADA** (`02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png`, após 1 edição: 27 serena, 28 empolgada). EXP-M-25, 26, 27, 28. **Bíblia de Maya completa: as 28 expressões da T1 com referência visual aprovada** (5 pranchas, V117–V121) | APROVADO (2026-11-27) | `TSBU_CHR-MAYA_V01.json` |
 | V120 | **Maya: prancha P4 (proteção) APROVADA** (`02_CHARACTERS/MAYA_REED/maya_expressoes-P4_V01.png`, após 1 edição: EXP-M-18 com os olhos sérios). EXP-M-16 (o único sorriso, pequeno), 17, 18 (a piada morre), 20, 22, 23 | APROVADO (2026-11-27) | `TSBU_CHR-MAYA_V01.json` |
 | V119 | **Maya: prancha P3 (trabalho e carinho) APROVADA** sem edição (`02_CHARACTERS/MAYA_REED/maya_expressoes-P3_V01.png`): EXP-M-01 (o tablet, sem tela visível), 02, 03, 04, 14 (o café como ordem), 15. Relógio de couro marrom no pulso esquerdo | APROVADO (2026-11-27) | `TSBU_CHR-MAYA_V01.json` |
 | V118 | **Maya: prancha P2 (comédia) APROVADA** sem edição (`02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png`): EXP-M-07, 08, 09, 10, 11, 12. Seis piadas sem sorriso: o exagero nas sobrancelhas, nos olhos e no queixo, nunca na boca | APROVADO (2026-11-27) | `TSBU_CHR-MAYA_V01.json` |
@@ -227,6 +228,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-27 | Maya: prancha P5 aprovada; as 28 expressões com referência visual; bíblia de Maya completa (V121) | Showrunner GL AI |
 | 2026-11-27 | Maya: prancha P4 aprovada e ligada ao JSON (V120) | Showrunner GL AI |
 | 2026-11-27 | Maya: prancha P3 aprovada e ligada ao JSON (V119) | Showrunner GL AI |
 | 2026-11-27 | Maya: prancha P2 (comédia) aprovada e ligada ao JSON (V118) | Showrunner GL AI |

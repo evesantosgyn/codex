@@ -49,14 +49,14 @@
 |---|---|---|---|---|---|
 | EXP-M-23 | **Surpresa real** | EP01–EP03 | *Real surprise: eyebrows up, eyes wide, lips parted for a second.* | P4·6 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P4_V01.png` painel 6 |
 | EXP-M-24 | **Entendendo só com o olhar** | EP01 SC006 (o slide) | *The moment she understands who Olivia is: eyes widen slightly, then go still; she says nothing.* | P1·6 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png` painel 6 |
-| EXP-M-25 | **Percebendo que June sabe** | EP03 SC002 | *Eyes narrowing on June, a small realization: June knows something.* | P5·1 | — |
+| EXP-M-25 | **Percebendo que June sabe** | EP03 SC002 | *Eyes narrowing on June, a small realization: June knows something.* | P5·1 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png` painel 1 |
 
 ### F. Ela mesma
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-M-26 | **Reflexiva (vulnerável)** | [P] EP04–EP08 | *Alone for a moment, the armor of jokes off: tired eyes, a softer, sadder face.* | P5·2 | — |
-| EXP-M-27 | **Serena** | EP01–EP03 (fora do trabalho) | *Relaxed and calm, eyes soft, a quiet ease in her face.* | P5·3 | — |
-| EXP-M-28 | **Empolgada** | EP02 (pós-trabalho) | *Bright eyes and lifted brows, leaning in with energy; her version of excitement, still without a big smile.* | P5·4 | — |
+| EXP-M-26 | **Reflexiva (vulnerável)** | [P] EP04–EP08 | *Alone for a moment, the armor of jokes off: tired eyes, a softer, sadder face.* | P5·2 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png` painel 2 |
+| EXP-M-27 | **Serena** | EP01–EP03 (fora do trabalho) | *Relaxed and calm, eyes soft, a quiet ease in her face.* | P5·3 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png` painel 3 |
+| EXP-M-28 | **Empolgada** | EP02 (pós-trabalho) | *Bright eyes and lifted brows, leaning in with energy; her version of excitement, still without a big smile.* | P5·4 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png` painel 4 |
 
 ## Proibidos
 - smiling at her own joke
@@ -71,4 +71,4 @@
 | P2 — Comédia | EXP-M-07, EXP-M-08, EXP-M-09, EXP-M-10, EXP-M-11, EXP-M-12 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png` | approved |
 | P3 — Trabalho e carinho | EXP-M-01, EXP-M-02, EXP-M-03, EXP-M-04, EXP-M-14, EXP-M-15 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P3_V01.png` | approved |
 | P4 — Proteção | EXP-M-16, EXP-M-17, EXP-M-18, EXP-M-20, EXP-M-22, EXP-M-23 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P4_V01.png` | approved |
-| P5 — Ela mesma | EXP-M-25, EXP-M-26, EXP-M-27, EXP-M-28 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png` | pending |
+| P5 — Ela mesma | EXP-M-25, EXP-M-26, EXP-M-27, EXP-M-28 | `02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png` | approved |
