@@ -381,8 +381,12 @@
       "name": "Desejo",
       "where": "EP04 \"Almost\" (planejado)",
       "direction": "Her eyes drop to Claire's lips and stay a beat too long; breath held; lips parted.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png",
+        "sha256": "fc576ef6ac7fcaff2e6311a7a443c26ce65082b7862b427b76219084d3b3bf15",
+        "panel": 1
+      },
       "sheet": "P6",
       "panel": 1
     },
@@ -392,8 +396,12 @@
       "name": "A quase-aproximação",
       "where": "EP04 (planejado)",
       "direction": "Leaning in, eyes half-lowered on Claire's mouth, lips parted, about to; then she stops herself.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png",
+        "sha256": "fc576ef6ac7fcaff2e6311a7a443c26ce65082b7862b427b76219084d3b3bf15",
+        "panel": 2
+      },
       "sheet": "P6",
       "panel": 2
     },
@@ -775,8 +783,12 @@
       "name": "Acordando no quarto alugado",
       "where": "EP03 cold open",
       "direction": "Waking alone in a narrow iron bed in a bare room, hair loose, eyes opening on the ceiling, the weight of the day arriving.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png",
+        "sha256": "fc576ef6ac7fcaff2e6311a7a443c26ce65082b7862b427b76219084d3b3bf15",
+        "panel": 3
+      },
       "sheet": "P6",
       "panel": 3
     },
@@ -786,11 +798,16 @@
       "name": "Aos 26, fotografando Claire",
       "where": "Flashback (V80, há sete anos)",
       "direction": "Seven years younger, holding a camera up in morning light, looking over it at someone asleep with total love.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png",
+        "sha256": "fc576ef6ac7fcaff2e6311a7a443c26ce65082b7862b427b76219084d3b3bf15",
+        "panel": 4
+      },
       "age_variant": "26 (seven years ago): longer dark-blond hair",
       "sheet": "P6",
-      "panel": 4
+      "panel": 4,
+      "note": "Na prancha, o olhar e o cabelo longo estão certos, mas o rosto ainda parece 33. Quando um flashback de Olivia aos 26 for escrito, gerar o rosto mais jovem à parte para a cena (luz mais suave, cor de filme da foto antiga)"
     },
     {
       "id": "EXP-O-49",
@@ -798,8 +815,12 @@
       "name": "Olhando a foto de Claire dormindo",
       "where": "EP03 SC003",
       "direction": "Holding the negative of Claire asleep up to the light: eyes filling, lips parted, a love she has kept for seven years.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png",
+        "sha256": "fc576ef6ac7fcaff2e6311a7a443c26ce65082b7862b427b76219084d3b3bf15",
+        "panel": 5
+      },
       "sheet": "P6",
       "panel": 5
     },
@@ -809,8 +830,12 @@
       "name": "Paz",
       "where": "EP08 (planejado)",
       "direction": "At rest beside Claire, face relaxed, eyes half-closed, a small real smile; she stayed.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png",
+        "sha256": "fc576ef6ac7fcaff2e6311a7a443c26ce65082b7862b427b76219084d3b3bf15",
+        "panel": 6
+      },
       "sheet": "P6",
       "panel": 6
     }
@@ -911,7 +936,10 @@
         "EXP-O-50"
       ],
       "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "fc576ef6ac7fcaff2e6311a7a443c26ce65082b7862b427b76219084d3b3bf15",
+      "approval": "V111",
+      "edits": "V01 → V02 no ChatGPT: EXP-O-49 com negativo 120 colorido (estava 35 mm positivo); EXP-O-48 com pouca mudança de idade"
     },
     {
       "id": "P7",

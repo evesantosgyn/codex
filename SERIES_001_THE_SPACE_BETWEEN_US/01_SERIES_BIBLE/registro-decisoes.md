@@ -89,6 +89,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V111 | **Olivia: prancha P6 (desejo e passado) APROVADA** (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png`, após 1 edição: negativo 120 colorido no EXP-O-49). EXP-O-16, 17, 47 (a cama de ferro do quarto alugado), 48, 49, 50. **Nota:** o EXP-O-48 (aos 26) ainda parece 33; o rosto mais jovem será gerado à parte quando houver um flashback escrito | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
 | V110 | **Olivia: prancha P5 (amor) APROVADA** (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png`, após 1 edição: EXP-O-18 com a mão de Olivia sobre a de Claire, que tem o relógio, o punho vermelho-escuro e nenhum anel). EXP-O-13, 14, 15, 18 (o primeiro toque deliberado, EP03 SC006), 19, 20 | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
 | V109 | **Olivia: prancha P4 (humor e leveza) APROVADA** (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png`, após 1 edição: EXP-O-22 com a culpa nos olhos). EXP-O-07, 09 (o único riso aberto, longe de Claire), 10, 11, 12, 22 | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
 | V108 | **Olivia: prancha P3 (observação e trabalho) APROVADA** sem edição (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png`): EXP-O-01 (pela lente), 02, 03, 04, 06 (o olhar para a janela), 25 (evasão; parecido com o 03, a cena dá o sentido) | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
@@ -217,6 +218,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-27 | Olivia: prancha P6 aprovada e ligada ao JSON (V111) | Showrunner GL AI |
 | 2026-11-27 | Olivia: prancha P5 (amor) aprovada e ligada ao JSON (V110) | Showrunner GL AI |
 | 2026-11-27 | Olivia: prancha P4 aprovada e ligada ao JSON (V109) | Showrunner GL AI |
 | 2026-11-27 | Olivia: prancha P3 aprovada e ligada ao JSON (V108) | Showrunner GL AI |
