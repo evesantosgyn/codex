@@ -29,14 +29,14 @@
 ### C. Amor e desejo
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-O-13 | **Olhando Claire sem disfarçar** | Toda a T1 | *She watches Claire openly, tenderly, as if memorizing her; the face soft, eyes slightly wet, no attempt to hide it.* | P5·1 | — |
-| EXP-O-14 | **Ternura** | EP02; EP03 | *Pure tenderness: eyes soft and warm, a small closed-mouth smile, head tilted toward the person she loves.* | P5·2 | — |
-| EXP-O-15 | **Lembrança feliz** | EP03 (a tira de negativo) | *Remembering a happy moment from seven years ago: a far-away smile, eyes bright, then the memory starts to hurt.* | P5·3 | — |
+| EXP-O-13 | **Olhando Claire sem disfarçar** | Toda a T1 | *She watches Claire openly, tenderly, as if memorizing her; the face soft, eyes slightly wet, no attempt to hide it.* | P5·1 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` painel 1 |
+| EXP-O-14 | **Ternura** | EP02; EP03 | *Pure tenderness: eyes soft and warm, a small closed-mouth smile, head tilted toward the person she loves.* | P5·2 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` painel 2 |
+| EXP-O-15 | **Lembrança feliz** | EP03 (a tira de negativo) | *Remembering a happy moment from seven years ago: a far-away smile, eyes bright, then the memory starts to hurt.* | P5·3 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` painel 3 |
 | EXP-O-16 | **Desejo** | EP04 "Almost" (planejado) | *Her eyes drop to Claire's lips and stay a beat too long; breath held; lips parted.* | P6·1 | — |
 | EXP-O-17 | **A quase-aproximação** | EP04 (planejado) | *Leaning in, eyes half-lowered on Claire's mouth, lips parted, about to; then she stops herself.* | P6·2 | — |
-| EXP-O-18 | **O toque deliberado** | EP03 SC006 (a mão sobre a de Claire, 2 s) | *Her hand resting on Claire's hand: she looks at their hands, eyes filling, barely breathing, asking nothing.* | P5·4 | — |
-| EXP-O-19 | **Afastando-se depois do toque** | EP03 SC006 | *She takes her hand back first: eyes lowered, a small swallow, the loss already on her face.* | P5·5 | — |
-| EXP-O-20 | **Alívio quando Claire fica** | EP03 SC006; EP08 | *Relief she cannot hide: a long breath out, eyes closing for a second, shoulders dropping, a trembling small smile.* | P5·6 | — |
+| EXP-O-18 | **O toque deliberado** | EP03 SC006 (a mão sobre a de Claire, 2 s) | *Her hand resting on Claire's hand: she looks at their hands, eyes filling, barely breathing, asking nothing.* | P5·4 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` painel 4 |
+| EXP-O-19 | **Afastando-se depois do toque** | EP03 SC006 | *She takes her hand back first: eyes lowered, a small swallow, the loss already on her face.* | P5·5 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` painel 5 |
+| EXP-O-20 | **Alívio quando Claire fica** | EP03 SC006; EP08 | *Relief she cannot hide: a long breath out, eyes closing for a second, shoulders dropping, a trembling small smile.* | P5·6 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` painel 6 |
 
 ### D. Culpa e segredo
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -108,7 +108,7 @@
 | P2 — Choro | EXP-O-43, EXP-O-44, EXP-O-45, EXP-O-46 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png` | approved |
 | P3 — Observação e trabalho | EXP-O-01, EXP-O-02, EXP-O-03, EXP-O-04, EXP-O-06, EXP-O-25 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` | approved |
 | P4 — Humor e leveza | EXP-O-07, EXP-O-09, EXP-O-10, EXP-O-11, EXP-O-12, EXP-O-22 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` | approved |
-| P5 — Amor | EXP-O-13, EXP-O-14, EXP-O-15, EXP-O-18, EXP-O-19, EXP-O-20 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` | pending |
+| P5 — Amor | EXP-O-13, EXP-O-14, EXP-O-15, EXP-O-18, EXP-O-19, EXP-O-20 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` | approved |
 | P6 — Desejo e passado | EXP-O-16, EXP-O-17, EXP-O-47, EXP-O-48, EXP-O-49, EXP-O-50 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png` | pending |
 | P7 — Culpa e tristeza | EXP-O-24, EXP-O-26, EXP-O-30, EXP-O-31, EXP-O-32, EXP-O-33 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` | pending |
 | P8 — Medo e nervos | EXP-O-34, EXP-O-35, EXP-O-36, EXP-O-37, EXP-O-38, EXP-O-40 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png` | pending |

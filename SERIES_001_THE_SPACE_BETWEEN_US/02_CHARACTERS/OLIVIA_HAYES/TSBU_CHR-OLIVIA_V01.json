@@ -336,8 +336,12 @@
       "name": "Olhando Claire sem disfarçar",
       "where": "Toda a T1",
       "direction": "She watches Claire openly, tenderly, as if memorizing her; the face soft, eyes slightly wet, no attempt to hide it.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png",
+        "sha256": "ea23adf5b3f746ec2367795cb51992c573809967266588f4ec27162b716248d6",
+        "panel": 1
+      },
       "sheet": "P5",
       "panel": 1
     },
@@ -347,8 +351,12 @@
       "name": "Ternura",
       "where": "EP02; EP03",
       "direction": "Pure tenderness: eyes soft and warm, a small closed-mouth smile, head tilted toward the person she loves.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png",
+        "sha256": "ea23adf5b3f746ec2367795cb51992c573809967266588f4ec27162b716248d6",
+        "panel": 2
+      },
       "sheet": "P5",
       "panel": 2
     },
@@ -358,8 +366,12 @@
       "name": "Lembrança feliz",
       "where": "EP03 (a tira de negativo)",
       "direction": "Remembering a happy moment from seven years ago: a far-away smile, eyes bright, then the memory starts to hurt.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png",
+        "sha256": "ea23adf5b3f746ec2367795cb51992c573809967266588f4ec27162b716248d6",
+        "panel": 3
+      },
       "sheet": "P5",
       "panel": 3
     },
@@ -391,8 +403,12 @@
       "name": "O toque deliberado",
       "where": "EP03 SC006 (a mão sobre a de Claire, 2 s)",
       "direction": "Her hand resting on Claire's hand: she looks at their hands, eyes filling, barely breathing, asking nothing.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png",
+        "sha256": "ea23adf5b3f746ec2367795cb51992c573809967266588f4ec27162b716248d6",
+        "panel": 4
+      },
       "sheet": "P5",
       "panel": 4
     },
@@ -402,8 +418,12 @@
       "name": "Afastando-se depois do toque",
       "where": "EP03 SC006",
       "direction": "She takes her hand back first: eyes lowered, a small swallow, the loss already on her face.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png",
+        "sha256": "ea23adf5b3f746ec2367795cb51992c573809967266588f4ec27162b716248d6",
+        "panel": 5
+      },
       "sheet": "P5",
       "panel": 5
     },
@@ -413,8 +433,12 @@
       "name": "Alívio quando Claire fica",
       "where": "EP03 SC006; EP08",
       "direction": "Relief she cannot hide: a long breath out, eyes closing for a second, shoulders dropping, a trembling small smile.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png",
+        "sha256": "ea23adf5b3f746ec2367795cb51992c573809967266588f4ec27162b716248d6",
+        "panel": 6
+      },
       "sheet": "P5",
       "panel": 6
     },
@@ -870,7 +894,10 @@
         "EXP-O-20"
       ],
       "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "ea23adf5b3f746ec2367795cb51992c573809967266588f4ec27162b716248d6",
+      "approval": "V110",
+      "edits": "V01 → V02 no ChatGPT: EXP-O-18 com a mão de Olivia sobre a de Claire (relógio no pulso esquerdo, punho vermelho-escuro, sem anéis)"
     },
     {
       "id": "P6",
