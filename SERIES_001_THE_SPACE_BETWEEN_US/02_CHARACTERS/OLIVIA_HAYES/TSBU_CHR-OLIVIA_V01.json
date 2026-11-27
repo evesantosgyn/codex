@@ -642,8 +642,12 @@
       "name": "Enchendo (não esconde)",
       "where": "EP05–EP07 (planejado)",
       "direction": "Her eyes overflow while she keeps looking at Claire: tears brimming, chin trembling, she does not turn away.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png",
+        "sha256": "28d3c95abaac5611ff7f1d2efb25742270558f34c2c285ae2722dc1c3cfb247e",
+        "panel": 1
+      },
       "sheet": "P2",
       "panel": 1
     },
@@ -653,8 +657,12 @@
       "name": "A lágrima que cai",
       "where": "EP05 (planejado)",
       "direction": "One tear falls down her cheek while she holds Claire's eyes; her lips part; she lets it fall.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png",
+        "sha256": "28d3c95abaac5611ff7f1d2efb25742270558f34c2c285ae2722dc1c3cfb247e",
+        "panel": 2
+      },
       "sheet": "P2",
       "panel": 2
     },
@@ -664,8 +672,12 @@
       "name": "O choro aberto",
       "where": "EP07 (A DEFINIR)",
       "direction": "Crying openly but silently, face uncovered, looking at Claire: tears streaming, breath breaking, mouth trembling, not hiding.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png",
+        "sha256": "28d3c95abaac5611ff7f1d2efb25742270558f34c2c285ae2722dc1c3cfb247e",
+        "panel": 3
+      },
       "sheet": "P2",
       "panel": 3
     },
@@ -675,8 +687,12 @@
       "name": "Depois (o sorriso quebrado)",
       "where": "EP07 (A DEFINIR)",
       "direction": "After crying: wiping her face with her sleeve, red eyes, a small broken smile escaping through the tears.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png",
+        "sha256": "28d3c95abaac5611ff7f1d2efb25742270558f34c2c285ae2722dc1c3cfb247e",
+        "panel": 4
+      },
       "sheet": "P2",
       "panel": 4
     },
@@ -754,7 +770,10 @@
         "EXP-O-46"
       ],
       "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "28d3c95abaac5611ff7f1d2efb25742270558f34c2c285ae2722dc1c3cfb247e",
+      "approval": "V107",
+      "edits": "nenhuma"
     },
     {
       "id": "P3",

@@ -79,10 +79,10 @@
 ### H. Choro (níveis 2 e 3)
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-O-43 | **Enchendo (não esconde)** | EP05–EP07 (planejado) | *Her eyes overflow while she keeps looking at Claire: tears brimming, chin trembling, she does not turn away.* | P2·1 | — |
-| EXP-O-44 | **A lágrima que cai** | EP05 (planejado) | *One tear falls down her cheek while she holds Claire's eyes; her lips part; she lets it fall.* | P2·2 | — |
-| EXP-O-45 | **O choro aberto** | EP07 (A DEFINIR) | *Crying openly but silently, face uncovered, looking at Claire: tears streaming, breath breaking, mouth trembling, not hiding.* | P2·3 | — |
-| EXP-O-46 | **Depois (o sorriso quebrado)** | EP07 (A DEFINIR) | *After crying: wiping her face with her sleeve, red eyes, a small broken smile escaping through the tears.* | P2·4 | — |
+| EXP-O-43 | **Enchendo (não esconde)** | EP05–EP07 (planejado) | *Her eyes overflow while she keeps looking at Claire: tears brimming, chin trembling, she does not turn away.* | P2·1 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png` painel 1 |
+| EXP-O-44 | **A lágrima que cai** | EP05 (planejado) | *One tear falls down her cheek while she holds Claire's eyes; her lips part; she lets it fall.* | P2·2 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png` painel 2 |
+| EXP-O-45 | **O choro aberto** | EP07 (A DEFINIR) | *Crying openly but silently, face uncovered, looking at Claire: tears streaming, breath breaking, mouth trembling, not hiding.* | P2·3 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png` painel 3 |
+| EXP-O-46 | **Depois (o sorriso quebrado)** | EP07 (A DEFINIR) | *After crying: wiping her face with her sleeve, red eyes, a small broken smile escaping through the tears.* | P2·4 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png` painel 4 |
 
 ### I. Intimidade e passado
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -105,7 +105,7 @@
 | Prancha | Painéis | Arquivo | Status |
 |---|---|---|---|
 | P1 — Essenciais | EXP-O-05, EXP-O-29, EXP-O-21, EXP-O-08, EXP-O-23, EXP-O-39 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` | approved |
-| P2 — Choro | EXP-O-43, EXP-O-44, EXP-O-45, EXP-O-46 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png` | pending |
+| P2 — Choro | EXP-O-43, EXP-O-44, EXP-O-45, EXP-O-46 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png` | approved |
 | P3 — Observação e trabalho | EXP-O-01, EXP-O-02, EXP-O-03, EXP-O-04, EXP-O-06, EXP-O-25 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` | pending |
 | P4 — Humor e leveza | EXP-O-07, EXP-O-09, EXP-O-10, EXP-O-11, EXP-O-12, EXP-O-22 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` | pending |
 | P5 — Amor | EXP-O-13, EXP-O-14, EXP-O-15, EXP-O-18, EXP-O-19, EXP-O-20 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` | pending |
