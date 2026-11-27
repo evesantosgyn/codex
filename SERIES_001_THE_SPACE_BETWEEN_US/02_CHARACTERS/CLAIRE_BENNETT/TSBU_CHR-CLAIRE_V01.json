@@ -491,8 +491,12 @@
       "direction": "Hit: everything stops; eyes widen a fraction, breath held, no other movement.",
       "sheet": "P7",
       "panel": 1,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png",
+        "sha256": "33f3de077df5e59134cea072e2267ffe8c982876ae05fb4d85a2c9eb2f55fcab",
+        "panel": 1
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-24",
@@ -502,8 +506,12 @@
       "direction": "Hurt behind a composed face: the jaw set, the eyes betraying a flicker of pain.",
       "sheet": "P7",
       "panel": 2,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png",
+        "sha256": "33f3de077df5e59134cea072e2267ffe8c982876ae05fb4d85a2c9eb2f55fcab",
+        "panel": 2
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-25",
@@ -543,8 +551,12 @@
       "direction": "Alone, unguarded: still, eyes on nothing, a long exhale; the armor off because no one sees.",
       "sheet": "P7",
       "panel": 3,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png",
+        "sha256": "33f3de077df5e59134cea072e2267ffe8c982876ae05fb4d85a2c9eb2f55fcab",
+        "panel": 3
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-28",
@@ -554,8 +566,12 @@
       "direction": "Quiet disappointment: eyes lower, a small nod to herself, the mouth tightening at one corner.",
       "sheet": "P7",
       "panel": 4,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png",
+        "sha256": "33f3de077df5e59134cea072e2267ffe8c982876ae05fb4d85a2c9eb2f55fcab",
+        "panel": 4
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-29",
@@ -565,8 +581,12 @@
       "direction": "Tired to the bone: heavy lids, slow blink, shoulders down.",
       "sheet": "P7",
       "panel": 5,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png",
+        "sha256": "33f3de077df5e59134cea072e2267ffe8c982876ae05fb4d85a2c9eb2f55fcab",
+        "panel": 5
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-30",
@@ -720,8 +740,12 @@
       "direction": "Listening without defending: still, eyes on Olivia, absorbing each word, a small swallow.",
       "sheet": "P7",
       "panel": 6,
-      "reference_image": null,
-      "status": "proposed"
+      "reference_image": {
+        "path": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png",
+        "sha256": "33f3de077df5e59134cea072e2267ffe8c982876ae05fb4d85a2c9eb2f55fcab",
+        "panel": 6
+      },
+      "status": "approved"
     },
     {
       "id": "EXP-C-43",
@@ -998,7 +1022,10 @@
         "EXP-C-42"
       ],
       "approved_file": "02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "33f3de077df5e59134cea072e2267ffe8c982876ae05fb4d85a2c9eb2f55fcab",
+      "approval": "V101",
+      "edits": "V01 → V02 no ChatGPT: EXP-C-27 sem armadura (olhar desfocado, pálpebras úmidas, boca solta)"
     },
     {
       "id": "P8",

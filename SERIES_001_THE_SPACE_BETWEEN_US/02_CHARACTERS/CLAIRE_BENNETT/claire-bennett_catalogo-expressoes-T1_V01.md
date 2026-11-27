@@ -43,13 +43,13 @@
 ### D. Mágoa e tristeza
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-C-23 | **Atingida (o golpe)** | EP01 SC006 (o slide); EP03 SC001 (`KF-C1-HIT`) | *Hit: everything stops; eyes widen a fraction, breath held, no other movement.* | P7·1 | — |
-| EXP-C-24 | **Mágoa escondida** | EP02; EP03 | *Hurt behind a composed face: the jaw set, the eyes betraying a flicker of pain.* | P7·2 | — |
+| EXP-C-23 | **Atingida (o golpe)** | EP01 SC006 (o slide); EP03 SC001 (`KF-C1-HIT`) | *Hit: everything stops; eyes widen a fraction, breath held, no other movement.* | P7·1 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` painel 1 |
+| EXP-C-24 | **Mágoa escondida** | EP02; EP03 | *Hurt behind a composed face: the jaw set, the eyes betraying a flicker of pain.* | P7·2 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` painel 2 |
 | EXP-C-25 | **Nível 1 (olhos brilhando)** | Padrão do subtexto (V70); EP03 SC004 (`KF-C-ASK`) | *Firm face, a thin wet shine on the lower lids, no tear.* | P1·2 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` painel 2 |
 | EXP-C-26 | **Nível 2 (uma lágrima contida)** | **EP03 SC006** | *One tear on one cheek; jaw held, eyes open and steady; she refuses to break.* | P1·3 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` painel 3 |
-| EXP-C-27 | **Tristeza sozinha** | EP01 SC004 (a manhã); EP05–EP07 | *Alone, unguarded: still, eyes on nothing, a long exhale; the armor off because no one sees.* | P7·3 | — |
-| EXP-C-28 | **Decepção** | EP02 SC004 ("Did you know?"); EP05 | *Quiet disappointment: eyes lower, a small nod to herself, the mouth tightening at one corner.* | P7·4 | — |
-| EXP-C-29 | **Cansaço** | EP01 SC004 (sem batom, olheiras); fim de dia | *Tired to the bone: heavy lids, slow blink, shoulders down.* | P7·5 | — |
+| EXP-C-27 | **Tristeza sozinha** | EP01 SC004 (a manhã); EP05–EP07 | *Alone, unguarded: still, eyes on nothing, a long exhale; the armor off because no one sees.* | P7·3 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` painel 3 |
+| EXP-C-28 | **Decepção** | EP02 SC004 ("Did you know?"); EP05 | *Quiet disappointment: eyes lower, a small nod to herself, the mouth tightening at one corner.* | P7·4 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` painel 4 |
+| EXP-C-29 | **Cansaço** | EP01 SC004 (sem batom, olheiras); fim de dia | *Tired to the bone: heavy lids, slow blink, shoulders down.* | P7·5 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` painel 5 |
 
 ### E. Raiva (fria)
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -74,7 +74,7 @@
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
 | EXP-C-41 | **Vulnerável** | EP03 SC006; EP06; EP08 | *For once she does not look away: eyes open and soft, brows lifted in the middle, lips just parted.* | P1·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-emocionais_V01.png` painel 6 |
-| EXP-C-42 | **Ouvindo a verdade** | EP05–EP07 (planejado) | *Listening without defending: still, eyes on Olivia, absorbing each word, a small swallow.* | P7·6 | — |
+| EXP-C-42 | **Ouvindo a verdade** | EP05–EP07 (planejado) | *Listening without defending: still, eyes on Olivia, absorbing each word, a small swallow.* | P7·6 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` painel 6 |
 | EXP-C-43 | **A pergunta honesta** | EP06 (planejado) | *Asking the real question: quiet, direct, eyes searching Olivia's face, afraid of the answer.* | P8·5 | — |
 | EXP-C-44 | **Considerando perdoar** | EP07–EP08 (planejado) | *Looking at Olivia a long moment, the hurt and the love both visible, undecided.* | P8·6 | — |
 | EXP-C-45 | **Esperança** | EP06; EP08 (planejado) | *A careful, almost frightened hope: eyes bright, a breath in, the start of a smile she allows.* | P6·4 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png` painel 4 |
@@ -113,7 +113,7 @@
 | P4 — Comédia | EXP-C-07, EXP-C-08, EXP-C-09, EXP-C-10, EXP-C-11, EXP-C-14 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P4_V01.png` | approved |
 | P5 — Sorriso e amor | EXP-C-13, EXP-C-15, EXP-C-16, EXP-C-17, EXP-C-20, EXP-C-22 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P5_V01.png` | approved |
 | P6 — Desejo e toque | EXP-C-18, EXP-C-19, EXP-C-21, EXP-C-45, EXP-C-46, EXP-C-54 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P6_V01.png` | approved |
-| P7 — Mágoa | EXP-C-23, EXP-C-24, EXP-C-27, EXP-C-28, EXP-C-29, EXP-C-42 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` | pending |
+| P7 — Mágoa | EXP-C-23, EXP-C-24, EXP-C-27, EXP-C-28, EXP-C-29, EXP-C-42 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P7_V01.png` | approved |
 | P8 — Raiva e confronto | EXP-C-32, EXP-C-33, EXP-C-34, EXP-C-35, EXP-C-43, EXP-C-44 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P8_V01.png` | pending |
 | P9 — Medo e choque | EXP-C-36, EXP-C-37, EXP-C-38, EXP-C-39, EXP-C-40, EXP-C-53 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P9_V01.png` | pending |
 | P10 — Intimidade | EXP-C-51, EXP-C-52 | `02_CHARACTERS/CLAIRE_BENNETT/claire_expressoes-P10_V01.png` | pending |
