@@ -1,0 +1,829 @@
+{
+  "character_id": "CHR-OLIVIA",
+  "series": "TSBU",
+  "name": "Olivia Hayes",
+  "version": "V01",
+  "status": "proposed",
+  "updated": "2026-11-27",
+  "approval": {
+    "bible": null,
+    "catalog": null
+  },
+  "sources": {
+    "bible_md": "02_CHARACTERS/OLIVIA_HAYES/olivia-hayes_character-bible_V01.md",
+    "continuity": "01_SERIES_BIBLE/continuidade.yaml#olivia_hayes",
+    "secret": "01_SERIES_BIBLE/canone-segredo-olivia.md",
+    "catalog_md": "02_CHARACTERS/OLIVIA_HAYES/olivia-hayes_catalogo-expressoes-T1_V01.md (gerado)",
+    "sheets_pack": "02_CHARACTERS/OLIVIA_HAYES/olivia_pranchas_pacote-chatgpt_V01.md (gerado)"
+  },
+  "references": {
+    "identity_pack": {
+      "path": "02_CHARACTERS/OLIVIA_HAYES/olivia-hayes_identity-pack.webp",
+      "sha256": "c24396e05608844aaabdf480c26fbf580f4ed05726985301de7b514a983ad806"
+    },
+    "face_ref": {
+      "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_ref-SC003_KF-O1.png",
+      "sha256": "56cff69589098f73be590ccbfb6eaa3fb5efa0220517b3d87be1d9fd7d475468"
+    },
+    "look_L1": {
+      "path": "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_OLIVIA_V01.png",
+      "sha256": "06afe521de855196e5afdb92352c1b5ffb4f6ef2bc4d479061eb90ca1564d63b"
+    },
+    "look_L4": {
+      "path": "06_GENERATED_ASSETS/IMAGES/S01E02_LOOK_OLIVIA_V01.png",
+      "sha256": "df7c17c72d578b034671121a1f65126c6ef179eaad91c14f3da5f2bdba6ca169"
+    },
+    "level1_ref": {
+      "path": "06_GENERATED_ASSETS/IMAGES/S01E03_SC004_KF-O-GAP_V01.png",
+      "sha256": "2f563cef4a104b6739fea0139d3373f5fe79f0c5c1aa754a605adec44aa7e600"
+    }
+  },
+  "sheet_refs": [
+    "identity_pack",
+    "look_L1",
+    "level1_ref"
+  ],
+  "identity_lock": {
+    "immutable": {
+      "face": "soft features, oval face, defined cheekbones, natural dark-blond eyebrows, full soft lips, light freckles",
+      "eyes": "green-hazel",
+      "hair": "dark blond, wavy, below the shoulders; messy bun at work, loose at home; never dark brown",
+      "hair_seven_years_ago": "dark blond, longer than today",
+      "beauty_mark": "ONE small beauty mark just below the lower lip on HER LEFT side (image right when she faces the camera); no other moles",
+      "tattoo": "small fine-line camera tattoo on the inner LEFT forearm",
+      "watch": "none",
+      "jewelry": "small gold hoops; thin layered gold necklaces; thin rings allowed",
+      "skin": "fair, natural, light freckles, minimal make-up",
+      "height": "1.70 m"
+    },
+    "variable": [
+      "look (L1–L5)",
+      "bun or loose hair",
+      "camera bag",
+      "white hard hat in the factory hall",
+      "long olive wool coat at night (EP03)"
+    ],
+    "generator_errors": [
+      "face turning into Claire's (dark hair) in a shared chat",
+      "two moles or mole on the wrong side",
+      "a watch",
+      "tattoo missing or on the right arm",
+      "brown eyes",
+      "open mouth \"talking\" with a neutral face (EP02 problem)",
+      "open laugh in a personal line with Claire"
+    ]
+  },
+  "looks": {
+    "L1": "olive utility shirt open, black top, dark cargo pants, combat boots, canvas camera bag; at night the long olive wool coat (EP03, V76)",
+    "L4": "brown off-shoulder chunky knit sweater, loose jeans, leather belt, combat boots, messy bun (EP02, V54)"
+  },
+  "voice": {
+    "reference": null,
+    "candidate": "olivia_voice-ref_v01.wav (EP02, 7.6 s) awaiting approval (V90)",
+    "language": "American English",
+    "register": "medium-low, slightly husky, warm, unhurried; short sentences; a pause before what is honest (V28)",
+    "pace": "<= 3 words/s in personal lines (V90)"
+  },
+  "camera": "subtle handheld, filmed through things: glass, door frames, boxes, lenses, film (P-15, E14)",
+  "light": "warm: amber and gold, often backlit (E14)",
+  "sound": [
+    "camera shutter",
+    "negative sleeve paper",
+    "her breathing"
+  ],
+  "interpretation_rule": "Claire hides in her face; Olivia hides in her words. Her body tells the truth before she does: the breath changes first, her eyes fill and she does not hide it, her gaze escapes to the window when it hurts. She looks one second too long. Her fingers stop on whatever they hold. She never says a personal line with a neutral face.",
+  "limits": {
+    "laugh_open": "only away from Claire until EP06",
+    "touch": "first deliberate touch is hers (EP03 SC006) and she is the one who pulls away",
+    "tears": {
+      "1": "default: eyes fill, not hidden",
+      "2": "tear falls only from EP05 (after the revelation)",
+      "3": "TBD (EP07?); face uncovered, looking at Claire, silent"
+    }
+  },
+  "forbidden": [
+    "neutral face or \"talking mouth\" without emotion in a personal line",
+    "fast speech in love, guilt or sadness",
+    "open laugh in a personal line with Claire",
+    "a falling tear before EP05",
+    "a watch",
+    "two moles",
+    "dark-brown hair"
+  ],
+  "generation_suffix": "Dark-blond wavy hair (never dark brown). Green-hazel eyes. ONLY ONE small beauty mark just below her lower lip on HER LEFT side (image right when she faces the camera), no other moles. NO watch. If her left forearm shows, a small fine-line camera tattoo on the inner side. Same face in every panel; never Claire's face.",
+  "expression_groups": [
+    {
+      "id": "A",
+      "name": "Observação e trabalho (a fotógrafa)"
+    },
+    {
+      "id": "B",
+      "name": "Humor e leveza"
+    },
+    {
+      "id": "C",
+      "name": "Amor e desejo"
+    },
+    {
+      "id": "D",
+      "name": "Culpa e segredo"
+    },
+    {
+      "id": "E",
+      "name": "Tristeza"
+    },
+    {
+      "id": "F",
+      "name": "Medo e nervos"
+    },
+    {
+      "id": "G",
+      "name": "Vulnerabilidade e esperança"
+    },
+    {
+      "id": "H",
+      "name": "Choro (níveis 2 e 3)"
+    },
+    {
+      "id": "I",
+      "name": "Intimidade e passado"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "EXP-O-01",
+      "group": "A",
+      "name": "Observando pela lente",
+      "where": "Toda a T1 (o trabalho)",
+      "direction": "Eye to the viewfinder of her camera, the other eye closed, utterly absorbed, a faint warmth at the mouth.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 1
+    },
+    {
+      "id": "EXP-O-02",
+      "group": "A",
+      "name": "Notando o detalhe",
+      "where": "EP01 SC003 (\"You cut your hair\"); EP02 (\"You still do that\")",
+      "direction": "She notices something small that changed: eyes soften and linger on it, the faintest smile of recognition, lips just parted.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 2
+    },
+    {
+      "id": "EXP-O-03",
+      "group": "A",
+      "name": "Concentrada no trabalho",
+      "where": "EP03 SC003 (a mesa de luz)",
+      "direction": "Bent over her work, eyes narrowed with care, a strand of dark-blond hair falling from the bun, completely focused.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 3
+    },
+    {
+      "id": "EXP-O-04",
+      "group": "A",
+      "name": "Escutando alguém (empatia)",
+      "where": "EP02 SC006 (a entrevista); EP03",
+      "direction": "Listening to someone else's story with full attention: head slightly tilted, eyes warm and steady, nodding very slightly.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 4
+    },
+    {
+      "id": "EXP-O-05",
+      "group": "A",
+      "name": "O olhar sustentado",
+      "where": "Toda fala com Claire (V70)",
+      "direction": "Looking at Claire one second too long: open, unguarded eyes, lips closed, a quiet ache she does not hide.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 1
+    },
+    {
+      "id": "EXP-O-06",
+      "group": "A",
+      "name": "O olhar que foge para a janela",
+      "where": "Quando dói (E14)",
+      "direction": "Her eyes drift away to a window, unfocused, the light on her face, breath held; she is somewhere else for a moment.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 5
+    },
+    {
+      "id": "EXP-O-07",
+      "group": "B",
+      "name": "Provocação afetuosa",
+      "where": "EP01–EP03 (as regras de Claire)",
+      "direction": "Affectionate irony: a spark in her eyes, one corner of the mouth up, chin slightly down, daring Claire without breaking any rule.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 1
+    },
+    {
+      "id": "EXP-O-08",
+      "group": "B",
+      "name": "O sorriso que quebra no meio",
+      "where": "Toda a T1 (E14)",
+      "direction": "A smile that starts and breaks halfway: the mouth lifts, then falters, the eyes turning sad before the smile is finished.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 4
+    },
+    {
+      "id": "EXP-O-09",
+      "group": "B",
+      "name": "Riso aberto (longe de Claire)",
+      "where": "Com June, com estranhos (EP02–EP03)",
+      "direction": "A real open laugh, head tipped back slightly, eyes crinkled, warm and free; only away from Claire.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 2
+    },
+    {
+      "id": "EXP-O-10",
+      "group": "B",
+      "name": "Honestidade desarmante",
+      "where": "EP01 SC007 (\"I was going for honest.\")",
+      "direction": "Simple and direct, eyes straight ahead, a small helpless shrug in the face; no defense, no performance.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 3
+    },
+    {
+      "id": "EXP-O-11",
+      "group": "B",
+      "name": "Obedecendo a regra (com brilho)",
+      "where": "EP01 SC007; EP02 SC007",
+      "direction": "Composed and obedient on the surface, but her eyes are laughing: she will follow the rule, and both of them know it is a game.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 4
+    },
+    {
+      "id": "EXP-O-12",
+      "group": "B",
+      "name": "Surpresa divertida",
+      "where": "EP02 (a comédia de Maya e June)",
+      "direction": "Eyebrows up, eyes wide and amused, lips pressed against a laugh.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 5
+    },
+    {
+      "id": "EXP-O-13",
+      "group": "C",
+      "name": "Olhando Claire sem disfarçar",
+      "where": "Toda a T1",
+      "direction": "She watches Claire openly, tenderly, as if memorizing her; the face soft, eyes slightly wet, no attempt to hide it.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 1
+    },
+    {
+      "id": "EXP-O-14",
+      "group": "C",
+      "name": "Ternura",
+      "where": "EP02; EP03",
+      "direction": "Pure tenderness: eyes soft and warm, a small closed-mouth smile, head tilted toward the person she loves.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 2
+    },
+    {
+      "id": "EXP-O-15",
+      "group": "C",
+      "name": "Lembrança feliz",
+      "where": "EP03 (a tira de negativo)",
+      "direction": "Remembering a happy moment from seven years ago: a far-away smile, eyes bright, then the memory starts to hurt.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 3
+    },
+    {
+      "id": "EXP-O-16",
+      "group": "C",
+      "name": "Desejo",
+      "where": "EP04 \"Almost\" (planejado)",
+      "direction": "Her eyes drop to Claire's lips and stay a beat too long; breath held; lips parted.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P6",
+      "panel": 1
+    },
+    {
+      "id": "EXP-O-17",
+      "group": "C",
+      "name": "A quase-aproximação",
+      "where": "EP04 (planejado)",
+      "direction": "Leaning in, eyes half-lowered on Claire's mouth, lips parted, about to; then she stops herself.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P6",
+      "panel": 2
+    },
+    {
+      "id": "EXP-O-18",
+      "group": "C",
+      "name": "O toque deliberado",
+      "where": "EP03 SC006 (a mão sobre a de Claire, 2 s)",
+      "direction": "Her hand resting on Claire's hand: she looks at their hands, eyes filling, barely breathing, asking nothing.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 4
+    },
+    {
+      "id": "EXP-O-19",
+      "group": "C",
+      "name": "Afastando-se depois do toque",
+      "where": "EP03 SC006",
+      "direction": "She takes her hand back first: eyes lowered, a small swallow, the loss already on her face.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 5
+    },
+    {
+      "id": "EXP-O-20",
+      "group": "C",
+      "name": "Alívio quando Claire fica",
+      "where": "EP03 SC006; EP08",
+      "direction": "Relief she cannot hide: a long breath out, eyes closing for a second, shoulders dropping, a trembling small smile.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 6
+    },
+    {
+      "id": "EXP-O-21",
+      "group": "D",
+      "name": "A meia-verdade",
+      "where": "EP02 SC008; EP03 SC004",
+      "direction": "Telling half the truth with her eyes fixed on the table, never on Claire: lips tight between the words, guilt held very still.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 3
+    },
+    {
+      "id": "EXP-O-22",
+      "group": "D",
+      "name": "Culpa atrás da leveza",
+      "where": "EP01–EP03 (no escritório)",
+      "direction": "A light, friendly face on the surface, but the eyes give her away: a flicker of guilt behind the smile.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 6
+    },
+    {
+      "id": "EXP-O-23",
+      "group": "D",
+      "name": "A respiração antes da verdade",
+      "where": "EP03 SC004 (\"I didn't take care of that.\")",
+      "direction": "The held breath before a hard truth: lips pressed together then parting, eyes down and glistening.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 5
+    },
+    {
+      "id": "EXP-O-24",
+      "group": "D",
+      "name": "Vergonha",
+      "where": "EP03 SC004; EP05",
+      "direction": "Shame: eyes down and they don't come up, shoulders curling in, her fingers touching the empty inside of her left wrist.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P7",
+      "panel": 1
+    },
+    {
+      "id": "EXP-O-25",
+      "group": "D",
+      "name": "Evasão (volta ao trabalho)",
+      "where": "EP03 SC004 (\"The west side…\")",
+      "direction": "Retreating into work: eyes on the windows or the negatives, a busy, too-practical expression; the subject is closed.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 6
+    },
+    {
+      "id": "EXP-O-26",
+      "group": "D",
+      "name": "Pega na mentira",
+      "where": "EP02 SC004 (\"Did you know?\")",
+      "direction": "Caught: a small freeze, eyes widening a fraction then lowering, a breath in; she will not lie again.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P7",
+      "panel": 2
+    },
+    {
+      "id": "EXP-O-27",
+      "group": "D",
+      "name": "A confissão",
+      "where": "EP06–EP07 (planejado)",
+      "direction": "Telling the whole truth at last: eyes on Claire, wet and steady, voice-ready, every word costing her.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P9",
+      "panel": 1
+    },
+    {
+      "id": "EXP-O-28",
+      "group": "D",
+      "name": "Assumindo a responsabilidade",
+      "where": "EP07 \"The Cost of Silence\" (planejado)",
+      "direction": "Taking responsibility without asking forgiveness: eyes on Claire, tears held, chin level, no excuses in the face.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P9",
+      "panel": 2
+    },
+    {
+      "id": "EXP-O-29",
+      "group": "E",
+      "name": "Nível 1 (os olhos enchem)",
+      "where": "Padrão do subtexto (V70); EP03 SC004 (KF-O-GAP)",
+      "direction": "Her eyes fill with tears and she does not hide it; no tear falls; lips closed and soft.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 2
+    },
+    {
+      "id": "EXP-O-30",
+      "group": "E",
+      "name": "Olhos cheios para a janela",
+      "where": "EP02 SC008 (\"About that.\"); EP03",
+      "direction": "Turned toward a window, eyes full, the light catching the wet lids, jaw soft; alone with it.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P7",
+      "panel": 3
+    },
+    {
+      "id": "EXP-O-31",
+      "group": "E",
+      "name": "Tristeza sozinha",
+      "where": "EP03 cold open (o quarto alugado)",
+      "direction": "Alone in her rented room: sitting still, eyes on nothing, the face loose and tired, a long exhale.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P7",
+      "panel": 4
+    },
+    {
+      "id": "EXP-O-32",
+      "group": "E",
+      "name": "Saudade (a caixa de negativos)",
+      "where": "EP03 cold open; SC003",
+      "direction": "Looking at an old negative against the light: eyes soft and far away, a small pained smile.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P7",
+      "panel": 5
+    },
+    {
+      "id": "EXP-O-33",
+      "group": "E",
+      "name": "Nível 2 (a lágrima cai)",
+      "where": "A partir do EP05 (planejado)",
+      "direction": "For the first time a tear falls and she lets it: eyes open on Claire, the tear running, no attempt to wipe it.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P7",
+      "panel": 6
+    },
+    {
+      "id": "EXP-O-34",
+      "group": "F",
+      "name": "Nervosa na porta",
+      "where": "EP01 SC003 (\"I thought you'd close the door.\")",
+      "direction": "Nervous and hopeful at a door: a quick breath, eyes searching, a small uncertain smile that doesn't hold.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P8",
+      "panel": 1
+    },
+    {
+      "id": "EXP-O-35",
+      "group": "F",
+      "name": "Medo de ser rejeitada",
+      "where": "EP01; EP05–EP07",
+      "direction": "Bracing for rejection: eyes wide and wet, lips pressed, shoulders tight.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P8",
+      "panel": 2
+    },
+    {
+      "id": "EXP-O-36",
+      "group": "F",
+      "name": "Ansiedade (as mãos na câmera)",
+      "where": "EP01–EP03",
+      "direction": "Fidgeting with her camera strap or lens cap, eyes darting, a nervous half-laugh.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P8",
+      "panel": 3
+    },
+    {
+      "id": "EXP-O-37",
+      "group": "F",
+      "name": "O impulso de fugir",
+      "where": "EP03 (as malas); EP07",
+      "direction": "Eyes flicking to the door or her bag, weight shifting back, the old instinct to run written on her face.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P8",
+      "panel": 4
+    },
+    {
+      "id": "EXP-O-38",
+      "group": "F",
+      "name": "Decidindo ficar",
+      "where": "EP08 (planejado)",
+      "direction": "The moment she chooses to stay: a deep breath, eyes steady on Claire, feet planted, frightened and sure.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P8",
+      "panel": 5
+    },
+    {
+      "id": "EXP-O-39",
+      "group": "G",
+      "name": "Vulnerável",
+      "where": "EP03 SC006; EP06–EP07",
+      "direction": "Facing Claire with full eyes and open empty hands, nothing to defend, almost whispering.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 6
+    },
+    {
+      "id": "EXP-O-40",
+      "group": "G",
+      "name": "Ouvindo a raiva de Claire",
+      "where": "EP07 (planejado)",
+      "direction": "Listening to Claire's anger without defending herself: eyes on her, tears held, a small nod, taking every word.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P8",
+      "panel": 6
+    },
+    {
+      "id": "EXP-O-41",
+      "group": "G",
+      "name": "Esperança",
+      "where": "EP03 SC009 (a mensagem); EP08",
+      "direction": "A careful hope: eyes bright and wet, a breath held, the beginning of a smile she does not dare finish.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P9",
+      "panel": 3
+    },
+    {
+      "id": "EXP-O-42",
+      "group": "G",
+      "name": "Pedindo sem pedir",
+      "where": "EP06 (planejado)",
+      "direction": "Asking without words: eyes searching Claire's face, lips parted, waiting, giving her the choice.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P9",
+      "panel": 4
+    },
+    {
+      "id": "EXP-O-43",
+      "group": "H",
+      "name": "Enchendo (não esconde)",
+      "where": "EP05–EP07 (planejado)",
+      "direction": "Her eyes overflow while she keeps looking at Claire: tears brimming, chin trembling, she does not turn away.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 1
+    },
+    {
+      "id": "EXP-O-44",
+      "group": "H",
+      "name": "A lágrima que cai",
+      "where": "EP05 (planejado)",
+      "direction": "One tear falls down her cheek while she holds Claire's eyes; her lips part; she lets it fall.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 2
+    },
+    {
+      "id": "EXP-O-45",
+      "group": "H",
+      "name": "O choro aberto",
+      "where": "EP07 (A DEFINIR)",
+      "direction": "Crying openly but silently, face uncovered, looking at Claire: tears streaming, breath breaking, mouth trembling, not hiding.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 3
+    },
+    {
+      "id": "EXP-O-46",
+      "group": "H",
+      "name": "Depois (o sorriso quebrado)",
+      "where": "EP07 (A DEFINIR)",
+      "direction": "After crying: wiping her face with her sleeve, red eyes, a small broken smile escaping through the tears.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 4
+    },
+    {
+      "id": "EXP-O-47",
+      "group": "I",
+      "name": "Acordando no quarto alugado",
+      "where": "EP03 cold open",
+      "direction": "Waking alone in a narrow iron bed in a bare room, hair loose, eyes opening on the ceiling, the weight of the day arriving.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P6",
+      "panel": 3
+    },
+    {
+      "id": "EXP-O-48",
+      "group": "I",
+      "name": "Aos 26, fotografando Claire",
+      "where": "Flashback (V80, há sete anos)",
+      "direction": "Seven years younger, holding a camera up in morning light, looking over it at someone asleep with total love.",
+      "status": "proposed",
+      "reference_image": null,
+      "age_variant": "26 (seven years ago): longer dark-blond hair",
+      "sheet": "P6",
+      "panel": 4
+    },
+    {
+      "id": "EXP-O-49",
+      "group": "I",
+      "name": "Olhando a foto de Claire dormindo",
+      "where": "EP03 SC003",
+      "direction": "Holding the negative of Claire asleep up to the light: eyes filling, lips parted, a love she has kept for seven years.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P6",
+      "panel": 5
+    },
+    {
+      "id": "EXP-O-50",
+      "group": "I",
+      "name": "Paz",
+      "where": "EP08 (planejado)",
+      "direction": "At rest beside Claire, face relaxed, eyes half-closed, a small real smile; she stayed.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P6",
+      "panel": 6
+    }
+  ],
+  "sheets": [
+    {
+      "id": "P1",
+      "name": "Essenciais",
+      "panels": [
+        "EXP-O-05",
+        "EXP-O-29",
+        "EXP-O-21",
+        "EXP-O-08",
+        "EXP-O-23",
+        "EXP-O-39"
+      ],
+      "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P2",
+      "name": "Choro",
+      "panels": [
+        "EXP-O-43",
+        "EXP-O-44",
+        "EXP-O-45",
+        "EXP-O-46"
+      ],
+      "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P3",
+      "name": "Observação e trabalho",
+      "panels": [
+        "EXP-O-01",
+        "EXP-O-02",
+        "EXP-O-03",
+        "EXP-O-04",
+        "EXP-O-06",
+        "EXP-O-25"
+      ],
+      "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P4",
+      "name": "Humor e leveza",
+      "panels": [
+        "EXP-O-07",
+        "EXP-O-09",
+        "EXP-O-10",
+        "EXP-O-11",
+        "EXP-O-12",
+        "EXP-O-22"
+      ],
+      "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P5",
+      "name": "Amor",
+      "panels": [
+        "EXP-O-13",
+        "EXP-O-14",
+        "EXP-O-15",
+        "EXP-O-18",
+        "EXP-O-19",
+        "EXP-O-20"
+      ],
+      "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P6",
+      "name": "Desejo e passado",
+      "panels": [
+        "EXP-O-16",
+        "EXP-O-17",
+        "EXP-O-47",
+        "EXP-O-48",
+        "EXP-O-49",
+        "EXP-O-50"
+      ],
+      "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P7",
+      "name": "Culpa e tristeza",
+      "panels": [
+        "EXP-O-24",
+        "EXP-O-26",
+        "EXP-O-30",
+        "EXP-O-31",
+        "EXP-O-32",
+        "EXP-O-33"
+      ],
+      "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P8",
+      "name": "Medo e nervos",
+      "panels": [
+        "EXP-O-34",
+        "EXP-O-35",
+        "EXP-O-36",
+        "EXP-O-37",
+        "EXP-O-38",
+        "EXP-O-40"
+      ],
+      "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P8_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P9",
+      "name": "Confissão e esperança",
+      "panels": [
+        "EXP-O-27",
+        "EXP-O-28",
+        "EXP-O-41",
+        "EXP-O-42"
+      ],
+      "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P9_V01.png",
+      "status": "pending"
+    }
+  ]
+}

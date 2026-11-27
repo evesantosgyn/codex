@@ -95,7 +95,7 @@ def sheets(path, out, only):
     L = [f'# Pacote ChatGPT — {d["name"]} · pranchas {", ".join(only) if only else "todas"} · {d["version"]}', '',
          f'> **Gerado** de `{os.path.basename(path)}`. Um **chat novo, só com {d["name"].split()[0]}**. Para cada prancha: anexe R1–R3 e cole o bloco da prancha (abaixo da linha dela).', '',
          '| Anexo | Arquivo |', '|---|---|',
-         f'| R1 | `{refs["identity_pack"]["path"]}` |', f'| R2 | `{refs["look_L7"]["path"]}` |', f'| R3 | `{refs["level1_ref"]["path"]}` |', '']
+         *[f'| R{i} | `{refs[k]["path"]}` |' for i, k in enumerate(d.get('sheet_refs', ['identity_pack', 'look_L7', 'level1_ref']), 1)], '']
     for s in d['sheets']:
         if only and s['id'] not in only:
             continue

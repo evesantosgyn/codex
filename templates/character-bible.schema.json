@@ -243,6 +243,13 @@
     },
     "status_visual": {
       "type": "string"
+    },
+    "sheet_refs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Chaves de references anexadas como R1, R2, R3 nas pranchas"
     }
   }
 }

@@ -1148,5 +1148,10 @@
     "expression_status": "proposed = texto aprovado (V94), ainda sem painel de prancha aprovado; approved = com reference_image (prancha aprovada)"
   },
   "generation_suffix": "Hair uniform dark brown all the way to the ends (no caramel or copper highlights). Deep warm BROWN eyes in every panel (not amber, not hazel), as in the approved sheets. ONLY ONE thin gold chain with ONE small dark-red pendant resting on top of the high neck of the blouse; never a second chain.",
-  "status_visual": "54/54 expressões com referência visual aprovada"
+  "status_visual": "54/54 expressões com referência visual aprovada",
+  "sheet_refs": [
+    "identity_pack",
+    "look_L7",
+    "level1_ref"
+  ]
 }
