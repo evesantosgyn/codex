@@ -89,6 +89,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V132 | **EP03 SC004: decupagem cinematográfica APROVADA** (`05_STORYBOARDS/S01E03_SC004_DECUPAGEM-CINEMATOGRAFICA_V01.md`), no modelo da SC005: lente, câmera, ID de expressão e keyframe aprovado nos 17 planos, sem mudar planos, falas ou imagens. **Com ela, o cold open e as SC001–SC005 do EP03 têm a decupagem cinematográfica no modelo novo** (V128–V132) | APROVADO (2026-11-27) | Decupagem cinematográfica SC004 |
 | V131 | **EP03 SC003: decupagem cinematográfica APROVADA** (`05_STORYBOARDS/S01E03_SC003_DECUPAGEM-CINEMATOGRAFICA_V01.md`), no modelo da SC005: lente, câmera, ID de expressão e keyframe aprovado nos 30 planos, sem mudar planos, falas ou imagens; planos de reação R1/R2 no pico | APROVADO (2026-11-27) | Decupagem cinematográfica SC003 |
 | V130 | **EP03 SC002: decupagem cinematográfica APROVADA** (`05_STORYBOARDS/S01E03_SC002_DECUPAGEM-CINEMATOGRAFICA_V01.md`), no modelo da SC005: lente, câmera, ID de expressão e keyframe aprovado nos 23 planos, sem mudar planos, falas ou imagens | APROVADO (2026-11-27) | Decupagem cinematográfica SC002 |
 | V129 | **EP03 cold open + SC001: decupagem cinematográfica APROVADA** (`05_STORYBOARDS/S01E03_CO-SC001_DECUPAGEM-CINEMATOGRAFICA_V01.md`), no modelo da SC005 (V128): lente, câmera, ID de expressão e keyframe aprovado em cada um dos 45 planos, sem mudar planos, falas ou imagens. Atenção E9 nos SH27 e SH29 (O2 pode sair neutro) | APROVADO (2026-11-27) | Decupagem cinematográfica CO+SC001 |
@@ -238,6 +239,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-27 | EP03 SC004: decupagem cinematográfica aprovada; CO–SC005 no modelo novo (V132) | Showrunner GL AI |
 | 2026-11-27 | EP03 SC003: decupagem cinematográfica aprovada (V131) | Showrunner GL AI |
 | 2026-11-27 | EP03 SC002: decupagem cinematográfica aprovada (V130) | Showrunner GL AI |
 | 2026-11-27 | EP03 CO+SC001: decupagem cinematográfica aprovada (V129) | Showrunner GL AI |

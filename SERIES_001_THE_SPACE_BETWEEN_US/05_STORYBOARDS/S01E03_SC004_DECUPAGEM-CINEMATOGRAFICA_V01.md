@@ -1,6 +1,6 @@
 # S01E03 SC004 "Three Frames" — Decupagem cinematográfica
 
-2026-11-27 · Evelin · 🟡 proposta · modelo: SC005 (V128) · base: decupagem aprovada (N47) e keyframes aprovados (V89, mais três da SC003, V88). **Nada muda nos planos, falas ou imagens**: esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias.
+2026-11-27 · Evelin · ✅ aprovada (V132) · modelo: SC005 (V128) · base: decupagem aprovada (N47) e keyframes aprovados (V89, mais três da SC003, V88). **Nada muda nos planos, falas ou imagens**: esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias.
 
 ## A cena
 
