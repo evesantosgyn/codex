@@ -129,8 +129,12 @@
       "name": "A gerente (o cronograma)",
       "where": "EP01–EP03",
       "direction": "Checking a schedule on a tablet, eyebrows level, completely unimpressed; everything is under her control.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P3_V01.png",
+        "sha256": "09cf3dcb1d769265ffc77a4fe627c644dc8690f743280f08383d3355ad027de9",
+        "panel": 1
+      },
       "sheet": "P3",
       "panel": 1
     },
@@ -140,8 +144,12 @@
       "name": "Cobrando Claire de igual para igual",
       "where": "EP01 SC001; EP02",
       "direction": "Looking straight at Claire with calm authority, one eyebrow barely up: she is not intimidated at all.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P3_V01.png",
+        "sha256": "09cf3dcb1d769265ffc77a4fe627c644dc8690f743280f08383d3355ad027de9",
+        "panel": 2
+      },
       "sheet": "P3",
       "panel": 2
     },
@@ -151,8 +159,12 @@
       "name": "Atenta (lendo a sala)",
       "where": "EP01 SC006; EP03",
       "direction": "Quietly watching the room, eyes moving, reading everyone; face still.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P3_V01.png",
+        "sha256": "09cf3dcb1d769265ffc77a4fe627c644dc8690f743280f08383d3355ad027de9",
+        "panel": 3
+      },
       "sheet": "P3",
       "panel": 3
     },
@@ -162,8 +174,12 @@
       "name": "Pensativa",
       "where": "EP02; EP03",
       "direction": "A finger at her lips, eyes on the middle distance, weighing something.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P3_V01.png",
+        "sha256": "09cf3dcb1d769265ffc77a4fe627c644dc8690f743280f08383d3355ad027de9",
+        "panel": 4
+      },
       "sheet": "P3",
       "panel": 4
     },
@@ -308,8 +324,12 @@
       "name": "Cuidando de Claire",
       "where": "EP01–EP03 (comida, sono, horário)",
       "direction": "Handing over a coffee with a stern look that means \"eat something\"; care disguised as orders.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P3_V01.png",
+        "sha256": "09cf3dcb1d769265ffc77a4fe627c644dc8690f743280f08383d3355ad027de9",
+        "panel": 5
+      },
       "sheet": "P3",
       "panel": 5
     },
@@ -319,8 +339,12 @@
       "name": "Orgulho de Claire",
       "where": "EP01 SC001; EP08",
       "direction": "Watching Claire work, a quiet pride in her eyes that she would never say out loud.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P3_V01.png",
+        "sha256": "09cf3dcb1d769265ffc77a4fe627c644dc8690f743280f08383d3355ad027de9",
+        "panel": 6
+      },
       "sheet": "P3",
       "panel": 6
     },
@@ -528,7 +552,10 @@
         "EXP-M-15"
       ],
       "approved_file": "02_CHARACTERS/MAYA_REED/maya_expressoes-P3_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "09cf3dcb1d769265ffc77a4fe627c644dc8690f743280f08383d3355ad027de9",
+      "approval": "V119",
+      "edits": "nenhuma"
     },
     {
       "id": "P4",

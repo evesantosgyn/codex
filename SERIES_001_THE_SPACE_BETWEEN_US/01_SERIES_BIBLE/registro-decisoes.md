@@ -89,6 +89,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V119 | **Maya: prancha P3 (trabalho e carinho) APROVADA** sem edição (`02_CHARACTERS/MAYA_REED/maya_expressoes-P3_V01.png`): EXP-M-01 (o tablet, sem tela visível), 02, 03, 04, 14 (o café como ordem), 15. Relógio de couro marrom no pulso esquerdo | APROVADO (2026-11-27) | `TSBU_CHR-MAYA_V01.json` |
 | V118 | **Maya: prancha P2 (comédia) APROVADA** sem edição (`02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png`): EXP-M-07, 08, 09, 10, 11, 12. Seis piadas sem sorriso: o exagero nas sobrancelhas, nos olhos e no queixo, nunca na boca | APROVADO (2026-11-27) | `TSBU_CHR-MAYA_V01.json` |
 | V117 | **Maya: prancha P1 (essenciais) APROVADA** (`02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png`, após 1 edição: carinho nos olhos no 13; lábios entreabertos no 24). EXP-M-05, 06, 13, 19, 21, 24. Nenhum riso aberto; olhos verde-oliva | APROVADO (2026-11-27) | `TSBU_CHR-MAYA_V01.json` |
 | V116 | **Character Bible de Maya V01 APROVADA** (`02_CHARACTERS/MAYA_REED/maya-reed_character-bible_V01.md` + JSON `TSBU_CHR-MAYA_V01.json`, 28 expressões `EXP-M-01`–`EXP-M-28` em 6 grupos, 5 pranchas). **Regra-mãe:** fala com o timing e cala com o corpo. **Vida própria:** ferida (foi ela quem ficou quando Olivia partiu; não confia em quem já foi embora), contradição (a vida fora da planilha × os prazos de todo mundo), arco (de guardiã a aceitar a escolha de Claire; com June, da rivalidade simpática à aliança). As expressões rindo de boca aberta da prancha original ficam fora (V70) | APROVADO (2026-11-27) | Character Bible de Maya |
@@ -225,6 +226,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-27 | Maya: prancha P3 aprovada e ligada ao JSON (V119) | Showrunner GL AI |
 | 2026-11-27 | Maya: prancha P2 (comédia) aprovada e ligada ao JSON (V118) | Showrunner GL AI |
 | 2026-11-27 | Maya: prancha P1 aprovada e ligada ao JSON (V117) | Showrunner GL AI |
 | 2026-11-27 | Character Bible de Maya V01 aprovada, 28 expressões (V116) | Showrunner GL AI |
