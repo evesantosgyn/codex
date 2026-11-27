@@ -9,12 +9,12 @@
 ### A. Observação e trabalho (a fotógrafa)
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-O-01 | **Observando pela lente** | Toda a T1 (o trabalho) | *Eye to the viewfinder of her camera, the other eye closed, utterly absorbed, a faint warmth at the mouth.* | P3·1 | — |
-| EXP-O-02 | **Notando o detalhe** | EP01 SC003 ("You cut your hair"); EP02 ("You still do that") | *She notices something small that changed: eyes soften and linger on it, the faintest smile of recognition, lips just parted.* | P3·2 | — |
-| EXP-O-03 | **Concentrada no trabalho** | EP03 SC003 (a mesa de luz) | *Bent over her work, eyes narrowed with care, a strand of dark-blond hair falling from the bun, completely focused.* | P3·3 | — |
-| EXP-O-04 | **Escutando alguém (empatia)** | EP02 SC006 (a entrevista); EP03 | *Listening to someone else's story with full attention: head slightly tilted, eyes warm and steady, nodding very slightly.* | P3·4 | — |
+| EXP-O-01 | **Observando pela lente** | Toda a T1 (o trabalho) | *Eye to the viewfinder of her camera, the other eye closed, utterly absorbed, a faint warmth at the mouth.* | P3·1 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` painel 1 |
+| EXP-O-02 | **Notando o detalhe** | EP01 SC003 ("You cut your hair"); EP02 ("You still do that") | *She notices something small that changed: eyes soften and linger on it, the faintest smile of recognition, lips just parted.* | P3·2 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` painel 2 |
+| EXP-O-03 | **Concentrada no trabalho** | EP03 SC003 (a mesa de luz) | *Bent over her work, eyes narrowed with care, a strand of dark-blond hair falling from the bun, completely focused.* | P3·3 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` painel 3 |
+| EXP-O-04 | **Escutando alguém (empatia)** | EP02 SC006 (a entrevista); EP03 | *Listening to someone else's story with full attention: head slightly tilted, eyes warm and steady, nodding very slightly.* | P3·4 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` painel 4 |
 | EXP-O-05 | **O olhar sustentado** | Toda fala com Claire (V70) | *Looking at Claire one second too long: open, unguarded eyes, lips closed, a quiet ache she does not hide.* | P1·1 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` painel 1 |
-| EXP-O-06 | **O olhar que foge para a janela** | Quando dói (E14) | *Her eyes drift away to a window, unfocused, the light on her face, breath held; she is somewhere else for a moment.* | P3·5 | — |
+| EXP-O-06 | **O olhar que foge para a janela** | Quando dói (E14) | *Her eyes drift away to a window, unfocused, the light on her face, breath held; she is somewhere else for a moment.* | P3·5 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` painel 5 |
 
 ### B. Humor e leveza
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -45,7 +45,7 @@
 | EXP-O-22 | **Culpa atrás da leveza** | EP01–EP03 (no escritório) | *A light, friendly face on the surface, but the eyes give her away: a flicker of guilt behind the smile.* | P4·6 | — |
 | EXP-O-23 | **A respiração antes da verdade** | EP03 SC004 ("I didn't take care of that.") | *The held breath before a hard truth: lips pressed together then parting, eyes down and glistening.* | P1·5 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` painel 5 |
 | EXP-O-24 | **Vergonha** | EP03 SC004; EP05 | *Shame: eyes down and they don't come up, shoulders curling in, her fingers touching the empty inside of her left wrist.* | P7·1 | — |
-| EXP-O-25 | **Evasão (volta ao trabalho)** | EP03 SC004 ("The west side…") | *Retreating into work: eyes on the windows or the negatives, a busy, too-practical expression; the subject is closed.* | P3·6 | — |
+| EXP-O-25 | **Evasão (volta ao trabalho)** | EP03 SC004 ("The west side…") | *Retreating into work: eyes on the windows or the negatives, a busy, too-practical expression; the subject is closed.* | P3·6 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` painel 6 |
 | EXP-O-26 | **Pega na mentira** | EP02 SC004 ("Did you know?") | *Caught: a small freeze, eyes widening a fraction then lowering, a breath in; she will not lie again.* | P7·2 | — |
 | EXP-O-27 | **A confissão** | EP06–EP07 (planejado) | *Telling the whole truth at last: eyes on Claire, wet and steady, voice-ready, every word costing her.* | P9·1 | — |
 | EXP-O-28 | **Assumindo a responsabilidade** | EP07 "The Cost of Silence" (planejado) | *Taking responsibility without asking forgiveness: eyes on Claire, tears held, chin level, no excuses in the face.* | P9·2 | — |
@@ -106,7 +106,7 @@
 |---|---|---|---|
 | P1 — Essenciais | EXP-O-05, EXP-O-29, EXP-O-21, EXP-O-08, EXP-O-23, EXP-O-39 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` | approved |
 | P2 — Choro | EXP-O-43, EXP-O-44, EXP-O-45, EXP-O-46 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png` | approved |
-| P3 — Observação e trabalho | EXP-O-01, EXP-O-02, EXP-O-03, EXP-O-04, EXP-O-06, EXP-O-25 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` | pending |
+| P3 — Observação e trabalho | EXP-O-01, EXP-O-02, EXP-O-03, EXP-O-04, EXP-O-06, EXP-O-25 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` | approved |
 | P4 — Humor e leveza | EXP-O-07, EXP-O-09, EXP-O-10, EXP-O-11, EXP-O-12, EXP-O-22 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` | pending |
 | P5 — Amor | EXP-O-13, EXP-O-14, EXP-O-15, EXP-O-18, EXP-O-19, EXP-O-20 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` | pending |
 | P6 — Desejo e passado | EXP-O-16, EXP-O-17, EXP-O-47, EXP-O-48, EXP-O-49, EXP-O-50 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png` | pending |
