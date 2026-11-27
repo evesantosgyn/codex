@@ -1,6 +1,6 @@
 # S01E03 SC002 "The Box" — Decupagem cinematográfica
 
-2026-11-27 · Evelin · 🟡 proposta · modelo: SC005 (V128) · base: decupagem aprovada (N45) e keyframes aprovados (V86). **Nada muda nos planos, falas ou imagens**: esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias.
+2026-11-27 · Evelin · ✅ aprovada (V130) · modelo: SC005 (V128) · base: decupagem aprovada (N45) e keyframes aprovados (V86). **Nada muda nos planos, falas ou imagens**: esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias.
 
 ## A cena
 
