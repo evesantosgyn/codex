@@ -333,8 +333,12 @@
       "name": "Empurrando Olivia (\"Does Claire know?\")",
       "where": "EP01 SC009; EP02 SC008",
       "direction": "A direct, quiet look that asks the question Olivia avoids; patient and relentless.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P4_V01.png",
+        "sha256": "28acbd0d8dc4e49c49812c0e34d0dde9f7bad1e952ecba1f1c856f2974994650",
+        "panel": 1
+      },
       "sheet": "P4",
       "panel": 1
     },
@@ -359,8 +363,12 @@
       "name": "Desconfortável com a pergunta",
       "where": "EP02–EP03",
       "direction": "A flicker of discomfort when asked about Olivia: eyes slide away, jaw tightens slightly, hands keep working.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P4_V01.png",
+        "sha256": "28acbd0d8dc4e49c49812c0e34d0dde9f7bad1e952ecba1f1c856f2974994650",
+        "panel": 2
+      },
       "sheet": "P4",
       "panel": 2
     },
@@ -385,8 +393,12 @@
       "name": "O peso do segredo",
       "where": "[P] EP04–EP06",
       "direction": "Alone for a moment, tired eyes on nothing; seven years of being the only one who knows.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P4_V01.png",
+        "sha256": "28acbd0d8dc4e49c49812c0e34d0dde9f7bad1e952ecba1f1c856f2974994650",
+        "panel": 3
+      },
       "sheet": "P4",
       "panel": 3
     },
@@ -411,8 +423,12 @@
       "name": "As mãos param",
       "where": "EP03 SC005 (SH11)",
       "direction": "Her hands stop in the middle of a task and stay still; her eyes go still too.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P4_V01.png",
+        "sha256": "28acbd0d8dc4e49c49812c0e34d0dde9f7bad1e952ecba1f1c856f2974994650",
+        "panel": 4
+      },
       "sheet": "P4",
       "panel": 4
     },
@@ -422,8 +438,12 @@
       "name": "Tristeza contida (não chora)",
       "where": "EP05–EP07 (planejado)",
       "direction": "Sad without crying: eyes lowered, jaw set, a long breath out; no tears, ever.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P4_V01.png",
+        "sha256": "28acbd0d8dc4e49c49812c0e34d0dde9f7bad1e952ecba1f1c856f2974994650",
+        "panel": 5
+      },
       "sheet": "P4",
       "panel": 5
     },
@@ -539,7 +559,10 @@
         "EXP-J-22"
       ],
       "approved_file": "02_CHARACTERS/JUNE_PARK/june_expressoes-P4_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "28acbd0d8dc4e49c49812c0e34d0dde9f7bad1e952ecba1f1c856f2974994650",
+      "approval": "V126",
+      "edits": "nenhuma"
     },
     {
       "id": "P5",
