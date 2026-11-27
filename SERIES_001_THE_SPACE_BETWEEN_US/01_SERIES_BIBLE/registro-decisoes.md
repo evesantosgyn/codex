@@ -89,6 +89,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V128 | **EP03 SC005: decupagem cinematográfica para o Pedro APROVADA** (Claude Doc https://claude.ai/artifact/SefwhZAitJzwhLaCw7MDXZ): a cena em uma página, plano a plano com lente, câmera, ação, **ID de expressão das bíblias**, fala e keyframe; ritmo e montagem (R1, R2, 2 s em volta do pico); som (sem música); referências; QC e retorno (G2). Fichas de plano JSON com `expression_ids` conferidas pelo `check-cards`. Modelo para as próximas cenas | APROVADO (2026-11-27) | Claude Doc da SC005 |
 | V127 | **June: prancha P5 (ela mesma) APROVADA** sem edição (`02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png`): EXP-J-23, 25, 26. **Bíblia de June completa: as 26 expressões da T1 com referência visual aprovada** (5 pranchas, V123–V127). **As quatro Character Bibles da TSBU estão completas:** Claire 54, Olivia 50, Maya 28, June 26 = **158 expressões** com referência visual e SHA-256 nos JSON canônicos. Nota de cor: escurecer os reflexos avermelhados do cabelo de June | APROVADO (2026-11-27) | `TSBU_CHR-JUNE_V01.json` |
 | V126 | **June: prancha P4 (o segredo) APROVADA** sem edição (`02_CHARACTERS/JUNE_PARK/june_expressoes-P4_V01.png`): EXP-J-15, 17, 19, 21 (as mãos param), 22 (tristeza sem lágrima) | APROVADO (2026-11-27) | `TSBU_CHR-JUNE_V01.json` |
 | V125 | **June: prancha P3 (trabalho e lealdade) APROVADA** sem edição (`02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png`): EXP-J-01 (pela borda), 02, 04, 11, 13, 14 (confrontando Olivia) | APROVADO (2026-11-27) | `TSBU_CHR-JUNE_V01.json` |
@@ -234,6 +235,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-27 | EP03 SC005: decupagem cinematográfica aprovada, modelo para as próximas cenas (V128) | Showrunner GL AI |
 | 2026-11-27 | EP03 SC005: decupagem cinematográfica para o Pedro (Claude Doc) e fichas de plano com os IDs de expressão das quatro bíblias | Showrunner GL AI |
 | 2026-11-27 | June: prancha P5 aprovada; bíblia de June completa; as quatro Character Bibles completas, 158 expressões (V127) | Showrunner GL AI |
 | 2026-11-27 | June: prancha P4 aprovada e ligada ao JSON (V126) | Showrunner GL AI |
