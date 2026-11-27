@@ -1,0 +1,105 @@
+{
+  "shot_id": "S01E03_SC006_SH09",
+  "scene_id": "S01E03_SC006",
+  "revision": "V01",
+  "status": "approved",
+  "owner": {
+    "creative": "Evelin",
+    "technical": "Pedro"
+  },
+  "approval": {
+    "creative": {
+      "by": "Evelin",
+      "date": "2026-11-27",
+      "decision": "N49"
+    },
+    "technical": {
+      "by": null,
+      "date": null
+    }
+  },
+  "direction": {
+    "intent": "The last strip",
+    "action": "She lays the strip on the glass",
+    "dialogue": [],
+    "emotion": "—",
+    "tears_level": 0,
+    "gaze": "—",
+    "camera": "static",
+    "framing": "From above, hands",
+    "lens_reference": "50mm",
+    "duration_s": 2,
+    "reaction_of": null,
+    "continuity": [
+      "Axis: Claire LEFT of the light table (back to the glass partition), Olivia RIGHT; Claire looks right; Olivia looks down at the table/laptop",
+      "Olivia L1: messy dark-blond bun, green-hazel eyes, olive shirt, no watch, ONE beauty mark below lower lip on her left side, camera tattoo inner LEFT forearm, no hard hat"
+    ],
+    "sound": {
+      "dialogue": "none",
+      "ambience": "Office at night; the empty hall muffled beyond the glass; the light-table hum",
+      "sfx": "Paper on glass",
+      "music": ""
+    },
+    "neutral_prompt": "Static insert: hands laying a 120 color negative strip on the glowing glass. Evening in the foreman's office after six: the sconce is OFF; the only real light is the glowing light table from below, its white filtered through orange negative bases so both faces share the same amber; beyond the glass partition the empty factory hall is dark blue with one work light on the floor. Tears: Claire level 2 (one tear, hidden) only in SH24; Olivia level 1 (eyes full, no tear falls).",
+    "forbidden": [
+      "the sconce lit",
+      "any text on screens except the approved photo"
+    ],
+    "characters": [
+      {
+        "character_id": "CHR-OLIVIA",
+        "look_id": "L1",
+        "expression_ids": []
+      }
+    ]
+  },
+  "assets": {
+    "first_frame": "06_GENERATED_ASSETS/IMAGES/S01E03_SC003_KF-INS-SLEEVE_V02.png",
+    "last_frame": null,
+    "character_refs": [
+      "02_CHARACTERS/OLIVIA_HAYES/olivia_ref-SC003_KF-O1.png",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_OLIVIA_V01.png"
+    ],
+    "voice_refs": [],
+    "location_refs": [
+      "03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_ref-escritorio-capataz.png",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_SC003_KF-OFFICE-WS_V02.png",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_PROP_PRANCHA-OBJETOS_V01.png"
+    ],
+    "asset_hashes": {
+      "02_CHARACTERS/OLIVIA_HAYES/olivia_ref-SC003_KF-O1.png": "56cff69589098f73be590ccbfb6eaa3fb5efa0220517b3d87be1d9fd7d475468",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_OLIVIA_V01.png": "06afe521de855196e5afdb92352c1b5ffb4f6ef2bc4d479061eb90ca1564d63b",
+      "03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_ref-escritorio-capataz.png": "6e5f500d8dcee1659634325502a9c4a9f9af9af72b14f520b566a239cf00f4a1",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_SC003_KF-OFFICE-WS_V02.png": "5d4c6f68055aa8a246186dbd492cce76a118d98a37288f247b5aa8a81f86a32e",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_PROP_PRANCHA-OBJETOS_V01.png": "9f466eff09274b92efb8385aa2d10988ef27dec3fc3696eefc93c17d30d76d58"
+    }
+  },
+  "execution": {
+    "engine": null,
+    "checkpoint": null,
+    "precision": null,
+    "workflow_id": null,
+    "prompt": null,
+    "seed": null,
+    "fps": null,
+    "resolution": null,
+    "duration": null,
+    "take_id": null
+  },
+  "post": {
+    "restoration": null,
+    "color_transform": null,
+    "audio_stems": [],
+    "edit_in": null,
+    "edit_out": null
+  },
+  "audit": {
+    "license_id": null,
+    "gpu": null,
+    "runtime": null,
+    "cost": null,
+    "output_hash": null,
+    "qc_status": null,
+    "approval_date": null
+  }
+}

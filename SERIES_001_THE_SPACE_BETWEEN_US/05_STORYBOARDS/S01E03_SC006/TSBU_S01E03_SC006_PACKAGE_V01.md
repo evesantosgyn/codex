@@ -9,7 +9,7 @@
 | Versão / status | V01 · ✅ **APROVADO** (2026-11-27, N49) |
 | Roteiro de origem | `04_SCRIPTS/S01E03_THE-THINGS-WE-KEPT_V1.md`, Scene 006 (APROVADO, N42) |
 | Duração-alvo | **~1:34** de planos · **~2:00–2:15** com os silêncios (roteiro: 2:00) |
-| Planos / keyframes | **33 planos** · **21 keyframes** (19 no ChatGPT, 1 reaproveitado da SC003, 1 feito aqui por inversão digital) |
+| Planos / keyframes | **33 planos** · **22 keyframes** (20 no ChatGPT, 1 reaproveitado da SC003, 1 feito aqui por inversão digital) |
 | Responsáveis | Criação: Evelin (Showrunner) · Execução: Pedro |
 
 ## 2. Narrativa
@@ -101,7 +101,7 @@ Keyframes novos em `06_GENERATED_ASSETS/IMAGES/TSBU_S01E03_SC006_SH##_KF_V##.png
 
 **Total ≈ 1:34** de planos. **Planos médios frontais:** 0 de 33 (os closes são de três quartos, iluminados de baixo). **Uma personagem falando por geração.** As falas curtas ("Yes.", "It's after six.") em clipes de 5–6 s, e a fala de Olivia dividida em dois planos com a respiração no meio.
 
-**Keyframes (21):**
+**Keyframes (21 novos + INS-SLEEVE da SC003):**
 | Arquivo | Planos | O quê |
 |---|---|---|
 | `SH01_KF` | SH01 | Do salão escuro e vazio, pelo vidro: o refletor de trabalho no chão; lá dentro, só a mesa de luz acesa, as duas debruçadas |
@@ -134,7 +134,7 @@ Keyframes novos em `06_GENERATED_ASSETS/IMAGES/TSBU_S01E03_SC006_SH##_KF_V##.png
 | Escritório | `03_LOCATIONS/FABRICA_RESTAURACAO/` · prancha V73 · keyframes da SC003 e SC004 | Aprovados |
 | A tira e a foto | `S01E03_PROP_NEGATIVO-CLAIRE-DORMINDO_V01.png` (V81) · `S01E03_PROP_FOTO-CLAIRE-DORMINDO_V01.png` (V80) | Aprovados |
 | A caixa | `S01E03_PROP_PRANCHA-OBJETOS_V01.png` | Aprovada |
-| Keyframes da cena | 19 novos + SH11 digital + INS-SLEEVE da SC003 | A gerar |
+| Keyframes da cena | 20 novos no ChatGPT + SH11 digital + INS-SLEEVE da SC003 | A gerar |
 
 ## 8. Geração (direção neutra)
 - **Bloco de interpretação, Claire:** *Claire chose to stay after six and will not admit it. She never looks at Olivia while she asks. Her voice drops on "You could have woken me." When the tear comes she fights it, turns her face to the dark glass and wipes it with the back of her hand. When Olivia's hand covers hers, she does not pull away and does not respond: perfectly still, eyes on their hands, breath stopped.*
@@ -174,7 +174,7 @@ Keyframes novos em `06_GENERATED_ASSETS/IMAGES/TSBU_S01E03_SC006_SH##_KF_V##.png
 | G3: corte, som e cor | Evelin + Pedro | — |
 
 ## 11. Pontos para decisão
-1. A decupagem: 33 planos e 21 keyframes, com o pico em silêncio e o toque de dois segundos.
+1. A decupagem: 33 planos e 22 keyframes, com o pico em silêncio e o toque de dois segundos.
 2. **A luz:** a arandela apagada; **as duas no mesmo âmbar da mesa** pela primeira vez no episódio; o reflexo de Claire no vidro escuro quando ela chora.
 3. **Um único avanço lento** no insert das mãos (SH28), como exceção à P-15.
 4. **A primeira música do episódio**, entrando na pausa depois de "I wouldn't have gone." e saindo por baixo da última fala.

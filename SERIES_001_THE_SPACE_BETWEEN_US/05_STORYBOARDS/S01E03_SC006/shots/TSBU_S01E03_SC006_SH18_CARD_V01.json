@@ -1,0 +1,118 @@
+{
+  "shot_id": "S01E03_SC006_SH18",
+  "scene_id": "S01E03_SC006",
+  "revision": "V01",
+  "status": "approved",
+  "owner": {
+    "creative": "Evelin",
+    "technical": "Pedro"
+  },
+  "approval": {
+    "creative": {
+      "by": "Evelin",
+      "date": "2026-11-27",
+      "decision": "N49"
+    },
+    "technical": {
+      "by": null,
+      "date": null
+    }
+  },
+  "direction": {
+    "intent": "The wound in one sentence",
+    "action": "Her voice drops",
+    "dialogue": [
+      {
+        "character": "CLAIRE",
+        "line": "You could have woken me.",
+        "delivery": "lower, the voice almost catching",
+        "pause_before_s": 2.0,
+        "on_screen": true
+      }
+    ],
+    "emotion": "Level 1, voice lower",
+    "tears_level": 1,
+    "gaze": "Down",
+    "camera": "static",
+    "framing": "= SH16",
+    "lens_reference": "85mm",
+    "duration_s": 3,
+    "reaction_of": null,
+    "continuity": [
+      "Axis: Claire LEFT of the light table (back to the glass partition), Olivia RIGHT; Claire looks right; Olivia looks down at the table/laptop",
+      "Claire L7: dark-brown hair with curtain bangs (never copper), brown eyes, dark-red silk blouse, NO coat (on the chair), watch LEFT wrist, ONE dark-red pendant, NO rings"
+    ],
+    "sound": {
+      "dialogue": "CLAIRE: You could have woken me.",
+      "ambience": "Office at night; the empty hall muffled beyond the glass; the light-table hum",
+      "sfx": "",
+      "music": ""
+    },
+    "neutral_prompt": "Static close-up: Claire, voice lower, eyes glistening. Evening in the foreman's office after six: the sconce is OFF; the only real light is the glowing light table from below, its white filtered through orange negative bases so both faces share the same amber; beyond the glass partition the empty factory hall is dark blue with one work light on the floor. Tears: Claire level 2 (one tear, hidden) only in SH24; Olivia level 1 (eyes full, no tear falls).",
+    "forbidden": [
+      "the sconce lit",
+      "any text on screens except the approved photo"
+    ],
+    "characters": [
+      {
+        "character_id": "CHR-CLAIRE",
+        "look_id": "L7",
+        "expression_ids": [
+          "EXP-C-25"
+        ]
+      }
+    ]
+  },
+  "assets": {
+    "first_frame": "06_GENERATED_ASSETS/IMAGES/TSBU_S01E03_SC006_SH16_KF_V01.png",
+    "last_frame": null,
+    "character_refs": [
+      "02_CHARACTERS/CLAIRE_BENNETT/claire-bennett_identity-pack.webp",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_CLAIRE_V01.png"
+    ],
+    "voice_refs": [
+      "06_GENERATED_ASSETS/VOICES/claire_bennett_voice-ref_v02.wav"
+    ],
+    "location_refs": [
+      "03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_ref-escritorio-capataz.png",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_SC003_KF-OFFICE-WS_V02.png",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_PROP_PRANCHA-OBJETOS_V01.png"
+    ],
+    "asset_hashes": {
+      "02_CHARACTERS/CLAIRE_BENNETT/claire-bennett_identity-pack.webp": "aefa60dd42cd85faf8a419433a662d347530ec0f9d823445824869b250da8a6b",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_CLAIRE_V01.png": "4738fee5774068764292ad9ae256c09424335a9251fd93821642c303306efe9f",
+      "06_GENERATED_ASSETS/VOICES/claire_bennett_voice-ref_v02.wav": "dfc7ef67376d14f1ba4a4a71a747ae43cd263f0cdcf892ffdc655032fc98aa63",
+      "03_LOCATIONS/FABRICA_RESTAURACAO/fabrica_ref-escritorio-capataz.png": "6e5f500d8dcee1659634325502a9c4a9f9af9af72b14f520b566a239cf00f4a1",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_SC003_KF-OFFICE-WS_V02.png": "5d4c6f68055aa8a246186dbd492cce76a118d98a37288f247b5aa8a81f86a32e",
+      "06_GENERATED_ASSETS/IMAGES/S01E03_PROP_PRANCHA-OBJETOS_V01.png": "9f466eff09274b92efb8385aa2d10988ef27dec3fc3696eefc93c17d30d76d58"
+    }
+  },
+  "execution": {
+    "engine": null,
+    "checkpoint": null,
+    "precision": null,
+    "workflow_id": null,
+    "prompt": null,
+    "seed": null,
+    "fps": null,
+    "resolution": null,
+    "duration": null,
+    "take_id": null
+  },
+  "post": {
+    "restoration": null,
+    "color_transform": null,
+    "audio_stems": [],
+    "edit_in": null,
+    "edit_out": null
+  },
+  "audit": {
+    "license_id": null,
+    "gpu": null,
+    "runtime": null,
+    "cost": null,
+    "output_hash": null,
+    "qc_status": null,
+    "approval_date": null
+  }
+}
