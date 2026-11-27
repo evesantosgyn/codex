@@ -167,8 +167,12 @@
       "name": "Deadpan seco",
       "where": "EP01 (\"Remarkable. You heard an entire noun.\")",
       "direction": "A perfectly still face delivering a dry line; not a trace of a smile; irony only in the eyes.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png",
+        "sha256": "e4ab1f63ce64ee00b02698130a6c486e6c2dbccb6934fa6ab1e3e27864ed7187",
+        "panel": 1
+      },
       "sheet": "P1",
       "panel": 1
     },
@@ -178,8 +182,12 @@
       "name": "Ironia nos olhos e no canto da boca",
       "where": "EP01 SC005 (J1-B, V63)",
       "direction": "Irony in the eyes and one corner of the mouth barely lifted; dryly amused, nothing more.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png",
+        "sha256": "e4ab1f63ce64ee00b02698130a6c486e6c2dbccb6934fa6ab1e3e27864ed7187",
+        "panel": 2
+      },
       "sheet": "P1",
       "panel": 2
     },
@@ -244,8 +252,12 @@
       "name": "Preocupação firme e gentil",
       "where": "EP01 SC005 (J2-B, V63)",
       "direction": "Firm, gentle concern: eyes steady on Olivia, brows slightly drawn, lips closed; she will not let her run.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png",
+        "sha256": "e4ab1f63ce64ee00b02698130a6c486e6c2dbccb6934fa6ab1e3e27864ed7187",
+        "panel": 3
+      },
       "sheet": "P1",
       "panel": 3
     },
@@ -288,8 +300,12 @@
       "name": "Guardando o segredo (\"Not my story.\")",
       "where": "EP03 SC005",
       "direction": "Closed, calm face, eyes on her work, giving nothing away; she won't lie and she won't tell.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png",
+        "sha256": "e4ab1f63ce64ee00b02698130a6c486e6c2dbccb6934fa6ab1e3e27864ed7187",
+        "panel": 4
+      },
       "sheet": "P1",
       "panel": 4
     },
@@ -310,8 +326,12 @@
       "name": "Sem resposta",
       "where": "EP03 SC005 (KF SH12)",
       "direction": "Eyes lowered, mouth closed; she has no answer and doesn't pretend to.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png",
+        "sha256": "e4ab1f63ce64ee00b02698130a6c486e6c2dbccb6934fa6ab1e3e27864ed7187",
+        "panel": 5
+      },
       "sheet": "P1",
       "panel": 5
     },
@@ -332,8 +352,12 @@
       "name": "Séria (sem deadpan)",
       "where": "EP03 SC005",
       "direction": "Serious and honest, no irony at all: eyes on what matters, face still.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png",
+        "sha256": "e4ab1f63ce64ee00b02698130a6c486e6c2dbccb6934fa6ab1e3e27864ed7187",
+        "panel": 6
+      },
       "sheet": "P1",
       "panel": 6
     },
@@ -417,7 +441,10 @@
         "EXP-J-20"
       ],
       "approved_file": "02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "e4ab1f63ce64ee00b02698130a6c486e6c2dbccb6934fa6ab1e3e27864ed7187",
+      "approval": "V123",
+      "edits": "V01 → V02 no ChatGPT: EXP-J-16 fechada e firme, olhando de lado (estava igual ao EXP-J-18)"
     },
     {
       "id": "P2",
