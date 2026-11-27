@@ -1,7 +1,7 @@
 # June Park — Catálogo de expressões da Temporada 1 · V01
 
 > **Gerado automaticamente** de `TSBU_CHR-JUNE_V01.json` (fonte canônica, HPS). Não edite este arquivo: edite o JSON e rode `tools/character_bible.py render-md`.
-> **Status:** proposed · atualizado em 2026-11-27
+> **Status:** approved · atualizado em 2026-11-27
 
 **Regra-mãe:** June watches from the edge and says the minimum. Her irony lives in her eyes and one corner of her mouth; her voice has the timing. When the truth lands, her hands stop and she does not pretend to have an answer. She never cries.
 

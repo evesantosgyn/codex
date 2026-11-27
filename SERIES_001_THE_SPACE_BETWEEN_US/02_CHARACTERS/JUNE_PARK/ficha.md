@@ -1,7 +1,7 @@
 # June Park — Recorrente
 
 **Status:** elenco recorrente APROVADO (2026-11-12) · visual PROPOSTO (sem conflitos abertos)
-**Character Bible (HPS, proposta):** `june-park_character-bible_V01.md` + JSON `TSBU_CHR-JUNE_V01.json` · **Prancha:** `june-park_identity-pack.webp` · **Traços:** `01_SERIES_BIBLE/continuidade.yaml → june_park`
+**Character Bible (HPS, V122):** `june-park_character-bible_V01.md` + JSON `TSBU_CHR-JUNE_V01.json` · **Prancha:** `june-park_identity-pack.webp` · **Traços:** `01_SERIES_BIBLE/continuidade.yaml → june_park`
 
 ## Identidade dramática
 
@@ -10,7 +10,7 @@
 | Identidade | **34 anos**, produtora documental, colega de Olivia. |
 | Personalidade | Perceptiva, pragmática, espirituosa, engenhosa. Expressão observadora; talento para perguntas inconvenientes. |
 | Função na série | Confronta Olivia quando ela tenta fugir de conversas difíceis. É o espelho de Maya do lado de Olivia. **Não é só alívio cômico.** |
-| A desenvolver | Desejo, ferida e arco próprios. |
+| Desejo, ferida e arco | Definidos na Character Bible (V122): guardou sozinha o segredo de Olivia por sete anos; diz a verdade a todo mundo, menos a que não é dela; de guardiã do segredo a empurrar Olivia para contar, e com Maya da rivalidade à aliança. |
 
 ## Voz (inglês)
 Seca, pragmática, deadpan. Diagnósticos curtos.

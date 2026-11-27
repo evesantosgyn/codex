@@ -1,7 +1,7 @@
 # June Park — Character Bible · V01
 
 > **HPS 1.0 · Bíblia 03 (Character Bible)** · Série: The Space Between Us (TSBU) · modelo: as bíblias de Claire, Olivia e Maya (V93–V121)
-> **Status:** 🟡 PROPOSTA (2026-11-27).
+> **Status:** ✅ **APROVADA** (2026-11-27, V122): as marcas [P] desta versão passam a valer como cânone.
 > **Legenda das fontes:**
 > - **[C]** = cânone aprovado, com a decisão ou o arquivo de origem;
 > - **[P]** = proposta nova, que precisa de aprovação;
@@ -15,11 +15,11 @@
 | Campo | Valor |
 |---|---|
 | ID da personagem | **CHR-JUNE** |
-| Versão | V01 · 2026-11-27 · 🟡 em revisão |
+| Versão | V01 · 2026-11-27 · ✅ aprovada (V122) |
 | Responsável | Evelin (criação) · Pedro (voz e câmera, V115) |
 | Referências aprovadas | `june-park_identity-pack.webp` · `june_ref-SC005_KF-J1.png` · `S01E03_LOOK_JUNE_V01.png` (L5, V78) · `TSBU_S01E03_SC005_SH12_KF_V01.png` (sem resposta, V92) |
 | Voz | Sem referência; conversão na edição (V38); implementação a cargo do Pedro (V115) |
-| Aprovação | — |
+| Aprovação | Evelin, 2026-11-27 (V122) |
 
 ---
 
