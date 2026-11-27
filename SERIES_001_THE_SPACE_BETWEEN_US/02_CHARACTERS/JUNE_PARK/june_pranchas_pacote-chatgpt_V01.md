@@ -86,7 +86,7 @@ Captions: EXP-J-01 · EXP-J-02 · EXP-J-04 · EXP-J-11 · EXP-J-13 · EXP-J-14. 
 **Salvar o aprovado como:** `02_CHARACTERS/JUNE_PARK/june_expressoes-P4_V01.png`
 
 ```
-Create a character expression sheet of the SAME woman as R1 (June Park), 16:9, photorealistic, cinematic, natural skin texture, 5 close-ups in a 1×5 grid on a dark neutral background, each with a small caption underneath. Same face in every panel; only the expression changes.
+Create a character expression sheet of the SAME woman as R1 (June Park), 16:9, photorealistic, cinematic, natural skin texture, 5 close-ups in a two-row (3 on top, 2 centered below) grid on a dark neutral background, each with a small caption underneath. Same face in every panel; only the expression changes.
 
 Identity (every panel): hair: dark brown to black, straight with soft layers, collarbone length, worn loose; eyes: dark brown; skin: light-medium with subtle freckles; strong jawline; watch: white dial, dark strap, LEFT wrist; jewelry: small gold hoops; forbidden color: never olive green (Olivia's color). Wardrobe as R2.
 

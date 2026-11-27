@@ -105,7 +105,7 @@ def sheets(path, out, only):
             L += ['---', '', f'## {s["id"]} — {s["name"]}', f'**Salvar o aprovado como:** `{s["approved_file"]}`', '', '```', s['custom_prompt'], '```', '']
             continue
         n = len(s['panels'])
-        grid = '3×2' if n == 6 else ('2×2' if n == 4 else f'1×{n}')
+        grid = {6: '3×2', 5: 'two-row (3 on top, 2 centered below)', 4: '2×2', 3: '1×3', 2: '1×2', 1: '1×1'}.get(n, f'{n}-panel')
         L += ['---', '', f'## {s["id"]} — {s["name"]}', f'**Salvar o aprovado como:** `{s["approved_file"]}`', '', '```',
               f'Create a character expression sheet of the SAME woman as R1 ({d["name"]}), 16:9, photorealistic, cinematic, natural skin texture, {n} close-ups in a {grid} grid on a dark neutral background, each with a small caption underneath. Same face in every panel; only the expression changes.',
               '', f'Identity (every panel): {identity_block(d)}. Wardrobe as R2.', '', f'Who she is: {d["interpretation_rule"]}', '']
