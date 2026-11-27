@@ -1,7 +1,7 @@
 # Maya Reed — Recorrente
 
 **Status:** elenco recorrente APROVADO (2026-11-12) · visual APROVADO (prancha)
-**Prancha:** `maya-reed_biblia-visual.webp` · **Traços:** `01_SERIES_BIBLE/continuidade.yaml → maya_reed`
+**Character Bible (HPS, proposta):** `maya-reed_character-bible_V01.md` + JSON `TSBU_CHR-MAYA_V01.json` · **Prancha:** `maya-reed_biblia-visual.webp` · **Traços:** `01_SERIES_BIBLE/continuidade.yaml → maya_reed`
 
 ## Identidade dramática
 

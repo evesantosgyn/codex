@@ -1,0 +1,505 @@
+{
+  "character_id": "CHR-MAYA",
+  "series": "TSBU",
+  "name": "Maya Reed",
+  "version": "V01",
+  "status": "proposed",
+  "updated": "2026-11-27",
+  "approval": {
+    "bible": null,
+    "catalog": null
+  },
+  "sources": {
+    "bible_md": "02_CHARACTERS/MAYA_REED/maya-reed_character-bible_V01.md",
+    "continuity": "01_SERIES_BIBLE/continuidade.yaml#maya_reed",
+    "catalog_md": "02_CHARACTERS/MAYA_REED/maya-reed_catalogo-expressoes-T1_V01.md (gerado)",
+    "sheets_pack": "02_CHARACTERS/MAYA_REED/maya_pranchas_pacote-chatgpt_V01.md (gerado)"
+  },
+  "references": {
+    "identity_pack": {
+      "path": "02_CHARACTERS/MAYA_REED/maya-reed_biblia-visual.webp",
+      "sha256": "0f6dda188f9430f68c8d296b8429cb0c37a05cf2d5c6b86dc26b3f8d4b0b5890"
+    },
+    "face_ref": {
+      "path": "02_CHARACTERS/MAYA_REED/maya_ref-SC001_t82s.jpg",
+      "sha256": "54baae29813bcfdc9c9c9beb18a01d704018dfe74365a7e0847b24d1e2a8b9f6"
+    },
+    "look_L1": {
+      "path": "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_MAYA_V01.png",
+      "sha256": "f42882ae1059226df8b804ad0feb31b1f40023d8e2d07b1434a832cdb642f49f"
+    },
+    "level1_ref": {
+      "path": "06_GENERATED_ASSETS/IMAGES/TSBU_S01E03_SC005_SH09_KF_V02.png",
+      "sha256": "d43c1608918126497b078c3d618305d19390858abc63eaef8c3bb29bbf55154b"
+    },
+    "voice": {
+      "path": "06_GENERATED_ASSETS/VOICES/maya_reed_voice-ref_v02.wav",
+      "sha256": "df855579a283122ad38952e87cfedbbe2e343c613b04ff40c5496546c34bd549"
+    }
+  },
+  "sheet_refs": [
+    "identity_pack",
+    "look_L1",
+    "level1_ref"
+  ],
+  "identity_lock": {
+    "immutable": {
+      "hair": "chin-length, full, curly copper-auburn brown curls",
+      "eyes": "green",
+      "skin": "fair with freckles",
+      "watch": "white dial, brown leather strap, LEFT wrist",
+      "jewelry": "small gold hoops, thin triple gold necklace, plain gold ring"
+    },
+    "variable": [
+      "look (L1–L5)",
+      "white hard hat in the factory hall (no text)"
+    ],
+    "generator_errors": [
+      "smiling in comedy (dry is in the face, E3)",
+      "long, straight or plain dark-brown hair without the copper",
+      "brown eyes",
+      "face mixed with Claire or June in a shared chat",
+      "text on the hard hat"
+    ]
+  },
+  "looks": {
+    "L1": "brown tweed blazer and trousers, black blouse, gold-buckle belt, brown ankle boots; white-dial watch with brown leather strap on the left wrist; hoops, gold necklace (EP03, V77)",
+    "L3": "cream shirt and trousers, caramel belt, brown ankle boots (EP02, V54)"
+  },
+  "voice": {
+    "reference": "06_GENERATED_ASSETS/VOICES/maya_reed_voice-ref_v02.wav",
+    "owner": "Pedro implements (V115)",
+    "register": "fast humor, affectionate irony, confidante",
+    "pace_wpm": {
+      "comedy": "100-115",
+      "serious": "80-90"
+    }
+  },
+  "camera": "subtle handheld, wider frames to catch the body in the reaction (E14)",
+  "light": "neutral and earthy (E14)",
+  "sound": [
+    "cups",
+    "keys",
+    "pen tapping"
+  ],
+  "interpretation_rule": "Maya speaks with timing and goes silent with her body. In comedy her face stays serious and the joke is in the timing. When it is serious, she stops moving and the joke dies before it reaches her mouth. Her care for Claire is always practical: food, sleep, time.",
+  "limits": {
+    "laugh_open": "never in S1 (V70)",
+    "tears": {
+      "1": "max in S1, only for her friend"
+    }
+  },
+  "forbidden": [
+    "smiling at her own joke",
+    "open laughter",
+    "fast speech in a serious scene",
+    "neutral face in a line about Claire"
+  ],
+  "generation_suffix": "Chin-length full curly copper-auburn hair. Green eyes, freckles. No smile unless the panel asks for one; never an open laugh. If the left wrist shows, a white-dial watch with a brown leather strap. Same face in every panel; never Claire's or June's face.",
+  "expression_groups": [
+    {
+      "id": "A",
+      "name": "Trabalho e prazos"
+    },
+    {
+      "id": "B",
+      "name": "Comédia seca"
+    },
+    {
+      "id": "C",
+      "name": "Carinho e cumplicidade"
+    },
+    {
+      "id": "D",
+      "name": "Proteção e seriedade"
+    },
+    {
+      "id": "E",
+      "name": "Descoberta"
+    },
+    {
+      "id": "F",
+      "name": "Ela mesma"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "EXP-M-01",
+      "group": "A",
+      "name": "A gerente (o cronograma)",
+      "where": "EP01–EP03",
+      "direction": "Checking a schedule on a tablet, eyebrows level, completely unimpressed; everything is under her control.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 1
+    },
+    {
+      "id": "EXP-M-02",
+      "group": "A",
+      "name": "Cobrando Claire de igual para igual",
+      "where": "EP01 SC001; EP02",
+      "direction": "Looking straight at Claire with calm authority, one eyebrow barely up: she is not intimidated at all.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 2
+    },
+    {
+      "id": "EXP-M-03",
+      "group": "A",
+      "name": "Atenta (lendo a sala)",
+      "where": "EP01 SC006; EP03",
+      "direction": "Quietly watching the room, eyes moving, reading everyone; face still.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 3
+    },
+    {
+      "id": "EXP-M-04",
+      "group": "A",
+      "name": "Pensativa",
+      "where": "EP02; EP03",
+      "direction": "A finger at her lips, eyes on the middle distance, weighing something.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 4
+    },
+    {
+      "id": "EXP-M-05",
+      "group": "B",
+      "name": "Deadpan (a piada no timing)",
+      "where": "Toda a T1 (E3)",
+      "direction": "Perfectly serious face delivering a joke; not a trace of a smile; the comedy is in her stillness.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 1
+    },
+    {
+      "id": "EXP-M-06",
+      "group": "B",
+      "name": "Ironia carinhosa",
+      "where": "EP01 (\"Good night, you terrifying woman.\")",
+      "direction": "A dry, fond look, one corner of the mouth barely moving, eyebrow slightly raised; affection disguised as sarcasm.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 2
+    },
+    {
+      "id": "EXP-M-07",
+      "group": "B",
+      "name": "Exagero cômico",
+      "where": "EP01 (\"There. Civilization is saved.\")",
+      "direction": "Mock-grand seriousness, chin up, eyes half-closed as if announcing a great achievement; still no smile.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 1
+    },
+    {
+      "id": "EXP-M-08",
+      "group": "B",
+      "name": "Exasperação contida",
+      "where": "EP01–EP03",
+      "direction": "A slow blink at the ceiling, lips pressed, patience visibly running out; no smile.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 2
+    },
+    {
+      "id": "EXP-M-09",
+      "group": "B",
+      "name": "Falsa compaixão",
+      "where": "EP01 (\"Oh, that's unfortunate.\")",
+      "direction": "Exaggerated mock sympathy, brows lifted in the middle, lips pursed; clearly not sorry at all.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 3
+    },
+    {
+      "id": "EXP-M-10",
+      "group": "B",
+      "name": "Surpresa fingida",
+      "where": "EP02",
+      "direction": "Eyebrows raised theatrically, mouth closed, deadpan; she is not surprised.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 4
+    },
+    {
+      "id": "EXP-M-11",
+      "group": "B",
+      "name": "Duelo com June (desconfiança simpática)",
+      "where": "EP02 SC005; EP03 SC002",
+      "direction": "Narrowed eyes and a polite, dangerous calm, head tilted, studying an opponent she secretly likes.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 5
+    },
+    {
+      "id": "EXP-M-12",
+      "group": "B",
+      "name": "A encarada",
+      "where": "EP03 SC002 (\"What's in it?\")",
+      "direction": "A long unblinking stare, arms crossed, waiting for an answer she will get eventually.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 6
+    },
+    {
+      "id": "EXP-M-13",
+      "group": "C",
+      "name": "Cúmplice (afetuosa)",
+      "where": "EP01–EP03",
+      "direction": "A warm look of complicity at Claire, eyes soft, mouth still dry; they understand each other without words.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 3
+    },
+    {
+      "id": "EXP-M-14",
+      "group": "C",
+      "name": "Cuidando de Claire",
+      "where": "EP01–EP03 (comida, sono, horário)",
+      "direction": "Handing over a coffee with a stern look that means \"eat something\"; care disguised as orders.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 5
+    },
+    {
+      "id": "EXP-M-15",
+      "group": "C",
+      "name": "Orgulho de Claire",
+      "where": "EP01 SC001; EP08",
+      "direction": "Watching Claire work, a quiet pride in her eyes that she would never say out loud.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 6
+    },
+    {
+      "id": "EXP-M-16",
+      "group": "C",
+      "name": "O sorriso que escapa",
+      "where": "Raro (EP08, planejado)",
+      "direction": "A small reluctant smile that escapes for a second before she catches it; she hates being caught.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 1
+    },
+    {
+      "id": "EXP-M-17",
+      "group": "D",
+      "name": "Desconfiança de Olivia",
+      "where": "EP01–EP03",
+      "direction": "Cool, measuring look, chin down, lips pressed; polite and unconvinced.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 2
+    },
+    {
+      "id": "EXP-M-18",
+      "group": "D",
+      "name": "A piada morre na boca",
+      "where": "EP01 SC006; EP03 SC005",
+      "direction": "About to make a joke, mouth slightly open, and she stops: the joke dies; her face goes still.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 3
+    },
+    {
+      "id": "EXP-M-19",
+      "group": "D",
+      "name": "Séria (o corpo para)",
+      "where": "EP03 SC005 (KF SH02)",
+      "direction": "Arms crossed, completely still, serious, no smile, not even in the eyes.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 4
+    },
+    {
+      "id": "EXP-M-20",
+      "group": "D",
+      "name": "Protetora",
+      "where": "EP02; EP03",
+      "direction": "Standing slightly in front of Claire, shoulders square, jaw set, eyes on the threat.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 4
+    },
+    {
+      "id": "EXP-M-21",
+      "group": "D",
+      "name": "A dor pela amiga (nível 1)",
+      "where": "EP03 SC005 (\"She gave her seven years.\", KF SH09 V02)",
+      "direction": "Brows lifted in the middle, green eyes glistening, mouth soft and closed; sad for her best friend, not angry; no tear.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 5
+    },
+    {
+      "id": "EXP-M-22",
+      "group": "D",
+      "name": "Raiva fria por Claire",
+      "where": "EP04–EP07 (planejado)",
+      "direction": "Very still, eyes hard and cold, jaw tight; quiet fury on Claire's behalf; no shouting.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 5
+    },
+    {
+      "id": "EXP-M-23",
+      "group": "E",
+      "name": "Surpresa real",
+      "where": "EP01–EP03",
+      "direction": "Real surprise: eyebrows up, eyes wide, lips parted for a second.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 6
+    },
+    {
+      "id": "EXP-M-24",
+      "group": "E",
+      "name": "Entendendo só com o olhar",
+      "where": "EP01 SC006 (o slide)",
+      "direction": "The moment she understands who Olivia is: eyes widen slightly, then go still; she says nothing.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 6
+    },
+    {
+      "id": "EXP-M-25",
+      "group": "E",
+      "name": "Percebendo que June sabe",
+      "where": "EP03 SC002",
+      "direction": "Eyes narrowing on June, a small realization: June knows something.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 1
+    },
+    {
+      "id": "EXP-M-26",
+      "group": "F",
+      "name": "Reflexiva (vulnerável)",
+      "where": "[P] EP04–EP08",
+      "direction": "Alone for a moment, the armor of jokes off: tired eyes, a softer, sadder face.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 2
+    },
+    {
+      "id": "EXP-M-27",
+      "group": "F",
+      "name": "Serena",
+      "where": "EP01–EP03 (fora do trabalho)",
+      "direction": "Relaxed and calm, eyes soft, a quiet ease in her face.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 3
+    },
+    {
+      "id": "EXP-M-28",
+      "group": "F",
+      "name": "Empolgada",
+      "where": "EP02 (pós-trabalho)",
+      "direction": "Bright eyes and lifted brows, leaning in with energy; her version of excitement, still without a big smile.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 4
+    }
+  ],
+  "sheets": [
+    {
+      "id": "P1",
+      "name": "Essenciais",
+      "panels": [
+        "EXP-M-05",
+        "EXP-M-06",
+        "EXP-M-13",
+        "EXP-M-19",
+        "EXP-M-21",
+        "EXP-M-24"
+      ],
+      "approved_file": "02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P2",
+      "name": "Comédia",
+      "panels": [
+        "EXP-M-07",
+        "EXP-M-08",
+        "EXP-M-09",
+        "EXP-M-10",
+        "EXP-M-11",
+        "EXP-M-12"
+      ],
+      "approved_file": "02_CHARACTERS/MAYA_REED/maya_expressoes-P2_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P3",
+      "name": "Trabalho e carinho",
+      "panels": [
+        "EXP-M-01",
+        "EXP-M-02",
+        "EXP-M-03",
+        "EXP-M-04",
+        "EXP-M-14",
+        "EXP-M-15"
+      ],
+      "approved_file": "02_CHARACTERS/MAYA_REED/maya_expressoes-P3_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P4",
+      "name": "Proteção",
+      "panels": [
+        "EXP-M-16",
+        "EXP-M-17",
+        "EXP-M-18",
+        "EXP-M-20",
+        "EXP-M-22",
+        "EXP-M-23"
+      ],
+      "approved_file": "02_CHARACTERS/MAYA_REED/maya_expressoes-P4_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P5",
+      "name": "Ela mesma",
+      "panels": [
+        "EXP-M-25",
+        "EXP-M-26",
+        "EXP-M-27",
+        "EXP-M-28"
+      ],
+      "approved_file": "02_CHARACTERS/MAYA_REED/maya_expressoes-P5_V01.png",
+      "status": "pending"
+    }
+  ]
+}
