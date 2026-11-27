@@ -19,12 +19,12 @@
 ### B. Humor e leveza
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
-| EXP-O-07 | **Provocação afetuosa** | EP01–EP03 (as regras de Claire) | *Affectionate irony: a spark in her eyes, one corner of the mouth up, chin slightly down, daring Claire without breaking any rule.* | P4·1 | — |
+| EXP-O-07 | **Provocação afetuosa** | EP01–EP03 (as regras de Claire) | *Affectionate irony: a spark in her eyes, one corner of the mouth up, chin slightly down, daring Claire without breaking any rule.* | P4·1 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` painel 1 |
 | EXP-O-08 | **O sorriso que quebra no meio** | Toda a T1 (E14) | *A smile that starts and breaks halfway: the mouth lifts, then falters, the eyes turning sad before the smile is finished.* | P1·4 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` painel 4 |
-| EXP-O-09 | **Riso aberto (longe de Claire)** | Com June, com estranhos (EP02–EP03) | *A real open laugh, head tipped back slightly, eyes crinkled, warm and free; only away from Claire.* | P4·2 | — |
-| EXP-O-10 | **Honestidade desarmante** | EP01 SC007 ("I was going for honest.") | *Simple and direct, eyes straight ahead, a small helpless shrug in the face; no defense, no performance.* | P4·3 | — |
-| EXP-O-11 | **Obedecendo a regra (com brilho)** | EP01 SC007; EP02 SC007 | *Composed and obedient on the surface, but her eyes are laughing: she will follow the rule, and both of them know it is a game.* | P4·4 | — |
-| EXP-O-12 | **Surpresa divertida** | EP02 (a comédia de Maya e June) | *Eyebrows up, eyes wide and amused, lips pressed against a laugh.* | P4·5 | — |
+| EXP-O-09 | **Riso aberto (longe de Claire)** | Com June, com estranhos (EP02–EP03) | *A real open laugh, head tipped back slightly, eyes crinkled, warm and free; only away from Claire.* | P4·2 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` painel 2 |
+| EXP-O-10 | **Honestidade desarmante** | EP01 SC007 ("I was going for honest.") | *Simple and direct, eyes straight ahead, a small helpless shrug in the face; no defense, no performance.* | P4·3 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` painel 3 |
+| EXP-O-11 | **Obedecendo a regra (com brilho)** | EP01 SC007; EP02 SC007 | *Composed and obedient on the surface, but her eyes are laughing: she will follow the rule, and both of them know it is a game.* | P4·4 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` painel 4 |
+| EXP-O-12 | **Surpresa divertida** | EP02 (a comédia de Maya e June) | *Eyebrows up, eyes wide and amused, lips pressed against a laugh.* | P4·5 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` painel 5 |
 
 ### C. Amor e desejo
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
@@ -42,7 +42,7 @@
 | ID | Expressão | Onde na T1 | Direção (inglês) | Prancha | Referência |
 |---|---|---|---|---|---|
 | EXP-O-21 | **A meia-verdade** | EP02 SC008; EP03 SC004 | *Telling half the truth with her eyes fixed on the table, never on Claire: lips tight between the words, guilt held very still.* | P1·3 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` painel 3 |
-| EXP-O-22 | **Culpa atrás da leveza** | EP01–EP03 (no escritório) | *A light, friendly face on the surface, but the eyes give her away: a flicker of guilt behind the smile.* | P4·6 | — |
+| EXP-O-22 | **Culpa atrás da leveza** | EP01–EP03 (no escritório) | *A light, friendly face on the surface, but the eyes give her away: a flicker of guilt behind the smile.* | P4·6 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` painel 6 |
 | EXP-O-23 | **A respiração antes da verdade** | EP03 SC004 ("I didn't take care of that.") | *The held breath before a hard truth: lips pressed together then parting, eyes down and glistening.* | P1·5 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` painel 5 |
 | EXP-O-24 | **Vergonha** | EP03 SC004; EP05 | *Shame: eyes down and they don't come up, shoulders curling in, her fingers touching the empty inside of her left wrist.* | P7·1 | — |
 | EXP-O-25 | **Evasão (volta ao trabalho)** | EP03 SC004 ("The west side…") | *Retreating into work: eyes on the windows or the negatives, a busy, too-practical expression; the subject is closed.* | P3·6 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` painel 6 |
@@ -107,7 +107,7 @@
 | P1 — Essenciais | EXP-O-05, EXP-O-29, EXP-O-21, EXP-O-08, EXP-O-23, EXP-O-39 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png` | approved |
 | P2 — Choro | EXP-O-43, EXP-O-44, EXP-O-45, EXP-O-46 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png` | approved |
 | P3 — Observação e trabalho | EXP-O-01, EXP-O-02, EXP-O-03, EXP-O-04, EXP-O-06, EXP-O-25 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png` | approved |
-| P4 — Humor e leveza | EXP-O-07, EXP-O-09, EXP-O-10, EXP-O-11, EXP-O-12, EXP-O-22 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` | pending |
+| P4 — Humor e leveza | EXP-O-07, EXP-O-09, EXP-O-10, EXP-O-11, EXP-O-12, EXP-O-22 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png` | approved |
 | P5 — Amor | EXP-O-13, EXP-O-14, EXP-O-15, EXP-O-18, EXP-O-19, EXP-O-20 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P5_V01.png` | pending |
 | P6 — Desejo e passado | EXP-O-16, EXP-O-17, EXP-O-47, EXP-O-48, EXP-O-49, EXP-O-50 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P6_V01.png` | pending |
 | P7 — Culpa e tristeza | EXP-O-24, EXP-O-26, EXP-O-30, EXP-O-31, EXP-O-32, EXP-O-33 | `02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P7_V01.png` | pending |

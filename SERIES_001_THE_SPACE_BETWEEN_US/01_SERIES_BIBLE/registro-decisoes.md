@@ -89,6 +89,7 @@ Legenda de status:
 | V36 | **June na sexta (SC005–SC009): L5**, suéter bordô + calça preta, sobretudo caramelo, crachá de produção. **Substitui** a parte da V11 que a punha no L3 (que também era verde-oliva, igual a Olivia) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V37 | **Café na SC005:** a mesma manhã nublada da SC004, rua molhada com poças pela janela; letreiro "THE QUIET HOUR" composto na pós (fachada gerada sem texto) | APROVADO (2026-11-16) | Decupagem SC005 |
 | V38 | **Voz de June escolhida na edição:** gerar sem referência, com a voz descrita no prompt (seca, rápida, americana, médio-grave, deadpan), e aplicar por conversão de voz, como a de Olivia (V31) | APROVADO (2026-11-16) | Decupagem SC005 |
+| V109 | **Olivia: prancha P4 (humor e leveza) APROVADA** (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png`, após 1 edição: EXP-O-22 com a culpa nos olhos). EXP-O-07, 09 (o único riso aberto, longe de Claire), 10, 11, 12, 22 | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
 | V108 | **Olivia: prancha P3 (observação e trabalho) APROVADA** sem edição (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P3_V01.png`): EXP-O-01 (pela lente), 02, 03, 04, 06 (o olhar para a janela), 25 (evasão; parecido com o 03, a cena dá o sentido) | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
 | V107 | **Olivia: prancha P2 (choro) APROVADA** sem edição (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P2_V01.png`): EXP-O-43 (enchendo), 44 (a lágrima que cai), 45 (o choro aberto de rosto à mostra), 46 (enxugando com a manga, o sorriso quebrado). O choro de Olivia é o contrário do de Claire: não esconde, chora olhando | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
 | V106 | **Olivia: prancha P1 (essenciais) APROVADA** (`02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P1_V01.png`, após 1 edição: EXP-O-29 com os olhos cheios). EXP-O-05, 29, 21, 08, 23, 39. Rosto conferido com o KF-O-GAP da SC004 (a Olivia do EP03); uma pinta só, do lado esquerdo dela | APROVADO (2026-11-27) | `TSBU_CHR-OLIVIA_V01.json` |
@@ -215,6 +216,7 @@ Legenda de status:
 
 | Data | Decisão | Registrado por |
 |---|---|---|
+| 2026-11-27 | Olivia: prancha P4 aprovada e ligada ao JSON (V109) | Showrunner GL AI |
 | 2026-11-27 | Olivia: prancha P3 aprovada e ligada ao JSON (V108) | Showrunner GL AI |
 | 2026-11-27 | Olivia: prancha P2 (choro) aprovada e ligada ao JSON (V107) | Showrunner GL AI |
 | 2026-11-27 | Olivia: prancha P1 aprovada e ligada ao JSON (V106) | Showrunner GL AI |

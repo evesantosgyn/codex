@@ -246,8 +246,12 @@
       "name": "Provocação afetuosa",
       "where": "EP01–EP03 (as regras de Claire)",
       "direction": "Affectionate irony: a spark in her eyes, one corner of the mouth up, chin slightly down, daring Claire without breaking any rule.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png",
+        "sha256": "fe4f35468a1ffe49077fe5adda1125a1bf5f78e5dbf22355b286de77ca58229f",
+        "panel": 1
+      },
       "sheet": "P4",
       "panel": 1
     },
@@ -272,8 +276,12 @@
       "name": "Riso aberto (longe de Claire)",
       "where": "Com June, com estranhos (EP02–EP03)",
       "direction": "A real open laugh, head tipped back slightly, eyes crinkled, warm and free; only away from Claire.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png",
+        "sha256": "fe4f35468a1ffe49077fe5adda1125a1bf5f78e5dbf22355b286de77ca58229f",
+        "panel": 2
+      },
       "sheet": "P4",
       "panel": 2
     },
@@ -283,8 +291,12 @@
       "name": "Honestidade desarmante",
       "where": "EP01 SC007 (\"I was going for honest.\")",
       "direction": "Simple and direct, eyes straight ahead, a small helpless shrug in the face; no defense, no performance.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png",
+        "sha256": "fe4f35468a1ffe49077fe5adda1125a1bf5f78e5dbf22355b286de77ca58229f",
+        "panel": 3
+      },
       "sheet": "P4",
       "panel": 3
     },
@@ -294,8 +306,12 @@
       "name": "Obedecendo a regra (com brilho)",
       "where": "EP01 SC007; EP02 SC007",
       "direction": "Composed and obedient on the surface, but her eyes are laughing: she will follow the rule, and both of them know it is a game.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png",
+        "sha256": "fe4f35468a1ffe49077fe5adda1125a1bf5f78e5dbf22355b286de77ca58229f",
+        "panel": 4
+      },
       "sheet": "P4",
       "panel": 4
     },
@@ -305,8 +321,12 @@
       "name": "Surpresa divertida",
       "where": "EP02 (a comédia de Maya e June)",
       "direction": "Eyebrows up, eyes wide and amused, lips pressed against a laugh.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png",
+        "sha256": "fe4f35468a1ffe49077fe5adda1125a1bf5f78e5dbf22355b286de77ca58229f",
+        "panel": 5
+      },
       "sheet": "P4",
       "panel": 5
     },
@@ -419,8 +439,12 @@
       "name": "Culpa atrás da leveza",
       "where": "EP01–EP03 (no escritório)",
       "direction": "A light, friendly face on the surface, but the eyes give her away: a flicker of guilt behind the smile.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png",
+        "sha256": "fe4f35468a1ffe49077fe5adda1125a1bf5f78e5dbf22355b286de77ca58229f",
+        "panel": 6
+      },
       "sheet": "P4",
       "panel": 6
     },
@@ -829,7 +853,10 @@
         "EXP-O-22"
       ],
       "approved_file": "02_CHARACTERS/OLIVIA_HAYES/olivia_expressoes-P4_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "fe4f35468a1ffe49077fe5adda1125a1bf5f78e5dbf22355b286de77ca58229f",
+      "approval": "V109",
+      "edits": "V01 → V02 no ChatGPT: EXP-O-22 com a culpa nos olhos (estava igual ao EXP-O-11)"
     },
     {
       "id": "P5",
