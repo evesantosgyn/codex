@@ -173,8 +173,12 @@
       "name": "Deadpan (a piada no timing)",
       "where": "Toda a T1 (E3)",
       "direction": "Perfectly serious face delivering a joke; not a trace of a smile; the comedy is in her stillness.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png",
+        "sha256": "7dfa853c247db0eb0c83e3c60652f262e4fbc8d06ab8bdea4a5e86ebada2b5ad",
+        "panel": 1
+      },
       "sheet": "P1",
       "panel": 1
     },
@@ -184,8 +188,12 @@
       "name": "Ironia carinhosa",
       "where": "EP01 (\"Good night, you terrifying woman.\")",
       "direction": "A dry, fond look, one corner of the mouth barely moving, eyebrow slightly raised; affection disguised as sarcasm.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png",
+        "sha256": "7dfa853c247db0eb0c83e3c60652f262e4fbc8d06ab8bdea4a5e86ebada2b5ad",
+        "panel": 2
+      },
       "sheet": "P1",
       "panel": 2
     },
@@ -261,8 +269,12 @@
       "name": "Cúmplice (afetuosa)",
       "where": "EP01–EP03",
       "direction": "A warm look of complicity at Claire, eyes soft, mouth still dry; they understand each other without words.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png",
+        "sha256": "7dfa853c247db0eb0c83e3c60652f262e4fbc8d06ab8bdea4a5e86ebada2b5ad",
+        "panel": 3
+      },
       "sheet": "P1",
       "panel": 3
     },
@@ -327,8 +339,12 @@
       "name": "Séria (o corpo para)",
       "where": "EP03 SC005 (KF SH02)",
       "direction": "Arms crossed, completely still, serious, no smile, not even in the eyes.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png",
+        "sha256": "7dfa853c247db0eb0c83e3c60652f262e4fbc8d06ab8bdea4a5e86ebada2b5ad",
+        "panel": 4
+      },
       "sheet": "P1",
       "panel": 4
     },
@@ -349,8 +365,12 @@
       "name": "A dor pela amiga (nível 1)",
       "where": "EP03 SC005 (\"She gave her seven years.\", KF SH09 V02)",
       "direction": "Brows lifted in the middle, green eyes glistening, mouth soft and closed; sad for her best friend, not angry; no tear.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png",
+        "sha256": "7dfa853c247db0eb0c83e3c60652f262e4fbc8d06ab8bdea4a5e86ebada2b5ad",
+        "panel": 5
+      },
       "sheet": "P1",
       "panel": 5
     },
@@ -382,10 +402,15 @@
       "name": "Entendendo só com o olhar",
       "where": "EP01 SC006 (o slide)",
       "direction": "The moment she understands who Olivia is: eyes widen slightly, then go still; she says nothing.",
-      "status": "proposed",
-      "reference_image": null,
+      "status": "approved",
+      "reference_image": {
+        "path": "02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png",
+        "sha256": "7dfa853c247db0eb0c83e3c60652f262e4fbc8d06ab8bdea4a5e86ebada2b5ad",
+        "panel": 6
+      },
       "sheet": "P1",
-      "panel": 6
+      "panel": 6,
+      "note": "Na prancha a mudança é sutil; na cena (EP01 SC006), o slide com o nome de Olivia logo antes dá a leitura"
     },
     {
       "id": "EXP-M-25",
@@ -445,7 +470,10 @@
         "EXP-M-24"
       ],
       "approved_file": "02_CHARACTERS/MAYA_REED/maya_expressoes-P1_V01.png",
-      "status": "pending"
+      "status": "approved",
+      "sha256": "7dfa853c247db0eb0c83e3c60652f262e4fbc8d06ab8bdea4a5e86ebada2b5ad",
+      "approval": "V117",
+      "edits": "V01 → V02 no ChatGPT: EXP-M-13 com o carinho nos olhos; EXP-M-24 com os lábios entreabertos (mudanças sutis)"
     },
     {
       "id": "P2",
