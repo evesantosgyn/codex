@@ -10,3 +10,4 @@
 | `TSBU_S01E03_SC006_SH08_KF_V01.png` | SH08, SH17, SH20, SH22 | 1 (Olivia) | edição do SH04 (O-29) | variante nova (E9): olhando para baixo, olhos cheios, sem sorriso | `265ab98f2bba7d5dd5381bd1ede7724e887ba74cb537bd638426412b97fd70d3` | Evelin | 2026-11-27 | registro da cena ao fim |
 | `TSBU_S01E03_SC006_SH07_KF_V01.png` | SH07 | 1 (Olivia) | R4 | nenhuma | `efdf6f63b5eaaeb878ef975fadb5aaa25433301147527e955cc3f810a6cfff6b` | Evelin | 2026-11-27 | registro da cena ao fim |
 | `TSBU_S01E03_SC006_SH13_KF_V02.png` | SH13 | 1 (Olivia) | R1 | V01 → V02: tatuagem removida do antebraço direito. Nota: o scanner ficou maior que o da SC003 (aceito) | `075d35360140f76741b0d3e9afeca9786375bfb3a884ac2e164a17aa103c40e7` | Evelin | 2026-11-27 | registro da cena ao fim |
+| `TSBU_S01E03_SC006_SH21_KF_V01.png` | SH21 | 1 (Olivia) | R1, R2 (O-23) | nenhuma | `bcd5b0c51e6508185ad2c768e0d3c0bcc025bab84cd88d972dc6c5bd537684f1` | Evelin | 2026-11-27 | registro da cena ao fim |
