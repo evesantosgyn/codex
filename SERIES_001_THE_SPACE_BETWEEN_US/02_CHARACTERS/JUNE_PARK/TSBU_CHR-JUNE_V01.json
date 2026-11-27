@@ -1,0 +1,475 @@
+{
+  "character_id": "CHR-JUNE",
+  "series": "TSBU",
+  "name": "June Park",
+  "version": "V01",
+  "status": "proposed",
+  "updated": "2026-11-27",
+  "approval": {
+    "bible": null,
+    "catalog": null
+  },
+  "sources": {
+    "bible_md": "02_CHARACTERS/JUNE_PARK/june-park_character-bible_V01.md",
+    "continuity": "01_SERIES_BIBLE/continuidade.yaml#june_park",
+    "catalog_md": "02_CHARACTERS/JUNE_PARK/june-park_catalogo-expressoes-T1_V01.md (gerado)",
+    "sheets_pack": "02_CHARACTERS/JUNE_PARK/june_pranchas_pacote-chatgpt_V01.md (gerado)"
+  },
+  "references": {
+    "identity_pack": {
+      "path": "02_CHARACTERS/JUNE_PARK/june-park_identity-pack.webp",
+      "sha256": "b003ae2b4b0f63b9087523ad85f37f420a90491f262be60e4176ab0296758cd1"
+    },
+    "face_ref": {
+      "path": "02_CHARACTERS/JUNE_PARK/june_ref-SC005_KF-J1.png",
+      "sha256": "6a0412c1d3c3902c336dc8fec154089c888c280953a5df972e7783e7d1775638"
+    },
+    "look_L5": {
+      "path": "06_GENERATED_ASSETS/IMAGES/S01E03_LOOK_JUNE_V01.png",
+      "sha256": "177bd7620595f5a3d74d09275be8996c78fb028f199c3bf53eb3d9affb0c202d"
+    },
+    "serious_ref": {
+      "path": "06_GENERATED_ASSETS/IMAGES/TSBU_S01E03_SC005_SH12_KF_V01.png",
+      "sha256": "2bfaf664c4aec487ba6b22063ef5d2e56e9d65eb10f2db328bb58c0402f85953"
+    }
+  },
+  "sheet_refs": [
+    "identity_pack",
+    "look_L5",
+    "serious_ref"
+  ],
+  "identity_lock": {
+    "immutable": {
+      "hair": "dark brown to black, straight with soft layers, collarbone length, worn loose",
+      "eyes": "dark brown",
+      "skin": "light-medium with subtle freckles; strong jawline",
+      "watch": "white dial, dark strap, LEFT wrist",
+      "jewelry": "small gold hoops",
+      "forbidden_color": "never olive green (Olivia's color)"
+    },
+    "variable": [
+      "look (L2–L5)",
+      "production badge on a black lanyard",
+      "white hard hat in the factory hall (no text)"
+    ],
+    "generator_errors": [
+      "olive-green clothing (the identity pack shows the banned L1 jacket)",
+      "open smile in comedy",
+      "hair tied up or short",
+      "light eyes",
+      "face mixed with Maya or Olivia in a shared chat"
+    ]
+  },
+  "looks": {
+    "L5": "burgundy chunky knit sweater, black trousers, light sneakers, badge on a black lanyard, clipboard; caramel overcoat at night; white-dial watch with dark strap on the left wrist; gold-buckle belt (EP03, V78)",
+    "L4": "cream sand overshirt, white tee, black cargo, sneakers, badge, clipboard (EP02, V54)"
+  },
+  "voice": {
+    "reference": null,
+    "owner": "Pedro implements (V115)",
+    "register": "dry, fast, American, medium-low, deadpan timing (V38)"
+  },
+  "camera": "subtle handheld, from the edges: behind glass, in profile, from a distance (E14)",
+  "light": "neutral (E14)",
+  "sound": [
+    "clipboard",
+    "badge",
+    "cable"
+  ],
+  "interpretation_rule": "June watches from the edge and says the minimum. Her irony lives in her eyes and one corner of her mouth; her voice has the timing. When the truth lands, her hands stop and she does not pretend to have an answer. She never cries.",
+  "limits": {
+    "laugh_open": "never on screen",
+    "tears": "never",
+    "lying": "never lies on screen; she stays silent instead"
+  },
+  "forbidden": [
+    "olive green clothing",
+    "wide smile at her own joke",
+    "open laughter",
+    "crying",
+    "lying on screen"
+  ],
+  "generation_suffix": "Straight dark-brown-to-black hair, loose at collarbone length. Dark brown eyes, subtle freckles. NO olive-green clothing anywhere. No smile unless the panel asks for one, and never an open laugh. If the left wrist shows, a white-dial watch with a dark strap. Same face in every panel; never Maya's or Olivia's face.",
+  "expression_groups": [
+    {
+      "id": "A",
+      "name": "Observação e trabalho"
+    },
+    {
+      "id": "B",
+      "name": "Deadpan"
+    },
+    {
+      "id": "C",
+      "name": "Lealdade a Olivia"
+    },
+    {
+      "id": "D",
+      "name": "O segredo"
+    },
+    {
+      "id": "E",
+      "name": "Seriedade"
+    },
+    {
+      "id": "F",
+      "name": "Ela mesma"
+    }
+  ],
+  "expressions": [
+    {
+      "id": "EXP-J-01",
+      "group": "A",
+      "name": "Observando pela borda",
+      "where": "Toda a T1 (E14)",
+      "direction": "Watching from the edge of the frame, in profile, still and attentive; she sees everything and says nothing.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 1
+    },
+    {
+      "id": "EXP-J-02",
+      "group": "A",
+      "name": "Focada (laptop, prancheta)",
+      "where": "EP01 SC005; EP02",
+      "direction": "Eyes down on her laptop or clipboard, efficient and absorbed, a small crease between the brows.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 2
+    },
+    {
+      "id": "EXP-J-03",
+      "group": "A",
+      "name": "A pergunta inconveniente",
+      "where": "EP01–EP03",
+      "direction": "Head slightly tilted, a level, patient look that has just asked the question nobody wanted asked.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 1
+    },
+    {
+      "id": "EXP-J-04",
+      "group": "A",
+      "name": "A produtora resolvendo",
+      "where": "EP01–EP03",
+      "direction": "Pragmatic and unbothered, already solving the problem: brisk, practical, eyebrows level.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 3
+    },
+    {
+      "id": "EXP-J-05",
+      "group": "B",
+      "name": "Deadpan seco",
+      "where": "EP01 (\"Remarkable. You heard an entire noun.\")",
+      "direction": "A perfectly still face delivering a dry line; not a trace of a smile; irony only in the eyes.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 1
+    },
+    {
+      "id": "EXP-J-06",
+      "group": "B",
+      "name": "Ironia nos olhos e no canto da boca",
+      "where": "EP01 SC005 (J1-B, V63)",
+      "direction": "Irony in the eyes and one corner of the mouth barely lifted; dryly amused, nothing more.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 2
+    },
+    {
+      "id": "EXP-J-07",
+      "group": "B",
+      "name": "O diagnóstico curto",
+      "where": "EP01 (\"A romantic triumph.\")",
+      "direction": "A flat, unimpressed look, eyelids slightly lowered, delivering a one-line verdict.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 2
+    },
+    {
+      "id": "EXP-J-08",
+      "group": "B",
+      "name": "O olhar \"sério?\"",
+      "where": "EP02",
+      "direction": "One eyebrow barely raised, mouth flat, staring at someone who has just said something absurd.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 3
+    },
+    {
+      "id": "EXP-J-09",
+      "group": "B",
+      "name": "Duelo com Maya",
+      "where": "EP02 SC005; EP03 SC002",
+      "direction": "A calm, polite, immovable look across the table, chin level; she will not give an inch, and she likes her opponent.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 4
+    },
+    {
+      "id": "EXP-J-10",
+      "group": "B",
+      "name": "A mão sobre a tampa",
+      "where": "EP03 SC002 (\"Seven years.\")",
+      "direction": "Her hand resting flat on a box lid, eyes calmly meeting someone else's, protecting it without a word.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 5
+    },
+    {
+      "id": "EXP-J-11",
+      "group": "C",
+      "name": "Calorosa",
+      "where": "EP01; EP03",
+      "direction": "A rare warmth in the eyes for her friend, the face softening, a tiny closed-mouth curve.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 4
+    },
+    {
+      "id": "EXP-J-12",
+      "group": "C",
+      "name": "Preocupação firme e gentil",
+      "where": "EP01 SC005 (J2-B, V63)",
+      "direction": "Firm, gentle concern: eyes steady on Olivia, brows slightly drawn, lips closed; she will not let her run.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 3
+    },
+    {
+      "id": "EXP-J-13",
+      "group": "C",
+      "name": "Protetora de Olivia",
+      "where": "EP02; EP03",
+      "direction": "Standing a little closer to Olivia, quietly blocking, eyes level on whoever is asking.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 5
+    },
+    {
+      "id": "EXP-J-14",
+      "group": "C",
+      "name": "Confrontando Olivia",
+      "where": "EP01 (\"You can't spend seven years rehearsing a conversation...\")",
+      "direction": "Looking straight at Olivia without blinking, hands stopped, saying the one true sentence.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P3",
+      "panel": 6
+    },
+    {
+      "id": "EXP-J-15",
+      "group": "C",
+      "name": "Empurrando Olivia (\"Does Claire know?\")",
+      "where": "EP01 SC009; EP02 SC008",
+      "direction": "A direct, quiet look that asks the question Olivia avoids; patient and relentless.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 1
+    },
+    {
+      "id": "EXP-J-16",
+      "group": "D",
+      "name": "Guardando o segredo (\"Not my story.\")",
+      "where": "EP03 SC005",
+      "direction": "Closed, calm face, eyes on her work, giving nothing away; she won't lie and she won't tell.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 4
+    },
+    {
+      "id": "EXP-J-17",
+      "group": "D",
+      "name": "Desconfortável com a pergunta",
+      "where": "EP02–EP03",
+      "direction": "A flicker of discomfort when asked about Olivia: eyes slide away, jaw tightens slightly, hands keep working.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 2
+    },
+    {
+      "id": "EXP-J-18",
+      "group": "D",
+      "name": "Sem resposta",
+      "where": "EP03 SC005 (KF SH12)",
+      "direction": "Eyes lowered, mouth closed; she has no answer and doesn't pretend to.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 5
+    },
+    {
+      "id": "EXP-J-19",
+      "group": "D",
+      "name": "O peso do segredo",
+      "where": "[P] EP04–EP06",
+      "direction": "Alone for a moment, tired eyes on nothing; seven years of being the only one who knows.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 3
+    },
+    {
+      "id": "EXP-J-20",
+      "group": "E",
+      "name": "Séria (sem deadpan)",
+      "where": "EP03 SC005",
+      "direction": "Serious and honest, no irony at all: eyes on what matters, face still.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P1",
+      "panel": 6
+    },
+    {
+      "id": "EXP-J-21",
+      "group": "E",
+      "name": "As mãos param",
+      "where": "EP03 SC005 (SH11)",
+      "direction": "Her hands stop in the middle of a task and stay still; her eyes go still too.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 4
+    },
+    {
+      "id": "EXP-J-22",
+      "group": "E",
+      "name": "Tristeza contida (não chora)",
+      "where": "EP05–EP07 (planejado)",
+      "direction": "Sad without crying: eyes lowered, jaw set, a long breath out; no tears, ever.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P4",
+      "panel": 5
+    },
+    {
+      "id": "EXP-J-23",
+      "group": "F",
+      "name": "Cansada (fim do dia)",
+      "where": "EP02 SC008; EP03 (a van)",
+      "direction": "End-of-day tired: heavy lids, head resting back, the professional face off.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 1
+    },
+    {
+      "id": "EXP-J-24",
+      "group": "F",
+      "name": "O sorriso de canto (raríssimo)",
+      "where": "EP08 (planejado)",
+      "direction": "A rare, small, crooked half-smile that she allows for one second.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P2",
+      "panel": 6
+    },
+    {
+      "id": "EXP-J-25",
+      "group": "F",
+      "name": "Aliança com Maya",
+      "where": "EP04–EP08 (planejado)",
+      "direction": "A small, knowing nod across the room: an understanding with an old rival.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 2
+    },
+    {
+      "id": "EXP-J-26",
+      "group": "F",
+      "name": "Alívio quando Olivia conta",
+      "where": "EP07–EP08 (planejado)",
+      "direction": "Relief: a long breath out, eyes closing for a moment, shoulders dropping; finally not the only one who knows.",
+      "status": "proposed",
+      "reference_image": null,
+      "sheet": "P5",
+      "panel": 3
+    }
+  ],
+  "sheets": [
+    {
+      "id": "P1",
+      "name": "Essenciais",
+      "panels": [
+        "EXP-J-05",
+        "EXP-J-06",
+        "EXP-J-12",
+        "EXP-J-16",
+        "EXP-J-18",
+        "EXP-J-20"
+      ],
+      "approved_file": "02_CHARACTERS/JUNE_PARK/june_expressoes-P1_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P2",
+      "name": "Deadpan",
+      "panels": [
+        "EXP-J-03",
+        "EXP-J-07",
+        "EXP-J-08",
+        "EXP-J-09",
+        "EXP-J-10",
+        "EXP-J-24"
+      ],
+      "approved_file": "02_CHARACTERS/JUNE_PARK/june_expressoes-P2_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P3",
+      "name": "Trabalho e lealdade",
+      "panels": [
+        "EXP-J-01",
+        "EXP-J-02",
+        "EXP-J-04",
+        "EXP-J-11",
+        "EXP-J-13",
+        "EXP-J-14"
+      ],
+      "approved_file": "02_CHARACTERS/JUNE_PARK/june_expressoes-P3_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P4",
+      "name": "O segredo",
+      "panels": [
+        "EXP-J-15",
+        "EXP-J-17",
+        "EXP-J-19",
+        "EXP-J-21",
+        "EXP-J-22"
+      ],
+      "approved_file": "02_CHARACTERS/JUNE_PARK/june_expressoes-P4_V01.png",
+      "status": "pending"
+    },
+    {
+      "id": "P5",
+      "name": "Ela mesma",
+      "panels": [
+        "EXP-J-23",
+        "EXP-J-25",
+        "EXP-J-26"
+      ],
+      "approved_file": "02_CHARACTERS/JUNE_PARK/june_expressoes-P5_V01.png",
+      "status": "pending"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 # June Park — Recorrente
 
 **Status:** elenco recorrente APROVADO (2026-11-12) · visual PROPOSTO (sem conflitos abertos)
-**Prancha:** `june-park_identity-pack.webp` · **Traços:** `01_SERIES_BIBLE/continuidade.yaml → june_park`
+**Character Bible (HPS, proposta):** `june-park_character-bible_V01.md` + JSON `TSBU_CHR-JUNE_V01.json` · **Prancha:** `june-park_identity-pack.webp` · **Traços:** `01_SERIES_BIBLE/continuidade.yaml → june_park`
 
 ## Identidade dramática
 
