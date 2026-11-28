@@ -4,14 +4,6 @@ O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do re
 
 ## Abertas
 
-### P23 — EP02 aprovado × limites das Character Bibles (2026-11-28)
-O EP02 foi decupado e gerado antes das bíblias (V93–V127). Ao refazer as decupagens cinematográficas do EP02, três planos aprovados contrariam limites aprovados depois:
-- **(a) Olivia, SC004 SH24:** o pacote do EP02 (V70) pede **uma lágrima que cai** no rosto de Olivia. A bíblia dela (V105) diz: **lágrima caindo só a partir do EP05** (EXP-O-33).
-- **(b) Claire, SC009 SH20:** o pacote pede, no escuro, **uma lágrima que escorre e ela enxuga** (nível 2). A bíblia de Claire diz: **nível 2 só na SC006 do EP03** (EXP-C-26).
-- **(c) Claire, SC009 SH09 (KF-BROLL):** Claire **ri de verdade, de cabeça para trás**, no plano de cobertura gravado naquela manhã. A bíblia diz: **riso aberto nunca na T1**.
-- **Decidir, item a item:** manter o EP02 como está e registrar o plano como exceção aprovada na bíblia, **ou** ajustar na remontagem (correção A). Opções possíveis: em (a), cortar antes da lágrima cair (O-29); em (b), ir ao preto antes da lágrima (C-25); em (c), não há corte possível sem perder o gancho, e a exceção precisaria ser registrada.
-- **Recomendação do Showrunner:** (a) e (b), cortar antes da lágrima na remontagem, o que preserva a primeira lágrima de Olivia para o EP05 e a única de Claire para a SC006 do EP03; (c), registrar como exceção, porque é imagem gravada e é o gancho do episódio.
-
 ### P11 — Pipeline técnico (PARCIAL)
 - ✅ Vídeo: **MiniMax H3 (Hailuo 3)**. ✅ Consistência: **LoRA** por personagem (decisão de 2026-11-12; ver `00_ESTUDIO/04_manual-ferramentas.md`).
 - Falta: modelo-base das LoRAs e onde rodam; quais personagens já têm LoRA; ferramenta de imagem/keyframe; origem das vozes ✅ (áudio nativo do H3); montagem; legendas; workflows do ComfyUI; se o 3868×2160 do teste veio de upscale.
@@ -24,8 +16,16 @@ O EP02 foi decupado e gerado antes das bíblias (V93–V127). Ao refazer as decu
 - Equipe de redevelopment da SC006: 2 figurantes sem referência visual.
 - Voice Identity Packs: ferramenta definida (**áudio nativo do MiniMax H3**). ✅ Clipes de referência de **Claire** e **Maya** extraídos da SC001 (2026-11-12); ampliados na v02 (Claire 5,6 s; Maya 6,85 s). Falta definir as vozes de **Olivia** (SC003) e **June** (SC005).
 
-
 ## Resolvidas
+
+### P23 — EP02 aprovado × limites das Character Bibles (2026-11-28)
+O EP02 foi decupado e gerado antes das bíblias (V93–V127). Ao refazer as decupagens cinematográficas do EP02, três planos aprovados contrariam limites aprovados depois:
+- **(a) Olivia, SC004 SH24:** o pacote do EP02 (V70) pede **uma lágrima que cai** no rosto de Olivia. A bíblia dela (V105) diz: **lágrima caindo só a partir do EP05** (EXP-O-33).
+- **(b) Claire, SC009 SH20:** o pacote pede, no escuro, **uma lágrima que escorre e ela enxuga** (nível 2). A bíblia de Claire diz: **nível 2 só na SC006 do EP03** (EXP-C-26).
+- **(c) Claire, SC009 SH09 (KF-BROLL):** Claire **ri de verdade, de cabeça para trás**, no plano de cobertura gravado naquela manhã. A bíblia diz: **riso aberto nunca na T1**.
+- **Decidir, item a item:** manter o EP02 como está e registrar o plano como exceção aprovada na bíblia, **ou** ajustar na remontagem (correção A). Opções possíveis: em (a), cortar antes da lágrima cair (O-29); em (b), ir ao preto antes da lágrima (C-25); em (c), não há corte possível sem perder o gancho, e a exceção precisaria ser registrada.
+- **Recomendação do Showrunner:** (a) e (b), cortar antes da lágrima na remontagem, o que preserva a primeira lágrima de Olivia para o EP05 e a única de Claire para a SC006 do EP03; (c), registrar como exceção, porque é imagem gravada e é o gancho do episódio.
+- ✅ **Resolvida (2026-11-28, V134):** as três recomendações: (a) e (b) cortadas na remontagem antes da lágrima; (c) exceção registrada na bíblia de Claire
 
 ### P20 — HPS 1.0: H3 suspenso × pipeline aprovado no H3 (2026-11-25)
 - O **HPS 1.0** (`00_ESTUDIO/05_HPS-1.0_padrao-producao.md`) diz: **"H3 suspenso até esclarecimento de licença"**; LTX em validação; o pacote de cena **nunca depende de um só modelo** (prompt neutro + adaptador por motor).

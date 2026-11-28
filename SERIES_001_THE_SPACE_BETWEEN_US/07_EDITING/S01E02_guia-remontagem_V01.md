@@ -40,6 +40,13 @@ Só as trocas pessoais entre Claire e Olivia. A coluna "agora" é a pausa medida
 | 7:01 | "She asked if I knew it was her project." |
 | 7:04 | "I told her the truth." |
 
+## 3b. Cortes de emoção (P23, V134)
+| Cena | Plano | O que fazer |
+|---|---|---|
+| SC004 | SH24 (Olivia sozinha com o cabo) | **Cortar antes de a lágrima cair.** O plano termina com os olhos cheios. A primeira lágrima de Olivia é no EP05 |
+| SC009 | SH20 (a tela apaga) | **Ir ao preto antes da lágrima.** O rosto fica no escuro, imóvel, os olhos brilhando. O único nível 2 de Claire na T1 é a SC006 do EP03 |
+| SC009 | SH09 (o B-roll) | Nada muda: o riso aberto de Claire é exceção aprovada |
+
 ## 4. Entrega
 - Manda o corte novo **cena a cena** (ou o episódio inteiro). **Eu meço antes de ele ser dado como final** (E11, etapa obrigatória).
 - **Alvo de aprovação:** pausa mediana entre Claire e Olivia **≥ 1,5 s**; Olivia **≤ 3 palavras/s** nas falas pessoais.

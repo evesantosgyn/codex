@@ -96,12 +96,12 @@
   ],
   "interpretation_rule": "Her control is the armor of someone who still feels. The eyes betray her first, then the breath, the mouth last. The stronger the emotion, the less she moves.",
   "limits": {
-    "laugh_open": "never in S1",
+    "laugh_open": "never in S1; approved exception (V134): EP02 SC009 SH09, the B-roll filmed by Olivia's camera, away from her",
     "shout": "never in S1",
     "touch": "never initiates until EP08; when touched, does not pull away and does not respond",
     "tears": {
       "1": "default subtext",
-      "2": "only EP03 SC006",
+      "2": "only EP03 SC006 (EP02 SC009 SH20 cuts to black before the tear, V134)",
       "3": "TBD, EP07 or EP08"
     }
   },

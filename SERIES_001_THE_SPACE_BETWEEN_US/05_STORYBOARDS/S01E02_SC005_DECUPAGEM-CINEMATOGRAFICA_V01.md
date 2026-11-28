@@ -1,6 +1,6 @@
 # S01E02 SC005 "The Handlers" — Decupagem cinematográfica
 
-2026-11-28 · Evelin · 🟡 proposta, aguarda aprovação · modelo: EP03 SC005 (V128) · base: decupagem aprovada (N35), keyframes aprovados (V61), emoção (V70) e blocos de voz (V64). **Nada muda nos planos, nas falas ou nas imagens.** Esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias.
+2026-11-28 · Evelin · ✅ aprovada (V133) · modelo: EP03 SC005 (V128) · base: decupagem aprovada (N35), keyframes aprovados (V61), emoção (V70) e blocos de voz (V64). **Nada muda nos planos, nas falas ou nas imagens.** Esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias.
 
 **Para o Pedro:** o EP02 já foi gerado e montado. Este documento é a referência da intenção para a remontagem e para qualquer plano regerado. A cena não tem trocas de Claire e Olivia na lista da V90.
 

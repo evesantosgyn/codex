@@ -1,6 +1,6 @@
 # S01E02 SC004 "Did You Know?" — Decupagem cinematográfica
 
-2026-11-28 · Evelin · 🟡 proposta, aguarda aprovação · modelo: EP03 SC005 (V128) · base: decupagem aprovada (N34), keyframes aprovados (V60), emoção (V70, V71), blocos de voz (V64) e correção do corte (V90). **Nada muda nos planos, nas falas ou nas imagens.** Esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias. **Exceção: o SH24 depende da pendência P23(a).**
+2026-11-28 · Evelin · ✅ aprovada (V133) · modelo: EP03 SC005 (V128) · base: decupagem aprovada (N34), keyframes aprovados (V60), emoção (V70, V71), blocos de voz (V64) e correção do corte (V90). **Nada muda nos planos, nas falas ou nas imagens.** Esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias. **Exceção: o fim do SH24 muda pela P23(a) (V134).**
 
 **Para o Pedro:** o EP02 já foi gerado e montado. Este documento é a referência da intenção para a **remontagem (correção A)** e para qualquer plano regerado. A **correção B** espera o motor definitivo (P-17).
 
@@ -53,7 +53,7 @@ Keyframes em `06_GENERATED_ASSETS/IMAGES/S01E02_SC004_KF-…` e, o MJ2, `S01E02_
 | SH21 | 2 s | Olivia, close, o cabelo de Claire em primeiro plano · 85 mm | Leve na mão | Recebe, imóvel | O-40 | — | O6 V02 |
 | SH22 | 2 s | = SH20 | Parada | Uma pausa; os olhos enchem; ela não deixa a lágrima cair | C-25 | CLAIRE: "Not again." | C7 V01 |
 | SH23 | 6 s | Geral do ponto de Olivia, ela de costas em primeiro plano · 24 mm | Parada | Claire atravessa o salão entre as colunas até a luz das janelas | — | (passos) | WS-EXIT V02 |
-| SH24 | 4 s | = SH11 (o O6 tem o cabelo de Claire, que já saiu) | Leve na mão | Olivia fica, o cabo ainda enrolado nos dedos | **PENDENTE P23(a):** O-33 (a lágrima cai, como no pacote V70) **ou** O-29 (os olhos enchem e nada cai) | → CUT TO | O5 V01 |
+| SH24 | 4 s | = SH11 (o O6 tem o cabelo de Claire, que já saiu) | Leve na mão | Olivia fica, o cabo ainda enrolado nos dedos | O-29: os olhos enchem e **nada cai**; corte antes da lágrima (V134) | → CUT TO | O5 V01 |
 
 **Uma personagem falando por geração.** Com as botas de salto bloco, Claire fica no nível dos olhos de Olivia (V60).
 
@@ -110,6 +110,6 @@ Keyframes em `06_GENERATED_ASSETS/IMAGES/S01E02_SC004_KF-…` e, o MJ2, `S01E02_
 - [ ] 2–3 s em cada troca do pico (V90)
 - [ ] SH18: 3–4 s de silêncio
 - [ ] SH22: os olhos de Claire enchem e nada cai
-- [ ] SH24: conforme a decisão da P23(a)
+- [ ] SH24: o corte entra antes de a lágrima de Olivia cair (V134)
 
 **O que volta para a Evelin:** o corte da cena com timecode. A cena só é dada como final depois da medição das falas (E11).

@@ -1,6 +1,6 @@
 # S01E02 SC002 + SC003 "Lights / On the Record" — Decupagem cinematográfica
 
-2026-11-28 · Evelin · 🟡 proposta, aguarda aprovação · modelo: EP03 SC005 (V128) · base: decupagem aprovada (N33), keyframes aprovados (V58, V59), emoção (V70, V71), blocos de voz (V64) e correção do corte (V90). **Nada muda nos planos, nas falas ou nas imagens.** Esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias.
+2026-11-28 · Evelin · ✅ aprovada (V133) · modelo: EP03 SC005 (V128) · base: decupagem aprovada (N33), keyframes aprovados (V58, V59), emoção (V70, V71), blocos de voz (V64) e correção do corte (V90). **Nada muda nos planos, nas falas ou nas imagens.** Esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias.
 
 **Para o Pedro:** o EP02 já foi gerado e montado. Este documento é a referência da intenção para a **remontagem (correção A)** e para qualquer plano regerado. A **correção B** espera o motor definitivo (P-17).
 

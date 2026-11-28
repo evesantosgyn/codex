@@ -1,6 +1,6 @@
 # S01E02 SC006 "The Man Who Remembered" — Decupagem cinematográfica
 
-2026-11-28 · Evelin · 🟡 proposta, aguarda aprovação · modelo: EP03 SC005 (V128) · base: decupagem aprovada (N36), keyframes aprovados (V65) e emoção (V70). **Nada muda nos planos, nas falas ou nas imagens.** Esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias.
+2026-11-28 · Evelin · ✅ aprovada (V133) · modelo: EP03 SC005 (V128) · base: decupagem aprovada (N36), keyframes aprovados (V65) e emoção (V70). **Nada muda nos planos, nas falas ou nas imagens.** Esta versão acrescenta a lente, a câmera e o ID de expressão das bíblias.
 
 **Para o Pedro:** o EP02 já foi gerado e montado. Este documento é a referência da intenção para a remontagem e para qualquer plano regerado. **Abel Ortiz não tem Character Bible:** a coluna de expressão descreve o rosto dele em palavras.
 
