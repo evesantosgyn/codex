@@ -1,8 +1,16 @@
 # Pendências e contradições abertas
 
-O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do responsável e, depois, de registro em `registro-decisoes.md`. Quando um item for resolvido, mova-o para a seção "Resolvidas" com a decisão e a data. Novas pendências usam o próximo número livre (**P23**).
+O agente **não resolve estes itens sozinho**. Cada um precisa de decisão do responsável e, depois, de registro em `registro-decisoes.md`. Quando um item for resolvido, mova-o para a seção "Resolvidas" com a decisão e a data. Novas pendências usam o próximo número livre (**P24**).
 
 ## Abertas
+
+### P23 — EP02 aprovado × limites das Character Bibles (2026-11-28)
+O EP02 foi decupado e gerado antes das bíblias (V93–V127). Ao refazer as decupagens cinematográficas do EP02, três planos aprovados contrariam limites aprovados depois:
+- **(a) Olivia, SC004 SH24:** o pacote do EP02 (V70) pede **uma lágrima que cai** no rosto de Olivia. A bíblia dela (V105) diz: **lágrima caindo só a partir do EP05** (EXP-O-33).
+- **(b) Claire, SC009 SH20:** o pacote pede, no escuro, **uma lágrima que escorre e ela enxuga** (nível 2). A bíblia de Claire diz: **nível 2 só na SC006 do EP03** (EXP-C-26).
+- **(c) Claire, SC009 SH09 (KF-BROLL):** Claire **ri de verdade, de cabeça para trás**, no plano de cobertura gravado naquela manhã. A bíblia diz: **riso aberto nunca na T1**.
+- **Decidir, item a item:** manter o EP02 como está e registrar o plano como exceção aprovada na bíblia, **ou** ajustar na remontagem (correção A). Opções possíveis: em (a), cortar antes da lágrima cair (O-29); em (b), ir ao preto antes da lágrima (C-25); em (c), não há corte possível sem perder o gancho, e a exceção precisaria ser registrada.
+- **Recomendação do Showrunner:** (a) e (b), cortar antes da lágrima na remontagem, o que preserva a primeira lágrima de Olivia para o EP05 e a única de Claire para a SC006 do EP03; (c), registrar como exceção, porque é imagem gravada e é o gancho do episódio.
 
 ### P11 — Pipeline técnico (PARCIAL)
 - ✅ Vídeo: **MiniMax H3 (Hailuo 3)**. ✅ Consistência: **LoRA** por personagem (decisão de 2026-11-12; ver `00_ESTUDIO/04_manual-ferramentas.md`).
